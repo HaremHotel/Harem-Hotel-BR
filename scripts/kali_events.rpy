@@ -1,844 +1,844 @@
-﻿# TODO: Translation updated at 2022-12-11 13:31
+# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/kali_events.rpy:10
 translate pt_br kali_suburb_80f777d9:
 
     # k "*sigh*... Hey..."
-    k ""
+    k "*suspiro*... E aí..."
 
 # game/scripts/kali_events.rpy:11
 translate pt_br kali_suburb_331c187a:
 
     # c "Hey, you don't look so happy. What's up?"
-    c ""
+    c "E aí, você parece triste. Oque aconteceu?"
 
 # game/scripts/kali_events.rpy:12
 translate pt_br kali_suburb_5105a0ab:
 
     # k "I'm just bored... I've been inside all day and I can't stand being on the computer right now. Fuck, I just wish I were back home..."
-    k ""
+    k "Eu tô só entediada... Eu tô aqui dentro o dia inteiro, e eu não quero ficar no computador agora. Porra, eu queria estar em casa..."
 
 # game/scripts/kali_events.rpy:13
 translate pt_br kali_suburb_45d86566:
 
     # c "Why don't we go for a walk together? I need to get out too."
-    c ""
+    c "E se agente sair para caminhar? Eu também preciso sair um pouco."
 
 # game/scripts/kali_events.rpy:14
 translate pt_br kali_suburb_8c9e2472:
 
     # k "A walk...? That sounds exhausting."
-    k ""
+    k "Caminhar...? Parece cansativo."
 
 # game/scripts/kali_events.rpy:15
 translate pt_br kali_suburb_b86ccbdc:
 
     # k "But I guess I should go for a walk at least once this year... yeah, sure. Let's do it."
-    k ""
+    k "Mas eu acho que eu deveria caminhar pelo menos uma vez esse ano... é, vamo nessa."
 
 # game/scripts/kali_events.rpy:17
 translate pt_br kali_suburb_8b8035a2:
 
     # "You drive Kali a few minutes down the road to a nearby suburb."
-    ""
+    "Você leva Kali de carro até um subúrbio próximo."
 
 # game/scripts/kali_events.rpy:19
 translate pt_br kali_suburb_b456a534:
 
     # k "Are you sure we can just park there? Like... right on the road?"
-    k ""
+    k "Tem certeza que dá para estacionar aqui? Tipo... na rua?"
 
 # game/scripts/kali_events.rpy:20
 translate pt_br kali_suburb_3bce347a:
 
     # c "Yeah, it'll be fine."
-    c ""
+    c "Sim, tá de boa."
 
 # game/scripts/kali_events.rpy:21
 translate pt_br kali_suburb_853b27e9:
 
     # k "I guess everyone else is doing it..."
-    k ""
+    k "É, eu acho que tá todo mundo estacionando assim..."
 
 # game/scripts/kali_events.rpy:23
 translate pt_br kali_suburb_5dc130a7:
 
     # k "Is it strange that I've never been in a place like this before?"
-    k ""
+    k "É estranho que eu nunca estive em lugar assim antes."
 
 # game/scripts/kali_events.rpy:24
 translate pt_br kali_suburb_0143e87f:
 
     # c "A suburb?"
-    c ""
+    c "Um subúrbio?"
 
 # game/scripts/kali_events.rpy:25
 translate pt_br kali_suburb_fe6337b7:
 
     # k "Yeah. I've mostly lived in big cities like The Capitol, or mansions with properties so big that you would need a telescope to see your neighbor's house. Nothing like this."
-    k ""
+    k "Isso. Eu vive a maior parte da minha vida nos centros, como a Capitol, ou em mansões tão grandes que você precisaria de um telescópio para enxergar a casa do vizinho. Nada como isso."
 
 # game/scripts/kali_events.rpy:26
 translate pt_br kali_suburb_47ba0ff0:
 
     # c "Just how rich is your family?"
-    c ""
+    c "O quão rica é a sua família?"
 
 # game/scripts/kali_events.rpy:27
 translate pt_br kali_suburb_2f4b47ce:
 
     # k "Uhh, forget I said that..."
-    k ""
+    k "Uhh, esquece que eu disse isso..."
 
 # game/scripts/kali_events.rpy:29
 translate pt_br kali_suburb_8ec440f8:
 
     # k "It's eerily quiet for the amount of houses packed so close together. Where is everyone?"
-    k ""
+    k "E meio assustador todas essas casas tão perto uma das outras. Onde está todo mundo?"
 
 # game/scripts/kali_events.rpy:30
 translate pt_br kali_suburb_77ddb5a3:
 
     # c "Inside or at work."
-    c ""
+    c "Dentro, ou trabalhando."
 
 # game/scripts/kali_events.rpy:31
 translate pt_br kali_suburb_8f628eb3:
 
     # k "At least it's calm, I like that. It just seems more calm than it should be... but maybe I'm the only one."
-    k ""
+    k "Pelo menos é calmo, eu gosto disso. Só parece mais calmo do que deveria ser... mas talvez eu seja a única."
 
 # game/scripts/kali_events.rpy:33
 translate pt_br kali_suburb_d9b7e6ff:
 
     # k "Seems like it could be a nice place to raise a family though... maybe I wouldn't have been such a shut-in if I lived more modestly..."
-    k ""
+    k "Parece um bom lugar para se criar uma família... talvez eu não fosse tão introvertida se eu vivesse mais modestamente..."
 
 # game/scripts/kali_events.rpy:34
 translate pt_br kali_suburb_e1810acd:
 
     # k "I mean, I love my parents for what they've given me, I'm not a spoiled brat like my sister, but it could get pretty lonely at times."
-    k ""
+    k "Quer dizer, eu amo meus pais pelo que eles me deram, eu não sou uma mimada igual a minha irmã, mas era bem solitário as vezes."
 
 # game/scripts/kali_events.rpy:35
 translate pt_br kali_suburb_986ead16:
 
     # k "Must sound like shit to hear someone complain about being lonely in an ivory tower though... so I'll shut up."
-    k ""
+    k "Deve ser uma merda ouvir alguém reclamar sobre estar sozinha em uma torre de marfim... então eu vou calar a boca."
 
 # game/scripts/kali_events.rpy:36
 translate pt_br kali_suburb_f14c371e:
 
     # c "Being rich doesn't mean you can't have feelings. We're all human."
-    c ""
+    c "Ser rico não significa que você não tem sentimentos. Somos todos humanos."
 
 # game/scripts/kali_events.rpy:37
 translate pt_br kali_suburb_8c80e380:
 
     # k "Oh, thanks... I've never really had anyone I could talk to about this sort of thing. My sister is the biggest socialite I know so she wouldn't understand..."
-    k ""
+    k "Oh, obrigada... eu nunca tive algum com o qual eu pudesse conversar sobre isso. Minha irmã é bem social, eu sei que ela não entederia..."
 
 # game/scripts/kali_events.rpy:38
 translate pt_br kali_suburb_dcb575e3:
 
     # k "Most of my time was just spent online with random people I never formed longlasting relationships with. It was easier that way."
-    k ""
+    k "A maior parte do meu tempo eu passei falando com pessoas aleatórias online, eu nunca formei relações duradouras. Era mais fácil desse jeito."
 
 # game/scripts/kali_events.rpy:39
 translate pt_br kali_suburb_e9f35be3:
 
     # c "What about the others in the hotel? I think you could all be great friends."
-    c ""
+    c "E as outras do hotel? Eu acho que você poderia ser amiga delas."
 
 # game/scripts/kali_events.rpy:40
 translate pt_br kali_suburb_cddc084d:
 
     # k "I don't know... Lin is my maid and the others are... eh."
-    k ""
+    k "Eu não sei... A Lin é minha a empregada e as outras são... eh."
 
 # game/scripts/kali_events.rpy:42
 translate pt_br kali_suburb_1e68cef8:
 
     # k "I'm cool with just you for now. Pranking each other has been fun, my sister and I used to prank each other all the time so it kinda brings back good memories."
-    k ""
+    k "Eu tô de boa com você por enquanto. Pregar peças em você tem sido divertido, minha irmã costumava fazer isso comigo o tempo todo, me traz boas lembranças."
 
 # game/scripts/kali_events.rpy:43
 translate pt_br kali_suburb_6d92c2e0:
 
     # c "Is she your older or younger sister?"
-    c ""
+    c "Ela é a sua irmã mais velha ou nova?"
 
 # game/scripts/kali_events.rpy:44
 translate pt_br kali_suburb_6bd49907:
 
     # k "Younger by two years. She's just a brat, you don't want to meet her, trust me."
-    k ""
+    k "Nova por dois anos. Ela é uma pirralha, você não quer conhece-lá, confia em mim."
 
 # game/scripts/kali_events.rpy:45
 translate pt_br kali_suburb_e606cd3a:
 
     # c "I don't know, two Kali's sounds really nice..."
-    c ""
+    c "Eu não sei, duas Kalis me parece muito bom..."
 
 # game/scripts/kali_events.rpy:46
 translate pt_br kali_suburb_29295a32:
 
     # k "Shut up, get your mind out of the gutter!"
-    k ""
+    k "Cala a boca, pode ir tirando essa idéia da cabeça!"
 
 # game/scripts/kali_events.rpy:47
 translate pt_br kali_suburb_00ba7b66:
 
     # q "{b}HEY!!!{/b}" with sshake
-    q "" with sshake
+    q "{b}EI!!!{/b}" with sshake
 
 # game/scripts/kali_events.rpy:49
 translate pt_br kali_suburb_6cf5d846:
 
     # q "Who the hell do you think you are!? Where did you come from!?"
-    q ""
+    q "Quem vocês pensam que são!? De onde vocês vieram!?"
 
 # game/scripts/kali_events.rpy:50
 translate pt_br kali_suburb_7543ea61:
 
     # c "Huh?"
-    c ""
+    c "Huh?"
 
 # game/scripts/kali_events.rpy:51
 translate pt_br kali_suburb_13641c40:
 
     # q "You ain't from around here! You parked on MY CORNER!"
-    q ""
+    q "Vocês não são daqui! E você estacionou no MEU LUGAR!"
 
 # game/scripts/kali_events.rpy:52
 translate pt_br kali_suburb_ccb6d86f:
 
     # k "He just parked on the street dude, relax..."
-    k ""
+    k "Ele só estacionou na rua, cara. Relaxa..."
 
 # game/scripts/kali_events.rpy:53
 translate pt_br kali_suburb_b35dd088:
 
     # q "SHUT UP GIRLIE, I AIN'T TALKIN' TO YOU. What the hell are you two doing here anyway!?"
-    q ""
+    q "CALA A BOCA GAROTA, EU NÃO TÔ FALANDO COM VOCÊ. Oque diabos vocês estão fazendo aqui de qualquer forma!?"
 
 # game/scripts/kali_events.rpy:54
 translate pt_br kali_suburb_0fff59dd:
 
     # c "Just going for a walk..."
-    c ""
+    c "Só dando uma caminhada..."
 
 # game/scripts/kali_events.rpy:55
 translate pt_br kali_suburb_43208047:
 
     # q "Not here you ain't! Not on my street! Go back to the city, we don't want your crime here!"
-    q ""
+    q "Não, vocês não estão! Não na minha rua! Volte para a cidade, nós não queremos vocês vândalos aqui!"
 
 # game/scripts/kali_events.rpy:56
 translate pt_br kali_suburb_dbdc9333:
 
     # k "We live like 5 minutes away from here dude... nowhere near the city."
-    k ""
+    k "Nós vivemos uns 5 minutos de distância daqui, cara... não perto da cidade."
 
 # game/scripts/kali_events.rpy:57
 translate pt_br kali_suburb_9eb58837:
 
     # q "Cross that line boy, CROSS THAT LINE! I fuckin' dare ya. Come on! Get on my property!"
-    q ""
+    q "Dê mais um passo garoto, DÊ MAIS UM PASSO! Eu the desafio. Vamos! Entre na minha propriedade!"
 
 # game/scripts/kali_events.rpy:58
 translate pt_br kali_suburb_297d93f3:
 
     # c "What?"
-    c ""
+    c "Que?"
 
 # game/scripts/kali_events.rpy:59
 translate pt_br kali_suburb_2ca6fb9c:
 
     # q "COME ON! COME ON! LET'S FUCKIN' DO THIS!!"
-    q ""
+    q "VAMOS! VAMOS! VEM LOGO!!"
 
 # game/scripts/kali_events.rpy:60
 translate pt_br kali_suburb_7d286ec6:
 
     # c "Let's just... walk away..."
-    c ""
+    c "Vamos só.. andar pra longe..."
 
 # game/scripts/kali_events.rpy:61
 translate pt_br kali_suburb_cc038c40:
 
     # k "Yeah..."
-    k ""
+    k "Sim..."
 
 # game/scripts/kali_events.rpy:63
 translate pt_br kali_suburb_ae6fca8e:
 
     # k "I uh... I don't think I like the suburbs that much anymore..."
-    k ""
+    k "Eu uh... eu não acho que eu gosto mais tanto dos subúrbios assim..."
 
 # game/scripts/kali_events.rpy:64
 translate pt_br kali_suburb_a33e5169:
 
     # c "They're not all that bad."
-    c ""
+    c "Eles são assim tão ruins."
 
 # game/scripts/kali_events.rpy:65
 translate pt_br kali_suburb_1e79e19a:
 
     # k "If you say so..."
-    k ""
+    k "Se você diz... "
 
 # game/scripts/kali_events.rpy:67
 translate pt_br kali_suburb_0dbbff9d:
 
     # k "That guy couldn't even fit his truck in his own garage, did you notice that? Hahah, what do you need a truck for out here anyway? He barely has a yard to park it on..."
-    k ""
+    k "Aquele cara não conseguia nem colocar a caminhonete dele na caragem, você notou? Hahah, porque alguém precisa de uma caminhote aqui? Mal dá para estacionar..."
 
 # game/scripts/kali_events.rpy:68
 translate pt_br kali_suburb_a687438f:
 
     # c "Just one of the many great wonders of suburbia."
-    c ""
+    c "Apenas uma das grandes maravilhas dos subúrbios."
 
 # game/scripts/kali_events.rpy:69
 translate pt_br kali_suburb_178d4b2d:
 
     # k "Haha, this is kind of fun actually. I don't think I would want to live here though. Things are just so convenient when everything is within 5 minutes of you."
-    k ""
+    k "Haha, isso é meio engraçado na verdade. Porém, eu não acho que eu gostaria de morar aqui. As coisas são mais convenientes quando estão há 5 minutos de você."
 
 # game/scripts/kali_events.rpy:70
 translate pt_br kali_suburb_0131797f:
 
     # k "The hotel can make up for it though. It's nice having Lin for that sort of thing. But I'm getting a real place as soon as I can."
-    k ""
+    k "Mas o hotel consegue dar conta. É ótimo ter a Lin para fazer esse tipo de coisa. Mas eu vou pegar um lugar de verdade o mais rápido que eu conseguir."
 
 # game/scripts/kali_events.rpy:71
 translate pt_br kali_suburb_3b295e44:
 
     # k "No offense, but I don't plan on living in a hotel."
-    k ""
+    k "Sem ofensa, mas eu não planejo viver em um hotel."
 
 # game/scripts/kali_events.rpy:72
 translate pt_br kali_suburb_287c6da1:
 
     # c "I get it."
-    c ""
+    c "Eu entendo."
 
 # game/scripts/kali_events.rpy:74
 translate pt_br kali_suburb_cffb67bc:
 
     # k "But that doesn't mean we have to stop hanging out... you're the only person I know in this country, so..."
-    k ""
+    k "Mas isso não quer dizer que agente vai ter de parar de se ver... você é a única pessoa que eu conheço nesse país, então..."
 
 # game/scripts/kali_events.rpy:75
 translate pt_br kali_suburb_610df17d:
 
     # c "I like hanging out with you too, Kali."
-    c ""
+    c "Eu também gosto de sair com você, Kali."
 
 # game/scripts/kali_events.rpy:76
 translate pt_br kali_suburb_c9e433e0:
 
     # k "Yeah, well... thanks. I just hate people, most of them anyway. But you're kinda nice..."
-    k ""
+    k "Sério? Bem... obrigada. Eu só odeio pessoas, quase todo mundo na verdade. Mas você parece ser bom..."
 
 # game/scripts/kali_events.rpy:77
 translate pt_br kali_suburb_7a94077d:
 
     # c "You're not so bad yourself."
-    c ""
+    c "Você também não é ruim."
 
 # game/scripts/kali_events.rpy:79
 translate pt_br kali_suburb_f8924d1e:
 
     # k "You should have seen me when I was younger. Egh, you would have been repulsed... I hated myself back then."
-    k ""
+    k "Você tinha que me ver quando eu era mais nova. Egh, você ficaria enojado... eu me odiava antigamente."
 
 # game/scripts/kali_events.rpy:80
 translate pt_br kali_suburb_066320f5:
 
     # k "I mean, I was bad. Hideous. You wouldn't have wanted to be in the same room with me."
-    k ""
+    k "Quer dizer, eu era ruim. Horrível. Você não iria querer estar no mesmo quarto que eu."
 
 # game/scripts/kali_events.rpy:81
 translate pt_br kali_suburb_d5045c9b:
 
     # c "What changed?"
-    c ""
+    c "E como você mudou?"
 
 # game/scripts/kali_events.rpy:82
 translate pt_br kali_suburb_dc762033:
 
     # k "I started taking better care of myself.\nActually, that's a lie... I just started taking care of myself. Period."
-    k ""
+    k "Eu começei a ter mais cuidado comigo mesma. \nNa verdade, isso é uma mentira... eu começei a cuidar de mim mesma. Periodicamente."
 
 # game/scripts/kali_events.rpy:84
 translate pt_br kali_suburb_e2d95df0:
 
     # k "*sigh*, fuck... now I'm getting hungry. Is there anywhere good to eat nearby?"
-    k ""
+    k "*suspiro*, Porra... agora eu tô ficando com fome. Tem algum lugar perto?"
 
 # game/scripts/kali_events.rpy:85
 translate pt_br kali_suburb_e6b3945e:
 
     # c "Afraid not. We would have to drive back to the city."
-    c ""
+    c "Acho que não. Agente teria que voltar para a cidade."
 
 # game/scripts/kali_events.rpy:86
 translate pt_br kali_suburb_c77ff2ef:
 
     # k "Seriously? What about a market? Or a food truck?"
-    k ""
+    k "Sério? E um mercado? Ou um food truck?"
 
 # game/scripts/kali_events.rpy:87
 translate pt_br kali_suburb_d4f6c68b:
 
     # c "Those aren't allowed here. It's just houses."
-    c ""
+    c "Não são permitidos aqui. Só casas."
 
 # game/scripts/kali_events.rpy:88
 translate pt_br kali_suburb_e513ef59:
 
     # k "What the hell... what's the point..."
-    k ""
+    k "Que diabos... qual é o sentido..."
 
 # game/scripts/kali_events.rpy:89
 translate pt_br kali_suburb_6b928db3:
 
     # k "Wait, is that...?"
-    k ""
+    k "Espera, aquilo é...?"
 
 # game/scripts/kali_events.rpy:91
 translate pt_br kali_suburb_da669822:
 
     # k "Fuck yes! Perfect! A delivery droidbot!"
-    k ""
+    k "Isso, porra! Perfeito! Um droidbot de entrega!"
 
 # game/scripts/kali_events.rpy:92
 translate pt_br kali_suburb_e980e36c:
 
     # c "Hm? What are you thinking?"
-    c ""
+    c "Hm? Oque você vai fazer?"
 
 # game/scripts/kali_events.rpy:94
 translate pt_br kali_suburb_4d9cc454:
 
     # k "I'm thinking someone is about to lose some fries..."
-    k ""
+    k "Eu acho que alguém está prestes a perder algumas batatas fritas..."
 
 # game/scripts/kali_events.rpy:97
 translate pt_br kali_suburb_595be0f8:
 
     # k "What? They'll get a full refund, no harm done!"
-    k ""
+    k "Oque? Eles vão ganhar um reembolso, sem comoção!"
 
 # game/scripts/kali_events.rpy:98
 translate pt_br kali_suburb_79c0ea07:
 
     # c "You're a menace."
-    c ""
+    c "Você é um perigo."
 
 # game/scripts/kali_events.rpy:99
 translate pt_br kali_suburb_06f344cc:
 
     # k "Yeah, I know it."
-    k ""
+    k "Sim, eu sei."
 
 # game/scripts/kali_events.rpy:102
 translate pt_br kali_suburb_552d9d6b:
 
     # k "You want in on it too huh? Alright!"
-    k ""
+    k "Você tá dentro também, huh? Beleza!"
 
 # game/scripts/kali_events.rpy:105
 translate pt_br kali_suburb_99737985:
 
     # k "Good thing that's not a person then, right?"
-    k ""
+    k "Que bom que não é uma pessoa, né?"
 
 # game/scripts/kali_events.rpy:106
 translate pt_br kali_suburb_aae24ee5:
 
     # c "That's not what I meant."
-    c ""
+    c "Não foi isso que eu quis dizer."
 
 # game/scripts/kali_events.rpy:107
 translate pt_br kali_suburb_4115050b:
 
     # k "Pff, whatever."
-    k ""
+    k "Pff, tanto faz."
 
 # game/scripts/kali_events.rpy:109
 translate pt_br kali_suburb_b51f1fbf:
 
     # k "This isn't normally something I do, but..."
-    k ""
+    k "Isso não é algo que eu costumo fazer, mas..."
 
 # game/scripts/kali_events.rpy:110
 translate pt_br kali_suburb_9b56eca4:
 
     # c "Are you trying to hack that thing?"
-    c ""
+    c "Você tá tentando hackear aquela coisa?"
 
 # game/scripts/kali_events.rpy:111
 translate pt_br kali_suburb_87b444f9:
 
     # k "{i}Trying?{/i}"
-    k ""
+    k "{i}Tentando?{/i}"
 
 # game/scripts/kali_events.rpy:113
 translate pt_br kali_suburb_9c3b2840:
 
     # droidbot "Delivery arrived! Enjoy your order Mr. Jensen!"
-    droidbot ""
+    droidbot "Entrega finalizada! Aproveite o seu pedido, Senhor Jensen!"
 
 # game/scripts/kali_events.rpy:114
 translate pt_br kali_suburb_7bdc6c7b:
 
     # k "Heheh, thanks. Hold on a bit, let me check the bag..."
-    k ""
+    k "Heheh, obrigada. Segura um pouco, deixa eu checar a sacola..."
 
 # game/scripts/kali_events.rpy:115
 translate pt_br kali_suburb_4be2da2b:
 
     # droidbot "On standby."
-    droidbot ""
+    droidbot "Em espera."
 
 # game/scripts/kali_events.rpy:117
 translate pt_br kali_suburb_23c797c6:
 
     # k "Please have fries, please have fries..."
-    k ""
+    k "Por favor tenha batatas, por favor tenha batatas..."
 
 # game/scripts/kali_events.rpy:119
 translate pt_br kali_suburb_18a4cd49:
 
     # k "Yes! Finally..."
-    k ""
+    k "Isso! Finalmente..."
 
 # game/scripts/kali_events.rpy:120
 translate pt_br kali_suburb_d3bcc877:
 
     # droidbot "Is everything to your pleasure, Mr. Jensen?"
-    droidbot ""
+    droidbot "Está tudo de acordo, Senhor Jensen?"
 
 # game/scripts/kali_events.rpy:122
 translate pt_br kali_suburb_c4069891:
 
     # k "Nope, take it."
-    k ""
+    k "Não, pega."
 
 # game/scripts/kali_events.rpy:123
 translate pt_br kali_suburb_869c7785:
 
     # droidbot "Is there an issue with your order?"
-    droidbot ""
+    droidbot "Tem algo de errado com o seu pedido?"
 
 # game/scripts/kali_events.rpy:124
 translate pt_br kali_suburb_3688a215:
 
     # k "These bots are so dumb, they didn't even try making them smart..."
-    k ""
+    k "Esses robôs são tão burros, eles nem mesmo tentam os deixar espertos..."
 
 # game/scripts/kali_events.rpy:125
 translate pt_br kali_suburb_869c7785_1:
 
     # droidbot "Is there an issue with your order?"
-    droidbot ""
+    droidbot "Tem algo de errado com o seu pedido?"
 
 # game/scripts/kali_events.rpy:126
 translate pt_br kali_suburb_b04c2b34:
 
     # k "Okay, and... done. Now go back to your original destination."
-    k ""
+    k "Ok, e... pronto. Agora, volte ao seu destino original."
 
 # game/scripts/kali_events.rpy:128
 translate pt_br kali_suburb_697a9686:
 
     # droidbot "Rerouting... Rerouting... Rerouting..."
-    droidbot ""
+    droidbot "Buscando nova rota... Buscando nova rota... Buscando nova rota..."
 
 # game/scripts/kali_events.rpy:130
 translate pt_br kali_suburb_adbca96b:
 
     # c "It's that easy, huh?"
-    c ""
+    c "É fácil assim então?"
 
 # game/scripts/kali_events.rpy:131
 translate pt_br kali_suburb_45f746e8:
 
     # k "Heheh, maybe for people with enough experience. I've been hacking droids like that since I could talk."
-    k ""
+    k "Heheh, talvez para pessoas com experiência. E hackeava droids como aquele desde quando eu aprendi a falar."
 
 # game/scripts/kali_events.rpy:134
 translate pt_br kali_suburb_29b3d791:
 
     # k "Ugh, you're so boring... it's not a big deal."
-    k ""
+    k "Ugh, você é tão chato... não é nada de mais."
 
 # game/scripts/kali_events.rpy:137
 translate pt_br kali_suburb_444ebfa0:
 
     # k "Heheh, I can be when I want to."
-    k ""
+    k "Heheh, quando eu quero, eu posso ser."
 
 # game/scripts/kali_events.rpy:140
 translate pt_br kali_suburb_a6ec1da6:
 
     # k "You're not that far off actually."
-    k ""
+    k "Quase isso."
 
 # game/scripts/kali_events.rpy:142
 translate pt_br kali_suburb_ae01df2f:
 
     # k "Still hot, nice."
-    k ""
+    k "Ainda tá quente, boa."
 
 # game/scripts/kali_events.rpy:143
 translate pt_br kali_suburb_12ac833b:
 
     # c "If I knew you were hungry I would have taken us somewhere to eat."
-    c ""
+    c "Se eu soubesse que você estava com fome eu teria levado agente pra algum lugar."
 
 # game/scripts/kali_events.rpy:144
 translate pt_br kali_suburb_f7c77ea6:
 
     # k "Don't worry about it, I wasn't hungry until I got here. Pretty good luck though."
-    k ""
+    k "Não se preocupa com isso, eu não estava com fome até chegar aqui. Mas que sorte."
 
 # game/scripts/kali_events.rpy:146
 translate pt_br kali_suburb_0a69afc2:
 
     # k "What kind of area did you live in before you moved here?"
-    k ""
+    k "Onde você morava antes se mudar pra cá?"
 
 # game/scripts/kali_events.rpy:149
 translate pt_br kali_suburb_152cb6a4:
 
     # k "Nice, that's what I was going to guess. Did you enjoy it?"
-    k ""
+    k "Legal, eu já imaginava. Era bacana lá?"
 
 # game/scripts/kali_events.rpy:150
 translate pt_br kali_suburb_e51b49d4:
 
     # c "It had its ups and downs."
-    c ""
+    c "Tinha seus altos e baixos."
 
 # game/scripts/kali_events.rpy:151
 translate pt_br kali_suburb_96c9b675:
 
     # k "Yeah, I know what you mean... I usually just ordered delivery every day so I didn't have to deal with people though."
-    k ""
+    k "É, eu entendo... normalmente eu só pedia delivery o dia todo, só pra não ter que falar com ninguém."
 
 # game/scripts/kali_events.rpy:152
 translate pt_br kali_suburb_ad55323a:
 
     # k "Was that too honest? Am I too honest?"
-    k ""
+    k "Eu acho que eu falei demais. Eu falei demais?"
 
 # game/scripts/kali_events.rpy:153
 translate pt_br kali_suburb_d7e2612f:
 
     # c "Nah, it's good."
-    c ""
+    c "Nah, tudo bem."
 
 # game/scripts/kali_events.rpy:155
 translate pt_br kali_suburb_c1c4d9c5:
 
     # k "Really, a place like this?"
-    k ""
+    k "Sério, era um lugar como esse que agente tá?"
 
 # game/scripts/kali_events.rpy:156
 translate pt_br kali_suburb_c759a3ee:
 
     # c "Yeah, not too different."
-    c ""
+    c "É, não era tão diferente."
 
 # game/scripts/kali_events.rpy:157
 translate pt_br kali_suburb_2b23f5e8:
 
     # k "Do you like it better at the hotel? It's pretty secluded."
-    k ""
+    k "Você prefere viver no hotel? É bem isolado."
 
 # game/scripts/kali_events.rpy:158
 translate pt_br kali_suburb_4ff4fc3a:
 
     # c "Yeah, I do. But mostly for the people."
-    c ""
+    c "É, eu gosto. Mais pelas pessoas do hotel."
 
 # game/scripts/kali_events.rpy:159
 translate pt_br kali_suburb_4cafea3a:
 
     # k "Oh, heh... cool."
-    k ""
+    k "Oh, heh... legal."
 
 # game/scripts/kali_events.rpy:162
 translate pt_br kali_suburb_49a5f876:
 
     # k "Pfft, no way..."
-    k ""
+    k "Pfft, nem ferrando..."
 
 # game/scripts/kali_events.rpy:163
 translate pt_br kali_suburb_712e7dac:
 
     # c "Seriously."
-    c ""
+    c "É sério."
 
 # game/scripts/kali_events.rpy:164
 translate pt_br kali_suburb_10cb7c56:
 
     # k "Really? I never would guessed. You don't look the type."
-    k ""
+    k "Sério? Eu nunca imaginaria isso. Você não parece do tipo."
 
 # game/scripts/kali_events.rpy:166
 translate pt_br kali_suburb_59a52019:
 
     # k "How come you never moved out?"
-    k ""
+    k "Por que você nunca se mudou?"
 
 # game/scripts/kali_events.rpy:167
 translate pt_br kali_suburb_e8058205:
 
     # c "I never had the money."
-    c ""
+    c "Eu não tinha dinheiro."
 
 # game/scripts/kali_events.rpy:168
 translate pt_br kali_suburb_9da78f88:
 
     # k "You couldn't get a job?"
-    k ""
+    k "Você não conseguia um emprego?"
 
 # game/scripts/kali_events.rpy:169
 translate pt_br kali_suburb_bb25e792:
 
     # c "They're not that easy to find all the time."
-    c ""
+    c "Não é tão fácil de achar um."
 
 # game/scripts/kali_events.rpy:170
 translate pt_br kali_suburb_6a17111f:
 
     # k "Oh... I guess you got pretty lucky with the hotel then."
-    k ""
+    k "Oh... eu acho que você deu bastante sorte com o hotel então."
 
 # game/scripts/kali_events.rpy:171
 translate pt_br kali_suburb_014d0311:
 
     # c "Very."
-    c ""
+    c "Bastante."
 
 # game/scripts/kali_events.rpy:173
 translate pt_br kali_suburb_81351ff9:
 
     # k "It's been a long time since I've had a nice walk with someone. Everyone is always so busy. It's nice that we can have this."
-    k ""
+    k "Faz tempo que eu não dei uma caminhada com alguém. Todo mundo tá sempre ocupado. É bom que agente conseguiu ter esse tempo."
 
 # game/scripts/kali_events.rpy:174
 translate pt_br kali_suburb_b8ab6104:
 
     # c "I'm glad you're having fun."
-    c ""
+    c "Que bom que está se divertindo."
 
 # game/scripts/kali_events.rpy:175
 translate pt_br kali_suburb_7a517a68:
 
     # k "It definitely wasn't what I was expecting when I was forced to move out here. I'm actually a bit grateful, or whatever..."
-    k ""
+    k "Definitivamente não era o que eu estava esperando no início, mas eu sou grata, ou sei lá..."
 
 # game/scripts/kali_events.rpy:176
 translate pt_br kali_suburb_538fe173:
 
     # c "That's good to hear. The hotel wouldn't be the same without you."
-    c ""
+    c "Bom saber. O hotel não serio o mesmo sem você."
 
 # game/scripts/kali_events.rpy:177
 translate pt_br kali_suburb_58ee6fc4:
 
     # k "Oh shut up... you're just saying that."
-    k ""
+    k "Oh, cala boca... você tá falando por falar."
 
 # game/scripts/kali_events.rpy:178
 translate pt_br kali_suburb_8866f225:
 
     # c "I meant it, too."
-    c ""
+    c "Não, é verdade."
 
 # game/scripts/kali_events.rpy:179
 translate pt_br kali_suburb_cdc68833:
 
     # k "Heh, whatever..."
-    k ""
+    k "Heh, beleza..."
 
 # game/scripts/kali_events.rpy:181
 translate pt_br kali_suburb_9103a27a:
 
     # "You and Kali continue to talk and learn about each other as you circle the block. Contrast to the other times you've talked to her, she finally seems genuinely happy to be doing something."
-    ""
+    "Você e Kali continuam a conversar, ambos se conhecendo enquanto caminham ao redor da quadra. Comparado com as outras vezes que você conversou com ela. Ela parece genuinamente feliz em fazer algo com você."
 
 # game/scripts/kali_events.rpy:193
 translate pt_br kali_nepotism_48873c33:
 
     # van "Come on, you have to! I'm not taking no for an answer! It won't be a party without you."
-    van ""
+    van "Qual é, você precisa ir! Eu não aceito 'não' como resposta! Não vai ser uma festa sem você."
 
 # game/scripts/kali_events.rpy:194
 translate pt_br kali_nepotism_e371d477:
 
     # nala "Kim and Ami are going to be there too! You can't be the only one missing!"
-    nala ""
+    nala "Kim e Ami vão ir também! Você não pode ser a única a faltar!"
 
 # game/scripts/kali_events.rpy:195
 translate pt_br kali_nepotism_2c50978d:
 
     # k "I don't know... it's not really my thing."
-    k ""
+    k "Eu não sei... não é o meu tipo de coisa."
 
 # game/scripts/kali_events.rpy:196
 translate pt_br kali_nepotism_904361ca:
 
     # van "I know, but this is a special day isn't it? We're all going to get our acceptance letters to Nero Inc!"
-    van ""
+    van "Eu sei, mas hoje é um dia especial não é? Todos nós vamos pegar as nossas cartas de aceitação da Nero Inc!"
 
 # game/scripts/kali_events.rpy:197
 translate pt_br kali_nepotism_ea92e776:
 
     # nala "Hopefully all of us..."
-    nala ""
+    nala "Tomará que todas nós..."
 
 # game/scripts/kali_events.rpy:198
 translate pt_br kali_nepotism_c084034f:
 
     # van "We have to be together for the big moment! We can chill in the water away from all the people. Most of them suck so I get why you wouldn't want to be around anyone."
-    van ""
+    van "Nós temos que estar juntas para o grande momento! Agente pode relaxar na água, longe de todo mundo. A maioria deles são uns babacas então eu não iria querer estar perto deles."
 
 # game/scripts/kali_events.rpy:199
 translate pt_br kali_nepotism_707b819a:
 
     # k "Well... I guess that doesn't sound too bad."
-    k ""
+    k "Bem... não me parece tão ruim."
 
 # game/scripts/kali_events.rpy:200
 translate pt_br kali_nepotism_43a7460c:
 
     # van "Yeah! There's more people at school than at the beach anyway, so it's nothing you haven't done before."
-    van ""
+    van "Isso! Tem mais pessoas na escola do que na praia de qualquer forma. Então não é nada que você já não tenha feito."
 
 # game/scripts/kali_events.rpy:201
 translate pt_br kali_nepotism_7bfcb8fa:
 
     # k "You're right, but... I don't know, it's just the thought of it that can be scary."
-    k ""
+    k "Você tá certa, mas... eu não sei. Esse tipo de coisa me assusta."
 
 # game/scripts/kali_events.rpy:202
 translate pt_br kali_nepotism_243ef697:
 
     # k "Um... you don't mind if I bring [name], do you?"
-    k ""
+    k "Um... você não se importa se eu trazer o [name], se importa?"
 
 # game/scripts/kali_events.rpy:203
 translate pt_br kali_nepotism_9f8c66c9:
 
     # nala "This is kind of supposed to be a Syltech thing... but I guess it's fine."
-    nala ""
+    nala "Isso era pra ser uma coisa do pessoal da Syltech... mas eu acho que não tem problema."
 
 # game/scripts/kali_events.rpy:204
 translate pt_br kali_nepotism_185ef181:
@@ -3676,7 +3676,7 @@ translate pt_br kali_unidad_73ea7095:
 translate pt_br kali_unidad_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/scripts/kali_events.rpy:848
 translate pt_br kali_unidad_934bfe9e:
@@ -4996,361 +4996,361 @@ translate pt_br kaliroom_blowjobs_5f6b4d90_1:
 translate pt_br kali_first_blow_d4dfc44b:
 
     # c "Hey Ka- Oh."
-    c ""
+    c "E aí Ka- Oh."
 
 # game/scripts/kali_events.rpy:1297
 translate pt_br kali_first_blow_710b1d8a:
 
     # k "Hi [name]..."
-    k ""
+    k "Oi [name]..."
 
 # game/scripts/kali_events.rpy:1298
 translate pt_br kali_first_blow_54ec161f:
 
     # k "I was thinking of spending some time in the hot springs again, but then I thought we would probably just end up stealing all of each other's clothes again, so I decided to get a step ahead..."
-    k ""
+    k "Eu tava pensando em passar mais um tempo nas termas de novo, mas eu percebi que agente iria acabar roubando as roupas do outro. Então eu decidi dar um passo à frente..."
 
 # game/scripts/kali_events.rpy:1299
 translate pt_br kali_first_blow_fea14842:
 
     # k "Don't act weird about this, but... I kinda want to suck your cock."
-    k ""
+    k "Não pense mal de mim, mas... eu meio que quero chupar o seu pau."
 
 # game/scripts/kali_events.rpy:1300
 translate pt_br kali_first_blow_4868169e:
 
     # c "Liked what you saw, hm?"
-    c ""
+    c "Gostou do que viu, hm?"
 
 # game/scripts/kali_events.rpy:1301
 translate pt_br kali_first_blow_5939818b:
 
     # k "No! You had nothing to do with how I feel right now..."
-    k ""
+    k "Não! Você não tem nada a ver com como eu estou me sentindo agora..."
 
 # game/scripts/kali_events.rpy:1302
 translate pt_br kali_first_blow_63ea9cf4:
 
     # c "Sure..."
-    c ""
+    c "Claro..."
 
 # game/scripts/kali_events.rpy:1303
 translate pt_br kali_first_blow_3635399b:
 
     # k "Whatever... are you going to take it out or not...?"
-    k ""
+    k "Tanto faz... você vai botar pra fora ou não...?"
 
 # game/scripts/kali_events.rpy:1305
 translate pt_br kali_first_blow_7b0af50c:
 
     # k "Wow... did my tits get you hard already? You must really like them..."
-    k ""
+    k "Wow... os meu peitos já te deixaram duro? Você deve realmente gostar deles..."
 
 # game/scripts/kali_events.rpy:1309
 translate pt_br kali_first_blow_dc480bca:
 
     # k "Whatever... you're just saying that so I'll suck your cock better..."
-    k ""
+    k "Tanto faz... você só tá dizendo isso pra eu chupar melhor o seu pau..."
 
 # game/scripts/kali_events.rpy:1311
 translate pt_br kali_first_blow_4e2ae78e:
 
     # k "Men are so easy to turn on, heheh."
-    k ""
+    k "Homens são tão fáceis de se excitar, heheh."
 
 # game/scripts/kali_events.rpy:1313
 translate pt_br kali_first_blow_1a136187:
 
     # k "Nope. No touching... I'm just sucking your cock, it's nothing serious..."
-    k ""
+    k "Não. Sem tocar... eu só vou chupar o seu pau, nada sério..."
 
 # game/scripts/kali_events.rpy:1315
 translate pt_br kali_first_blow_a5246740:
 
     # k "Mmmh~ ...I just want to practice a little... I could use a dildo I guess, but I don't have much money, and I think this might be better anyway..."
-    k ""
+    k "Mmmh~ ... eu só quero praticar um pouco... eu acho que eu poderia usar um dildo, mas eu não dinheiro, e deve ser melhor dessa forma de qualquer maneira..."
 
 # game/scripts/kali_events.rpy:1316
 translate pt_br kali_first_blow_5e029197:
 
     # c "I don't mind letting you practice on me."
-    c ""
+    c "Eu não me importo de você praticar em mim."
 
 # game/scripts/kali_events.rpy:1317
 translate pt_br kali_first_blow_d9172eba:
 
     # k "I'm sure you don't..."
-    k ""
+    k "É claro que não..."
 
 # game/scripts/kali_events.rpy:1320
 translate pt_br kali_first_blow_89a22fac:
 
     # k "Mmmn...! Does that feel good, [name]? Llmmn...!"
-    k ""
+    k "Mmmn...! Assim está bom, [name]? Llmmn...!"
 
 # game/scripts/kali_events.rpy:1321
 translate pt_br kali_first_blow_4b4797ca:
 
     # c "That feels great."
-    c ""
+    c "Tá ótimo."
 
 # game/scripts/kali_events.rpy:1322
 translate pt_br kali_first_blow_b810a09e:
 
     # k "Mmmh, good. I knew I was good at giving head. Llmn~!"
-    k ""
+    k "Mmmh, legal. Eu sabia que eu era boa em boquetes. Llmn~!"
 
 # game/scripts/kali_events.rpy:1323
 translate pt_br kali_first_blow_c9981236:
 
     # k "Llmngh, mmnl...! Does it feel better when I move my tongue around like this...? Mmmln..."
-    k ""
+    k "Llmngh, mmnl...! Fica melhor quando eu movo minha língua dessa forma...? Mmmln..."
 
 # game/scripts/kali_events.rpy:1326
 translate pt_br kali_first_blow_b53e10bc:
 
     # "*bzzt, bzzt*"
-    ""
+    "*bzzt, bzzt*"
 
 # game/scripts/kali_events.rpy:1328
 translate pt_br kali_first_blow_69ee1640:
 
     # k "Mmmmln... was that your phone?"
-    k ""
+    k "Mmmmln... foi o seu celular?"
 
 # game/scripts/kali_events.rpy:1329
 translate pt_br kali_first_blow_4ce77e5e:
 
     # c "Hm?"
-    c ""
+    c "Hm?"
 
 # game/scripts/kali_events.rpy:1331
 translate pt_br kali_first_blow_3a45ffc0:
 
     # k "Shit, that was {i}my{/i} phone!"
-    k ""
+    k "Merda, foi o {i}meu{/i} celular!"
 
 # game/scripts/kali_events.rpy:1332
 translate pt_br kali_first_blow_c8b7f47c:
 
     # k "Ugh, dammit dad!"
-    k ""
+    k "Ugh, droga pai!"
 
 # game/scripts/kali_events.rpy:1334
 translate pt_br kali_first_blow_39a7fbe8:
 
     # k "What do you want!?"
-    k ""
+    k "Oque você quer!?"
 
 # game/scripts/kali_events.rpy:1336
 translate pt_br kali_first_blow_10cb090b:
 
     # k "{size=-10}{i}Oh shit...! I had facetime on!{/i}{/size}"
-    k ""
+    k "{size=-10}{i}Oh merda...! É uma chamada de vídeo!{/i}{/size}"
 
 # game/scripts/kali_events.rpy:1337
 translate pt_br kali_first_blow_b87d603e:
 
     # kd "Hey sweetie! What are you doing? Was that a hot dog?"
-    kd ""
+    kd "Oi querida! Oque você tá fazendo? Isso é um cachorro quente?"
 
 # game/scripts/kali_events.rpy:1339
 translate pt_br kali_first_blow_63ca6881:
 
     # k "Y-Yeah! I'm eating right now dad, couldn't you just text me?"
-    k ""
+    k "I-Isso! Eu tô comendo agora, pai. Porque você só não manda uma mensagem?"
 
 # game/scripts/kali_events.rpy:1340
 translate pt_br kali_first_blow_416150e2:
 
     # kd "What, a father can't see his daughter's face every now and then?"
-    kd ""
+    kd "Oque, um pai não pode ver o rosto da sua filha de vez em quando?"
 
 # game/scripts/kali_events.rpy:1341
 translate pt_br kali_first_blow_28996f59:
 
     # k "Not when he leaves me half way across the world with no money, job, and no way to get back!"
-    k ""
+    k "Não quando ele me deixa à meio mundo longe de casa sem dinheiro, emprego, e sem forma de voltar!"
 
 # game/scripts/kali_events.rpy:1342
 translate pt_br kali_first_blow_45dd8026:
 
     # kd "You know it's for your own good, Kali. The real world will turn you into a hardy leader."
-    kd ""
+    kd "Você sabe que é para o seu próprio bem, Kali. O mundo real vai te transformar em uma ótima líder."
 
 # game/scripts/kali_events.rpy:1343
 translate pt_br kali_first_blow_3b894825:
 
     # k "I don't want to be a leader, dad! Stop calling me about this!"
-    k ""
+    k "Eu não quero ser uma líder, pai! Pare de me chamar disso!"
 
 # game/scripts/kali_events.rpy:1344
 translate pt_br kali_first_blow_32b16e32:
 
     # kd "Well... it looks like they have pretty big hot dogs over there! We should go for some together next time I'm in Syl'anar!"
-    kd ""
+    kd "Bem... parece que eles tem uns cachorros quentes bem grandes por aí! Agente podia ir comer juntos uma próxima vez, eu estou em Syl'anar!"
 
 # game/scripts/kali_events.rpy:1346
 translate pt_br kali_first_blow_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:1347
 translate pt_br kali_first_blow_f23e2a15:
 
     # kd "Hey, Kali? You still there?"
-    kd ""
+    kd "Ei, Kali? Tá aí ainda?"
 
 # game/scripts/kali_events.rpy:1349
 translate pt_br kali_first_blow_4a7b5756:
 
     # k "Mmmhm! Shtill here! Mmmngh...!"
-    k ""
+    k "Mmmhm! Sim, ainda aqui! Mmmngh...!"
 
 # game/scripts/kali_events.rpy:1350
 translate pt_br kali_first_blow_0446c5e4:
 
     # kd "So how have you been, Kali? Have you made any new friends yet?"
-    kd ""
+    kd "Como você esteve, Kali? Já fez alguns amigos aí?"
 
 # game/scripts/kali_events.rpy:1351
 translate pt_br kali_first_blow_42a3957b:
 
     # k "Mmmh, a few..."
-    k ""
+    k "Mmmh, alguns..."
 
 # game/scripts/kali_events.rpy:1352
 translate pt_br kali_first_blow_506077c7:
 
     # kd "That's great to hear! Hey, sounds like you're really enjoying that hot dog! Don't forget to pace yourself, remember how fat you were as a child?"
-    kd ""
+    kd "Isso é bom de ouvir! Ei, você tá realmente caindo de boca nesse cachorro quente! Não exagere, se lembra do quão gorda você era quando criança?"
 
 # game/scripts/kali_events.rpy:1354
 translate pt_br kali_first_blow_15ad5140:
 
     # k "DAD!!" with ssshake
-    k "" with ssshake
+    k "PAI!!" with ssshake
 
 # game/scripts/kali_events.rpy:1355
 translate pt_br kali_first_blow_4fcc281a:
 
     # kd "Hahaha! Well, my secretary is trying to get my attention, so I have to get going now... I'll talk to you later sweetie!"
-    kd ""
+    kd "Hahaha! Bem, minha secretária tá me chamando, então eu tenho que ir agora... falo com você depois, querida!"
 
 # game/scripts/kali_events.rpy:1356
 translate pt_br kali_first_blow_f093b6d5:
 
     # "*beep*"
-    ""
+    "*beep*"
 
 # game/scripts/kali_events.rpy:1357
 translate pt_br kali_first_blow_57f4bc7c:
 
     # k "Ugh. Dammit dad..."
-    k ""
+    k "Ugh. Droga pai..."
 
 # game/scripts/kali_events.rpy:1359
 translate pt_br kali_first_blow_593c2dc1:
 
     # k "That was kind of hot though... we almost got caught. I guess we should finish you off though, hmm?"
-    k ""
+    k "Isso foi excitante... nós quase fomos pegos. Eu acho que agente deve terminar logo, hmm?"
 
 # game/scripts/kali_events.rpy:1361
 translate pt_br kali_first_blow_d4bfa480:
 
     # k "Mmmh, fuck...! Your cock is so fucking juicy, I love it...! Mmmh!"
-    k ""
+    k "Mmmh, porra...! O seu pau é gostoso pra caralho, eu amo...! Mmmh!"
 
 # game/scripts/kali_events.rpy:1362
 translate pt_br kali_first_blow_7aedede6:
 
     # k "Mmn, mmmgh! Are you getting close? Mmmh...! Cum, give me a big load...! Mmmh...!"
-    k ""
+    k "Mmn, mmmgh! Tá chegando perto? Mmmh...! Porra, me dê bastante...! Mmmh...!"
 
 # game/scripts/kali_events.rpy:1363
 translate pt_br kali_first_blow_cf236de6:
 
     # k "Cum for me! Mmmn! Cum for me, cum for me...!"
-    k ""
+    k "Goza pra mim! Mmmn! Goza pra mim, goza pra mim...!"
 
 # game/scripts/kali_events.rpy:1368
 translate pt_br kali_first_blow_5553a0cb:
 
     # c "I'm cumming!"
-    c ""
+    c "Tô gozando!"
 
 # game/scripts/kali_events.rpy:1370
 translate pt_br kali_first_blow_fff6fb9d:
 
     # k "Mmmh!" with ssshake
-    k "" with ssshake
+    k "Mmmh!" with ssshake
 
 # game/scripts/kali_events.rpy:1371
 translate pt_br kali_first_blow_27330d1e:
 
     # k "Mmmmh, nnh...!" with ssshake
-    k "" with ssshake
+    k "Mmmmh, nnh...!" with ssshake
 
 # game/scripts/kali_events.rpy:1372
 translate pt_br kali_first_blow_81cfa29e:
 
     # k "*gulp*...! Mmh~!" with ssshake
-    k "" with ssshake
+    k "*engole*...! Mmh~!" with ssshake
 
 # game/scripts/kali_events.rpy:1374
 translate pt_br kali_first_blow_ffb58761:
 
     # k "Heh, did you enjoy that? I swallowed everything..."
-    k ""
+    k "Heh, você gostou? Eu engoli tudo..."
 
 # game/scripts/kali_events.rpy:1375
 translate pt_br kali_first_blow_d30b19c7:
 
     # c "That was amazing..."
-    c ""
+    c "Isso foi incrível..."
 
 # game/scripts/kali_events.rpy:1376
 translate pt_br kali_first_blow_c9ed67b0:
 
     # k "Good. Now get out, you've served your purpose for the time being, heheh."
-    k ""
+    k "Ótimo. Agora cai fora, você serviu seu propósito para a minha pessoa, heheh."
 
 # game/scripts/kali_events.rpy:1381
 translate pt_br kali_first_blow_6dd67c63:
 
     # k "Aaaah~!" with ssshake
-    k "" with ssshake
+    k "Aaaah~!" with ssshake
 
 # game/scripts/kali_events.rpy:1382
 translate pt_br kali_first_blow_166a7488:
 
     # k "Nnngh! Yes, cum for me! More~! Mmmh~!" with ssshake
-    k "" with ssshake
+    k "Nnngh! Isso, goza! Mais~! Mmmh~!" with ssshake
 
 # game/scripts/kali_events.rpy:1384
 translate pt_br kali_first_blow_c69b8705:
 
     # k "Heh, did you enjoy that? You came a lot..."
-    k ""
+    k "Heh, você gostou? Veio bastante..."
 
 # game/scripts/kali_events.rpy:1385
 translate pt_br kali_first_blow_d30b19c7_1:
 
     # c "That was amazing..."
-    c ""
+    c "Isso foi incrível..."
 
 # game/scripts/kali_events.rpy:1386
 translate pt_br kali_first_blow_c9ed67b0_1:
 
     # k "Good. Now get out, you've served your purpose for the time being, heheh."
-    k ""
+    k "Ótimo. Agora cai fora, você serviu seu propósito para a minha pessoa, heheh."
 
 # game/scripts/kali_events.rpy:1392
 translate pt_br kali_first_blow_ab8673b1:
 
     # "You can now request a Blowjob from Kali!"
-    ""
+    "Você pode pedir um boquete da Kali agora!"
 
 # game/scripts/kali_events.rpy:1399
 translate pt_br kali_bowling_1b09f9d5:
@@ -14050,7 +14050,7 @@ translate pt_br kali_botwork_6dd3de19:
 translate pt_br kali_botwork_b621322b:
 
     # k "Sure."
-    k ""
+    k "Claro."
 
 # game/scripts/kali_events.rpy:3835
 translate pt_br kali_botwork_ec7a95d0:
@@ -16264,1687 +16264,1687 @@ translate pt_br kali_stressfuck_f3828db9:
 translate pt_br kalisleep_44c02f90:
 
     # k "Night..."
-    k ""
+    k "Noite..."
 
 # game/scripts/kali_events.rpy:4368
 translate pt_br kalisleep_21edbb3e:
 
     # c "Night."
-    c ""
+    c "Noite."
 
 # game/scripts/kali_events.rpy:4371
 translate pt_br kalisleep_1f7a2090:
 
     # k "*snore*..."
-    k ""
+    k "*ronco*..."
 
 # game/scripts/kali_events.rpy:4372
 translate pt_br kalisleep_8fbbebd3:
 
     # c "Hey, it's morning."
-    c ""
+    c "Ei, bom dia."
 
 # game/scripts/kali_events.rpy:4374
 translate pt_br kalisleep_8564feb2:
 
     # k "Nnnngh, five more minutes..."
-    k ""
+    k "Nnnngh, mais cinco minutos..."
 
 # game/scripts/kali_events.rpy:4401
 translate pt_br kali_unihistory_3b0d68aa:
 
     # l "[linoname]!"
-    l ""
+    l "[linoname]!"
 
 # game/scripts/kali_events.rpy:4402
 translate pt_br kali_unihistory_28a87ad0:
 
     # c "Hey Lin, what's up?"
-    c ""
+    c "Ei Lin, e aí?"
 
 # game/scripts/kali_events.rpy:4403
 translate pt_br kali_unihistory_eec06d09:
 
     # l "Kali has been at her university all evening... she should have been home an hour ago! Do you think you could bring her this coffee? And maybe check up on her while you're there."
-    l ""
+    l "A Kali ficou na universidade a tarde inteira... ela deveria estar em casa já faz uma hora! Você levar esse café para ela? E ver se tá tudo bem em quanto você estiver lá."
 
 # game/scripts/kali_events.rpy:4404
 translate pt_br kali_unihistory_700352cf:
 
     # c "You're worried about her? Sure. Thanks, Lin."
-    c ""
+    c "Você está preocupada com ela? Claro. Obrigrado, Lin."
 
 # game/scripts/kali_events.rpy:4406
 translate pt_br kali_unihistory_f3627876:
 
     # "You drive to Kali's university..."
-    ""
+    "Você dirige até a universidade da Kali..."
 
 # game/scripts/kali_events.rpy:4408
 translate pt_br kali_unihistory_430bc66e:
 
     # c "{i}There she is... working late.{/i}"
-    c ""
+    c "{i}Ali está ela... ficando até tarde.{/i}"
 
 # game/scripts/kali_events.rpy:4410
 translate pt_br kali_unihistory_c1b0b3ac:
 
     # k "Tsk, ergh..."
-    k ""
+    k "Tsk, ergh..."
 
 # game/scripts/kali_events.rpy:4411
 translate pt_br kali_unihistory_cfa9ecd0:
 
     # kim "You're so sloooooow... It's not that hard!"
-    kim ""
+    kim "Você é tão leeeeeeenta... não é tão difícil!"
 
 # game/scripts/kali_events.rpy:4412
 translate pt_br kali_unihistory_c993982f:
 
     # van "Half the fucking class is still here, I don't want to hear it..."
-    van ""
+    van "Mais da metade da porra da sala tá aqui, eu não quero ouvir isso..."
 
 # game/scripts/kali_events.rpy:4413
 translate pt_br kali_unihistory_d889128a:
 
     # kim "Come ooooooon, I wanna grab sushi before it closes!"
-    kim ""
+    kim "Qualéééééé, eu quero pegar sushi antes que feche!"
 
 # game/scripts/kali_events.rpy:4414
 translate pt_br kali_unihistory_7a9dee44:
 
     # van "Yeah, yeah, we will... I'm on the last one, just give me a bit..."
-    van ""
+    van "Sim, sim, nós vamos... eu estou na última, só me dê um tempo..."
 
 # game/scripts/kali_events.rpy:4415
 translate pt_br kali_unihistory_f675aa4e:
 
     # kim "It's so easyyyyyyyyy!"
-    kim ""
+    kim "É tão fáááááááááácil!"
 
 # game/scripts/kali_events.rpy:4417
 translate pt_br kali_unihistory_bf021cd8:
 
     # k "Shhhhh!"
-    k ""
+    k "Shhhhh!"
 
 # game/scripts/kali_events.rpy:4418
 translate pt_br kali_unihistory_03f28929:
 
     # kim "{i}Sorry...!{/i}"
-    kim ""
+    kim "{i}Desculpa...!{/i}"
 
 # game/scripts/kali_events.rpy:4420
 translate pt_br kali_unihistory_26a31225:
 
     # van "I don't know how you finished so quickly..."
-    van ""
+    van "Eu não sei como você terminou tão rápido..."
 
 # game/scripts/kali_events.rpy:4421
 translate pt_br kali_unihistory_1460e8c1:
 
     # kim "We studied most of this stuff a few months ago... don't you remember?"
-    kim ""
+    kim "Nós estudamos a maioria dessas coisas alguns meses atrás... você não lembra?"
 
 # game/scripts/kali_events.rpy:4422
 translate pt_br kali_unihistory_0a5edb98:
 
     # van "No..."
-    van ""
+    van "Não..."
 
 # game/scripts/kali_events.rpy:4424
 translate pt_br kali_unihistory_7d3a80f3:
 
     # van "*sigh*... That'll do, I guess..."
-    van ""
+    van "*suspiro*... Terminei, eu acho..."
 
 # game/scripts/kali_events.rpy:4425
 translate pt_br kali_unihistory_d193613b:
 
     # kim "Yay~ Good luck!"
-    kim ""
+    kim "Yay~ boa sorte!"
 
 # game/scripts/kali_events.rpy:4426
 translate pt_br kali_unihistory_51c1a902:
 
     # van "I'll need it..."
-    van ""
+    van "Vou precisar..."
 
 # game/scripts/kali_events.rpy:4427
 translate pt_br kali_unihistory_f34ae255:
 
     # k "Ergh... fuck."
-    k ""
+    k "Ergh... porra."
 
 # game/scripts/kali_events.rpy:4429
 translate pt_br kali_unihistory_e80854a7:
 
     # van "...?"
-    van ""
+    van "...?"
 
 # game/scripts/kali_events.rpy:4430
 translate pt_br kali_unihistory_d641605a:
 
     # van "You're still on that question? And I thought I was behind..."
-    van ""
+    van "Você tá ainda nessa pergunta? E eu pensando que eu estava atrasada..."
 
 # game/scripts/kali_events.rpy:4431
 translate pt_br kali_unihistory_b435fc73:
 
     # k "Shut up..."
-    k ""
+    k "Cala boca..."
 
 # game/scripts/kali_events.rpy:4432
 translate pt_br kali_unihistory_282afcd7:
 
     # van "Do you want some help? I know you weren't here when we learned this stuff..."
-    van ""
+    van "Você quer ajuda? Eu sei que você não estava aqui quando agente aprendeu essas coisas..."
 
 # game/scripts/kali_events.rpy:4433
 translate pt_br kali_unihistory_c99b048a:
 
     # k "I'm fine... go eat sushi or whatever..."
-    k ""
+    k "Tá tudo bem... vocês podem ir comer sushi ou qualquer outra coisa..."
 
 # game/scripts/kali_events.rpy:4434
 translate pt_br kali_unihistory_53aa0083:
 
     # van "College is really gonna suck if you don't have a few friends to join you on your journey... but alright."
-    van ""
+    van "A faculdade vai ser uma droga se você não tiver amigos para te acompanhar na sua jornada... mas tudo bem."
 
 # game/scripts/kali_events.rpy:4436
 translate pt_br kali_unihistory_e4458b3b:
 
     # k "Oh really, you want to be {i}my{/i} friend?"
-    k ""
+    k "Oh, sério, você quer ser {i}minha{/i} amiga?"
 
 # game/scripts/kali_events.rpy:4437
 translate pt_br kali_unihistory_204cad4e:
 
     # van "We've already finished and it looks like you're still having trouble with question 14, so... we can help if you want."
-    van ""
+    van "Nós já terminamoms e parece que você ainda precisa de ajuda com a questão 14, então... nós podemos te ajudar caso queria."
 
 # game/scripts/kali_events.rpy:4439
 translate pt_br kali_unihistory_e31b3086:
 
     # k "*Hmph*...!"
-    k ""
+    k "*Hmph*...!"
 
 # game/scripts/kali_events.rpy:4440
 translate pt_br kali_unihistory_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:4442
 translate pt_br kali_unihistory_5522f25d:
 
     # k "*sigh*...\n{i}(Fuck... I did say I was going to be more social. And I do really need help...){/i}"
-    k ""
+    k "*suspiro*...\n{i}(Porra... eu falei que eu iria ser mais social. E eu realmente preciso de ajuda...){/i}"
 
 # game/scripts/kali_events.rpy:4444
 translate pt_br kali_unihistory_af43a7e8:
 
     # k "Yeah, I guess I could use some help..."
-    k ""
+    k "É, eu acho que eu preciso de ajuda..."
 
 # game/scripts/kali_events.rpy:4445
 translate pt_br kali_unihistory_4d40366a:
 
     # van "Okay. Let me use your chair, Kim."
-    van ""
+    van "Ok. me deixe usar a sua cadeira, Kim."
 
 # game/scripts/kali_events.rpy:4447
 translate pt_br kali_unihistory_91836e6e:
 
     # van "So, basic motor function?"
-    van ""
+    van "Então, função de motor básico?"
 
 # game/scripts/kali_events.rpy:4448
 translate pt_br kali_unihistory_4262e773:
 
     # k "Yeah, it's tough..."
-    k ""
+    k "Isso, é difícil..."
 
 # game/scripts/kali_events.rpy:4450
 translate pt_br kali_unihistory_8533b441:
 
     # van "Look, if you want the end of your arm to be in this position, you would rotate this joint 45 degrees on the Y axis, right?"
-    van ""
+    van "Olha, se você quer que a posição final do seu braço esteja nessa posição, você tem que rotacionar a junta a 45 graus no eixo Y, certo?"
 
 # game/scripts/kali_events.rpy:4451
 translate pt_br kali_unihistory_2fb08c25:
 
     # k "Right..."
-    k ""
+    k "Certo..."
 
 # game/scripts/kali_events.rpy:4453
 translate pt_br kali_unihistory_ac27f94e:
 
     # van "There's no way you're going to get there by only moving this joint on one axis..."
-    van ""
+    van "Nem ferrando que você vai ir naquela posição só movendo a junta em um só eixo..."
 
 # game/scripts/kali_events.rpy:4454
 translate pt_br kali_unihistory_8661c4ee:
 
     # kim "Since these are just 2D images, I like to imagine the problem in my head, fully 3D! You should try it, it makes it much easier."
-    kim ""
+    kim "Já que essas são imagens 2D, eu gosto de imaginar o problema na minha mente, inteiramente 3D! Você devia tentar, deixa muito mais fácil."
 
 # game/scripts/kali_events.rpy:4455
 translate pt_br kali_unihistory_e8d94e67:
 
     # van "Whatever works..."
-    van ""
+    van "Qualquer coisa que funcionar..."
 
 # game/scripts/kali_events.rpy:4456
 translate pt_br kali_unihistory_fd5bd5f7:
 
     # k "Okay, like this...?"
-    k ""
+    k "Ok, tipo assim...?"
 
 # game/scripts/kali_events.rpy:4458
 translate pt_br kali_unihistory_2d20e3f7:
 
     # van "These elbows won't bend that way, you gave it too many degrees of freedom."
-    van ""
+    van "Os cotovelos não se dobram desse jeito, você deu muitos graus de liberdade."
 
 # game/scripts/kali_events.rpy:4459
 translate pt_br kali_unihistory_9ea7fcf1:
 
     # k "Oh, right..."
-    k ""
+    k "Oh, certo..."
 
 # game/scripts/kali_events.rpy:4461
 translate pt_br kali_unihistory_f2ce8951:
 
     # k "...Is this better?"
-    k ""
+    k "...Assim tá melhor?"
 
 # game/scripts/kali_events.rpy:4462
 translate pt_br kali_unihistory_4b7892c5:
 
     # van "Yep, keep going. Here's a hint, you're going to need to rotate both joints on every axis."
-    van ""
+    van "Isso, continua. Aqui vai uma dica, você tem que rotacionar ambas as juntas em cada eixo."
 
 # game/scripts/kali_events.rpy:4463
 translate pt_br kali_unihistory_e0eb8e61:
 
     # k "Gotcha..."
-    k ""
+    k "Saquei..."
 
 # game/scripts/kali_events.rpy:4465
 translate pt_br kali_unihistory_8c35958f:
 
     # c "How are things, Kali?"
-    c ""
+    c "Como estão as coisas, Kali?"
 
 # game/scripts/kali_events.rpy:4466
 translate pt_br kali_unihistory_06477b2a:
 
     # k "Oh, [name]! What are you doing here?"
-    k ""
+    k "Oh, [name]! Oque você está fazendo aqui?"
 
 # game/scripts/kali_events.rpy:4467
 translate pt_br kali_unihistory_a3525a61:
 
     # k "Did you come to check on me?"
-    k ""
+    k "Você veio ver como eu estou?"
 
 # game/scripts/kali_events.rpy:4468
 translate pt_br kali_unihistory_638460ee:
 
     # kim "Aww, so cute. You two make a great couple!"
-    kim ""
+    kim "Aww, tão fofo. Vocês dois fazem um belo casal!"
 
 # game/scripts/kali_events.rpy:4469
 translate pt_br kali_unihistory_a9b14758:
 
     # van "The landlord...?"
-    van ""
+    van "O senhorio...?"
 
 # game/scripts/kali_events.rpy:4471
 translate pt_br kali_unihistory_3debe672:
 
     # k "He's a manager, not a landlord..."
-    k ""
+    k "Ele é um gerente, não um senhorio..."
 
 # game/scripts/kali_events.rpy:4472
 translate pt_br kali_unihistory_0ae3094e:
 
     # van "He owns the land you live on and he's charging you for it... Sheesh, how are you two together? Who pays their boyfriend to live with them?"
-    van ""
+    van "Ele é dono do lugar que você mora e cobra por isso... deus, como que vocês dois estão juntos? Quem pega seu namorado para morar com ele?"
 
 # game/scripts/kali_events.rpy:4473
 translate pt_br kali_unihistory_0d533d71:
 
     # c "I have let her know that she can always stay for free if she isn't able to afford it."
-    c ""
+    c "Ela sabe que se ela algum dia não conseguir pagar, ela pode morar de graça."
 
 # game/scripts/kali_events.rpy:4474
 translate pt_br kali_unihistory_950fcd8f:
 
     # van "Hmph... is that so?"
-    van ""
+    van "Hmph... então é isso?"
 
 # game/scripts/kali_events.rpy:4475
 translate pt_br kali_unihistory_d30b1376:
 
     # k "It is."
-    k ""
+    k "É isso."
 
 # game/scripts/kali_events.rpy:4477
 translate pt_br kali_unihistory_c0ede504:
 
     # van "Okay, whatever... I'll stay out of it."
-    van ""
+    van "Ok, tanto faz... vou ficar fora disso."
 
 # game/scripts/kali_events.rpy:4478
 translate pt_br kali_unihistory_70fb43a4:
 
     # van "...I was in a few toxic relationships, so I know how it goes..."
-    van ""
+    van "...Eu já tive alguns relacionamentos tóxicos, então eu sei como que funciona..."
 
 # game/scripts/kali_events.rpy:4479
 translate pt_br kali_unihistory_b889a4e1:
 
     # kim "Yeah, we can help you weed out the bad ones, heheh!"
-    kim ""
+    kim "É, nós podemos te ajudar a superar as coisas ruins, heheh!"
 
 # game/scripts/kali_events.rpy:4480
 translate pt_br kali_unihistory_7b6614c1:
 
     # c "*ahem*..."
-    c ""
+    c "*ahem*..."
 
 # game/scripts/kali_events.rpy:4482
 translate pt_br kali_unihistory_d6be2e5d:
 
     # k "Ergh, you're making him uncomfortable! Stop judging people before you get to know them...!"
-    k ""
+    k "Ergh, você está deixando ele desconfortável! Pare se julgar as pessoas antes que você as conheça...!"
 
 # game/scripts/kali_events.rpy:4483
 translate pt_br kali_unihistory_f48a05a1:
 
     # van "Okay, okay, sorry..."
-    van ""
+    van "Ok, ok, desculpa..."
 
 # game/scripts/kali_events.rpy:4485
 translate pt_br kali_unihistory_f3f7c1b7:
 
     # k "I'm doing fine by the way, [name]... I'm just finishing some things up..."
-    k ""
+    k "Eu estou bem, [name]... só estou terminando algumas coisas..."
 
 # game/scripts/kali_events.rpy:4487
 translate pt_br kali_unihistory_2a64b042:
 
     # k "Luckily I have these two to help."
-    k ""
+    k "Ainda bem que eu tenho essas duas para me ajudar."
 
 # game/scripts/kali_events.rpy:4488
 translate pt_br kali_unihistory_1705ad73:
 
     # c "Oh, I brought this coffee for you. It might be a bit cold now, but Lin thought you could use some help."
-    c ""
+    c "Oh, eu trouxe esse café para você. Deve estar um pouco frio agora, mas a Lin pensou que você iria precisar."
 
 # game/scripts/kali_events.rpy:4490
 translate pt_br kali_unihistory_4b82245b:
 
     # k "Urgh, coffee...? Cold coffee...? Fuck it, I'll take anything..."
-    k ""
+    k "Urgh, café...? Café frio...? Foda-se, qualquer coisa serve..."
 
 # game/scripts/kali_events.rpy:4492
 translate pt_br kali_unihistory_b20ffb4e:
 
     # k "I really needed this..."
-    k ""
+    k "Eu realmente precisava..."
 
 # game/scripts/kali_events.rpy:4493
 translate pt_br kali_unihistory_17841f96:
 
     # van "Who's Lin?"
-    van ""
+    van "Quem é Lin?"
 
 # game/scripts/kali_events.rpy:4494
 translate pt_br kali_unihistory_a518f0d9:
 
     # k "His sl-"
-    k ""
+    k "É a escra-"
 
 # game/scripts/kali_events.rpy:4496
 translate pt_br kali_unihistory_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:4497
 translate pt_br kali_unihistory_570c9183:
 
     # van "Huh?"
-    van ""
+    van "Huh?"
 
 # game/scripts/kali_events.rpy:4498
 translate pt_br kali_unihistory_edda0b64:
 
     # k "The uh... the maid. A butler."
-    k ""
+    k "A uh... a empregada. Um mordomo."
 
 # game/scripts/kali_events.rpy:4499
 translate pt_br kali_unihistory_7142cbf5:
 
     # van "You hesitated..."
-    van ""
+    van "Você hesitou..."
 
 # game/scripts/kali_events.rpy:4500
 translate pt_br kali_unihistory_a7bff7e4:
 
     # kim "She's hiding something!"
-    kim ""
+    kim "Ela está escondendo algo!"
 
 # game/scripts/kali_events.rpy:4501
 translate pt_br kali_unihistory_cffd8fe3:
 
     # van "What are you hiding?"
-    van ""
+    van "Oque você está escondendo?"
 
 # game/scripts/kali_events.rpy:4503
 translate pt_br kali_unihistory_dc676767:
 
     # k "Hmmm? Mmmph... *gulp*..."
-    k ""
+    k "Hmmm? Mmmph... *gulp*..."
 
 # game/scripts/kali_events.rpy:4505
 translate pt_br kali_unihistory_80e2e863:
 
     # van "Kali..." with ssshake
-    van "" with ssshake
+    van "Kali..." with ssshake
 
 # game/scripts/kali_events.rpy:4506
 translate pt_br kali_unihistory_82091822_2:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:4507
 translate pt_br kali_unihistory_18f3832a:
 
     # van "Kali, what species is this maid?"
-    van ""
+    van "Kali, que tipo de empregada?"
 
 # game/scripts/kali_events.rpy:4509
 translate pt_br kali_unihistory_118e2c54:
 
     # k "Urghhh..."
-    k ""
+    k "Urghhh..."
 
 # game/scripts/kali_events.rpy:4510
 translate pt_br kali_unihistory_291575c5:
 
     # van "KALI!? ARE YOU FUCKING KIDDING ME!?!?"
-    van ""
+    van "KALI!? VOCÊ TÁ BRINCANDO COMIGO!?!?"
 
 # game/scripts/kali_events.rpy:4512
 translate pt_br kali_unihistory_7a7f5686:
 
     # van "YOU TWO ARE SLAVE OWNERS!? HOW WERE YOU EVEN ALLOWED IN THIS SCHOOL!?" with ssshake
-    van "" with ssshake
+    van "VOCÊS DOIS SÃO ESCRAVAGISTAS!? COMO QUE PERMITIRAM VOCÊ ENTRAR NESSA FACULDADE!?" with ssshake
 
 # game/scripts/kali_events.rpy:4513
 translate pt_br kali_unihistory_ba5ef5cc:
 
     # k "URGH! WILL YOU SHUT UP!?"
-    k ""
+    k "URGH! PODE CALAR A BOCA!?"
 
 # game/scripts/kali_events.rpy:4514
 translate pt_br kali_unihistory_a579d34b:
 
     # kim "Don't be so loud, Nessy!"
-    kim ""
+    kim "Não fale tão alto, Nessy!"
 
 # game/scripts/kali_events.rpy:4516
 translate pt_br kali_unihistory_63f36d4a:
 
     # k "We didn't buy her! He inherited her along with the hotel, and she happens to really love being there. So shut the fuck up!"
-    k ""
+    k "Nós não a compramos! Ele herdou ela junto com o hotel, e ela meio que gosta de estar lá. Então cala a boca!"
 
 # game/scripts/kali_events.rpy:4518
 translate pt_br kali_unihistory_9b76d903:
 
     # van "Oh."
-    van ""
+    van "Oh."
 
 # game/scripts/kali_events.rpy:4519
 translate pt_br kali_unihistory_4341c5c1:
 
     # k "Godddd... would you listen before you shout into everyone's ears?"
-    k ""
+    k "Meu deusss... você pode escutar antes de sair gritando no ouvido de todo mundo?"
 
 # game/scripts/kali_events.rpy:4521
 translate pt_br kali_unihistory_2553f6bf:
 
     # van "I don't see how that's much better though. A slaver is a slaver, any way you put it, and she could just be saying she's happy so you don't beat her..."
-    van ""
+    van "Mas eu ainda não vejo isso de um jeito melhor. Um escravagista é um escravagista, qualquer seja o jeito que você coloca, e ela poderia dizer que está feliz só para você não punir ela..."
 
 # game/scripts/kali_events.rpy:4522
 translate pt_br kali_unihistory_b48e7d6a:
 
     # k "Yeah, well, blame the system, not us. At least he's been able to give her a happy life so far."
-    k ""
+    k "É, bem, culpe o sistema, não nós. Pelo menos ele conseguiu dar a ela uma vida feliz."
 
 # game/scripts/kali_events.rpy:4524
 translate pt_br kali_unihistory_8ae1af8e:
 
     # van "I like the way you think... but we would be the judge of that, right Kim?"
-    van ""
+    van "Eu gosto do jeito que você pensa... mas nós poderíamos ser as juízes disso, né, Kim?"
 
 # game/scripts/kali_events.rpy:4525
 translate pt_br kali_unihistory_71fae776:
 
     # kim "Sure!"
-    kim ""
+    kim "Claro!"
 
 # game/scripts/kali_events.rpy:4526
 translate pt_br kali_unihistory_0a5103ec:
 
     # k "Weren't you two helping me with my test? I don't know if have time for this..."
-    k ""
+    k "Vocês duas não estavam me ajudando com o teste? Eu não sei se eu tenho tempo pra isso..."
 
 # game/scripts/kali_events.rpy:4527
 translate pt_br kali_unihistory_7231ca19:
 
     # van "Sorry, but you need a different kind of education right now. You and your boyfriend..."
-    van ""
+    van "Desculpe, mas você precisa de um tipo diferente de educação agora. Você e seu namorado..."
 
 # game/scripts/kali_events.rpy:4529
 translate pt_br kali_unihistory_19e83135:
 
     # van "I know someone, she's been a good friend. Her other major is in Sylvian history. If you're going to own one of them like a dog, then you're going to learn of their beautiful and tragic history."
-    van ""
+    van "Eu conheço uma pessoa, ela é uma boa amiga. A especialização dela é sobre a história de Sylvian. Se você vai mantê-los como um cachorro, então você vai ouvir a linda e trágica história deles."
 
 # game/scripts/kali_events.rpy:4530
 translate pt_br kali_unihistory_f6d72354:
 
     # van "For example, did you know our currency, the 'Syl', just means 'Elf' in elvish? It's as if we're trading elves whether we like it not..."
-    van ""
+    van "Por exemplo, você sabia que a nossa moeda, o 'Syl', significa 'Elfo' em élfico? É como se nós estivessemos trocando elfos o tempo todo, quer gostemos ou não..."
 
 # game/scripts/kali_events.rpy:4531
 translate pt_br kali_unihistory_b6083e07:
 
     # k "Wait, really? That's where the word comes from?"
-    k ""
+    k "Espera, sério? E daí que a palavra vem?"
 
 # game/scripts/kali_events.rpy:4533
 translate pt_br kali_unihistory_95c134ea:
 
     # kim "Come on, Kali! It's really interesting! Did you know dark elves built pyramids before they discovered the bow? That's so cool!"
-    kim ""
+    kim "Qual é, Kali! É realmente interessante! Você sabia que os Elfos Negros construiram pirâmides antes deles descobrirem  o arco? Isso é muito legal!"
 
 # game/scripts/kali_events.rpy:4534
 translate pt_br kali_unihistory_dcd86e92:
 
     # k "Oh?"
-    k ""
+    k "Oh?"
 
 # game/scripts/kali_events.rpy:4535
 translate pt_br kali_unihistory_e5a411d6:
 
     # kim "You're interested, right? Heheh!"
-    kim ""
+    kim "Você está interessada, né? Heheh!"
 
 # game/scripts/kali_events.rpy:4537
 translate pt_br kali_unihistory_9027746c:
 
     # k "Fine, I guess that's kind of interesting... but you're going to help me on the rest of this test."
-    k ""
+    k "Ok, eu acho que é meio interessante... mas você vai me ajudar no resto desse teste."
 
 # game/scripts/kali_events.rpy:4538
 translate pt_br kali_unihistory_9d7516f1:
 
     # van "Deal!"
-    van ""
+    van "Trato feito!"
 
 # game/scripts/kali_events.rpy:4539
 translate pt_br kali_unihistory_50ee0751:
 
     # k "And I'm taking my boyfriend."
-    k ""
+    k "E eu vou levar meu namorado."
 
 # game/scripts/kali_events.rpy:4540
 translate pt_br kali_unihistory_7543ea61:
 
     # c "Huh?"
-    c ""
+    c "Huh?"
 
 # game/scripts/kali_events.rpy:4541
 translate pt_br kali_unihistory_7d916abf:
 
     # van "If you want to tag along, you're welcome to! You might get really bored though, there's a lot to learn!"
-    van ""
+    van "Se você quiser trazê-lo, você é bem vindo também! Mas você pode acabar ficando entediado, tem muito a se aprender!"
 
 # game/scripts/kali_events.rpy:4544
 translate pt_br kali_unihistory_f635e034:
 
     # van "Okay, follow me..."
-    van ""
+    van "Ok, me siga..."
 
 # game/scripts/kali_events.rpy:4546
 translate pt_br kali_unihistory_02e56ce1:
 
     # van "Hey Nala! Our friends could use some help."
-    van ""
+    van "Ei Nala! Nossos amigos precisam de ajuda."
 
 # game/scripts/kali_events.rpy:4548
 translate pt_br kali_unihistory_1e55e719:
 
     # nala "Oh, hello!"
-    nala ""
+    nala "Oh, olá!"
 
 # game/scripts/kali_events.rpy:4550
 translate pt_br kali_unihistory_bc3f73c7:
 
     # nala "Tough stuff, huh?"
-    nala ""
+    nala "Coisa difícil, huh?"
 
 # game/scripts/kali_events.rpy:4551
 translate pt_br kali_unihistory_44cee867:
 
     # van "Yeah... Hey, so it turns out these two own a slave... and I tought they could really use your help understanding why that's so bad... since you major in history and all."
-    van ""
+    van "Isso... ei, então, esses dois tem um escravo... e eu pensei que você poderia explicar para eles por que isso é ruim... já que você conhece bastante da história e tudo isso."
 
 # game/scripts/kali_events.rpy:4552
 translate pt_br kali_unihistory_c0fa5740:
 
     # k "Are you going to tell everyone...?"
-    k ""
+    k "Você vai contar para todo mundo...?"
 
 # game/scripts/kali_events.rpy:4554
 translate pt_br kali_unihistory_888b239f:
 
     # nala "Oh no... that's not good..."
-    nala ""
+    nala "Oh não... isso não é bom..."
 
 # game/scripts/kali_events.rpy:4555
 translate pt_br kali_unihistory_12845b63:
 
     # van "Think you could help me?"
-    van ""
+    van "Acha que pode me ajudar?"
 
 # game/scripts/kali_events.rpy:4557
 translate pt_br kali_unihistory_64efcc3d:
 
     # nala "Sure, I would love to! I basically live in the library nowadays... whenever our comp-sci teacher isn't overburdening us with work anyway... Follow me!"
-    nala ""
+    nala "Claro, eu iria adorar! Eu basicamente moro na livraria hoje em dia... quer dizer, quando nosso professor não está nos enchendo com trabalho... me siga!"
 
 # game/scripts/kali_events.rpy:4559
 translate pt_br kali_unihistory_cd64b9ab:
 
     # "The four of you follow Nala throughout the university."
-    ""
+    "Vocês quatro seguem a Nala pela universidade."
 
 # game/scripts/kali_events.rpy:4560
 translate pt_br kali_unihistory_5b87c52a:
 
     # "As you make your way to the library, you're able to take in the full scope of the university. It really is quite impressive. The ornate detail on every building make it very obvious that this university is of high prestige, and quite old. You're able to make a good guess that this place was built soon after Syl'anar was founded."
-    ""
+    "No caminho pela livraria, você consegue ter uma boa idéia do tamanho da universidade. É realmente impressionante. Os ornamentos detalhados de cada estrutura deixa óbvio o alto prestígio da universidade, e antiga. Você poderia dizer que a universidade foi construida após a fundação de Syl'anar."
 
 # game/scripts/kali_events.rpy:4561
 translate pt_br kali_unihistory_0cb24573:
 
     # "It's not long before the library, with it's tall spires, is in view. It stands out from the other buildings, it's obviously out of place here. It seems older than everything around it..."
-    ""
+    "Não demora muito para chegar a livraria, com suas altas torres, em vista. Ela se destaca das outras construções, claramente deslocada. Se parece mais velha que qualquer outro lugar ao redor..."
 
 # game/scripts/kali_events.rpy:4563
 translate pt_br kali_unihistory_51dd13f9:
 
     # k "This place looks ancient..."
-    k ""
+    k "Esse lugar parece antigo..."
 
 # game/scripts/kali_events.rpy:4564
 translate pt_br kali_unihistory_0fcf7092:
 
     # nala "It is! This is one of the first buildings ever built in Caliber! It was to be a shining beacon of knowledge at furthest reaches of the known world. Now it's a normal old library!"
-    nala ""
+    nala "E é! Essa é uma das primeiras construções feitas em Caliber! Era para ser um farol de conhecimento nos confins do mundo que nós conhecemos. Agora é uma livraria velha normal!"
 
 # game/scripts/kali_events.rpy:4565
 translate pt_br kali_unihistory_3dabfd2d:
 
     # k "Cool..."
-    k ""
+    k "Legal..."
 
 # game/scripts/kali_events.rpy:4566
 translate pt_br kali_unihistory_c02f4a78:
 
     # van "Learning things already, Kali."
-    van ""
+    van "Já está aprendendo coisas, Kali."
 
 # game/scripts/kali_events.rpy:4567
 translate pt_br kali_unihistory_8d1df1a0:
 
     # k "Sure... grab a seat by me, [name]."
-    k ""
+    k "Claro... sente-se ao meu lado,[name]."
 
 # game/scripts/kali_events.rpy:4569
 translate pt_br kali_unihistory_dc29e19e:
 
     # van "You're going to have so much fun! This stuff is really cool, I promise!"
-    van ""
+    van "Você vai se divertir tanto! Essas coisas são bem legais, eu prometo!"
 
 # game/scripts/kali_events.rpy:4570
 translate pt_br kali_unihistory_659e4e89:
 
     # k "Dude, it's history..."
-    k ""
+    k "Cara, é história..."
 
 # game/scripts/kali_events.rpy:4571
 translate pt_br kali_unihistory_eaad9d44:
 
     # van "History is fucking awesome!"
-    van ""
+    van "História é foda pra caralho!"
 
 # game/scripts/kali_events.rpy:4573
 translate pt_br kali_unihistory_c0f4415d:
 
     # nala "Okay! Let's start with Arthur Longspear's diary! One of the most important historical artifacts we have to study. Arthur Longspear was a biologist, scribe, historian, herbalist, and much more. He was a very learned man."
-    nala ""
+    nala "Ok! Vamos começar com o diário de Arthur Longspear! Um dos mais importantes artefatos históricos que temos que estudar. Arthur Longspear foi um biólogo, escriba, historiador, herbalista, e muito mais. Ele era um homem muito conhecido."
 
 # game/scripts/kali_events.rpy:4574
 translate pt_br kali_unihistory_0ff5e481:
 
     # nala "He was sent by his Emperor with a small legion of crusaders to the mysterious lands not yet known as Syl'anar to gather information that may aid in colonization."
-    nala ""
+    nala "Ele foi mandado pelo seu imperador com uma pequena legião de cruzados para as ilhas misteriosas ainda não conhecida como Syl'anar, para conseguir informação que pudesse ajudar para as colonizações."
 
 # game/scripts/kali_events.rpy:4576
 translate pt_br kali_unihistory_fcfb5d98:
 
     # nala "His reports, while not completely accurate, were still ahead of his time. He studied elves in great depth!"
-    nala ""
+    nala "Os relatórios dele, mesmo que não completamente precisos, ainda eram a frente de seu tempo. Ele estudou a fundo sobre elfos!"
 
 # game/scripts/kali_events.rpy:4578
 translate pt_br kali_unihistory_53e9470d:
 
     # nala "Elves have an accelerated growth spurt at the early stages of life, slowing dramatically at roughly fifty cycles around the sun... and strangely, while all elves appear to outlive humans by at least 6 life times, each subspecies has a different biological clock entirely, with the 'common elf' to appear to live the longest."
-    nala ""
+    nala "Elfos tem uma taxa de crescimento acelerada nos estados iniciais da vida, diminuindo drasticamento há cinquenta ciclos ao redor do sol... e estranhamente, enquanto todos os elfos pareciam sobreviver ao menos 6 vidas humanas, cada subspécie tem um relógio biológico diferente, com o 'elfo comum' para parecer viver por mais tempo."
 
 # game/scripts/kali_events.rpy:4580
 translate pt_br kali_unihistory_9c9f6bb3:
 
     # nala "Now we know that common elves and desert elves live about the same length, both very long. While dark elves live shorter lives, and drow even shorter still."
-    nala ""
+    nala "Agora nós sabemos que elfos comund e elfos do deserto tem a mesma espectativa de vida, ambos bem grandes. Enquanto elfos negros vivem menos, e os drow ainda menor."
 
 # game/scripts/kali_events.rpy:4582
 translate pt_br kali_unihistory_e5fa6974:
 
     # k "How is this history? This sounds more like biology..."
-    k ""
+    k "Como isso é história? Parece mais com biologia..."
 
 # game/scripts/kali_events.rpy:4583
 translate pt_br kali_unihistory_d028a51b:
 
     # van "It's in the book!"
-    van ""
+    van "É oque está no livro!"
 
 # game/scripts/kali_events.rpy:4584
 translate pt_br kali_unihistory_1f0523cc:
 
     # k "And...?"
-    k ""
+    k "E...?"
 
 # game/scripts/kali_events.rpy:4585
 translate pt_br kali_unihistory_97447566:
 
     # van "It's the oldest biological study on elves! Just listen..."
-    van ""
+    van "E o estudo biológico de elfos mais antigo! Só presta atenção..."
 
 # game/scripts/kali_events.rpy:4587
 translate pt_br kali_unihistory_dd2a11f1:
 
     # nala "You want history? Here's history..."
-    nala ""
+    nala "Você quer história? Então aqui vai história..."
 
 # game/scripts/kali_events.rpy:4589
 translate pt_br kali_unihistory_64293165:
 
     # nala "Dark Elves have been studied covering themselves in a tar-like subtance. At the time, it was questioned if they had even discovered fire, as torching an arrow set them ablaze regardless of where you shot them."
-    nala ""
+    nala "Os elfos negros foram estudados se cobrindo com uma substância semelhante ao alcatrão. Na época, foi questionado se eles haviam descoberto o fogo, já que o lançamento de uma flecha os incendiava, independentemente de onde a flecha fosse disparada."
 
 # game/scripts/kali_events.rpy:4591
 translate pt_br kali_unihistory_6d10ee94:
 
     # nala "Later it was discovered that fire was indeed apart of their daily lives, but they had never considered fire being shot from a distance."
-    nala ""
+    nala "Mais tarde, foi descoberto que o fogo de fato que o fogo fazia parte da vida deles, mas eles nunca consideraram atirar fogo à distância."
 
 # game/scripts/kali_events.rpy:4592
 translate pt_br kali_unihistory_088fe786:
 
     # k "If only they weren't so stupid..."
-    k ""
+    k "Se ao menos eles não fossem tão estúpidos..."
 
 # game/scripts/kali_events.rpy:4593
 translate pt_br kali_unihistory_5823b91d:
 
     # nala "Stupid!? Just listen... these are the words of Arthur Longspear himself..."
-    nala ""
+    nala "Estúpidos!? Só escuta... essas são as palavras do próprio Arthur Longspear..."
 
 # game/scripts/kali_events.rpy:4595
 translate pt_br kali_unihistory_85d034b5:
 
     # nala "The armor they wore consisted of leather pelts, and their weapon of choice was the spear. They fought smart, using the night as cover and their unique eyes as an advantage. They would attack, then retreat as soon as one in their group was injured."
-    nala ""
+    nala "A armudura que eles usavam consistia de placas de couro, e as armas eram lanças. Eles eram espertos em batalha, usando a noite para se esconder juto com suas técnicas únicas. Eles atacavam, e se retiravam assim que alguém do grupo fosse machucado."
 
 # game/scripts/kali_events.rpy:4596
 translate pt_br kali_unihistory_dcddfc18:
 
     # nala "They showed great compassion to their own, yet were relentless against humans. They would attack us almost every night we were stationed on the front lines."
-    nala ""
+    nala "Eles demonstram grande compaixão entre si, mas ainda implacáveis contra os humanos. Eles nos atacavam quase toda noite que estavam nas linhas de frente."
 
 # game/scripts/kali_events.rpy:4597
 translate pt_br kali_unihistory_a7ae5f15:
 
     # nala "One mention by Arthur says... Even when we expected them to attack, even when we were all prepared and a dozen men were on lookout duty, their guerrilla tactics often left us with more casualties each day than they had injured."
-    nala ""
+    nala "Uma menção do Arthur diz... Mesmo quando esperávamos o ataque deles, mesmo quando estavámos preparados e uma dúzia de homens estava de vigia, as táticas de guerrilha deles nos deixava com mais casualidades a cada dia, mais do que machucados."
 
 # game/scripts/kali_events.rpy:4598
 translate pt_br kali_unihistory_d3de8fea:
 
     # nala "Men in mail and plate stood no chance to a well placed spear in the openings of our armor, or poisoned breakfast. They knew which plants were good to eat, and we did not."
-    nala ""
+    nala "Homens de placa de aço não tiveram chances contra uma lança bem manuseada nas aberturas da armadura, ou cafés da manhã envenenados. Ele sabiam quais plantas eram boas para se comer, e nós não."
 
 # game/scripts/kali_events.rpy:4600
 translate pt_br kali_unihistory_b6cd1479:
 
     # k "Holy shit, they were able to take on humans with vastly better technology that well?"
-    k ""
+    k "Puta merda, eles conseguiram derrotar os humanos com uma tecnologia muito melhor?"
 
 # game/scripts/kali_events.rpy:4601
 translate pt_br kali_unihistory_9ec72e3a:
 
     # nala "According to Arthur Longspear, this was their preferred way of fighting. They didn't stand a chance when the humans came to destroy their unfortified homes, rape their women, and murder their people while they slept. Village by village, farm by farm..."
-    nala ""
+    nala "De acordo com Arthur Longspear, essa era o jeito preferido deles lutarem. Eles não tiveram chnace quando os humanos vieram destruir suas casas não fortificadas, estuprar as mulheres, e assasinar as pessoas em quanto dormiam. Vila por vila, fazenda por fazenda..."
 
 # game/scripts/kali_events.rpy:4602
 translate pt_br kali_unihistory_0d0bb8ca:
 
     # k "Yikes..."
-    k ""
+    k "Yikes..."
 
 # game/scripts/kali_events.rpy:4604
 translate pt_br kali_unihistory_070c1ce6:
 
     # nala "Somewhere in here it mentions that there were mass migrations of dark elves after the rapings that headed west, which brought disease and famine accross the continent."
-    nala ""
+    nala "Em algum lugar aqui menciona a vasta migração de elfos negros após os estupros, que foram para o oeste, o que trouxe doenças e fome pelo continente."
 
 # game/scripts/kali_events.rpy:4606
 translate pt_br kali_unihistory_2c73d35d:
 
     # kim "Get to the pyramids!"
-    kim ""
+    kim "Fala das pirâmides!"
 
 # game/scripts/kali_events.rpy:4607
 translate pt_br kali_unihistory_0cac7630:
 
     # nala "Sure."
-    nala ""
+    nala "Claro."
 
 # game/scripts/kali_events.rpy:4609
 translate pt_br kali_unihistory_7e32bcf9:
 
     # nala "Arthur writes the capital city of Sylve'tindi, colloquially known as Syl'tin, houses seven total pyramids. Six circling the largest in the center which rises to 162 meters! These pyramid served as housing for the upper classes, and gathering locations for social events."
-    nala ""
+    nala "Arthur nomeia a capital a capital como Sylve'tindi, colonialmente conhecida como Syl'tin, casas, sete pirâmides. seis circulando a maior no centro, que pode chegar a 162 metros! Essas pirâmides serviram como casa para a classse alta, e lugares para eventos sociais."
 
 # game/scripts/kali_events.rpy:4610
 translate pt_br kali_unihistory_85fb5477:
 
     # nala "These pyramids were not made of normal stone carved from the earth, however. They were made of a clay-like material they would somehow harden to stone over time."
-    nala ""
+    nala "Essas pirâmides não eram feitas de pedras cavadas da terra, contudo. Elas eram feitas de um material parecido com argila, que eles de alguma forma enrijeciam com o tempo."
 
 # game/scripts/kali_events.rpy:4612
 translate pt_br kali_unihistory_22996773:
 
     # nala "We still don't know how they did it! We couldn't replicate their stone making even with our current technology. And as you know, five pyramids are still standing. They're one of our world's greatest wonders!"
-    nala ""
+    nala "Nós ainda não sabemos como eles fizeram isso! Não conseguimos replicar a fabricação de pedra deles, mesmo com a nossa tecnologia atual. E como você sabe, as cinco pirâmides continuam de pé. Elas são umas das maravilhas do mundo moderno!"
 
 # game/scripts/kali_events.rpy:4613
 translate pt_br kali_unihistory_e8b6bc27:
 
     # k "That is pretty cool..."
-    k ""
+    k "Isso é bem legal..."
 
 # game/scripts/kali_events.rpy:4614
 translate pt_br kali_unihistory_b587d0df:
 
     # nala "It's really cool! Considering they never even discovered metal working on their own."
-    nala ""
+    nala "É muito legal! Considerando que eles nunca descobriram como utilizar ferro sozinhos."
 
 # game/scripts/kali_events.rpy:4616
 translate pt_br kali_unihistory_69a6bffa:
 
     # nala "Arthur also writes the dark elf's king was kind to their people, made sure no one was starving, not even the old. And was even able to maintain multiple trade routes and aqueducts through the mountains, rivers, and deadly flora that makes up their harsh jungles."
-    nala ""
+    nala "Arthur também escreveu que o rei dos elfos negros era uma pessoa do povo, tinha certeza de que ninguém estava passando fome, nem mesmo os idosos. E ainda conseguiu estabelecer várias rotas de comércio e arquedutos através das montanhas, rios e a mortal flora que constitua de suas duras selvas."
 
 # game/scripts/kali_events.rpy:4617
 translate pt_br kali_unihistory_db302809:
 
     # nala "Dark elves are even believed to be the 'Sea Devils' spoken of in ancient myths, it seems they had the ability to build longboats durable enough to reach humans before we ever officially found them. In recent decades, dark elvish remains buried in the ground of many islands and shores long inhabited by humans have been found, which confirms this theory."
-    nala ""
+    nala "Elfos negros são conhecido como os 'Demônios do Mar', já falando de mitos antigos, quer dizer que eles tinham as habilidades para construir grandes e duráveis barcos, o bastante para chegar aos humanos antes que agente os encontrasse. Nas décadas recentes, os restos de elfos negros continuam enterrados em várias ilhas inabitas por humanos, oque confirma essa teoria."
 
 # game/scripts/kali_events.rpy:4618
 translate pt_br kali_unihistory_b9a77a04:
 
     # k "I guess that's cool."
-    k ""
+    k "Eu acho isso legal."
 
 # game/scripts/kali_events.rpy:4620
 translate pt_br kali_unihistory_739d83a5:
 
     # van "Yeah it's fuckin' cool! Those roads were impressive to even the humans! And remember, they did all of this without ever discovering metal working!"
-    van ""
+    van "Sim, é legal pra caralho! Aquelas ruas eram impressionantes até mesmo para humanos! E lembre-se, ele fizeram tudo isso sem nem mesmo descobrir como trabalhar com ferro!"
 
 # game/scripts/kali_events.rpy:4621
 translate pt_br kali_unihistory_ce599039:
 
     # van "Humans love to think they're superior to elves, but elves showed they had an AMAZING understanding of the world around them! They could take advantage and make near full use out of almost every part of their environment! So much better than humans historically ever have!"
-    van ""
+    van "Humanos amam pensar que eles são superiores aos elfos, mas os elfos mostraram que eles tinham um INCRÍVEL entendimento do mundo ao redor deles! Eles podiam tirar vantagem e fazer uso da maior parte de seus arredores! Muito melhor que os humanos históricamente conseguiam!"
 
 # game/scripts/kali_events.rpy:4622
 translate pt_br kali_unihistory_061849fd:
 
     # van "Then came humans... you know how it goes."
-    van ""
+    van "Então chegaram os humano... você sabe no que deu."
 
 # game/scripts/kali_events.rpy:4623
 translate pt_br kali_unihistory_df622e08:
 
     # k "Clearly they weren't able to make use of everything if they couldn't figure out how to make metals..."
-    k ""
+    k "Claro que eles não conseguiriam fazer uso de tudo se eles não conseguirem descobrir como fazer metais..."
 
 # game/scripts/kali_events.rpy:4625
 translate pt_br kali_unihistory_9bb0f7a4:
 
     # nala "They never had to! They're not expansionists like humans, they traded in labor and services, and there were plenty of resources to go around. War seems incredibly rare in elvish history, at least compared to human history."
-    nala ""
+    nala "Eles nunca precisaram! Eles não são expansionistas como os humanos, ele comercializavam mão de obra e serviços, e havia vários recursos aos redores. Guerra era extremamente raro na história élfica, ao menos comparado a história humana."
 
 # game/scripts/kali_events.rpy:4627
 translate pt_br kali_unihistory_810607dc:
 
     # nala "And these are just the dark elves! There are common elves, drow, and even desert elves all with their completely unique history and cultures! There are even mentions of large groups of albino elves with their own culture!"
-    nala ""
+    nala "E esses são apenas os elfos negros! Há ainda elfos comuns, drow, e elfos do deserto. Todos com suas únicas histórias e culturas! Há ainda menções de grupos de elfos albinos com sua própria cultura!"
 
 # game/scripts/kali_events.rpy:4628
 translate pt_br kali_unihistory_f393f554:
 
     # k "All of this is interesting and all, but I don't know why I should care so much..."
-    k ""
+    k "Isso tudo é interessante e tudo mais, mas eu não sei porque eu deveria ligar..."
 
 # game/scripts/kali_events.rpy:4630
 translate pt_br kali_unihistory_9053de4c:
 
     # van "You should care! Because those are living breathing PEOPLE you and your father are owning like property! And a lot of those PEOPLE are still alive to remember a time before humans!"
-    van ""
+    van "Você deve ligar! Porque essas são PESSOAS vivas, você e seu pai tem propriedades semelhantes! E várias daquelas PESSOAS continuam vivas e se lembram de um tempo muito anterior aos humanos!"
 
 # game/scripts/kali_events.rpy:4631
 translate pt_br kali_unihistory_2aabf98e:
 
     # k "Yeah, I get it, elves are people too... I'm on your side, I think it would be great if elves were free."
-    k ""
+    k "Sim, eu entendi, elfos são pessoas também... eu estou do seu lado, eu acho que seria bom se os elfos fossem libertados."
 
 # game/scripts/kali_events.rpy:4632
 translate pt_br kali_unihistory_a3a9baee:
 
     # van "Then why do you contribute to that system? Why do you let your father do so much harm!?"
-    van ""
+    van "Então por que você contrubui para aquele sistema? Porque você deixa seu pai fazer tanto mal!?"
 
 # game/scripts/kali_events.rpy:4633
 translate pt_br kali_unihistory_350aae24:
 
     # k "I was born in the same world you were, my dad was just able to use the system to profit off of it..."
-    k ""
+    k "Eu nasci no mesmo mundo que você, meu pai só se aproveitou do sistema para ganhar em cima..."
 
 # game/scripts/kali_events.rpy:4634
 translate pt_br kali_unihistory_91ef80c0:
 
     # van "No, Kali! That's the problem! None of us are born in the same worlds! Especially not the elves!"
-    van ""
+    van "Não, Kali! Esse é o problema! Nenhum de nós nasceu no mesmo mundo! Especialmente com os elfos!"
 
 # game/scripts/kali_events.rpy:4635
 translate pt_br kali_unihistory_3a5cafdb:
 
     # k "I'm sorry...?"
-    k ""
+    k "Como...?"
 
 # game/scripts/kali_events.rpy:4636
 translate pt_br kali_unihistory_2a00d9bd:
 
     # van "You were born in a world of wealth and privilege! An elf is born into a world of poverty, discrimination, and slavery!"
-    van ""
+    van "Você nasceu em um mundo de fortuna e privilégios! Um elfo nasce em um mundo de pobreza, descriminação, e escravismo!"
 
 # game/scripts/kali_events.rpy:4637
 translate pt_br kali_unihistory_9829bd18:
 
     # k "Yeah, and my father was also born into poverty. He's a self made man."
-    k ""
+    k "Sim, e meu pai também nasceu em um mundo de pobreza. Ele é um homem independente."
 
 # game/scripts/kali_events.rpy:4638
 translate pt_br kali_unihistory_630d90ec:
 
     # van "No one gets that rich by themselves! He only got so rich by stepping over others like those elves! Or the humans he overworks and doesn't give enough benefits to for the sake of profit! And you have to admit there was no way an elf could do what your father has done in this society, that much is obvious."
-    van ""
+    van "Ninguém fica rico sozinho! Ele só ficou rico por pisar nos outro como aqueles elfos! Ou os humanos que ele emprega e não dá benefícios o bastante em prol do lucro! E você tem que admitir que não tem como um elfo fazer oque o seu pai fez na sociedade, isso é óbvio."
 
 # game/scripts/kali_events.rpy:4639
 translate pt_br kali_unihistory_23fc7c47:
 
     # van "You and your father ARE the system! The only way we're going to give elves a fair shot is by treating them like they're already free and equal! Lawfully, and culturally!"
-    van ""
+    van "E o seu pai É o sistema! A única forma de darmos os elfos um tiro de esperança é tratando eles como se eles já estivessem livres e fossemos iguais! Juridícamente, e culturalmente!"
 
 # game/scripts/kali_events.rpy:4640
 translate pt_br kali_unihistory_cc2dc1cc:
 
     # k "Okay, well we're obviously not going to throw our friend out to the world and let her live on her own. Someone else would pick her up and enslave her, so she's better off with us."
-    k ""
+    k "Ok, bem. Nós ovbviamente não vamos jogar nossos amigos no mundo e deixá-los viver sozinhos. Alguém iria escravizá-la, então ela está melhor conosco."
 
 # game/scripts/kali_events.rpy:4642
 translate pt_br kali_unihistory_b3269c04:
 
     # van "Yes, that's true... if you're good people. But all masters are bad. The very nature of being a master itself is bad. You could be a good person, but you could never be a good master..."
-    van ""
+    van "Sim, isso é verdade... se vocês são boas pessoas. Mas todos os mestres são ruins. A natureza de ser um mestre é ser ruim. Você pode ser uma boa pessoa, mas você não pode ser um bom mestre..."
 
 # game/scripts/kali_events.rpy:4643
 translate pt_br kali_unihistory_5467973b:
 
     # van "Listen... I just need you to understand that everyone has a part to play in this... it's a movement. If we're going to change the world, everyone needs to understand how they can help."
-    van ""
+    van "Escuta... eu só preciso que você entenda que todo mundo tem uma parte nisso... é um movimento. Se nós vamos mudar o mundo, todo mundo precisa entender como podem ajudar."
 
 # game/scripts/kali_events.rpy:4645
 translate pt_br kali_unihistory_5ff39f0e:
 
     # van "Fortunately for you, you're in a pretty good position to make some real change! Your father is the mayor of The Capitol now, I'm sure you could influence him."
-    van ""
+    van "Felizmente para você, você está em uma posição de fazer mudanças de verdade! Seu pai é o prefeito da Capitol agora, eu tenho certeza que você influenciá-lo."
 
 # game/scripts/kali_events.rpy:4647
 translate pt_br kali_unihistory_9c1c0b47:
 
     # nala "Wait, you're THE Trenero's daughter!?"
-    nala ""
+    nala "Espera, você é A filha do Trenero!?"
 
 # game/scripts/kali_events.rpy:4648
 translate pt_br kali_unihistory_7d939157:
 
     # van "Yeah, keep up slow poke."
-    van ""
+    van "Sim, continua com a pressão."
 
 # game/scripts/kali_events.rpy:4649
 translate pt_br kali_unihistory_b1f8e7a3:
 
     # nala "Wha..."
-    nala ""
+    nala "Que..."
 
 # game/scripts/kali_events.rpy:4651
 translate pt_br kali_unihistory_75f24258:
 
     # van "But the way it's looking now... there are already slaves in his city. Soon it's going to be every other major city in that country, then the continent. Then widespread elvish slavery across the world. Billions upon billions of innocent souls enslaved, and for what? Your morning coffee?"
-    van ""
+    van "Mas pelo que parece agora... já tem escravos na cidade dele. Logo vai estar em outra grande cidade do país, então no continente. E aí, espalhar o escravagismo pelo mundo. Bilhões e bilhões de almas ecravizadas, e pelo que? Pelo seu café da manhã?"
 
 # game/scripts/kali_events.rpy:4653
 translate pt_br kali_unihistory_82091822_3:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:4654
 translate pt_br kali_unihistory_8c563e3e:
 
     # k "*sigh*..."
-    k ""
+    k "*suspiro*..."
 
 # game/scripts/kali_events.rpy:4656
 translate pt_br kali_unihistory_c0b59f76:
 
     # van "And I really hate to bring it up, but the fact of the matter is, this has already put you and your father's lives in danger, hasn't it? Your father was nearly assassinated soon before he brought those elves to The Capitol."
-    van ""
+    van "E eu odeio ter que dizer isso, mas o que importa é que isso já colocou a vida do seu pai em risco, não é? Seu pai quase foi assasinado assim que ele trouxe aqueles elfos para a Capitol."
 
 # game/scripts/kali_events.rpy:4657
 translate pt_br kali_unihistory_f5960ba6:
 
     # k "*deep exhale*... yeah, I guess it has put our family in danger..."
-    k ""
+    k "*respiração funda*... sim, eu acho que isso colocou nossa família em perigo..."
 
 # game/scripts/kali_events.rpy:4659
 translate pt_br kali_unihistory_fc3ce8a7:
 
     # van "Speaking of which, Kali? Why did he buy those slaves?"
-    van ""
+    van "Falando nisso, Kali? Por que ele comprou aqueles escravos?"
 
 # game/scripts/kali_events.rpy:4660
 translate pt_br kali_unihistory_308b5409:
 
     # van "They really tried keeping it a secret, didn't they? But it was leaked... then it was all over the news. 'First elves to live outside of Syl'anar!' And why?"
-    van ""
+    van "Eles realmente tentaram manter segredo, não é? Mas vazou... então estava em todas as notícias. 'Primeiros elfos a viverem fora de Syl'anar!' E por que?"
 
 # game/scripts/kali_events.rpy:4662
 translate pt_br kali_unihistory_cb0498c7:
 
     # van "BECAUSE SOMEONE FUCKING BOUGHT THEM!?" with ssshake
-    van "" with ssshake
+    van "PORQUE ALGUÉM OS COMPRARIA!?" with ssshake
 
 # game/scripts/kali_events.rpy:4664
 translate pt_br kali_unihistory_77d25e60:
 
     # van "Fuck! It pisses me off so much..."
-    van ""
+    van "Porra! Isso me deixa tão puta..."
 
 # game/scripts/kali_events.rpy:4666
 translate pt_br kali_unihistory_6bcf04ab:
 
     # van "But why did he buy them, Kali? How is he planning on making money off of them this time?"
-    van ""
+    van "Mas por que eles foram comprados, Kali? Como ele está planejando fazer dinheiro em cima deles dessa vez?"
 
 # game/scripts/kali_events.rpy:4668
 translate pt_br kali_unihistory_eb9e603f:
 
     # van "IS HE GOING TO SELL THEIR FUCKING ORGANS!?" with ssshake
-    van "" with ssshake
+    van "ELE VAI VENDER OS ÓRGÃOS DELES!?" with ssshake
 
 # game/scripts/kali_events.rpy:4670
 translate pt_br kali_unihistory_7b6b54fc:
 
     # k "... \n{i}(Holy shit, she's actually not too far off...){/i}"
-    k ""
+    k "... \n{i}(Puta merda, ela não tá tão longe...){/i}"
 
 # game/scripts/kali_events.rpy:4672
 translate pt_br kali_unihistory_a4d36323:
 
     # van "*sigh*... I'm sorry, sometimes I get too heated about these things..."
-    van ""
+    van "*suspiro*... me desculpe, as vezes eu fico muito esquentada com esses coisas..."
 
 # game/scripts/kali_events.rpy:4674
 translate pt_br kali_unihistory_21687592:
 
     # nala "But she's still right... you could make a huge difference."
-    nala ""
+    nala "Mas ela tá certa... você pode fazer uma grande diferença."
 
 # game/scripts/kali_events.rpy:4676
 translate pt_br kali_unihistory_bd56c040:
 
     # kim "Yeah, I like my robot puppies, but I wouldn't mind paying extra for them if it meant elves could be free, you know?"
-    kim ""
+    kim "Isso, eu gosto dos meus filhotes robôs, mas, eu não me importaria de pagar mais para eles caso seja pela liberdade dos elfos, sabe?"
 
 # game/scripts/kali_events.rpy:4677
 translate pt_br kali_unihistory_f78a29db:
 
     # k "Yeah, I get it..."
-    k ""
+    k "Sim, eu entendi..."
 
 # game/scripts/kali_events.rpy:4678
 translate pt_br kali_unihistory_537752e3:
 
     # kim "She's learning!"
-    kim ""
+    kim "Ela entendeu!"
 
 # game/scripts/kali_events.rpy:4679
 translate pt_br kali_unihistory_dfbbb168:
 
     # k "Hey..."
-    k ""
+    k "Ei..."
 
 # game/scripts/kali_events.rpy:4681
 translate pt_br kali_unihistory_4b6410ed:
 
     # van "And don't even get me started on landlords..."
-    van ""
+    van "E nem me deixe começar a falar dos lordes..."
 
 # game/scripts/kali_events.rpy:4683
 translate pt_br kali_unihistory_53ba469d:
 
     # nala "Anyway... back to history... there is more if you'd like to learn it."
-    nala ""
+    nala "De qualquer forma... de volta a história... tem mais, caso vocês queiram ouvir."
 
 # game/scripts/kali_events.rpy:4686
 translate pt_br kali_unihistory_f5875551:
 
     # k "Yeah sure, why not."
-    k ""
+    k "Sim claro, por que não."
 
 # game/scripts/kali_events.rpy:4687
 translate pt_br kali_unihistory_a0768e4a:
 
     # nala "Ooh, I have both of your attentions now? Great! I'll give you something awesome... let's see..."
-    nala ""
+    nala "Ooh, eu consegui a atenção de vocês dois agora, né? Ótimo! Eu vou ensinar algo incrível para vocês... deixe-me ver..."
 
 # game/scripts/kali_events.rpy:4688
 translate pt_br kali_unihistory_3416745b:
 
     # nala "The desert elves! Most elves were naturists, but the desert elves were animists! Arthur wrote that they wore no armor at all, and most were often fully exposed in the nude. He says they had no shame at all, but now of course we would consider them culturally nudists. And some tribes still are."
-    nala ""
+    nala "Os elfos do deserto! A maioria deles são naturalistas, mas os elfos do deserto são animistas! Arthur escreveu que eles não usavam armadura, na verdade a maioria deles estavam inteiramente nus. Ele disse que eles não tinham vergonha na verdade, mas atualmente nós o consideraríamos naturalistas oficiais. E algumas tribos ainda são."
 
 # game/scripts/kali_events.rpy:4689
 translate pt_br kali_unihistory_f9cd9346:
 
     # c "You're saying there are tribes of nudist elves in Syl'anar right now? Where?"
-    c ""
+    c "Você tá dizendo que existi tribos de naturalistas em Syl'anar, tipo, agora? Onde?"
 
 # game/scripts/kali_events.rpy:4690
 translate pt_br kali_unihistory_3dcc85f7:
 
     # nala "Syl'tali! The north western region of Syl'anar."
-    nala ""
+    nala "Syl'tali! Na região noroeste de Syl'anar."
 
 # game/scripts/kali_events.rpy:4692
 translate pt_br kali_unihistory_64173c31:
 
     # c "Oh, I've been there with Lin. I went to a little town called Rockport."
-    c ""
+    c "Oh, eu já estive lá com a Lin. Eu fui para uma cidade chamada Rockport."
 
 # game/scripts/kali_events.rpy:4693
 translate pt_br kali_unihistory_cea5d626:
 
     # kim "I've never been, what's it like?"
-    kim ""
+    kim "Eu nunca fui, como é que é?"
 
 # game/scripts/kali_events.rpy:4694
 translate pt_br kali_unihistory_0e8fab38:
 
     # c "Kind of boring."
-    c ""
+    c "Meio chato."
 
 # game/scripts/kali_events.rpy:4695
 translate pt_br kali_unihistory_031a2d5f:
 
     # kim "Oh..."
-    kim ""
+    kim "Oh..."
 
 # game/scripts/kali_events.rpy:4696
 translate pt_br kali_unihistory_ee23b094:
 
     # nala "Of course since they didn't have much nature to speak of, they couldn't build much. Instead, they made use of the mountains and carved entire cities into them! The biggest is said to have housed up to 50,000!"
-    nala ""
+    nala "É claro, já que eles não tinham o costume de falar, eles não podiam construir muito. Ao invés, eles usaram as montanhas e cavaram enormes cidades no meio delas! A maior, dizem já ter abrigado mais de 50,000!"
 
 # game/scripts/kali_events.rpy:4698
 translate pt_br kali_unihistory_b66299c0:
 
     # nala "We went there last semester for my history class, and it's so beautiful! In summer, the snow on the peaks melt and the elves were able to take advantage of that! They made canals for the fresh water that poured directly down their mountain!"
-    nala ""
+    nala "Nós fomos lá no último semestre na minha aula de história, e é lindo! No verão, a neve no pico da montanha derrete e os elfos foram capazes de tirar vantagem disso! Eles fizeram canais que leva a água fresca do topo até o pé da montanha!"
 
 # game/scripts/kali_events.rpy:4699
 translate pt_br kali_unihistory_6eadbdbc:
 
     # nala "You'd think it would be barren and dry, but that place is actually very green! It's so beautiful..."
-    nala ""
+    nala "Você pensaria que o lugar seria barroso e seco, mas na verdade aquele lugar é bem verde! É muito bonito..."
 
 # game/scripts/kali_events.rpy:4700
 translate pt_br kali_unihistory_77110f2f:
 
     # k "Must be a tall mountain for it to snow in the desert..."
-    k ""
+    k "Deve ser uma montanha grande para nevar no deserto..."
 
 # game/scripts/kali_events.rpy:4701
 translate pt_br kali_unihistory_cbfb5f35:
 
     # nala "It's only the tallest mountain on this planet!"
-    nala ""
+    nala "É só a motanha mais alta do planeta!"
 
 # game/scripts/kali_events.rpy:4703
 translate pt_br kali_unihistory_027b2b62:
 
     # van "Someone didn't pay attention in geography!"
-    van ""
+    van "Alguém não prestou atenção nas aulas de geografia!"
 
 # game/scripts/kali_events.rpy:4704
 translate pt_br kali_unihistory_fddc2960:
 
     # k "Eh... heheh..."
-    k ""
+    k "Eh... heheh..."
 
 # game/scripts/kali_events.rpy:4706
 translate pt_br kali_unihistory_8308a5c0:
 
     # k "Wait, how did they feed all those people in the desert?"
-    k ""
+    k "Espera, como eles alimentam todas aquelas pessoas no deserto?"
 
 # game/scripts/kali_events.rpy:4707
 translate pt_br kali_unihistory_584af2af:
 
     # nala "Good question! There is almost no suitable land to farm, and animals were incredibly sparse, but bountiful."
-    nala ""
+    nala "Boa pergunta! Lá, há terras propícias para agricultura, e havia menos espécies de animais, mas abundantes."
 
 # game/scripts/kali_events.rpy:4708
 translate pt_br kali_unihistory_fc675079:
 
     # nala "Most elves have been recorded farming crops, husbandry was extremely rare among the elvish population due to the lack of domesticable animals on Syl'anar, but with nowhere else to turn the desert elves fished their food!"
-    nala ""
+    nala "A maioria dos elfos eram fazendeiros, a criação de animais era extremamente rara em Syl'anar, devido à falta dos mesmos. Mas sem mais nenhum lugar para ir os elfos praticavam a pesca!"
 
 # game/scripts/kali_events.rpy:4710
 translate pt_br kali_unihistory_13a57750:
 
     # nala "The mountain range that roughly 72 percent of the desert elf population inhabited is within a day's walking distance to a lush coral reef. It worked quite well for tens of thousands of years, but fishing had its limits... the desert elves had the smallest population out of the civilized elves. Still do."
-    nala ""
+    nala "A cadeia de montanhas - onde 72 por cento dos elfos do deserto viviam - dava um dia de caminhada até os resuberantes recifes de corais. Funcionou por algumas dezenas de centenas de anos, mas pescaria tinha suas limitações... os elfos do deserto tinham a menor população dentre os elfos civilizados. Ainda são."
 
 # game/scripts/kali_events.rpy:4711
 translate pt_br kali_unihistory_8b59800e:
 
     # k "What about drow?"
-    k ""
+    k "E os drow?"
 
 # game/scripts/kali_events.rpy:4713
 translate pt_br kali_unihistory_4a831469:
 
     # nala "They've never built a civilization, they live in small familial groups."
-    nala ""
+    nala "Eles nunca chegaram a construir uma civilização, eles viviam em pequenos grupos na forma de famílias."
 
 # game/scripts/kali_events.rpy:4714
 translate pt_br kali_unihistory_42b8489b:
 
     # nala "As much as we love elves here... drow aren't always considered true elves. They're primitive... I guess you could think of them like an elvish neanderthal! Except they're still alive."
-    nala ""
+    nala "Mesmo que nós amamos os elfos aqui... os drows, na realidade não são considerados elfos de verdade. Eles são primitivos... eu acho que você pode pensar neles como os elfos neandertais! Exceto que eles ainda estão vivos."
 
 # game/scripts/kali_events.rpy:4715
 translate pt_br kali_unihistory_82d779c3:
 
     # nala "This is why breeding with a drow is illegal in Syl'anar, human-drow crossbreeding result in... deadly birth defects. It's rare for a half drow to even live up to 30 years, if at all."
-    nala ""
+    nala "E é por isso que acasalar com o um drow é ilegal em Syl'anar, mestiços de humanos e drows resultam em... fetos com defeitos congênitos mortais. É raro para um mestiço viver mais que 30 anos, no máximo."
 
 # game/scripts/kali_events.rpy:4717
 translate pt_br kali_unihistory_998d57e6:
 
     # nala "But there are those who still think the desert elves are savages... as if they were no different from the drow."
-    nala ""
+    nala "Mas ainda tem aqueles que pensam que os elfos do deserto são selvagens... como se eles não fossem diferentes dos drows."
 
 # game/scripts/kali_events.rpy:4719
 translate pt_br kali_unihistory_827a0f19:
 
     # nala "But they're actually very similar to common elves. And they have big cute floppy ears!"
-    nala ""
+    nala "Mas na verdade, eles bem similares aos elfos comuns. E eles tem orelhas fofinhas!"
 
 # game/scripts/kali_events.rpy:4721
 translate pt_br kali_unihistory_ed33505d:
 
     # c "Tell me about the common elves."
-    c ""
+    c "Me fale sobre os elfos comuns."
 
 # game/scripts/kali_events.rpy:4722
 translate pt_br kali_unihistory_96f8f56c:
 
     # nala "Oh interested in them? Is your slave a common elf?"
-    nala ""
+    nala "Oh, interessado neles? O seu elfo é um elfo comum?"
 
 # game/scripts/kali_events.rpy:4724
 translate pt_br kali_unihistory_830ba789:
 
     # nala "Let's see... Arthur Longspear writes that the common elves were the most organized of them all. Their population was massive and incomparable to the others."
-    nala ""
+    nala "Vejamos... Arthur Longspear escreveu que os elfos comuns eram os mais organizados dentre todas as outras espécies de elfos. A população deles era massiva e incomparável com as outras."
 
 # game/scripts/kali_events.rpy:4725
 translate pt_br kali_unihistory_df81361f:
 
     # nala "Here's what Arthur wrote directly into his diary... 'Unlike the others, the common elves have a more structured and... recognizable society. With standing armies, although ill-equipped, and vassals who swore themselves to the leader of their people.'"
-    nala ""
+    nala "Aqui o que Arthur escreveu em seu diário... 'Diferente dos outros, os elfos comuns são mais estruturados e... mais reconhecíveis como sociedade. Com exércitos estáveis, porém, mal equipados. E vassalos que juravam lealdade ao líder deles.'"
 
 # game/scripts/kali_events.rpy:4728
 translate pt_br kali_unihistory_5d66f225:
 
     # c "Queen Jia, right? The Syl'ris."
-    c ""
+    c "A rainha Jia, né? A Syl'ris."
 
 # game/scripts/kali_events.rpy:4729
 translate pt_br kali_unihistory_96643650:
 
     # nala "No, he's actually talking about her father! Queen Jia was born the same year Syl'anar was founded as a human empire. This was quite a bit before then."
-    nala ""
+    nala "Não, na verdade ele estava falando do pai dela! A rainha Jia nasceu no mesmo ano de fundação de Syl'anar como um império humano. Mas isso foi um pouco antes disso. "
 
 # game/scripts/kali_events.rpy:4731
 translate pt_br kali_unihistory_0beba063:
 
     # nala "The common elves are known for their vast farms and canals. It's said that to keep up with their population's demand for food, they would extend the fertile rivers inland with canals which brought bountiful harvests further inland. They exported food to the entire continent, and had a solid grip on the other regions because of it."
-    nala ""
+    nala "Os elfos comuns são conhecidos pelas suas vastas fazendas e aquedutos. É dito que isso é para abastecer a sua alta demanda por comida, eles extenderiam suas terras férteis com arquedutos, oque trazia boas colheitas pela ilha. Eles exportavam comida pelo continente inteiro, a tinham uma sólida reputação com as outras regiões por causa disso."
 
 # game/scripts/kali_events.rpy:4732
 translate pt_br kali_unihistory_f999daaa:
 
     # nala "Arthur notes the same stone used for the dark elf's pyramids were used to control the flow of nearly every river and canal through way of dams and aqueducts. Perfectly shaped stone placed together like puzzle pieces!"
-    nala ""
+    nala "Arthur escreveu que o mesmo tipo de pedra usado pelos elfos negros foi usada para controlar o fluxo de cada rio pelo caminho de arquedutos. Polidas perfeitamente e colocadas como um grande quebra cabeça!"
 
 # game/scripts/kali_events.rpy:4733
 translate pt_br kali_unihistory_96379fae:
 
     # k "They sound kind of advanced for their time."
-    k ""
+    k "Eles pareciam avançados pelo seu tempo."
 
 # game/scripts/kali_events.rpy:4734
 translate pt_br kali_unihistory_7aff2639:
 
     # nala "They were! Arthur mentions the common elves gave his empire the most trouble. They had invented a type of bow unseen in the human world, one able to pierce even plate armor! A type of composite bow, with a draw strength unmatched by anything the humans had."
-    nala ""
+    nala "Eles eram! Arthur menciona que os elfos comuns foram os que deram mais trabalho para o império. Eles inevntaram um tipo de arco nunca antes visto no mundo humano, um capaz de perfurar até mesmo armaduras de placas! Um tipo de arco de combustão, com uma força de disparo que não se comparava a nada que os humanos tinham."
 
 # game/scripts/kali_events.rpy:4735
 translate pt_br kali_unihistory_9f01e2da:
 
     # nala "The common elves would rarely fight in hand-to-hand combat, which was advantageous to them, as they're physically weaker than humans in every way. Hundreds upon hundreds of thousands of casualties on both sides, but as you know, in the end, the humans won... with the help of disease and famine."
-    nala ""
+    nala "Os elfos comuns raramente lutavam corpo-a-corpo, porque era desvantajoso para eles, pois eles eram fisicamente mais fracos que os humano, em todos os sentidos. Centenas e centenas de casualidades em ambos os lados, mas como vocês sabem, no final os humanos ganharam... com a ajuda de doenças e da fome."
 
 # game/scripts/kali_events.rpy:4736
 translate pt_br kali_unihistory_9a892683:
 
     # nala "Oh! And as you probably already know, Arthur also writes about the common elves' tradition in which they take a day off after every six days to feast, make art, jewelry, or totems, entertain themselves, and attempt to procreate."
-    nala ""
+    nala "Oh! E como você já deve saber, Arthur também já escreveu sobre as tradições dos elfos comuns nos quais eles tiravam um dia a cada seis dias para festejar, criar artes, jóias, ou totens, se entreter, e tentar procriar."
 
 # game/scripts/kali_events.rpy:4738
 translate pt_br kali_unihistory_f92b30b6:
 
     # nala "Fun fact, elves have an incredibly low fertility rate compared to humans, so if any elves were trying for a child, they would be trying for quite some time!"
-    nala ""
+    nala "Fato interessante, elfos tem uma taxa de fertilidade menor se comparado aos humanos, então se algum elfos queria ter uma criança, eles teriam que tentar diversas vezes!"
 
 # game/scripts/kali_events.rpy:4740
 translate pt_br kali_unihistory_71d368ca:
 
     # nala "This day was known to the common elves as Midlari-Uneli - literally meaning middle week celebration - where they would stop working completely if they could and just sort of did whatever social or productive activity they wanted to which proved to be very beneficial to their society."
-    nala ""
+    nala "Esse dia ficou conhecido entre os elfos comuns como Midlari-Uneli - significa literalmente, celebração de meia semana - onde eles poderiam para de trabalhar completamete se eles pudessem e fazer atividades socias ou produtivas que eles quisessem, oque provou ser muito benéfico para a sociedade deles."
 
 # game/scripts/kali_events.rpy:4742
 translate pt_br kali_unihistory_4f4359e3:
 
     # nala "I guess you could say elves invented the weekend! Hahah..."
-    nala ""
+    nala "Eu acho que pode-se dizer que os elfos inventaram os finais de semana! Hahah..."
 
 # game/scripts/kali_events.rpy:4743
 translate pt_br kali_unihistory_0462cf72:
 
     # van "She jokes, but she's not actually wrong..."
-    van ""
+    van "Ela pode até fazer piadas, mas ela não está errada..."
 
 # game/scripts/kali_events.rpy:4744
 translate pt_br kali_unihistory_5ed19581:
 
     # nala "With all that time on their hands, elves must be so incredibly wise. I would honestly love to meet an elderly elf! I bet there are a lot of philosphers!"
-    nala ""
+    nala "Com todo esse tempo nas em suas mãos, os elfos eram incrivelmente sábios. Eu honestamente iria amar conhecer um elfo mais idoso! Eu aposto que há vários filósofos!"
 
 # game/scripts/kali_events.rpy:4745
 translate pt_br kali_unihistory_a73c030f:
 
     # k "I thought elves were a bit... slow?"
-    k ""
+    k "Eu pensei que os elfos eram um pouco.. devagar?"
 
 # game/scripts/kali_events.rpy:4746
 translate pt_br kali_unihistory_2d7e907c:
 
     # nala "Sure, but that's completely counter balanced by their incredibly long life spans. An elderly elf would be wiser than the next 10 men combined!"
-    nala ""
+    nala "Sim, mas isso é balanceado pelo seu incrível tempo de vida. Um elfo idoso seria mais sábio que dez homens combinados!"
 
 # game/scripts/kali_events.rpy:4747
 translate pt_br kali_unihistory_6ed85133:
 
     # nala "Some flowers just take longer to bloom, you know?"
-    nala ""
+    nala "Algumas flores só demoram para florescer, sacou?"
 
 # game/scripts/kali_events.rpy:4748
 translate pt_br kali_unihistory_e38c2591:
 
     # k "Oh, yeah. I guess that makes sense..."
-    k ""
+    k "Oh, sim. Faz sentido..."
 
 # game/scripts/kali_events.rpy:4750
 translate pt_br kali_unihistory_b604a831:
 
     # k "Vanessa, all of this is... pretty cool actually, but... what's the point of telling me this? I'm not my Dad, I don't have any power..."
-    k ""
+    k "Vanessa, tudo isso é... muito legal na verdade, mas... qual é o ponto de me contar isso? Eu não sou o meu pai, eu não tenho poder..."
 
 # game/scripts/kali_events.rpy:4751
 translate pt_br kali_unihistory_b33ef9da:
 
     # van "You do, though! We all hold a bit of power as humans in this society, and you even have influence on Trenero!"
-    van ""
+    van "Você tem, na verdade! Todos nós carregamos um pouco de poder como humanos nessa sociedade, e você tem a influência de um Trenero!"
 
 # game/scripts/kali_events.rpy:4752
 translate pt_br kali_unihistory_b038128e:
 
     # van "Talk to him! Tell him to stop using elvish labor, tell him to publicly support the freeing of elves!"
-    van ""
+    van "Converse com ele! Diga para ele parar de usar trabalho élfico, diga para ele fazer publicidade de libertação dos elfos!"
 
 # game/scripts/kali_events.rpy:4753
 translate pt_br kali_unihistory_ab3dcc54:
 
     # k "It's not that easy... there's a lot of politics involved for him..."
-    k ""
+    k "Não é assim tão fácil... tem um monte de política envolvida com ele..."
 
 # game/scripts/kali_events.rpy:4755
 translate pt_br kali_unihistory_c139250e:
 
     # van "No shit, it's ALL politics! He's one of the most powerful men on the planet!"
-    van ""
+    van "Sem essa, é TUDO sobre política! Ele é um dos mais poderosos homens do planeta!"
 
 # game/scripts/kali_events.rpy:4756
 translate pt_br kali_unihistory_cc1a0127:
 
     # k "Then maybe you can understand why someone like me, the daughter he abandoned on the other side of the world, and who was a pizza delivery girl until she joined college {i}late{/i} would have no say in the matter!"
-    k ""
+    k "Então talvez você possa entender o porque de alguém como eu, a filha que ele abandonou no outro lado do mundo, e que era entregadora até antes de entrar {i}atrasada{/i} na faculdade, não teria poder de fala!"
 
 # game/scripts/kali_events.rpy:4757
 translate pt_br kali_unihistory_1b0c9b6c:
 
     # k "I was going to be the heir of his corperate empire, but I declined that and came here instead, so any power I would have had in this world is gone! Okay?"
-    k ""
+    k "Eu iria ser a herdeira do império de corporação dele, mas eu neguei isso e vim até aqui ao invés, então qualquer poder que eu teria nesse mundo se foi! Ok?"
 
 # game/scripts/kali_events.rpy:4759
 translate pt_br kali_unihistory_a188886b:
 
     # van "Okay, I don't know your life, or your relationship with him that well... but that doesn't mean you can't do anything!"
-    van ""
+    van "Ok, eu não sei nada sobre a sua vida, ou sua relação com ele... mas isso não significa que você não pode fazer nada!"
 
 # game/scripts/kali_events.rpy:4760
 translate pt_br kali_unihistory_d1f519d7:
 
     # van "If this is a world you want, something you truly want, you'll find a way to help."
-    van ""
+    van "Se esse é um mundo que você quer, algo que você verdadeiramente quer, você vai encontrar uma maneira de ajudar."
 
 # game/scripts/kali_events.rpy:4761
 translate pt_br kali_unihistory_f6be7146:
 
     # k "I have no idea what that would be... but I would like to help."
-    k ""
+    k "Eu não faço idéia de como... mas eu quero ajudar."
 
 # game/scripts/kali_events.rpy:4763
 translate pt_br kali_unihistory_fea9bd84:
 
     # van "Well then! Step one could be joining our club!"
-    van ""
+    van "Bem! Passo um, junte-se ao nosso clube!"
 
 # game/scripts/kali_events.rpy:4764
 translate pt_br kali_unihistory_bc813c50:
 
     # k "Your club?"
-    k ""
+    k "Seu clube?"
 
 # game/scripts/kali_events.rpy:4765
 translate pt_br kali_unihistory_005fb195:
 
     # van "Yeah, we set up protests, join protests, make signs, that sort of thing!"
-    van ""
+    van "Isso, nós estamos organizandos protestos, junte-se a protestos, faça placas, esse tipo de coisa!"
 
 # game/scripts/kali_events.rpy:4767
 translate pt_br kali_unihistory_ca2817ca:
 
     # van "{size=-10}{i}And sometimes, ya know... we burn some property when they deserve it...{/i}{/size}"
-    van ""
+    van "{size=-10}{i}E as vezes, cê sabe... nós queimamos algumas propriedades quando eles merecem...{/i}{/size}"
 
 # game/scripts/kali_events.rpy:4768
 translate pt_br kali_unihistory_4fb5c494:
 
     # nala "Shhh...!"
-    nala ""
+    nala "Shhh...!"
 
 # game/scripts/kali_events.rpy:4770
 translate pt_br kali_unihistory_c20cb464:
 
     # van "Hey, well slave owners can be very unsurprisingly violent, ya know?"
-    van ""
+    van "Bem, escravagistas podem ser (não surpreedentemente) violentos, sabe?"
 
 # game/scripts/kali_events.rpy:4771
 translate pt_br kali_unihistory_76c1f73a:
 
     # k "Oh, I see..."
-    k ""
+    k "Oh, entendo..."
 
 # game/scripts/kali_events.rpy:4773
 translate pt_br kali_unihistory_50be8954:
 
     # k "I don't know..."
-    k ""
+    k "Eu não sei..."
 
 # game/scripts/kali_events.rpy:4774
 translate pt_br kali_unihistory_cde73f07:
 
     # van "It'll be fun, I promise! And you'll be doing good for the world, we'll make real change!"
-    van ""
+    van "Vai ser divertido, eu prometo! E você estará fazendo o bem pelo mundo, nós faremos uma mudança de verdade!"
 
 # game/scripts/kali_events.rpy:4775
 translate pt_br kali_unihistory_1ff4941f:
 
     # k "I'll think on it..."
-    k ""
+    k "Eu vou pensar..."
 
 # game/scripts/kali_events.rpy:4776
 translate pt_br kali_unihistory_95421e7d:
 
     # van "That's all I wanted to hear! Thank you, Kali!"
-    van ""
+    van "Era isso que eu queria ouvir! Obrigada, Kali!"
 
 # game/scripts/kali_events.rpy:4777
 translate pt_br kali_unihistory_17f4876e:
 
     # k "You'd better help me with my homework..."
-    k ""
+    k "É melhor você me ajudar com meu dever de casa..."
 
 # game/scripts/kali_events.rpy:4778
 translate pt_br kali_unihistory_eaf71bde:
 
     # van "Of course!"
-    van ""
+    van "É claro!"
 
 # game/scripts/kali_events.rpy:4780
 translate pt_br kali_unihistory_d0245497:
 
     # k "Phew... sorry for dragging you through that... thanks for coming though! And I really appreciate the coffee..."
-    k ""
+    k "Phew... desculpe te arrastar nisso tudo... mas obrigada por vir! E eu agradeço pelo café..."
 
 # game/scripts/kali_events.rpy:4781
 translate pt_br kali_unihistory_4d455659:
 
     # k "Maybe next time remind her I like energy drinks?"
-    k ""
+    k "Talvez na próxima vez peça para ela pegar alguns energéticos?"
 
 # game/scripts/kali_events.rpy:4782
 translate pt_br kali_unihistory_efa045b8:
 
     # c "Sure, hahah."
-    c ""
+    c "Claro, hahah."
 
 # game/scripts/kali_events.rpy:4783
 translate pt_br kali_unihistory_78f16bee:
 
     # k "Cool. Alright, let's get out of here..."
-    k ""
+    k "Legal. Beleza, vamos dar o fora daqui..."
 
 # game/scripts/kali_events.rpy:4785
 translate pt_br kali_unihistory_c6a5f1a7:
 
     # "You and Kali drive home together..."
-    ""
+    "Você e Kali voltam para o hotel..."
 
 # game/scripts/kali_events.rpy:4797
 translate pt_br kali_unihistory_7524976d:
@@ -18022,679 +18022,679 @@ translate pt_br kali_sexytime_a8bd0696:
 translate pt_br kali_sexytime_5281af07:
 
     # k "Come on, come on...! Hahhhhnnnn...!"
-    k ""
+    k "Vai, vai...! Hahhhhnnnn...!"
 
 # game/scripts/kali_events.rpy:4831
 translate pt_br kali_sexytime_cca77806:
 
     # k "Nngh! Fuck it!" with ssshake
-    k "" with ssshake
+    k "Nngh! Porra!" with ssshake
 
 # game/scripts/kali_events.rpy:4832
 translate pt_br kali_sexytime_38cb4ff2:
 
     # k "Ahh... It's no use... Hahhh... I can't do it... Hahh..."
-    k ""
+    k "Ahh... não adianta... Hahhh... Eu não consigo... Hahh..."
 
 # game/scripts/kali_events.rpy:4837
 translate pt_br kali_sexytime_004f5371:
 
     # k "[name]!" with ssshake
-    k "" with ssshake
+    k "[name]!" with ssshake
 
 # game/scripts/kali_events.rpy:4840
 translate pt_br kali_sexytime_951f01e5:
 
     # k "Um... I... was just coming to see you..."
-    k ""
+    k "Um... Eu... eu estava indo te procurar..."
 
 # game/scripts/kali_events.rpy:4841
 translate pt_br kali_sexytime_e4da379b:
 
     # c "What can I help you with?"
-    c ""
+    c "Do que precisa?"
 
 # game/scripts/kali_events.rpy:4844
 translate pt_br kali_sexytime_6647975e:
 
     # k "Uh, could you come inside for a second?"
-    k ""
+    k "Uh, você pode entrar por um segundo?"
 
 # game/scripts/kali_events.rpy:4848
 translate pt_br kali_sexytime_f9e5cb7f:
 
     # k "Um... so, uh..."
-    k ""
+    k "Um... então, uh..."
 
 # game/scripts/kali_events.rpy:4849
 translate pt_br kali_sexytime_0406047a:
 
     # c "Were you just having some fun?"
-    c ""
+    c "Tava se divertindo?"
 
 # game/scripts/kali_events.rpy:4851
 translate pt_br kali_sexytime_93334484:
 
     # k "What?"
-    k ""
+    k "Que?"
 
 # game/scripts/kali_events.rpy:4852
 translate pt_br kali_sexytime_835355d3:
 
     # k "Nnngh... {size=-10}{i}Shit, I forgot to put it away...{/i}{/size}"
-    k ""
+    k "Nnngh... {size=-10}{i}Merda, eu esqueci de guardar...{/i}{/size}"
 
 # game/scripts/kali_events.rpy:4854
 translate pt_br kali_sexytime_f8b78a71:
 
     # k "Y-Yeah... that's actually what I wanted to talk to you about..."
-    k ""
+    k "B-Bem... é sobre isso o que eu queria falar com você..."
 
 # game/scripts/kali_events.rpy:4855
 translate pt_br kali_sexytime_6e6ce20e:
 
     # c "Oh?"
-    c ""
+    c "Oh?"
 
 # game/scripts/kali_events.rpy:4856
 translate pt_br kali_sexytime_c1bbcd99:
 
     # k "So... *ehem*..."
-    k ""
+    k "Então... *ehem*..."
 
 # game/scripts/kali_events.rpy:4858
 translate pt_br kali_sexytime_214c2c30:
 
     # k "So, I have a hard time cumming, or whatever..."
-    k ""
+    k "Então, Eu tenho dificuldade em ter um orgasmo, ou algo do tipo..."
 
 # game/scripts/kali_events.rpy:4859
 translate pt_br kali_sexytime_190fcad9:
 
     # k "Nothing really seems to... work."
-    k ""
+    k "Nada parece... funcionar."
 
 # game/scripts/kali_events.rpy:4861
 translate pt_br kali_sexytime_b67f0eb7:
 
     # k "Except for..."
-    k ""
+    k "Exceto por..."
 
 # game/scripts/kali_events.rpy:4862
 translate pt_br kali_sexytime_f20de71f:
 
     # k "Cock..."
-    k ""
+    k "Pau..."
 
 # game/scripts/kali_events.rpy:4864
 translate pt_br kali_sexytime_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:4866
 translate pt_br kali_sexytime_62874185:
 
     # k "So... I was thinking you could help with that, or whatever..."
-    k ""
+    k "Então... Eu tava pensando se você pudesse me ajudar com isso, ou sei lá..."
 
 # game/scripts/kali_events.rpy:4867
 translate pt_br kali_sexytime_b3354cae:
 
     # c "Sure, I think I can help."
-    c ""
+    c "Claro, acho que eu posso te ajudar."
 
 # game/scripts/kali_events.rpy:4868
 translate pt_br kali_sexytime_c6ffab65:
 
     # k "Well, don't get too excited... I don't like you or anything. I'm just using your dick..."
-    k ""
+    k "Bem, não fique muito animado... Eu não gosto de você nem nada do tipo. Eu vou só usar o seu pau..."
 
 # game/scripts/kali_events.rpy:4870
 translate pt_br kali_sexytime_eef0d883:
 
     # k "I guess I'll get started..."
-    k ""
+    k "Eu acho que vou começar..."
 
 # game/scripts/kali_events.rpy:4876
 translate pt_br kali_sexytime_0b219753:
 
     # k "Okay... get on the bed now..."
-    k ""
+    k "Okay... vá pra cama..."
 
 # game/scripts/kali_events.rpy:4878
 translate pt_br kali_sexytime_77ccc021:
 
     # k "Don't get any ideas... I'm in control here, got it?"
-    k ""
+    k "Não tente nenhuma gracinha... Eu estou no controle aqui, entendeu?"
 
 # game/scripts/kali_events.rpy:4880
 translate pt_br kali_sexytime_f4a6666f:
 
     # k "Here we go..."
-    k ""
+    k "Aqui vou eu..."
 
 # game/scripts/kali_events.rpy:4882
 translate pt_br kali_sexytime_625b4035:
 
     # k "Hnnn... nnngh!"
-    k ""
+    k "Hnnn... nnngh!"
 
 # game/scripts/kali_events.rpy:4883
 translate pt_br kali_sexytime_bb3a7fe8:
 
     # k "Fuck, that's big... nnnh..."
-    k ""
+    k "Porra, isso é grande... nnnh..."
 
 # game/scripts/kali_events.rpy:4885
 translate pt_br kali_sexytime_91a22b89:
 
     # k "Hey, not bad [name]... you feel pretty good..."
-    k ""
+    k "Ei, nada mal [name]... você é muito bom..."
 
 # game/scripts/kali_events.rpy:4886
 translate pt_br kali_sexytime_9bbf0de8:
 
     # k "Okay... don't you dare move, go it?"
-    k ""
+    k "Okay... nem pensa em se mover, entendu?"
 
 # game/scripts/kali_events.rpy:4888
 translate pt_br kali_sexytime_17af4d88:
 
     # k "Mmmmmm... Nnnnh, that's so much better..."
-    k ""
+    k "Mmmmmm... Nnnnh, isso é bem melhor..."
 
 # game/scripts/kali_events.rpy:4889
 translate pt_br kali_sexytime_81b0643d:
 
     # k "Ahhh...! Mmmn, it's been so long since I had a cock..."
-    k ""
+    k "Ahhh...! Mmmn, já faz tanto tempo desde a minha última vez..."
 
 # game/scripts/kali_events.rpy:4890
 translate pt_br kali_sexytime_7078ca9e:
 
     # k "Nnnngh... fuck..."
-    k ""
+    k "Nnnngh... porra..."
 
 # game/scripts/kali_events.rpy:4893
 translate pt_br kali_sexytime_51b1765c:
 
     # k "Hahh... Nnngh... Fuck..."
-    k ""
+    k "Hahh... Nnngh... Porra..."
 
 # game/scripts/kali_events.rpy:4894
 translate pt_br kali_sexytime_1339fa89:
 
     # k "Fuck..."
-    k ""
+    k "Porra..."
 
 # game/scripts/kali_events.rpy:4896
 translate pt_br kali_sexytime_bc27636f:
 
     # k "Fuck! Urgh, it's never going to happen... I just can't cum..." with ssshake
-    k "" with ssshake
+    k "Porra! Urgh, nunca vai acontecer... Eu só não consigo..." with ssshake
 
 # game/scripts/kali_events.rpy:4897
 translate pt_br kali_sexytime_f9b6c703:
 
     # k "Urgh... whatever... Sorry I dragged you into this..."
-    k ""
+    k "Urgh... tudo bem... Desculpa por te arrastar nisso..."
 
 # game/scripts/kali_events.rpy:4899
 translate pt_br kali_sexytime_ee8489ee:
 
     # k "What are you-" with ssshake
-    k "" with ssshake
+    k "Oque você-" with ssshake
 
 # game/scripts/kali_events.rpy:4901
 translate pt_br kali_sexytime_87fe10ca:
 
     # k "Dude what the fuck! I told you I was in con-"
-    k ""
+    k "Cara, mas que porra! Eu te falei que eu estava no con-"
 
 # game/scripts/kali_events.rpy:4905
 translate pt_br kali_sexytime_2e9a62e3:
 
     # k "Ahh! Fuck!"
-    k ""
+    k "Ahh! Porra!"
 
 # game/scripts/kali_events.rpy:4907
 translate pt_br kali_sexytime_37d71f9c:
 
     # k "Ohh! Oh shit, don't stop! Oh my god! Ahh!"
-    k ""
+    k "Ohh! Oh merda, não para! Oh meu deus! Ahh!"
 
 # game/scripts/kali_events.rpy:4908
 translate pt_br kali_sexytime_88dc9f74:
 
     # k "Hnn! Ahh! [name]! It feels good, it feels {b}really{/b} good! Nnn!"
-    k ""
+    k "Hnn! Ahh! [name]! Tão bom, isso tá {b}muito{/b} bom! Nnn!"
 
 # game/scripts/kali_events.rpy:4909
 translate pt_br kali_sexytime_cefc7b8a:
 
     # k "Mmmmm! Ahh! Oh my god! Fuck [name]! Holy shit!"
-    k ""
+    k "Mmmmm! Ahh! Oh meu deus! Porra, [name]! Puta merda!"
 
 # game/scripts/kali_events.rpy:4912
 translate pt_br kali_sexytime_f72deb16:
 
     # k "Oh shit... oh shit! Something's happening!"
-    k ""
+    k "Oh merda... oh merda! Tá acontecendo!"
 
 # game/scripts/kali_events.rpy:4914
 translate pt_br kali_sexytime_e1b551da:
 
     # k "HNN! NNNNNNNHGH~!" with ssshake
-    k "" with ssshake
+    k "HNN! NNNNNNNHGH~!" with ssshake
 
 # game/scripts/kali_events.rpy:4916
 translate pt_br kali_sexytime_67c46877:
 
     # k "AHHH!" with ssshake
-    k "" with ssshake
+    k "AHHH!" with ssshake
 
 # game/scripts/kali_events.rpy:4918
 translate pt_br kali_sexytime_fba90400:
 
     # k "AHHHHHHHH!!! FUUUCK!" with ssshake
-    k "" with ssshake
+    k "AHHHHHHHH!!! POOORRA!" with ssshake
 
 # game/scripts/kali_events.rpy:4920
 translate pt_br kali_sexytime_b35629e5:
 
     # k "Ahhh... Hahh... You made me cum [name], holy shit..."
-    k ""
+    k "Ahhh... Hahh... Você me fez gozar, [name], puta merda..."
 
 # game/scripts/kali_events.rpy:4921
 translate pt_br kali_sexytime_842b04f8:
 
     # k "Hahahhh... Your turn."
-    k ""
+    k "Hahahhh... Sua vez."
 
 # game/scripts/kali_events.rpy:4923
 translate pt_br kali_sexytime_9e920d5a:
 
     # k "Ahh! Hnn! Yes! Hahh!"
-    k ""
+    k "Ahh! Hnn! Sim! Hahh!"
 
 # game/scripts/kali_events.rpy:4924
 translate pt_br kali_sexytime_cf7abe5b:
 
     # k "Fuck me! Yes! Oh my god! It feels so good! Hnn!"
-    k ""
+    k "Me fode! Isso! Oh meu deus! Tão bom! Hnn!"
 
 # game/scripts/kali_events.rpy:4925
 translate pt_br kali_sexytime_e2d45e0a:
 
     # k "Fuck! Ahh! Whenever you're ready, Hahh! I'm on the pill so... it should be safe if you cum inside... right? Ahh!"
-    k ""
+    k "Porra! Ahh! Quando você quiser, Hahh! Eu tomo pílula, então... tá tudo bem se você quiser gozar dentro... né? Ahh!"
 
 # game/scripts/kali_events.rpy:4931
 translate pt_br kali_sexytime_6ce49530:
 
     # k "*gasp* Oh shit! MMMN!" with ssshake
-    k "" with ssshake
+    k "*suspiro* Oh merda! MMMN!" with ssshake
 
 # game/scripts/kali_events.rpy:4932
 translate pt_br kali_sexytime_501d32fd:
 
     # k "Y-You're cumming inside!? F-Fuck...!" with ssshake
-    k "" with ssshake
+    k "T-Tá gozando dentro!? P-Porra...!" with ssshake
 
 # game/scripts/kali_events.rpy:4933
 translate pt_br kali_sexytime_3a1bb3a9:
 
     # k "Fuck! Fuck! You're filling me up so much! Holy shit!" with ssshake
-    k "" with ssshake
+    k "Porra! Porra! Você tá me enchendo tanto! Puta merda!" with ssshake
 
 # game/scripts/kali_events.rpy:4935
 translate pt_br kali_sexytime_b784e953:
 
     # k "*pant* *pant*... You made me cum... And... you came inside me..."
-    k ""
+    k "*suspiro *suspiro*... Você me fez gozar... E... você gozou dentro de mim..."
 
 # game/scripts/kali_events.rpy:4936
 translate pt_br kali_sexytime_5b170d18:
 
     # k "Hahahhh... [name]... you're not supposed to do that..."
-    k ""
+    k "Hahahhh... [name]... não deveria ter feito isso..."
 
 # game/scripts/kali_events.rpy:4940
 translate pt_br kali_sexytime_07151fca:
 
     # k "*gasp*! Oh shit!"
-    k ""
+    k "*suspiro*! Oh merda!"
 
 # game/scripts/kali_events.rpy:4941
 translate pt_br kali_sexytime_99ea137a:
 
     # k "*pant* *pant* [name]... wow, that's a lot...! You had all of that inside you...?"
-    k ""
+    k "*suspiro* *suspiro* [name]... wow, isso é bastante...! Você tinha tudo isso aí dentro...?"
 
 # game/scripts/kali_events.rpy:4948
 translate pt_br kali_sexytime_3ba1e686:
 
     # k "[name]! I can't believe you made me cum! Thank you so much!"
-    k ""
+    k "[name]! Eu não acredito que você me fez gozar! Muito obrigada!"
 
 # game/scripts/kali_events.rpy:4949
 translate pt_br kali_sexytime_82d8eff6:
 
     # k "It felt so good! Like holy shit! I've never cum from sex before!"
-    k ""
+    k "Foi muito bom! Tipo, puta merda! Eu nunca gozei por sexo antes!"
 
 # game/scripts/kali_events.rpy:4952
 translate pt_br kali_sexytime_6a6e2229:
 
     # k "Um... don't be afraid to come back... to, you know, do it again..."
-    k ""
+    k "Um... não hesite em voltar... para, você sabe, fazer isso de novo..."
 
 # game/scripts/kali_events.rpy:4953
 translate pt_br kali_sexytime_fa2903b0:
 
     # k "I mean... if you want. Whatever."
-    k ""
+    k "Quer dizer... se você quiser. Ou sei lá."
 
 # game/scripts/kali_events.rpy:4958
 translate pt_br kali_sexytime_c5d98fc3:
 
     # "You can now request missionary sex with Kali!"
-    ""
+    "Agora você pode solicitar para fazer sexo missionário com a Kali!"
 
 # game/scripts/kali_events.rpy:4966
 translate pt_br kali_sexytime_e494cf58:
 
     # k "Oh, yeah, sure. No problem..."
-    k ""
+    k "Oh, sim, claro. Sem problema..."
 
 # game/scripts/kali_events.rpy:4975
 translate pt_br kali_steal_3ac518c3:
 
     # k "Hey [name], want to join me in the hot springs?"
-    k ""
+    k "E aí, [name]. Tá a fim de ir nas termas?"
 
 # game/scripts/kali_events.rpy:4976
 translate pt_br kali_steal_93202e27:
 
     # c "Oh, absolutely."
-    c ""
+    c "Oh, com certeza."
 
 # game/scripts/kali_events.rpy:4977
 translate pt_br kali_steal_fa18acf3:
 
     # k "Great, see you there!"
-    k ""
+    k "Ótimo, te vejo lá!"
 
 # game/scripts/kali_events.rpy:4980
 translate pt_br kali_steal_f7b69d4c:
 
     # k "Hey, wanna go nude?"
-    k ""
+    k "Ei, e se agente for nu?"
 
 # game/scripts/kali_events.rpy:4981
 translate pt_br kali_steal_297d93f3:
 
     # c "What?"
-    c ""
+    c "Que?"
 
 # game/scripts/kali_events.rpy:4982
 translate pt_br kali_steal_6faccd24:
 
     # k "You've never done it? I'm surprised, being the owner of this place and all..."
-    k ""
+    k "Você nunca fez isso? Que surpresa, considerando que você é o dono do lugar e tudo..."
 
 # game/scripts/kali_events.rpy:4983
 translate pt_br kali_steal_ee828cbf:
 
     # k "Come on, I've done it a few times now, it's really relaxing."
-    k ""
+    k "Qual é, eu já fiz isso algumas vezes, é muito relaxante."
 
 # game/scripts/kali_events.rpy:4984
 translate pt_br kali_steal_4b7d19cf:
 
     # c "Sure, I won't argue against that."
-    c ""
+    c "Claro, não vou argumentar contra isso."
 
 # game/scripts/kali_events.rpy:4986
 translate pt_br kali_steal_392b399a:
 
     # "You strip your clothes..."
-    ""
+    "Você se despe..."
 
 # game/scripts/kali_events.rpy:4988
 translate pt_br kali_steal_5c44ef4c:
 
     # c "Your turn."
-    c ""
+    c "Sua vez..."
 
 # game/scripts/kali_events.rpy:4989
 translate pt_br kali_steal_e4a8a0d3:
 
     # k "Uh, what do you think I am, a stripper?"
-    k ""
+    k "Uh, acha que eu sou oque, uma stripper?"
 
 # game/scripts/kali_events.rpy:4990
 translate pt_br kali_steal_c86b3c5f:
 
     # k "Turn around, I'm not letting you watch me..."
-    k ""
+    k "Vira pro lado, eu não vou deixar você me assistir..."
 
 # game/scripts/kali_events.rpy:4992
 translate pt_br kali_steal_3bb5b6b4:
 
     # k "It's too bad you didn't bring a towel..."
-    k ""
+    k "É uma pena você não ter trazido uma toalha..."
 
 # game/scripts/kali_events.rpy:4994
 translate pt_br kali_steal_4e5a4202:
 
     # c "Why?"
-    c ""
+    c "Por que?"
 
 # game/scripts/kali_events.rpy:4996
 translate pt_br kali_steal_afc6287d:
 
     # k "You're gonna wish you had, asshole!" with ssshake
-    k "" with ssshake
+    k "Você vai se arrepender de não trazer, idiota!" with ssshake
 
 # game/scripts/kali_events.rpy:4997
 translate pt_br kali_steal_3784857a:
 
     # c "...?"
-    c ""
+    c "...?"
 
 # game/scripts/kali_events.rpy:5000
 translate pt_br kali_steal_7339d0d7:
 
     # k "Hah!"
-    k ""
+    k "Hah!"
 
 # game/scripts/kali_events.rpy:5001
 translate pt_br kali_steal_c822a94f:
 
     # c "Did you steal my swim shorts?"
-    c ""
+    c "Você roubou meu short?"
 
 # game/scripts/kali_events.rpy:5002
 translate pt_br kali_steal_eb58f25e:
 
     # k "Sucks, huh?"
-    k ""
+    k "É uma droga, né?"
 
 # game/scripts/kali_events.rpy:5003
 translate pt_br kali_steal_39d57bee:
 
     # c "If you wanted to see me naked, all you had to do was ask..."
-    c ""
+    c "Se você queria me ver pelado, era só pedir..."
 
 # game/scripts/kali_events.rpy:5005
 translate pt_br kali_steal_76076df2:
 
     # k "Hey, don't use my line on me! I- I don't want to see you naked, I want to embarrass the fuck out of you!"
-    k ""
+    k "Ei, não use as minhas falas! E-Eu não queria te ver pelado, eu queria te envergonhar pra caralho!"
 
 # game/scripts/kali_events.rpy:5007
 translate pt_br kali_steal_ab691fe3:
 
     # k "Tsk... it didn't even work... you're not embarrassed at all..."
-    k ""
+    k "Tsk... nem funcionou... você nem tá com vergonha..."
 
 # game/scripts/kali_events.rpy:5009
 translate pt_br kali_steal_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:5010
 translate pt_br kali_steal_506c11b1:
 
     # c "What are you doing?"
-    c ""
+    c "Oque cê tá fazendo?"
 
 # game/scripts/kali_events.rpy:5012
 translate pt_br kali_steal_fd4ceffa:
 
     # k "Nothing!"
-    k ""
+    k "Nada!"
 
 # game/scripts/kali_events.rpy:5013
 translate pt_br kali_steal_639656c1:
 
     # c "You can touch it if you want. I've touched you, it's only fair..."
-    c ""
+    c "Você pode tocar se quiser. Eu toquei você, nada mais justo..."
 
 # game/scripts/kali_events.rpy:5014
 translate pt_br kali_steal_82115c17:
 
     # e "Ohhh..."
-    e ""
+    e "Ohhh..."
 
 # game/scripts/kali_events.rpy:5016
 translate pt_br kali_steal_79b0bfd8:
 
     # k "W-What? I don't...!"
-    k ""
+    k "O-Oque? Eu não...!"
 
 # game/scripts/kali_events.rpy:5018
 translate pt_br kali_steal_c4787d96:
 
     # k "Nnngh! Get back inside...!" with ssshake
-    k "" with ssshake
+    k "Nnngh! Volta pra dentro...!" with ssshake
 
 # game/scripts/kali_events.rpy:5021
 translate pt_br kali_steal_60173434:
 
     # k "Urgh, what the hell dude? I don't want everyone in this hotel thinking I'm a slut! We've only just met."
-    k ""
+    k "Urgh, mas que porra, cara? Eu não quero que as pessoas do hotel pense que eu sou uma puta! Nós mal nos conhecemos."
 
 # game/scripts/kali_events.rpy:5022
 translate pt_br kali_steal_fc256f20:
 
     # c "Nobody is looking now."
-    c ""
+    c "Ninguém está olhando agora."
 
 # game/scripts/kali_events.rpy:5024
 translate pt_br kali_steal_f5f6662f:
 
     # k "Rrrgh..."
-    k ""
+    k "Rrrgh..."
 
 # game/scripts/kali_events.rpy:5025
 translate pt_br kali_steal_fd61b6db:
 
     # k "What a stupid thing to say..."
-    k ""
+    k "Que coisa estúpida de se dizer..."
 
 # game/scripts/kali_events.rpy:5026
 translate pt_br kali_steal_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:5030
 translate pt_br kali_steal_82091822_2:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:5032
 translate pt_br kali_steal_dd66580c:
 
     # k "Urgh, you're hard... Does this turn you on or something?"
-    k ""
+    k "Urgh, cê tá duro... Tá excitado ou algo assim?"
 
 # game/scripts/kali_events.rpy:5033
 translate pt_br kali_steal_b948951d:
 
     # c "You certainly do."
-    c ""
+    c "Com você, com certeza."
 
 # game/scripts/kali_events.rpy:5035
 translate pt_br kali_steal_fc859c5b:
 
     # k "W-What? Shut up! You just want my body..."
-    k ""
+    k "Q-Que? Cala a boca! Você só quer meu corpo..."
 
 # game/scripts/kali_events.rpy:5036
 translate pt_br kali_steal_62a2d91d:
 
     # c "Your body is definitely a perk..."
-    c ""
+    c "Seu corpo é definitivamente um bônus..."
 
 # game/scripts/kali_events.rpy:5037
 translate pt_br kali_steal_c7a45608:
 
     # k "Hmph..."
-    k ""
+    k "Hmph..."
 
 # game/scripts/kali_events.rpy:5038
 translate pt_br kali_steal_d02cb732:
 
     # k "W-Well..."
-    k ""
+    k "B-Bem..."
 
 # game/scripts/kali_events.rpy:5039
 translate pt_br kali_steal_624d9610:
 
     # k "Fine, I'll touch it... fair's fair..."
-    k ""
+    k "beleza, eu vou tocar... nada mais justo..."
 
 # game/scripts/kali_events.rpy:5041
 translate pt_br kali_steal_b636b99b:
 
     # k "It's... nice..."
-    k ""
+    k "É... bom..."
 
 # game/scripts/kali_events.rpy:5043
 translate pt_br kali_steal_cdb62cdd:
 
     # k "And big..."
-    k ""
+    k "E grande..."
 
 # game/scripts/kali_events.rpy:5045
 translate pt_br kali_steal_de523e1c:
 
     # k "...Happy?"
-    k ""
+    k "... Feliz?"
 
 # game/scripts/kali_events.rpy:5046
 translate pt_br kali_steal_aa09cc81:
 
     # c "Are you?"
-    c ""
+    c "Cê tá?"
 
 # game/scripts/kali_events.rpy:5048
 translate pt_br kali_steal_fbe5b4d2:
 
     # k "Shut up, pervert! Get dressed, you're the manager, remember?"
-    k ""
+    k "Cala a boca, pervertido! Vai se vestir. Você é o gerente, lembra?"
 
 # game/scripts/kali_events.rpy:5050
 translate pt_br kali_steal_42936430:
 
     # k "I gotta go, bye..."
-    k ""
+    k "Eu tenho que ir, tchau..."
 
 # game/scripts/kali_events.rpy:5059
 translate pt_br kali_vibet_ff8dba35:
@@ -19408,3433 +19408,3433 @@ translate pt_br kali_lustrons_0437c0f7:
 translate pt_br kaliuni_d29c8e6f:
 
     # k "Hey, you finally made it! How do I look?"
-    k ""
+    k "Ei, você finalmente chegou! Como eu estou?"
 
 # game/scripts/kali_events.rpy:5282
 translate pt_br kaliuni_1760a4ad:
 
     # c "You look amazing!"
-    c ""
+    c "Incrível!"
 
 # game/scripts/kali_events.rpy:5283
 translate pt_br kaliuni_7e3409ae:
 
     # k "Awesome, thanks."
-    k ""
+    k "Legal, obrigada."
 
 # game/scripts/kali_events.rpy:5284
 translate pt_br kaliuni_e1e20cf8:
 
     # c "...Do you feel alright?"
-    c ""
+    c "...Você se sente bem?"
 
 # game/scripts/kali_events.rpy:5285
 translate pt_br kaliuni_e7135c9f:
 
     # k "What do you mean? Yeah, I'm good."
-    k ""
+    k "Como assim? Eu estou bem sim."
 
 # game/scripts/kali_events.rpy:5286
 translate pt_br kaliuni_f2bc9424:
 
     # c "{i}(First day of college, and she doesn't seem anxious at all, I'm impressed. Perhaps I shouldn't bring it up...){/i}"
-    c ""
+    c "{i}(Primeiro dia da faculdade, e ela não está ansiosa, estou impressionado. Talvez eu não deva mencionar isso...){/i}"
 
 # game/scripts/kali_events.rpy:5287
 translate pt_br kaliuni_5b2ccf5d:
 
     # c "You just look great. I hope you feel as great."
-    c ""
+    c "Você está ótima. Eu espero que se sinta também."
 
 # game/scripts/kali_events.rpy:5288
 translate pt_br kaliuni_f8295aff:
 
     # k "Heh, I do."
-    k ""
+    k "Heh, sim, eu me sinto."
 
 # game/scripts/kali_events.rpy:5290
 translate pt_br kaliuni_e32c458f:
 
     # lu "I'm going to fucking cry..."
-    lu ""
+    lu "Eu vou chorar..."
 
 # game/scripts/kali_events.rpy:5291
 translate pt_br kaliuni_93ebfade:
 
     # k "Aww, you look cute."
-    k ""
+    k "Aww, você está fofa."
 
 # game/scripts/kali_events.rpy:5292
 translate pt_br kaliuni_3be937a3:
 
     # lu "No, I look like a whore... I'm basically turning into one now that I have to beg for money."
-    lu ""
+    lu "Não, eu me pareço com uma puta... eu basicamente estou virando uma agora, já que eu vou ter que implorar por diheiro."
 
 # game/scripts/kali_events.rpy:5293
 translate pt_br kaliuni_c9ca9afd:
 
     # k "They call them jobs, Lucy. Get used to working."
-    k ""
+    k "Se chama emprego, Lucy. Acostume-se"
 
 # game/scripts/kali_events.rpy:5294
 translate pt_br kaliuni_3ab88871:
 
     # lu "*sigh*..."
-    lu ""
+    lu "*suspiro*..."
 
 # game/scripts/kali_events.rpy:5296
 translate pt_br kaliuni_c3ac7c8d:
 
     # k "Alright, let's get going. Don't want to be late on the first day!"
-    k ""
+    k "Beleza, vamos andando. Não quero me atrasar no primeiro dia!"
 
 # game/scripts/kali_events.rpy:5297
 translate pt_br kaliuni_bece0ea4:
 
     # lu "I can't believe they make us wear these things..."
-    lu ""
+    lu "Eu não acredito que eles fazem agente usar essas coisas..."
 
 # game/scripts/kali_events.rpy:5298
 translate pt_br kaliuni_043dda9d:
 
     # k "Heheh..."
-    k ""
+    k "Heheh..."
 
 # game/scripts/kali_events.rpy:5300
 translate pt_br kaliuni_1cd7c819:
 
     # "You, Kali, and Lucia hop in your car. After dropping Lucia off at Papa Rons, you and Kali drive to the monorail station. Kali swipes her card, and the both of you hop on."
-    ""
+    "Você, a Kali, e a Lucy vão para o carro. Depois de deixar a Lucy no Papa Rons, vocês dois dirigem até a estação monorail. Kali paga as passagens, e vocês entram no trem."
 
 # game/scripts/kali_events.rpy:5302
 translate pt_br kaliuni_83b8c08a:
 
     # k "Finally made it..."
-    k ""
+    k "Finalmente..."
 
 # game/scripts/kali_events.rpy:5303
 translate pt_br kaliuni_8a3922f2:
 
     # c "Has your father mentioned anything going on with the elfbots?"
-    c ""
+    c "Seu pai falou algo com você sobre os Elfbots?"
 
 # game/scripts/kali_events.rpy:5305
 translate pt_br kaliuni_0caea8b6:
 
     # k "Oh, keep it down. I know you didn't sign an NDA, but... my father wouldn't be happy if news of that got out. Stock holders would be pissed..."
-    k ""
+    k "Oh, fala baixo. Eu sei que você não assinou um NDA, mas... meu pai não ficaria feliz se a notícia do elfbot vazasse. Os acionistas ficariam chateados..."
 
 # game/scripts/kali_events.rpy:5307
 translate pt_br kaliuni_f566504a:
 
     # k "But uh... yeah, he says he has solid plans for a factory, he has work orders for lithium-ion batteries, and the patents are pending."
-    k ""
+    k "Mas uh... é, ele disse que tem planos para uma fábrica, ele já está fazendo as importações de baterias de lítion-íon, e as patentes estão pendentes."
 
 # game/scripts/kali_events.rpy:5308
 translate pt_br kaliuni_b425a098:
 
     # k "He also mentioned he was able to secure a few trade deals with the nation of Syl'anar that ensure the price of the... *cough* Elfbot *cough* ...is cheap."
-    k ""
+    k "Ele também mencionou que conseguiu estabelecer alguns acordos com a nação de Syl'anar para garantir que o preço do... *tosse* Elfbot *tosse* ...seja barato."
 
 # game/scripts/kali_events.rpy:5310
 translate pt_br kaliuni_ecac85ac:
 
     # k "I'm the only missing piece of the puzzle, he's putting a lot of faith in me to learn. I can't imagine how he convinced his board members to go along with it..."
-    k ""
+    k "Eu sou a única peça faltante no quebra cabeça, ele está colocando bastante fé em mim. Eu não sei como ele convenceu os membros do conselho a concordar com iso..."
 
 # game/scripts/kali_events.rpy:5311
 translate pt_br kaliuni_48461ebd:
 
     # c "Well, you did skip a few college classes. That's enough proof you can do it."
-    c ""
+    c "Bem, você faltou algumas aulas da faculdade. Isso já é o bastante para provar que você consegue."
 
 # game/scripts/kali_events.rpy:5312
 translate pt_br kaliuni_0125e1d4:
 
     # k "Yeah, but... most of what was on the test had nothing to do with artificial intelligence, that's a whole other level..."
-    k ""
+    k "Sim, mas... a maioria do que estava na prova não tinha nada a ver com inteligência artificial, isso é outro de nível..."
 
 # game/scripts/kali_events.rpy:5313
 translate pt_br kaliuni_a7252fc4:
 
     # k "Machine learning is hard enough, and I can barely understand that... most of the reason I'm here is because I learned some things years ago out of boredom, and had some help from [botname]..."
-    k ""
+    k "Machine learning já é difícil, e eu mal à entendo... "
 
 # game/scripts/kali_events.rpy:5314
 translate pt_br kaliuni_48e25ddf:
 
     # k "This whole thing has a crazy deadline, too. Three years, he said."
-    k ""
+    k "Essa coisa toda tem um desfecho maluco, também. Três anos, ele disse."
 
 # game/scripts/kali_events.rpy:5315
 translate pt_br kaliuni_afc2efc8:
 
     # c "I'm sure you'll have a team at your back?"
-    c ""
+    c "Eu tenho certeza que você vai ter um time para te apoiar?"
 
 # game/scripts/kali_events.rpy:5317
 translate pt_br kaliuni_e473171b:
 
     # k "Yeah, you're right, I would. It's not like I'll be doing this all by myself, I'd lead a team of highly skilled software engineers."
-    k ""
+    k "Sim, você tem razão, eu teria. Não é como se eu fosse fazer tudo isso sozinha, eu estarei no comandando um time de engenheiros de software profissionais."
 
 # game/scripts/kali_events.rpy:5318
 translate pt_br kaliuni_b8081c1f:
 
     # c "You're going to make sure they don't gain control and slaughter innocent civilians, right?"
-    c ""
+    c "Você vai cuidar para que eles não matem civis inocentes, né?"
 
 # game/scripts/kali_events.rpy:5319
 translate pt_br kaliuni_2d4919c4:
 
     # k "The software engineers, or...?"
-    k ""
+    k "Os engenheiros de software, ou...?"
 
 # game/scripts/kali_events.rpy:5320
 translate pt_br kaliuni_195c8fb6:
 
     # k "Heh, just kidding..."
-    k ""
+    k "Heh, brincadeira..."
 
 # game/scripts/kali_events.rpy:5321
 translate pt_br kaliuni_b7b7b525:
 
     # k "Of course. The three laws of robotics are on the entrance exam, they wouldn't let you in until you knew them by heart."
-    k ""
+    k "É claro. As três regras da robótica estão na prova de admissão, eles nunca o deixariam entrar até que você os conhecesse bem."
 
 # game/scripts/kali_events.rpy:5322
 translate pt_br kaliuni_796ac522:
 
     # c "That's good to hear."
-    c ""
+    c "Bom saber."
 
 # game/scripts/kali_events.rpy:5323
 translate pt_br kaliuni_e65aada4:
 
     # k "Maybe I'll even put in some secret cheat codes that force them to dance or something, haha."
-    k ""
+    k "Talvez eu até coloque algum tipo de código secreto que forcem eles à dançar ou algo assim, haha."
 
 # game/scripts/kali_events.rpy:5325
 translate pt_br kaliuni_6f5939c5:
 
     # k "You know... I was thinking more about what we were talking about the other day. I'll probably have access to a lot of... bots, and I'll probably even have huge discounts on them, so... it would be a very good business move to take advantage of that."
-    k ""
+    k "Sabe... eu tava pensando sobre oque agente falou outro dia. Eu provavelmete vou ter acesso a vários... robôs, e provavelmente eu vou ter grandes discontos neles, então... seria muito bom tomar vantagem disso."
 
 # game/scripts/kali_events.rpy:5326
 translate pt_br kaliuni_cf127f85:
 
     # c "I don't know..."
-    c ""
+    c "Eu não sei..."
 
 # game/scripts/kali_events.rpy:5328
 translate pt_br kaliuni_3566282a:
 
     # k "Not even like... two more hotels? You know, something to secure your future... and the future of everyone elses lives... and the lives that spawn from those lives... and those lives... {i}{size=-10}and those lives...{/size}{/i}"
-    k ""
+    k "Nem mesmo, tipo... mais dois hotéis? Sabe, algo para garantir seu futuro... e o futuro das vidas de todo mundo... e das vidas que nascem dessas vidas... e essas vidas... {i}{size=-10}e essas vidas...{/size}{/i}"
 
 # game/scripts/kali_events.rpy:5329
 translate pt_br kaliuni_db1e392d:
 
     # c "When you put it that way..."
-    c ""
+    c "Bem, quando você fala desse jeito..."
 
 # game/scripts/kali_events.rpy:5330
 translate pt_br kaliuni_0eaf8781:
 
     # k "See! I have good ideas!"
-    k ""
+    k "Tá vendo! Eu tenho boas idéias!"
 
 # game/scripts/kali_events.rpy:5331
 translate pt_br kaliuni_094437ca:
 
     # c "It was always a good idea, I'm just not completely sure it's for me."
-    c ""
+    c "Sempre foi uma boa idéia, eu só não sei se isso é para mim."
 
 # game/scripts/kali_events.rpy:5332
 translate pt_br kaliuni_3f724fb0:
 
     # k "Think of it as a service to the community! You'll be able to offer very cheap rooms with the best service imaginable! And it wouldn't stress you out a bit! {i}Someone's{/i} going to do it, so I want to make sure it's my boyfriend!"
-    k ""
+    k "Pense nisso como um serviço para a comunidade! Você vai conseguir oferecer quartos mais baratos com o melhor serviço! E isso nem te estressaria! {i}Alguém{/i} vai fazer isso, então eu quero ter certeza que seja meu namorado!"
 
 # game/scripts/kali_events.rpy:5333
 translate pt_br kaliuni_b0d0e806:
 
     # c "I would probably just be bought by your father eventually..."
-    c ""
+    c "Eu provavelmente só seria comprado pelo seu pai eventualmente..."
 
 # game/scripts/kali_events.rpy:5334
 translate pt_br kaliuni_be9e2300:
 
     # k "And that just means more money for us, doesn't it?"
-    k ""
+    k "E isso significa mais dinheiro para nós, não é?"
 
 # game/scripts/kali_events.rpy:5335
 translate pt_br kaliuni_0f504113:
 
     # k "I've thought about it, okay? Just keep it in mind! I think it would be very good, for all of us."
-    k ""
+    k "Eu já pensei em tudo, ok? Só se lembre disso! Eu acho que isso seria muito bom para todos nós."
 
 # game/scripts/kali_events.rpy:5336
 translate pt_br kaliuni_5e2fd8ee:
 
     # c "Alright, I'll keep it in mind. How have the elves been that moved to The Capitol?"
-    c ""
+    c "Beleza, vou pensar sobre isso. Como estão os elfos que vieram para a Capitol?"
 
 # game/scripts/kali_events.rpy:5338
 translate pt_br kaliuni_915bb325:
 
     # k "Oh, uh... a few more died..."
-    k ""
+    k "Oh, uh... alguns morreram..."
 
 # game/scripts/kali_events.rpy:5339
 translate pt_br kaliuni_b5d6aab3:
 
     # c "What? What happened?"
-    c ""
+    c "Que? O que aconteceu?"
 
 # game/scripts/kali_events.rpy:5340
 translate pt_br kaliuni_f3af425c:
 
     # k "Just a couple faulty parts in the blood letting machines, it's bound to happen in mass production... what can you do?"
-    k ""
+    k "Apenas algumas partes faltantes nas máquinas de sangue, é de se esperar vindo da produção em massa... o que agente pode fazer?"
 
 # game/scripts/kali_events.rpy:5341
 translate pt_br kaliuni_c896a147:
 
     # c "More safety checks?"
-    c ""
+    c "Mais checagens de segurança?"
 
 # game/scripts/kali_events.rpy:5342
 translate pt_br kaliuni_887dc72a:
 
     # k "It was rhetorical... it sucks, but mistakes are bound to happen. He told me he fixed the problem and that it wouldn't happen again."
-    k ""
+    k "Foi uma pergunta retórica... é uma merda, mas erros acontecem. Ele me disse que consertou o problema e que isso não aconteceria de novo."
 
 # game/scripts/kali_events.rpy:5343
 translate pt_br kaliuni_79b5d838:
 
     # c "Do you believe him?"
-    c ""
+    c "E você acredita nele?"
 
 # game/scripts/kali_events.rpy:5344
 translate pt_br kaliuni_4f0748d1:
 
     # k "Urgh, I mean... not really. There's dozens of issues hooking up an organism to a machine that sucks your blood for hours every day could cause."
-    k ""
+    k "Urgh, quer dizer... não. Há vários problemas de ligar um ser vivo em um máquina de extrair sangue que podem acontecer."
 
 # game/scripts/kali_events.rpy:5345
 translate pt_br kaliuni_b23fe699:
 
     # k "And what even is the alternative? Let them stay in their abusive house holds? They wanted to come... this is the best solution we have, and it benefits everyone."
-    k ""
+    k "E que outra alternativa temos? Deixá-los ficar na antiga casa abusiva deles? Eles quiseram vir... está é a melhor solução que temos, e benefícia todo mundo."
 
 # game/scripts/kali_events.rpy:5346
 translate pt_br kaliuni_bf14f1b1:
 
     # c "Except the ones that die."
-    c ""
+    c "Exceto os que morreram."
 
 # game/scripts/kali_events.rpy:5347
 translate pt_br kaliuni_e764261c:
 
     # k "Whatever, okay? I don't make the decisions, I just need a job."
-    k ""
+    k "Não importa, ok? Eu não faço as decisões, eu só preciso de um emprego."
 
 # game/scripts/kali_events.rpy:5348
 translate pt_br kaliuni_1852c621:
 
     # c "You had a job."
-    c ""
+    c "Você tinha um emprego."
 
 # game/scripts/kali_events.rpy:5349
 translate pt_br kaliuni_d6c8679f:
 
     # k "A good job! This gives me something to wake up happy for..."
-    k ""
+    k "Um trabalho bom! Algo que me faça acordar feliz todos os dias..."
 
 # game/scripts/kali_events.rpy:5350
 translate pt_br kaliuni_46300b20:
 
     # c "And I'm sure you'll be amazing at it, just don't forget where you came from."
-    c ""
+    c "E eu sei que você vai ser incrível nisso, só não se esqueça de onde você veio."
 
 # game/scripts/kali_events.rpy:5352
 translate pt_br kaliuni_9f0b14b2:
 
     # k "One of my Dad's many mansions with a golden spoon in my mouth?"
-    k ""
+    k "Um dos hotéis do meu pai com uma colher de ouro na boca?"
 
 # game/scripts/kali_events.rpy:5353
 translate pt_br kaliuni_f36d476e:
 
     # c "No Kali, here. The hotel, with me."
-    c ""
+    c "Não Kali, aqui. No hotel, comigo."
 
 # game/scripts/kali_events.rpy:5355
 translate pt_br kaliuni_53e35aad:
 
     # k "Oh, well, I'll never forget that..."
-    k ""
+    k "Oh, bem, eu nunca vou esquecer disso..."
 
 # game/scripts/kali_events.rpy:5356
 translate pt_br kaliuni_60603fd8:
 
     # c "Or Lin, don't forget her either. You're fighting for her, too, and she'll outlive us all."
-    c ""
+    c "E da Lin, não se esqueça dela também. Você está lutando por ela, e ela vai viver mais que nós também."
 
 # game/scripts/kali_events.rpy:5357
 translate pt_br kaliuni_b64e4a40:
 
     # k "I know, I know..."
-    k ""
+    k "Eu sei, eu sei..."
 
 # game/scripts/kali_events.rpy:5359
 translate pt_br kaliuni_d0914229:
 
     # k "I still think this will turn out great for elves. They won't have to build houses, or cook the food anymore. After all, what do you do with an army of intelligent creatures who no longer have a purpose?"
-    k ""
+    k "Mas eu ainda penso que isso será o melhor para os elfos. Eles não vão mais precisar construir casas, ou cozinhar comida. E também, oque você faz com um exército de criaturas inteligentes que não tem mai um propósito?"
 
 # game/scripts/kali_events.rpy:5360
 translate pt_br kaliuni_13320e73:
 
     # c "...Round them up and kill them off?"
-    c ""
+    c "...Enfileirá-los e matá-los?"
 
 # game/scripts/kali_events.rpy:5362
 translate pt_br kaliuni_8511a0d4:
 
     # k "N-No... integrate them into society..."
-    k ""
+    k "N-não... integrá-los à sociedade..."
 
 # game/scripts/kali_events.rpy:5363
 translate pt_br kaliuni_9978413f:
 
     # k "They can be scientists, or artists, or musicians..."
-    k ""
+    k "Eles podem virar cientistas, ou artistas, músicos..."
 
 # game/scripts/kali_events.rpy:5364
 translate pt_br kaliuni_1c52399b:
 
     # c "I don't think that's what people do to things that no longer serve its purpose."
-    c ""
+    c "Eu não acho que as pessoas fazem isso com oque elas não usam mais."
 
 # game/scripts/kali_events.rpy:5365
 translate pt_br kaliuni_4109e653:
 
     # k "They're intelligent, creative creatures, what would be the point of killing them off? Put them to use! ...Given they have the choice to do so... Freedom is key..."
-    k ""
+    k "Eles são inteligentes, seres criativos, de que adianta matá-los? É melhor aproveitá-los! ...Dar à eles a opção de escolha... liberdade é a chave..."
 
 # game/scripts/kali_events.rpy:5366
 translate pt_br kaliuni_916c0308:
 
     # c "It's all about the money, Kali. Make them richer to not own slaves, and they'll do it."
-    c ""
+    c "Eles só se importam com o dinheiro, Kali. Deixe-os ricos para não terem mais escravos, e eles não irão ter."
 
 # game/scripts/kali_events.rpy:5368
 translate pt_br kaliuni_64575cda:
 
     # k "I guess when it comes down to it, it really is about the money, isn't it?"
-    k ""
+    k "Eu acho que nesse ponto de vista, é pelo dinheiro mesmo, não é?"
 
 # game/scripts/kali_events.rpy:5369
 translate pt_br kaliuni_59918660:
 
     # k "Well, that's the end goal, make it cheaper to own a... bot, than a slave."
-    k ""
+    k "Bem, esse é o objetivo, deixar mais barato para se ter um... robô, que um escravo."
 
 # game/scripts/kali_events.rpy:5370
 translate pt_br kaliuni_2ea37e6e:
 
     # k "Sheesh, my Dad's going to get fucking rich by replacing every slave with his bots. He's smart."
-    k ""
+    k "Meu deus, meu pai vai ficar rico pra caralho por substituir os escravos por robôs. Ele é esperto."
 
 # game/scripts/kali_events.rpy:5372
 translate pt_br kaliuni_fa619f4a:
 
     # k "{size=-10}{i}Maybe I shouldn't have said that... shit.{/i}{/size}"
-    k ""
+    k "{size=-10}{i}Talvez eu não devesse ter dito isso... merda.{/i}{/size}"
 
 # game/scripts/kali_events.rpy:5373
 translate pt_br kaliuni_4aca9db5:
 
     # c "Does he have plans on buying a planet?"
-    c ""
+    c "Ele por acaso tem planos de comprar o planeta?"
 
 # game/scripts/kali_events.rpy:5375
 translate pt_br kaliuni_e3442a14:
 
     # k "Actually..."
-    k ""
+    k "Bem..."
 
 # game/scripts/kali_events.rpy:5377
 translate pt_br kaliuni_02d5f1ed:
 
     # k "Now that I think about it, it may have just been a passing brag..."
-    k ""
+    k "Agora que eu paro pra pensar nisso, pode ter sido passageiro"
 
 # game/scripts/kali_events.rpy:5379
 translate pt_br kaliuni_0bc98b85:
 
     # k "Could you imagine though? That'd be hilarious. A whole fleet of Nero Inc. starships, with Nero Inc. bots, exploiting every planet in our solar system..."
-    k ""
+    k "Pode imaginar? Seria hilário. Toda uma frota da Nero Inc. aeronaves, com robôs na Nero Inc. explorando os planetas do dosso sistema solar..."
 
 # game/scripts/kali_events.rpy:5381
 translate pt_br kaliuni_6fb165f8:
 
     # k "Hmm..."
-    k ""
+    k "Hmm..."
 
 # game/scripts/kali_events.rpy:5382
 translate pt_br kaliuni_1af705f7:
 
     # c "Does he own a space company?"
-    c ""
+    c "Ele tem uma agência espacial?"
 
 # game/scripts/kali_events.rpy:5383
 translate pt_br kaliuni_b8428b38:
 
     # k "...Who doesn't these days?"
-    k ""
+    k "....Quem não tem nesses dias?"
 
 # game/scripts/kali_events.rpy:5384
 translate pt_br kaliuni_f3739a1b:
 
     # c "It sounds like he has big plans..."
-    c ""
+    c "Me parece que ele tem grandes planos..."
 
 # game/scripts/kali_events.rpy:5386
 translate pt_br kaliuni_dcabe5f4:
 
     # k "I didn't say he had any plans! Not with space anyway!"
-    k ""
+    k "Eu não disse que ele tinha planos! Não com o espaço!"
 
 # game/scripts/kali_events.rpy:5387
 translate pt_br kaliuni_922fd700:
 
     # c "Kali?"
-    c ""
+    c "Kali?"
 
 # game/scripts/kali_events.rpy:5388
 translate pt_br kaliuni_5bf9384d:
 
     # k "What? I don't know anything! You think I would keep that from you?"
-    k ""
+    k "Que? Eu não sei de nada! Você acha que eu esconderia de você?"
 
 # game/scripts/kali_events.rpy:5389
 translate pt_br kaliuni_62f3305a:
 
     # c "Alright, I believe you."
-    c ""
+    c "Tudo nem, eu acredito em você."
 
 # game/scripts/kali_events.rpy:5391
 translate pt_br kaliuni_eae65e25:
 
     # k "What's the big deal, anyway? Maybe we'll meet some aliens..."
-    k ""
+    k "E ainda, qual é o problema? Talvez agente conheça alguns aliens..."
 
 # game/scripts/kali_events.rpy:5392
 translate pt_br kaliuni_339ca08b:
 
     # c "Ehh... not from this solar system."
-    c ""
+    c "Ehh... não nesse sistema solar."
 
 # game/scripts/kali_events.rpy:5394
 translate pt_br kaliuni_bae836fc:
 
     # k "You never know what lies below... OoOoOoOh..."
-    k ""
+    k "Você nunca sabe oque se esconde nas sombras... OoOoOoOh..."
 
 # game/scripts/kali_events.rpy:5396
 translate pt_br kaliuni_8ed42508:
 
     # k "Just kidding, I know how space works."
-    k ""
+    k "Brincadeira, eu sei como o espaço funciona."
 
 # game/scripts/kali_events.rpy:5397
 translate pt_br kaliuni_e9be452d:
 
     # k "Besides, they've all been explored. All that's left is to take their resources. Or, who knows, maybe colonize one of them."
-    k ""
+    k "E também, todos eles já foram explorados. Só falta pegar os recursos deles. Ou, quem sabe, colonizá-los."
 
 # game/scripts/kali_events.rpy:5398
 translate pt_br kaliuni_7df3ae55:
 
     # c "You think your father could do that?"
-    c ""
+    c "Você acha que seu pai consiguiria fazer isso?"
 
 # game/scripts/kali_events.rpy:5400
 translate pt_br kaliuni_c685d1f6:
 
     # k "Is that really a question you still have to ask yourself? I mean, at this point, really?"
-    k ""
+    k "Você realmente tá perguntando isso? Quer dizer, nesse ponto, sério?"
 
 # game/scripts/kali_events.rpy:5402
 translate pt_br kaliuni_ecdf6287:
 
     # k "His bank account makes entire nations jealous."
-    k ""
+    k "A conta bancária dele deixa dezenas de nações com inveja."
 
 # game/scripts/kali_events.rpy:5403
 translate pt_br kaliuni_4f9c5aa1:
 
     # k "And to think it all started from taking advantage of the computer hardware boom. He just kept buying companies left and right, and no one stopped him."
-    k ""
+    k "E pensar que tudo isso começou com hardwares de computadores. Ele continuou comprando empresas de todos os lugares, e ninguém o parou."
 
 # game/scripts/kali_events.rpy:5404
 translate pt_br kaliuni_c3ec515c:
 
     # k "At least the world's better for it, right? You wouldn't have [botname] without him."
-    k ""
+    k "Pelo o menos o mundo está melhor, não é? Você não teria a [botname] sem ele."
 
 # game/scripts/kali_events.rpy:5405
 translate pt_br kaliuni_a95a6825:
 
     # c "Does he own this train, too?"
-    c ""
+    c "Ele tem alguma ferrovia, também?"
 
 # game/scripts/kali_events.rpy:5407
 translate pt_br kaliuni_851de286:
 
     # k "No, he doesn't own any train companies. But I'm pretty sure this train uses his electronics."
-    k ""
+    k "Não, ele não tem nenhuma. Mas eu tenho certeza que esse trem utiliza de eletrônicos."
 
 # game/scripts/kali_events.rpy:5409
 translate pt_br kaliuni_6889750c:
 
     # k "If he doesn't own it, he probably at least has a hand in it."
-    k ""
+    k "Se ele não é o dono, ele pelo menos está envolvido."
 
 # game/scripts/kali_events.rpy:5410
 translate pt_br kaliuni_a1fdf50b:
 
     # k "Like, he didn't grow the tomatoes for the pizza at Papa Rons... but he owned the place it was sold at..."
-    k ""
+    k "Tipo, ele não cultivou os tomates da pizza do Papa Rons... mas ele era dono do lugar, já que foi vendido..."
 
 # game/scripts/kali_events.rpy:5411
 translate pt_br kaliuni_eb1d13a7:
 
     # c "Is he a big player in every nation on this planet?"
-    c ""
+    c "Ele é um grande jogador em cada nação do planeta?"
 
 # game/scripts/kali_events.rpy:5413
 translate pt_br kaliuni_6d205fa8:
 
     # k "No, mostly just his home country and Syl'anar, the biggest markets on the planet. Although he isn't against loaning more developing nations some money."
-    k ""
+    k "Não, só no seu país de origem e em Syl'anar, os maiores mercados do planeta. Contudo, ele não é contra imprestar o seu dinheiro para outra nações."
 
 # game/scripts/kali_events.rpy:5415
 translate pt_br kaliuni_dae94021:
 
     # k "I think he may have even had a hand in helping Moon's homeland actually, when that was still a developing country."
-    k ""
+    k "Eu acho que ele também ajudou a terra natal da Moon, quando ainda era um país em desenvolvimento."
 
 # game/scripts/kali_events.rpy:5416
 translate pt_br kaliuni_c3dec0c7:
 
     # c "What happens to all those companies when he dies?"
-    c ""
+    c "O que vai acontecer com todas essas empresas quando ele morrer?"
 
 # game/scripts/kali_events.rpy:5417
 translate pt_br kaliuni_946e1669:
 
     # k "I guess they just have one less guy on the ladder to report to? It's not like he ever expected me to control {i}every{/i} company he had a hand in. Just Nero Inc."
-    k ""
+    k "Eu acho que é só um cara a menos na escada para eles se importarem? Não é como se ele esperasse que eu comande {i}cada{/i} empresa que ele tem as mãos. Só a Nero Inc."
 
 # game/scripts/kali_events.rpy:5418
 translate pt_br kaliuni_d02930b1:
 
     # c "He kind of sounds like an emperor."
-    c ""
+    c "Ele meio que parece um imperador."
 
 # game/scripts/kali_events.rpy:5419
 translate pt_br kaliuni_26296101:
 
     # k "What do you mean?"
-    k ""
+    k "Como assim?"
 
 # game/scripts/kali_events.rpy:5420
 translate pt_br kaliuni_dfc446c2:
 
     # c "Replace company with nation, and he's an emperor. And you're the princess that's going to inherit only a portion of his land."
-    c ""
+    c "Pensa que as empresas fossem nações, e ele vira um imperador. E você a princesa, que vai herdar só uma porção das suas terras."
 
 # game/scripts/kali_events.rpy:5422
 translate pt_br kaliuni_a5be5940:
 
     # k "Huh, guess you're right. He sounds badass when you put it that way."
-    k ""
+    k "Huh, acho que você está certo. Ele parece bem fodão quando você coloca dessa forma."
 
 # game/scripts/kali_events.rpy:5424
 translate pt_br kaliuni_b58a7cd6:
 
     # announcer "Syl'anar Insititute of Technology. Now arriving at Syl'anar Insititute of Technology."
-    announcer ""
+    announcer "Instituto de tecnologia de Syl'anar. Chegando ao Instituto de tecnologia de Syl'anar."
 
 # game/scripts/kali_events.rpy:5425
 translate pt_br kaliuni_4b891189:
 
     # k "Looks like we're here."
-    k ""
+    k "Parece que chegamos."
 
 # game/scripts/kali_events.rpy:5427
 translate pt_br kaliuni_9990a89e:
 
     # "After arriving at the SIT monorail station, the two of you make your way inside the university to meet the Dean."
-    ""
+    "Depois de chegar a estação monorail SIT, vocês dois vão até a universidade se encontrar com o Reitor."
 
 # game/scripts/kali_events.rpy:5428
 translate pt_br kaliuni_8c6db977:
 
     # "Just before you and Kali enter his office, you're pulled to the side. 'This is an important meeting, only Ms. Trenero is allowed in.' the man in black says. Before you have a chance to respond, the Dean's door closes."
-    ""
+    "Antes da Kali entrar no escritório, você é puxado para o lado. 'Essa é um encontro importante, somente a senhorita Trenero é permitida.' isso foi o que um homem de olhos escuros lhe disse. Antes que tivesse a chance de responder, a porta do Reitor se fecha."
 
 # game/scripts/kali_events.rpy:5429
 translate pt_br kaliuni_cbd5a151:
 
     # "You sit down on a nearby couch and wait for the meeting to be over. It's quite unusual for the Dean of a university to speak directly with a newcomer, but these aren't normal circumstances in the first place. 15 minutes later Kali exits his office."
-    ""
+    "Você se senta em um sofá por perto e espera o encontro terminar. É meio incomum para o Dean da universidade conversar diretamente com um novato, mas essas não são circuntâncias normais em primeiro lugar. 15 minutos depois Kali sai do escritório."
 
 # game/scripts/kali_events.rpy:5430
 translate pt_br kaliuni_23199bb2:
 
     # "She tells you a tour guide - one of the students - is planned to meet up with her at one of her computer science classes. The two of you decide to head there now..."
-    ""
+    "Ela te conta sobre um guia - um dos estudantes - marcou de se encontrar com ela em uma das aulas de computação. Vocês dois decidem ir para lá agora..."
 
 # game/scripts/kali_events.rpy:5432
 translate pt_br kaliuni_10817a90:
 
     # k "Um, hello."
-    k ""
+    k "Um, olá."
 
 # game/scripts/kali_events.rpy:5433
 translate pt_br kaliuni_b371fb76:
 
     # q "Class starts in two hours."
-    q ""
+    q "A aula começa em duas horas."
 
 # game/scripts/kali_events.rpy:5434
 translate pt_br kaliuni_04106a88:
 
     # k "I was just told to meet someone here...?"
-    k ""
+    k "Foi me dito para me encontrar com alguém aqui...?"
 
 # game/scripts/kali_events.rpy:5436
 translate pt_br kaliuni_d9d36797:
 
     # q "...?"
-    q ""
+    q "...?"
 
 # game/scripts/kali_events.rpy:5438
 translate pt_br kaliuni_0c3342f2:
 
     # q "Oh! Ms. Trenero, you're already here! Please, take a seat wherever you'd like." with ssshake
-    q "" with ssshake
+    q "Oh! Senhorita Trenero, você já está aqui! Por favor, sente-se onde quiser." with ssshake
 
 # game/scripts/kali_events.rpy:5440
 translate pt_br kaliuni_416c52c2:
 
     # q "Goodness, where are my manners? I'll be your calculus teacher, you may call me Mrs. Shannon. I look forward to teaching you, Ms. Trenero."
-    q ""
+    q "Deuses, onde estão minhas maneiras? Eu serei sua professora de cálculo, pode me chamar de Senhora Shannon. Será um prazer dar aula para você, Senhorita Trenero."
 
 # game/scripts/kali_events.rpy:5441
 translate pt_br kaliuni_9827f0ec:
 
     # k "Kali is fine..."
-    k ""
+    k "Pode me chamar de Kali..."
 
 # game/scripts/kali_events.rpy:5442
 translate pt_br kaliuni_d3e17a62:
 
     # shan "Of course..."
-    shan ""
+    shan "É claro..."
 
 # game/scripts/kali_events.rpy:5444
 translate pt_br kaliuni_4d7fc477:
 
     # q "...He was reading off the teleprompter the whole time, it was so obvious!"
-    q ""
+    q "...Ele estava lendo o telemprompter o tempo todo, era tão óbvio!"
 
 # game/scripts/kali_events.rpy:5446
 translate pt_br kaliuni_f90469bf:
 
     # q "Wait... who the fuck is that!?" with ssshake
-    q "" with ssshake
+    q "Espera... quem caralhos é aquela!?" with ssshake
 
 # game/scripts/kali_events.rpy:5448
 translate pt_br kaliuni_2a8ab37a:
 
     # q "No way! The newbie is Trenero's kid!?"
-    q ""
+    q "Nem ferrando! A novata é a criança Trenero!?"
 
 # game/scripts/kali_events.rpy:5449
 translate pt_br kaliuni_98493e52:
 
     # q "Who's Trenero?"
-    q ""
+    q "Quem é Trenero?"
 
 # game/scripts/kali_events.rpy:5451
 translate pt_br kaliuni_85a4a4c4:
 
     # q "Only the richest fucking guy on the planet! He was shot a couple months ago, remember?"
-    q ""
+    q "É só o cara mais rico da porra do mundo todo! Ele levou um tiro uns meses atrás, lembra?"
 
 # game/scripts/kali_events.rpy:5453
 translate pt_br kaliuni_0af62ede:
 
     # q "What!?"
-    q ""
+    q "Que!?"
 
 # game/scripts/kali_events.rpy:5454
 translate pt_br kaliuni_b55e90b2:
 
     # q "He's the pinnacle of monopolistic greed, a vile dragon sitting on his endless abyss of bloodied gold that he's stolen off the backs of slaves! He basically owns half this planet!"
-    q ""
+    q "Ele é o pináculo da ganância monopolista, um vil dragão sentando em seu abismo infinito de ouro ensanguentado e que roubou de volta os escravos! Ele basicamente é dono da metade do planeta!"
 
 # game/scripts/kali_events.rpy:5456
 translate pt_br kaliuni_72daddf7:
 
     # q "Ohhh, doesn't he make those cute toy robot puppies? I have like three."
-    q ""
+    q "Ohhh, não é ele que faz aquelas cachorrinhos robô? Eu tenho uns três."
 
 # game/scripts/kali_events.rpy:5458
 translate pt_br kaliuni_d18d3095:
 
     # q "Who do you think built those robot puppies? Slaves!"
-    q ""
+    q "Quem você acha que construiu aqueles cachorros robôs? Escravos!"
 
 # game/scripts/kali_events.rpy:5459
 translate pt_br kaliuni_0bd5553d:
 
     # q "Ohhh..."
-    q ""
+    q "Ohhh..."
 
 # game/scripts/kali_events.rpy:5461
 translate pt_br kaliuni_1e029caa:
 
     # q "And her? What has she done?"
-    q ""
+    q "E ela? Oque ela já fez?"
 
 # game/scripts/kali_events.rpy:5462
 translate pt_br kaliuni_5469c737:
 
     # q "I don't know, but I'm sure she's a pretentious prick like the rest of them! Whatever reason she's here, it's not good!"
-    q ""
+    q "Eu não sei, mas eu tenho certeza que ela é uma idiota pretensiosa como o resto deles! Seja lá a razão dela estar aqui não é bom!"
 
 # game/scripts/kali_events.rpy:5463
 translate pt_br kaliuni_6049c440:
 
     # q "Shouldn't we go talk to her before we make any judgements though? We kind of volunteered for this..."
-    q ""
+    q "Agente não deve ir conversar com ela antes de qualquer julgamento? Nós meio que nos voluntáriamos para isso..."
 
 # game/scripts/kali_events.rpy:5464
 translate pt_br kaliuni_c3e7814b:
 
     # q "Yeah... Tsk, I just hope she's not a bitch..."
-    q ""
+    q "É... tsk, eu só espero que ela não seja uma vadia..."
 
 # game/scripts/kali_events.rpy:5465
 translate pt_br kaliuni_d267661a:
 
     # q "..."
-    q ""
+    q "..."
 
 # game/scripts/kali_events.rpy:5467
 translate pt_br kaliuni_b480a97d:
 
     # q "And give away two of those robot puppies, why do you have three!?"
-    q ""
+    q "E dê para alguém dois daqueles cachorrinhos, por que você tem três!?"
 
 # game/scripts/kali_events.rpy:5468
 translate pt_br kaliuni_0976bcc3:
 
     # q "T-They're cute!"
-    q ""
+    q "E-Eles são fofos!"
 
 # game/scripts/kali_events.rpy:5470
 translate pt_br kaliuni_da5ac49e:
 
     # van "Hello Kali, I'm Vanessa and this is Kim. we'll be your guides today..."
-    van ""
+    van "Olá Kali, eu sou a venessa e essa é a Kim. Nós seremos suas guias hoje..."
 
 # game/scripts/kali_events.rpy:5471
 translate pt_br kaliuni_d73a340c:
 
     # kim "Hello baby dragon~"
-    kim ""
+    kim "Olá bebê dragão~"
 
 # game/scripts/kali_events.rpy:5472
 translate pt_br kaliuni_4814cbe9:
 
     # k "Um... I don't remember giving you my name?"
-    k ""
+    k "Um... eu não lembro de dizer meu nome?"
 
 # game/scripts/kali_events.rpy:5473
 translate pt_br kaliuni_8ad9748c:
 
     # van "We already know who you are..."
-    van ""
+    van "Nós já sabemos quem é você..."
 
 # game/scripts/kali_events.rpy:5474
 translate pt_br kaliuni_a6cb467e:
 
     # k "You do?"
-    k ""
+    k "Sabem?"
 
 # game/scripts/kali_events.rpy:5475
 translate pt_br kaliuni_fe011a7c:
 
     # van "You're only the daughter of the richest person in the world... how could we not?"
-    van ""
+    van "Você é a filha da pessoa mais rica do mundo... como não conheceríamos?"
 
 # game/scripts/kali_events.rpy:5476
 translate pt_br kaliuni_b747b6ca:
 
     # k "Oh. I didn't think many people paid attention to me."
-    k ""
+    k "Oh. Eu não achei que as pessoas prestariam atenção em mim."
 
 # game/scripts/kali_events.rpy:5477
 translate pt_br kaliuni_8c5e20a6:
 
     # van "It's my job to keep track of people like your father... I mean, do you have any idea how many people hate him?"
-    van ""
+    van "É meu trabalho ficar de olho em pessoas como o seu pai... Quer dizer, você tem ideia de quantas pessoas o odeiam?"
 
 # game/scripts/kali_events.rpy:5478
 translate pt_br kaliuni_9c7f4fae:
 
     # k "Oh uh..."
-    k ""
+    k "Oh uh..."
 
 # game/scripts/kali_events.rpy:5479
 translate pt_br kaliuni_74e03025:
 
     # van "He owns more slaves than almost any other human! And what about you, hm? How many slaves do you own?"
-    van ""
+    van "Ele tem mais escravos que qualquer outro humano! Mas e você, hm? Quantos escravos você tem?"
 
 # game/scripts/kali_events.rpy:5481
 translate pt_br kaliuni_97c83436:
 
     # shan "Heyyy Vanessa... why don't you show her to the cafeteria?"
-    shan ""
+    shan "Eiii Vanessa... por que você não apresenta a cafeteria para ela?"
 
 # game/scripts/kali_events.rpy:5482
 translate pt_br kaliuni_34599a8f:
 
     # van "Okay, okay. Whatever, I'm done..."
-    van ""
+    van "Ok, ok. Tanto faz, já terminei..."
 
 # game/scripts/kali_events.rpy:5484
 translate pt_br kaliuni_31d0a7a7:
 
     # shan "Greaaaat... Well I'll leave Kali in your hands! I really need to get back to working..."
-    shan ""
+    shan "Óóóóótimo... Bem, eu deixarei a Kali em suas mãos! Eu realmente preciso voltar ao trabalho..."
 
 # game/scripts/kali_events.rpy:5486
 translate pt_br kaliuni_540415b4:
 
     # k "Um... I'm not actually that rich, and I don't personally own any slaves. I'm kind of struggling to even afford rent right now..."
-    k ""
+    k "Um... na verdade eu não sou tão rica, e eu não tenho nenhum escravo. Eu meio que estou me esforçando para pagar o aluguel no momento..."
 
 # game/scripts/kali_events.rpy:5487
 translate pt_br kaliuni_93a0f726:
 
     # van "What do you mean you aren't rich? You're THE Trenero's kid, aren't you?"
-    van ""
+    van "Como assim você não é rica? Vocé É a filha do Trenero, não é?"
 
 # game/scripts/kali_events.rpy:5488
 translate pt_br kaliuni_a4e6e07d:
 
     # k "Yeah, but my Dad hasn't given me much money since I was like 18..."
-    k ""
+    k "Sim, mas meu pai não me deu muito dinheiro desde que eu tinha uns 18 anos..."
 
 # game/scripts/kali_events.rpy:5490
 translate pt_br kaliuni_bf249779:
 
     # van "Hmph, okay so maybe you aren't an oligarch. But that doesn't change my opinions on your father."
-    van ""
+    van "Hmph, ok, então talvez você seja uma oligarca. Mas isso não muda minhas opiniões sobre seu pai."
 
 # game/scripts/kali_events.rpy:5491
 translate pt_br kaliuni_f34a0dd6:
 
     # k "I don't really like him that much either, especially after he kicked to me the other side of the world without any way to get back home..."
-    k ""
+    k "Eu também não gosto muito dele, especialmente depois que ele me mandou pro outro lado do mundo sem um jeito de voltar para casa..."
 
 # game/scripts/kali_events.rpy:5492
 translate pt_br kaliuni_e2f15e47:
 
     # van "Damn, he really did that? I knew he was piece of shit!"
-    van ""
+    van "Porra, ele realmente fez isso? Eu sabia que ele era um pedaço de merda!"
 
 # game/scripts/kali_events.rpy:5494
 translate pt_br kaliuni_0924673a:
 
     # van "Name's Vanessa, this is Kim."
-    van ""
+    van "Eu me chamo Vanessa, e essa é a Kim."
 
 # game/scripts/kali_events.rpy:5495
 translate pt_br kaliuni_30273b69:
 
     # k "You already introduced yourselves."
-    k ""
+    k "Vocês já se introduziram."
 
 # game/scripts/kali_events.rpy:5497
 translate pt_br kaliuni_9dc53c3b:
 
     # van "Ah, right... *ehem*..."
-    van ""
+    van "Ah, certo... *ahem*..."
 
 # game/scripts/kali_events.rpy:5498
 translate pt_br kaliuni_e70f8820:
 
     # van "Already got your books then? Follow us, we'll show you around the campus."
-    van ""
+    van "Já pegou seus livros? Siga-nos, nós vamos te mostrar os arredores do campus"
 
 # game/scripts/kali_events.rpy:5499
 translate pt_br kaliuni_0650cfc1:
 
     # k "Oh, you two are my guides?"
-    k ""
+    k "Oh, vocês duas são minhas guias?"
 
 # game/scripts/kali_events.rpy:5500
 translate pt_br kaliuni_66c8da3e:
 
     # van "We are. Sorry we got off on the wrong foot, I think I might actually enjoy getting to know more about you..."
-    van ""
+    van "Somos sim. Desculpa se começamos com o pé esquerdo, na verdade eu acho que seria divertido agente se conhecer melhor..."
 
 # game/scripts/kali_events.rpy:5502
 translate pt_br kaliuni_6e79b574:
 
     # k "Okay, see you later honeybear! Are you going to stick around or head back home?"
-    k ""
+    k "Ok, te vejo depois ursinho! Você vai ficar por aí ou vai voltar para casa?"
 
 # game/scripts/kali_events.rpy:5503
 translate pt_br kaliuni_ae87e7f3:
 
     # c "I'll be heading home. Are you sure you're fine here?"
-    c ""
+    c "Eu vou para casa. Certeza que tá tudo certo?"
 
 # game/scripts/kali_events.rpy:5504
 translate pt_br kaliuni_438f0661:
 
     # k "Yeah, I'm good... just be ready for me when I get home, okay?"
-    k ""
+    k "Sim, tudo bem... só me espere em casa quando eu chegar, ok?"
 
 # game/scripts/kali_events.rpy:5505
 translate pt_br kaliuni_de1b5ddf:
 
     # c "Alright, see you later. Have fun."
-    c ""
+    c "Tudo bem, te vejo depois. Se divirta."
 
 # game/scripts/kali_events.rpy:5518
 translate pt_br kalivtwo_5103be00:
 
     # k "Hey, honeybear. Wanna go out?"
-    k ""
+    k "Ei ursinho. Quer dar uma volta?"
 
 # game/scripts/kali_events.rpy:5519
 translate pt_br kalivtwo_a7ae532a:
 
     # c "Sure, where to?"
-    c ""
+    c "Claro, para onde?"
 
 # game/scripts/kali_events.rpy:5520
 translate pt_br kalivtwo_71a0d6ca:
 
     # k "I wanna go shopping for uni, maybe look for some makeup, and maybe get my hair done as well! ...I need your help."
-    k ""
+    k "Eu gostaria de fazer compras, cuidar da maquiagem, e também talvez o tratar meu cabelo... e eu preciso da sua ajuda."
 
 # game/scripts/kali_events.rpy:5521
 translate pt_br kalivtwo_b25f8ed6:
 
     # c "Hah, are you serious?"
-    c ""
+    c "Hah, sério?"
 
 # game/scripts/kali_events.rpy:5524
 translate pt_br kalivtwo_93334484:
 
     # k "What?"
-    k ""
+    k "Que?"
 
 # game/scripts/kali_events.rpy:5525
 translate pt_br kalivtwo_cdc4e44a:
 
     # c "You're not exactly known for shopping, makeup, and hair cuts."
-    c ""
+    c "Você não é o tipo de pessoa conhecida por fazer compras, cuidar da maquiagem, e arrumar o cabelo."
 
 # game/scripts/kali_events.rpy:5526
 translate pt_br kalivtwo_e0d919d6:
 
     # k "I'm not getting my hair cut, I'm getting it styled! There's a huge difference."
-    k ""
+    k "Eu não vou cortar meu cabelo nem nada, eu só vou dar uma estilizada! Tem uma enorme diferença."
 
 # game/scripts/kali_events.rpy:5527
 translate pt_br kalivtwo_86cf6412:
 
     # c "Let's get to it, then!"
-    c ""
+    c "Vamos indo então!"
 
 # game/scripts/kali_events.rpy:5530
 translate pt_br kalivtwo_efe54581:
 
     # k "Cool! You're the best boyfriend ever! Make sure I'm cute!"
-    k ""
+    k "Ótimo! Você é o melhor namorado de todos! Conto com você!"
 
 # game/scripts/kali_events.rpy:5531
 translate pt_br kalivtwo_67731ee1:
 
     # k "Oh, you know a place, right? I have no clue where to go for... normal clothes."
-    k ""
+    k "Oh, você conhece algum lugar, né? Eu não sei onde ir comprar... roupas normais."
 
 # game/scripts/kali_events.rpy:5532
 translate pt_br kalivtwo_52910e0a:
 
     # c "Sure, I've got somewhere in mind."
-    c ""
+    c "Claro, estou pensando em um."
 
 # game/scripts/kali_events.rpy:5534
 translate pt_br kalivtwo_744a4b6d:
 
     # "You and Kali drive to the nearest city... During your drive, you notice Kali is jumpy with anticipation. You've rarely ever seen her this excited, happy, motivated or ambitious."
-    ""
+    "Você e Kali dirigem até a cidade mais próxima... durante a ida, você nota a Kali 'pular' de antecipação. Você raramente a vê tão ansiosa, animada, ou motivada assim."
 
 # game/scripts/kali_events.rpy:5535
 translate pt_br kalivtwo_4c455430:
 
     # "You're still not sure if harvesting elves for their blood is something you should support, but the important part is Kali is happy. You decide to support Kali as much as you can through this, if for nothing but to keep that smile on her face for five more minutes."
-    ""
+    "Você ainda não tem certeza se deve apoiar a extração de sangue élfico, mas o que importa é que a Kali está feliz. Você decide apoiá-la o quanto puder, só para ver aquele sorriso em seu rosto por alguns minutos."
 
 # game/scripts/kali_events.rpy:5537
 translate pt_br kalivtwo_d9240928:
 
     # k "This is the place...?"
-    k ""
+    k "É esse o lugar...?"
 
 # game/scripts/kali_events.rpy:5538
 translate pt_br kalivtwo_5024c2b8:
 
     # c "Yep, what's wrong with it?"
-    c ""
+    c "Isso, algum problema?"
 
 # game/scripts/kali_events.rpy:5539
 translate pt_br kalivtwo_a59c5137:
 
     # k "Nothing..."
-    k ""
+    k "Não..."
 
 # game/scripts/kali_events.rpy:5540
 translate pt_br kalivtwo_7001e431:
 
     # k "It's just so... red..."
-    k ""
+    k "É que é tão... vermelho..."
 
 # game/scripts/kali_events.rpy:5542
 translate pt_br kalivtwo_dfde58dd:
 
     # k "Ah... hm..."
-    k ""
+    k "Ah... hm..."
 
 # game/scripts/kali_events.rpy:5543
 translate pt_br kalivtwo_041d4d79:
 
     # k "Are you trying to tell me something?"
-    k ""
+    k "Você está tentando me dizer algo?"
 
 # game/scripts/kali_events.rpy:5544
 translate pt_br kalivtwo_7543ea61:
 
     # c "Huh?"
-    c ""
+    c "Huh?"
 
 # game/scripts/kali_events.rpy:5545
 translate pt_br kalivtwo_0208694b:
 
     # k "If you want me to look like a goth rocker chick, just tell me... you don't need to hide your fetishes."
-    k ""
+    k "Se você quer que eu me vista como uma garota rockeira é gótica, só me diz... não precisa esconder seus fetiches."
 
 # game/scripts/kali_events.rpy:5548
 translate pt_br kalivtwo_4078a591:
 
     # k "Heh, knew it..."
-    k ""
+    k "Heh, eu sabia..."
 
 # game/scripts/kali_events.rpy:5549
 translate pt_br kalivtwo_b0a94a21:
 
     # k "Not my style though."
-    k ""
+    k "Só que não é meu estilo favorito."
 
 # game/scripts/kali_events.rpy:5551
 translate pt_br kalivtwo_67f28631:
 
     # k "Could be fun, I think I could rock it... it's a bit too flashy for me though, so I won't wear it in public..."
-    k ""
+    k "Pode ser divertido, eu acho que eu poderia ser uma rockeira... só que é um pouco brilhoso demais para mim, então eu não usaria em público..."
 
 # game/scripts/kali_events.rpy:5553
 translate pt_br kalivtwo_0680af5d:
 
     # c "You've done worse in public."
-    c ""
+    c "Você já fez pior em público."
 
 # game/scripts/kali_events.rpy:5554
 translate pt_br kalivtwo_915deec6:
 
     # k "Yeah, well..."
-    k ""
+    k "Bem, verdade..."
 
 # game/scripts/kali_events.rpy:5555
 translate pt_br kalivtwo_f8826de5:
 
     # k "Whatever... I don't want people to think I'm goth, or weird, or stick out, or whatever... I just want to hide in plain sight."
-    k ""
+    k "Tanto faz... eu não quero que as pessoas pensem que eu sou gótica, ou esquisita, ou que quero me destacar, ou qualquer outra coisa... eu só quero me esconder em plena vista."
 
 # game/scripts/kali_events.rpy:5556
 translate pt_br kalivtwo_7f53c472:
 
     # k "But... I'll always wear whatever you want me to in bed~"
-    k ""
+    k "Mas... eu sempre irei usar oque você quiser que eu use, na cama~"
 
 # game/scripts/kali_events.rpy:5559
 translate pt_br kalivtwo_0e358a34:
 
     # k "Oh."
-    k ""
+    k "Oh."
 
 # game/scripts/kali_events.rpy:5561
 translate pt_br kalivtwo_8a77d26c:
 
     # k "Hmmm... Sheesh, some of this stuff is flashy."
-    k ""
+    k "Hmmm... deus, algumas dessas coisas são muito destancantes."
 
 # game/scripts/kali_events.rpy:5562
 translate pt_br kalivtwo_985c7aa0:
 
     # k "What do you think, should I get something that says 'you're smart' or something that says 'you're friendly'?"
-    k ""
+    k "Oque você acha, eu devo pegar algo que diga 'você é inteligente' ou algo do tipo 'você é amigável'?"
 
 # game/scripts/kali_events.rpy:5565
 translate pt_br kalivtwo_164444a8:
 
     # k "Yeah, people should know I'm smart. People should respect me!"
-    k ""
+    k "Isso, eu devo parecer inteligente. As pessoas iriam me respeitar!"
 
 # game/scripts/kali_events.rpy:5567
 translate pt_br kalivtwo_2dcffdaa:
 
     # k "Good idea, I don't want people to think I'm full of myself..."
-    k ""
+    k "Boa idéia, eu não quero que as pessoas pensem que eu estou me achando..."
 
 # game/scripts/kali_events.rpy:5568
 translate pt_br kalivtwo_877616a9:
 
     # k "Okay, I think I've got one..."
-    k ""
+    k "Ok, acho que eu já decidi algumas..."
 
 # game/scripts/kali_events.rpy:5569
 translate pt_br kalivtwo_c2933dcd:
 
     # k "Let's look around a bit more. I want to try on a few for you."
-    k ""
+    k "Vamos dar mais alguma olhada. Eu quero testar algumas pra você."
 
 # game/scripts/kali_events.rpy:5571
 translate pt_br kalivtwo_ecc9a454:
 
     # k "God, I hope college isn't anything like highschool. The people there sucked..."
-    k ""
+    k "Deus, eu espero que a faculdade não seja igual o ensimo médio. As pessoas eram muito idiotas lá..."
 
 # game/scripts/kali_events.rpy:5572
 translate pt_br kalivtwo_e51cac3a:
 
     # k "Ergh, I hope no one bullies me for joining college late, I'll be older than everyone..."
-    k ""
+    k "Ergh, eu espero que ninguém faça bullyng comigo por entrar mais tarde, eu vou ser a mais velha..."
 
 # game/scripts/kali_events.rpy:5573
 translate pt_br kalivtwo_e6f2dc34:
 
     # c "Relax, no one is going to care about how old are you are. You could easily pass for 21 anyway, no one is going to bring it up"
-    c ""
+    c "Relaxa, ninguém vai ligar sobre a sua idade. Você parecer ter no máximo 21 anos mesmo, ninguém vai perceber?"
 
 # game/scripts/kali_events.rpy:5574
 translate pt_br kalivtwo_c396fd49:
 
     # k "Aw, you think? That's so nice of you to say..."
-    k ""
+    k "Aw, você acha? Isso foi tão legal da sua parte..."
 
 # game/scripts/kali_events.rpy:5575
 translate pt_br kalivtwo_e66294a7:
 
     # k "Yeah, what am I thinking... I need to get my head out of the gutter! I'm just anxious, sorry..."
-    k ""
+    k "Isso, oque eu estou pensando... eu preciso manter minha cabeça no lugar! Eu só estou ansiosa, desculpe..."
 
 # game/scripts/kali_events.rpy:5576
 translate pt_br kalivtwo_dec552d8:
 
     # k "Hmmm, I've got to have something professional too, right? Like, what if I have to go to a meeting? I can't show up in a hoodie..."
-    k ""
+    k "Hmmm, eu preciso pegar algo profissional também, né? Tipo, seu eu tivesse que sair? Eu não poderia ir com um moletom..."
 
 # game/scripts/kali_events.rpy:5577
 translate pt_br kalivtwo_f3e1b9d3:
 
     # k "Should I look for something that makes me look more powerful or... successful?"
-    k ""
+    k "Eu devo escolher algo que me faça parecer mais poderosa ou... bem sucedida?"
 
 # game/scripts/kali_events.rpy:5580
 translate pt_br kalivtwo_39dcb35b:
 
     # k "Are you saying I don't have any power...?"
-    k ""
+    k "Tá dizendo que eu não tenho poder...?"
 
 # game/scripts/kali_events.rpy:5581
 translate pt_br kalivtwo_3e0390ff:
 
     # c "Uh..."
-    c ""
+    c "Uh..."
 
 # game/scripts/kali_events.rpy:5582
 translate pt_br kalivtwo_fe54964a:
 
     # k "Heh, I'm just kidding, I know what you mean. I should radiate confidence! Like I already have the job!"
-    k ""
+    k "Heh, brincadeira, eu sei que oque você quer dizer. Eu devo parecer radiante e confiante! Como se eu já tivesse um emprego!"
 
 # game/scripts/kali_events.rpy:5583
 translate pt_br kalivtwo_60b421cb:
 
     # c "There you go!"
-    c ""
+    c "Agora sim!"
 
 # game/scripts/kali_events.rpy:5585
 translate pt_br kalivtwo_ae15217f:
 
     # k "Yeah, I'm a Trenero after all... my family is prestigious."
-    k ""
+    k "Isso, eu sou uma Trenero afinal... minha família é prestígiada."
 
 # game/scripts/kali_events.rpy:5586
 translate pt_br kalivtwo_40f055c5:
 
     # k "{i}Oh, that's expensive...{/i}"
-    k ""
+    k "{i}Nossa, isso é caro...{/i}"
 
 # game/scripts/kali_events.rpy:5587
 translate pt_br kalivtwo_e4bcc26f:
 
     # k "K. I've got enough, uh... where's the changing room..."
-    k ""
+    k "Ok, já peguei tudo que eu preciso, uh... onde será que fica os trocadores..."
 
 # game/scripts/kali_events.rpy:5589
 translate pt_br kalivtwo_cc368e01:
 
     # k "Excuse me, where's your changing room?"
-    k ""
+    k "Com licença, onde eu posso trocar de roupa?"
 
 # game/scripts/kali_events.rpy:5591
 translate pt_br kalivtwo_08ac774d:
 
     # got "To your right."
-    got ""
+    got "À sua direita."
 
 # game/scripts/kali_events.rpy:5593
 translate pt_br kalivtwo_80af5e00:
 
     # k "Thanks. Oh! Do you know where I can get my hair done?"
-    k ""
+    k "Obrigada. Oh! Você sabe de algum lugar onde eu possa arrumar meu cabelo?"
 
 # game/scripts/kali_events.rpy:5594
 translate pt_br kalivtwo_7d2fedac:
 
     # got "Around, I guess..."
-    got ""
+    got "Por aí, eu acho..."
 
 # game/scripts/kali_events.rpy:5595
 translate pt_br kalivtwo_cf88c6c5:
 
     # k "...Okay, thanks...?"
-    k ""
+    k "....ok, obrigada...?"
 
 # game/scripts/kali_events.rpy:5596
 translate pt_br kalivtwo_b7fa4e88:
 
     # got "We have some hair brushes and extensions if you want those... Oh, and we have preview mirrors."
-    got ""
+    got "Nós temos algumas escovas e extensões se você quiser... Oh, e espelhos também."
 
 # game/scripts/kali_events.rpy:5597
 translate pt_br kalivtwo_217e3d88:
 
     # k "Oh, cool! Can I use one?"
-    k ""
+    k "Oh, legal! Eu posso usar um?"
 
 # game/scripts/kali_events.rpy:5598
 translate pt_br kalivtwo_d7b22971:
 
     # got "...Urghhhhhh..."
-    got ""
+    got "...Urghhhhhh..."
 
 # game/scripts/kali_events.rpy:5599
 translate pt_br kalivtwo_0c3f3d33:
 
     # got "Follow me..."
-    got ""
+    got "Me siga..."
 
 # game/scripts/kali_events.rpy:5602
 translate pt_br kalivtwo_093da015:
 
     # got "Waddya want...?"
-    got ""
+    got "Qual a tua idéia...?"
 
 # game/scripts/kali_events.rpy:5603
 translate pt_br kalivtwo_81061f20:
 
     # k "Hmmm..."
-    k ""
+    k "Hmmm..."
 
 # game/scripts/kali_events.rpy:5604
 translate pt_br kalivtwo_49434232:
 
     # k "Straighten my hair out, and... give me a bit more makeup..."
-    k ""
+    k "Endireitar meu cabelo, e... um pouco de maquiagem..."
 
 # game/scripts/kali_events.rpy:5605
 translate pt_br kalivtwo_2ae5f488:
 
     # got "Okay."
-    got ""
+    got "Ok."
 
 # game/scripts/kali_events.rpy:5607
 translate pt_br kalivtwo_6e4661d9:
 
     # k "Hey, I like it! What do you think, [name]?"
-    k ""
+    k "Ei, eu gostei desse! O que você acha, [name]?"
 
 # game/scripts/kali_events.rpy:5610
 translate pt_br kalivtwo_3d788a5a:
 
     # k "I think I will."
-    k ""
+    k "Com certeza."
 
 # game/scripts/kali_events.rpy:5612
 translate pt_br kalivtwo_1f403ed1:
 
     # k "Aw... Whatever."
-    k ""
+    k "Aw... beleza."
 
 # game/scripts/kali_events.rpy:5613
 translate pt_br kalivtwo_c337b30f:
 
     # k "How about... a bit more wavey."
-    k ""
+    k "E que tal... um pouco mais ondulado."
 
 # game/scripts/kali_events.rpy:5614
 translate pt_br kalivtwo_ef26bcb3:
 
     # got "K."
-    got ""
+    got "Bele."
 
 # game/scripts/kali_events.rpy:5616
 translate pt_br kalivtwo_f558a5a9:
 
     # k "Oh... Hmmm..."
-    k ""
+    k "Ok... Hmmm..."
 
 # game/scripts/kali_events.rpy:5619
 translate pt_br kalivtwo_18991b0a:
 
     # k "But not me..."
-    k ""
+    k "Mas não pra mim..."
 
 # game/scripts/kali_events.rpy:5621
 translate pt_br kalivtwo_6a7fdf24:
 
     # k "Yep."
-    k ""
+    k "Isso mesmo."
 
 # game/scripts/kali_events.rpy:5622
 translate pt_br kalivtwo_1d0d21d6:
 
     # k "Next please..."
-    k ""
+    k "Próximo por favor..."
 
 # game/scripts/kali_events.rpy:5623
 translate pt_br kalivtwo_d86cd227:
 
     # got "Gotta tell me what you want..."
-    got ""
+    got "Você tem que me dizer oque quer..."
 
 # game/scripts/kali_events.rpy:5624
 translate pt_br kalivtwo_2ccc9f2a:
 
     # k "Oh, right, uhhh... something styled?"
-    k ""
+    k "Oh, certo, uhhh... algo mais estilizado?"
 
 # game/scripts/kali_events.rpy:5625
 translate pt_br kalivtwo_2a24a1ae:
 
     # got "Ummm... okay."
-    got ""
+    got "Ummm... ok."
 
 # game/scripts/kali_events.rpy:5627
 translate pt_br kalivtwo_0205dc3a:
 
     # k "Ohhh..."
-    k ""
+    k "Ohhh..."
 
 # game/scripts/kali_events.rpy:5628
 translate pt_br kalivtwo_928433d1:
 
     # k "I could see this working... {w}if I wanted to talk to the manager..."
-    k ""
+    k "Eu acho que esse pode funcionar... {w}se eu quisesse falar com o gerente..."
 
 # game/scripts/kali_events.rpy:5629
 translate pt_br kalivtwo_a326f675:
 
     # got "He's not here."
-    got ""
+    got "Ele não está."
 
 # game/scripts/kali_events.rpy:5630
 translate pt_br kalivtwo_56ff7f7a:
 
     # k "Huh? Oh, whatever, next."
-    k ""
+    k "Huh? Oh, beleza, próximo."
 
 # game/scripts/kali_events.rpy:5631
 translate pt_br kalivtwo_dbc042dd:
 
     # got "Guess I'll just... choose whatever..."
-    got ""
+    got "Acho que eu vou... escolher qualquer coisa..."
 
 # game/scripts/kali_events.rpy:5633
 translate pt_br kalivtwo_e058e5fc:
 
     # k "Aww, that's cute..."
-    k ""
+    k "Aww, esse é fofo..."
 
 # game/scripts/kali_events.rpy:5634
 translate pt_br kalivtwo_58b3f55a:
 
     # k "Makes me look 30 though."
-    k ""
+    k "Só que me faz parecer com 30 anos."
 
 # game/scripts/kali_events.rpy:5635
 translate pt_br kalivtwo_2475f5ec:
 
     # k "Hmm, give me a hair bun."
-    k ""
+    k "Hmm, me dê a escova de cabelo."
 
 # game/scripts/kali_events.rpy:5636
 translate pt_br kalivtwo_2f5ad5ff:
 
     # got "Are you going to tip me...?"
-    got ""
+    got "Você por acaso vai me dar alguma gorjeta...?"
 
 # game/scripts/kali_events.rpy:5638
 translate pt_br kalivtwo_94a319b8:
 
     # k "Oh! That reminds me of Moon!"
-    k ""
+    k "Oh! Esse me lembra da Moon!"
 
 # game/scripts/kali_events.rpy:5639
 translate pt_br kalivtwo_53ce641a:
 
     # k "I think the style fits her better, give me a pony tail."
-    k ""
+    k "Eu acho que esse estilo fica melhor nela, faz um rabo de cavalo."
 
 # game/scripts/kali_events.rpy:5640
 translate pt_br kalivtwo_a9e17edb:
 
     # got "Alright..."
-    got ""
+    got "Beleza..."
 
 # game/scripts/kali_events.rpy:5642
 translate pt_br kalivtwo_94f8f522:
 
     # k "Ohh, I'm so pretty! Right, [name]?"
-    k ""
+    k "Ohh, esse é tão bonito! Né, [name]?"
 
 # game/scripts/kali_events.rpy:5645
 translate pt_br kalivtwo_2c247d3b:
 
     # k "Maybe I should get an extension..."
-    k ""
+    k "Talvez eu devesse usar uma extensão..."
 
 # game/scripts/kali_events.rpy:5647
 translate pt_br kalivtwo_04957983:
 
     # k "Actually, I think I've seen enough."
-    k ""
+    k "Na verdade, eu acho que já chega."
 
 # game/scripts/kali_events.rpy:5648
 translate pt_br kalivtwo_d14d521a:
 
     # k "On to the clothes!"
-    k ""
+    k "Para às roupas!"
 
 # game/scripts/kali_events.rpy:5649
 translate pt_br kalivtwo_0ba8bf4e:
 
     # got "..."
-    got ""
+    got "..."
 
 # game/scripts/kali_events.rpy:5651
 translate pt_br kalivtwo_b3b209b8:
 
     # got "...Huh? Oh, yeah... I should... go... and leave... because she'll be naked... Obviously."
-    got ""
+    got "...Huh? Oh, é... eu devo... sair... porque ela vai estar pelada... obviamente."
 
 # game/scripts/kali_events.rpy:5653
 translate pt_br kalivtwo_4a9e803d:
 
     # k "Okay, let me know what you think, honest opinions..."
-    k ""
+    k "Ok, me deixe saber a sua opinião, seja honesto..."
 
 # game/scripts/kali_events.rpy:5656
 translate pt_br kalivtwo_d20de33c:
 
     # k "This is what I was thinking..."
-    k ""
+    k "Eu tava pensando em algo assim..."
 
 # game/scripts/kali_events.rpy:5659
 translate pt_br kalivtwo_57184b05:
 
     # c "Just the top?"
-    c ""
+    c "Só o top?"
 
 # game/scripts/kali_events.rpy:5660
 translate pt_br kalivtwo_2e5d523e:
 
     # k "With the choker...! But yeah... just the top. I thought it fit that college vibe, and was still me, you know?"
-    k ""
+    k "Com a gargantilha...! Mas é... só o top. Eu pensei que serviria para a vibe de faculdade, e ainda é o meu estilo, sabe?"
 
 # game/scripts/kali_events.rpy:5661
 translate pt_br kalivtwo_8137d4c7:
 
     # c "It looks amazing on you."
-    c ""
+    c "Ficou bom em você."
 
 # game/scripts/kali_events.rpy:5662
 translate pt_br kalivtwo_dfba945c:
 
     # k "Thanks..."
-    k ""
+    k "Obrigada..."
 
 # game/scripts/kali_events.rpy:5666
 translate pt_br kalivtwo_f627b346:
 
     # k "...What? I'm just changing..."
-    k ""
+    k "...Que? Eu estou me trocando..."
 
 # game/scripts/kali_events.rpy:5669
 translate pt_br kalivtwo_94e66647:
 
     # k "And this... is my professional choice. What do you think?"
-    k ""
+    k "E essa... é a minha opção profissional. O que você acha?"
 
 # game/scripts/kali_events.rpy:5672
 translate pt_br kalivtwo_531624d3:
 
     # c "Powerful... successful... and sexy."
-    c ""
+    c "Poderoso... bem sucedido... e sexy."
 
 # game/scripts/kali_events.rpy:5673
 translate pt_br kalivtwo_14372678:
 
     # k "Hahah..."
-    k ""
+    k "Hahah..."
 
 # game/scripts/kali_events.rpy:5675
 translate pt_br kalivtwo_5b69e629:
 
     # k "Alright, let's buy this shit and get out of here!"
-    k ""
+    k "Beleza, vamo comprar essa coisa e sair daqui!"
 
 # game/scripts/kali_events.rpy:5678
 translate pt_br kalivtwo_697a570a:
 
     # got "Will this be everything for you...?"
-    got ""
+    got "Isso é tudo...?"
 
 # game/scripts/kali_events.rpy:5679
 translate pt_br kalivtwo_bd7e7645:
 
     # k "Oh, um... I guess I'll try the extensions as well."
-    k ""
+    k "Oh, um... eu acho que eu vou querer as extensões também."
 
 # game/scripts/kali_events.rpy:5680
 translate pt_br kalivtwo_6ead468d:
 
     # got "Alright... everything together will be $320."
-    got ""
+    got "Certo... são $320."
 
 # game/scripts/kali_events.rpy:5681
 translate pt_br kalivtwo_29ef7c93:
 
     # k "Oh god..."
-    k ""
+    k "Oh meu deus..."
 
 # game/scripts/kali_events.rpy:5683
 translate pt_br kalivtwo_cd15b8ab:
 
     # c "You want me to pay for it?"
-    c ""
+    c "Você quer que eu pague?"
 
 # game/scripts/kali_events.rpy:5684
 translate pt_br kalivtwo_1f318203:
 
     # k "No, it's my stuff. Don't worry about it."
-    k ""
+    k "Não, são coisas minhas. Não precisa se preocupar."
 
 # game/scripts/kali_events.rpy:5687
 translate pt_br kalivtwo_ad21d71d:
 
     # k "Hey, so I was thinking... {w}have you ever thought about expanding your business?"
-    k ""
+    k "Ei, eu estava pensando... {w}você já pensou em expandir seus negócios?"
 
 # game/scripts/kali_events.rpy:5688
 translate pt_br kalivtwo_bb00a52c:
 
     # c "What do you mean?"
-    c ""
+    c "Como assim?"
 
 # game/scripts/kali_events.rpy:5689
 translate pt_br kalivtwo_a5f27b6e:
 
     # k "Like creating a company and setting up more branches!"
-    k ""
+    k "Tipo, criando uma empresa e abrir mais filiais!"
 
 # game/scripts/kali_events.rpy:5692
 translate pt_br kalivtwo_ee8ea29f:
 
     # k "Yeah! So here's what I have in mind..."
-    k ""
+    k "Isso! Essa é a minha idéia..."
 
 # game/scripts/kali_events.rpy:5694
 translate pt_br kalivtwo_dc5a0207:
 
     # k "Aw come on, you haven't even heard my pitch yet."
-    k ""
+    k "Aw qual é, você nem ouviu minha sugestão ainda."
 
 # game/scripts/kali_events.rpy:5695
 translate pt_br kalivtwo_a24ad8a2:
 
     # c "Alright, shoot."
-    c ""
+    c "Beleza, diga."
 
 # game/scripts/kali_events.rpy:5697
 translate pt_br kalivtwo_e99a9b72:
 
     # k "Okay, get ready because I have a great idea!"
-    k ""
+    k "OK, se prepara, eu tenho uma grande idéia!"
 
 # game/scripts/kali_events.rpy:5698
 translate pt_br kalivtwo_677f4ab0:
 
     # k "You know how most hotels in Syl'anar are basically ran by elves? The construction, the service, the food, the cleaning, booking, all of it."
-    k ""
+    k "Você sabe que a maioria dos hoteis de Syl'anar tem basicamente só empregados elfos? A construção, a comida, a limpeza, livros, tudo."
 
 # game/scripts/kali_events.rpy:5699
 translate pt_br kalivtwo_48a3b800:
 
     # k "The reason most people use elves is, of course, because they're the cheapest option. Profit is key here."
-    k ""
+    k "A razão que a maioria usa elfos, é claro, porque eles são a opção mais barata. O lucro é a chave."
 
 # game/scripts/kali_events.rpy:5700
 translate pt_br kalivtwo_4d979751:
 
     # k "And the only reason we don't use Androids for those same things is...?"
-    k ""
+    k "E a razão que agente não usa androids para a mesma coisa é por que...?"
 
 # game/scripts/kali_events.rpy:5701
 translate pt_br kalivtwo_6efe86c8:
 
     # k "Because they're too expensive!"
-    k ""
+    k "Porque eles são muito caros!"
 
 # game/scripts/kali_events.rpy:5702
 translate pt_br kalivtwo_21b9a3bd:
 
     # c "And the Elfbots will take care of that?"
-    c ""
+    c "E os elfbots vão cuidar disso?"
 
 # game/scripts/kali_events.rpy:5703
 translate pt_br kalivtwo_bfe73b57:
 
     # k "Exactly! So here's my idea... ready for it?"
-    k ""
+    k "Exatamente! Então, aqui vai minha idéia... pronto?"
 
 # game/scripts/kali_events.rpy:5704
 translate pt_br kalivtwo_2df1ce3e:
 
     # k "The first artificially intelligent hotel!"
-    k ""
+    k "O primeiro hotel completamente inteligente!"
 
 # game/scripts/kali_events.rpy:5706
 translate pt_br kalivtwo_26d63a36:
 
     # k "They could take care of EVERYTHING! Down to fucking construction! We would never even need to physically check up on each hotel. They would know how to cook every meal, and fix every problem! If a customer needs to speak to one of us, the Elfbots can just call us!"
-    k ""
+    k "Eles cuidariam de TUDO! Construir a porra do prédio! Nós nunca precisaríamos ir pessoalmente checar cada hotel. Eles saberiam como cozinhar cada refeição, e concertar qualquer problema! Se um cliente precisar conversar com um de nós, os Elfbots podem simplesmente nos ligar! "
 
 # game/scripts/kali_events.rpy:5707
 translate pt_br kalivtwo_24898387:
 
     # k "I could get a loan from my father for our first hotel! It could be huge!"
-    k ""
+    k "Eu poderia pegar um empréstimo do meu pai para o primeiro hotel! Vai ser enorme!"
 
 # game/scripts/kali_events.rpy:5708
 translate pt_br kalivtwo_ff0137fd:
 
     # k "You already have the managerial experience, and I-"
-    k ""
+    k "Você já tem experiência com gerenciamento, e eu-"
 
 # game/scripts/kali_events.rpy:5710
 translate pt_br kalivtwo_d4dc58d8:
 
     # c "Kali."
-    c ""
+    c "Kali."
 
 # game/scripts/kali_events.rpy:5711
 translate pt_br kalivtwo_6daa0f7f:
 
     # k "Huh?"
-    k ""
+    k "Huh?"
 
 # game/scripts/kali_events.rpy:5712
 translate pt_br kalivtwo_d22e9c75:
 
     # c "I'm not a hotel manager, or a CEO, this hotel was just dropped into my lap."
-    c ""
+    c "Eu não sou gerente de hotel, ou um CEO, eu só herdei esse hotel."
 
 # game/scripts/kali_events.rpy:5713
 translate pt_br kalivtwo_047e124b:
 
     # k "So? You still have the experience, and-"
-    k ""
+    k "E? Você ainda tem experiência, e-"
 
 # game/scripts/kali_events.rpy:5714
 translate pt_br kalivtwo_39c81717:
 
     # c "Ellen does more managing than I do, and besides, it's not about the money. It's about the people in the hotel."
-    c ""
+    c "Ellen faz mais coisas de gerente que eu, e também, não é sobre o dinheiro. É sobre as pessoas do hotel."
 
 # game/scripts/kali_events.rpy:5716
 translate pt_br kalivtwo_61b028b5:
 
     # k "You just lack ambition..."
-    k ""
+    k "Você só está sem ambição..."
 
 # game/scripts/kali_events.rpy:5718
 translate pt_br kalivtwo_41fc2921:
 
     # "With that, the two of you make your way back to the hotel."
-    ""
+    "E com isso, vocês dois voltam ao hotel."
 
 # game/scripts/kali_events.rpy:5720
 translate pt_br kalivtwo_a67b2826:
 
     # k "Phew, room sweet room..."
-    k ""
+    k "Phew, lar doce lar..."
 
 # game/scripts/kali_events.rpy:5722
 translate pt_br kalivtwo_53092ab9:
 
     # lu "Hey sister from the same mister, watcha get?"
-    lu ""
+    lu "Ei, irmã do mesmo cara, o que você tem aí?"
 
 # game/scripts/kali_events.rpy:5723
 translate pt_br kalivtwo_c4bb3581:
 
     # k "Clothes... and stuff."
-    k ""
+    k "Roupas... e essas coisas."
 
 # game/scripts/kali_events.rpy:5724
 translate pt_br kalivtwo_1a804673:
 
     # lu "Ooooh, fun stuff? Heheheh..."
-    lu ""
+    lu "Ooooh, coisas divertidas? Heheheh..."
 
 # game/scripts/kali_events.rpy:5725
 translate pt_br kalivtwo_b7c182e3:
 
     # k "No, you brat. Just stuff."
-    k ""
+    k "Não, sua pirralha. Só roupas normais."
 
 # game/scripts/kali_events.rpy:5726
 translate pt_br kalivtwo_1c4e88c6:
 
     # lu "You don't go shopping that much, it's a little hard to believe you know?"
-    lu ""
+    lu "Você não é muito de comprar roupas, é um pouco difícil de acreditar, sabe?"
 
 # game/scripts/kali_events.rpy:5727
 translate pt_br kalivtwo_75572ab4:
 
     # k "It's stuff for college."
-    k ""
+    k "São coisas pra faculdade."
 
 # game/scripts/kali_events.rpy:5729
 translate pt_br kalivtwo_f7ce6622:
 
     # lu "Ohh, college stuff. Don't let this one get away, [name]. What happens in college, doesn't often stay in college..."
-    lu ""
+    lu "Ohh, coisas da faculdade. Não deixa escapar, [name]. Oque acontece na faculdade, normalmente não fica na faculdade..."
 
 # game/scripts/kali_events.rpy:5730
 translate pt_br kalivtwo_d4d366b1:
 
     # k "Urgh, cut it out you perv, and that's kind of the point. Real world experience."
-    k ""
+    k "Urgh, para com isso sua pervertida, e esse o ponto. Experiência do mundo real."
 
 # game/scripts/kali_events.rpy:5731
 translate pt_br kalivtwo_e11cbb90:
 
     # lu "Right, well the real world can be... eye opening."
-    lu ""
+    lu "Certo, bem, o mundo real pode ser... um olho aberto."
 
 # game/scripts/kali_events.rpy:5732
 translate pt_br kalivtwo_b25d0e30:
 
     # k "Yyyyyeahhhhh... speaking of which, I told my manager you're taking my old job."
-    k ""
+    k "IIIIIIIIISSO... falando nisso, eu falei pro meu chefe que você vai ficar no meu lugar no trabalho."
 
 # game/scripts/kali_events.rpy:5734
 translate pt_br kalivtwo_8caffb8d:
 
     # lu "Ex-fucking-cuse me?"
-    lu ""
+    lu "Pera, mas que porra?"
 
 # game/scripts/kali_events.rpy:5735
 translate pt_br kalivtwo_1563ab96:
 
     # k "You've been living here almost rent free for... how long? I've been paying for... how much of your shit? Time for you to pull your weight, and make up for it, too."
-    k ""
+    k "Você tem morado aqui praticamente de graça por... quanto tempo? Eu estive pagando... quanto pelas suas porcarias? É hora de você carregar o próprio peso, e se virar, também."
 
 # game/scripts/kali_events.rpy:5736
 translate pt_br kalivtwo_5ca21922:
 
     # k "Or you could just... leave."
-    k ""
+    k "Ou, você pode só... ir embora."
 
 # game/scripts/kali_events.rpy:5737
 translate pt_br kalivtwo_507da271:
 
     # lu "WHAT!? NO WAY! I'M NOT WORKING AT THAT PLACE!"
-    lu ""
+    lu "QUE!? NEM FUDENDO! EU NÃO VOU TRABALHAR NAQUELE LUGAR!"
 
 # game/scripts/kali_events.rpy:5738
 translate pt_br kalivtwo_1461f288:
 
     # k "Right, well the real world can be... eye opening."
-    k ""
+    k "Certo, bem, o mundo real pode ser... um olho aberto."
 
 # game/scripts/kali_events.rpy:5740
 translate pt_br kalivtwo_2ff1b451:
 
     # lu "DON'T USE MY OWN LINE ON ME! URGH!"
-    lu ""
+    lu "NÂO USE MINHA FRASE CONTRA MIM! URGH!"
 
 # game/scripts/kali_events.rpy:5742
 translate pt_br kalivtwo_47edd805:
 
     # c "So when do you start university?"
-    c ""
+    c "Então, quando começa as suas aulas?"
 
 # game/scripts/kali_events.rpy:5743
 translate pt_br kalivtwo_8792634a:
 
     # k "The semester is already going, so I'll be able to hop in as soon as I pass the test. Which will hopefully be in a few days."
-    k ""
+    k "O semestre já está rolando, então eu poderei entrar assim que eu passar no teste. Que, tomara, que seja em alguns dias."
 
 # game/scripts/kali_events.rpy:5744
 translate pt_br kalivtwo_655015f8:
 
     # c "Oh wow, I didn't expect this to come so fast."
-    c ""
+    c "Oh, wow, eu não esperava que fosse tão rápido."
 
 # game/scripts/kali_events.rpy:5745
 translate pt_br kalivtwo_ef62546f:
 
     # k "Just a few of the perks of being a Trenero, I guess."
-    k ""
+    k "É uma das vantagens de ser uma Trenero, eu acho."
 
 # game/scripts/kali_events.rpy:5746
 translate pt_br kalivtwo_faec0697:
 
     # k "Anyway... thank you so much for taking me out! Next time we really gotta get something to eat, as well."
-    k ""
+    k "De qualquer forma... muito obrigada por me levar pra sair! Na próxima vez nós vamos ter que comer algo também."
 
 # game/scripts/kali_events.rpy:5747
 translate pt_br kalivtwo_17e85a94:
 
     # k "...And if you want to have some fun... you know where I live."
-    k ""
+    k "...E se você quiser se divertir... você sabe onde me encontrar."
 
 # game/scripts/kali_events.rpy:5760
 translate pt_br kalicollegetest_a1066727:
 
     # bot "[botown], guess what!"
-    bot ""
+    bot "[botown], advinha!"
 
 # game/scripts/kali_events.rpy:5761
 translate pt_br kalicollegetest_62017e6e:
 
     # k "I finally got the test! My Dad really did it!"
-    k ""
+    k "Eu finalmente peguei o teste! Meu pai realmente conseguiu!"
 
 # game/scripts/kali_events.rpy:5762
 translate pt_br kalicollegetest_29e33b2f:
 
     # c "That's great!"
-    c ""
+    c "Isso é ótimo!"
 
 # game/scripts/kali_events.rpy:5767
 translate pt_br kalicollegetest_fef97190:
 
     # k "I took a glance earlier, I honestly didn't expect the entrance exam to be this tough."
-    k ""
+    k "Eu dei uma olhada mais cedo. Honestamente, eu não esperava que a prova de admissão fosse tão difícil."
 
 # game/scripts/kali_events.rpy:5768
 translate pt_br kalicollegetest_8577ac40:
 
     # bot "You can always practice on me!"
-    bot ""
+    bot "Você pode praticar em mim!"
 
 # game/scripts/kali_events.rpy:5771
 translate pt_br kalicollegetest_9a7b3593:
 
     # k "Haha, thanks, but this is a completely different field. You don't have the same operating system the Elfbots are planned to have."
-    k ""
+    k "Haha, obrigada, mas essa é uma coisa completamente diferente. Você não tem o mesmo sistema operacional que os Elfbots."
 
 # game/scripts/kali_events.rpy:5774
 translate pt_br kalicollegetest_21f88f68:
 
     # bot "Oh..."
-    bot ""
+    bot "Oh..."
 
 # game/scripts/kali_events.rpy:5775
 translate pt_br kalicollegetest_41d3a4f8:
 
     # k "Cheer up, the two operating systems are relatively similar enough. You were a great learning experience!"
-    k ""
+    k "Relaxa, os dois sistemas eram relativamente semelhantes. Você foi um bom início!"
 
 # game/scripts/kali_events.rpy:5776
 translate pt_br kalicollegetest_f54762ea:
 
     # k "And I can always develop some apps for you. Nothing has changed, I just won't be able to work on you at the same level I will with Elfbots. Assuming this all works out..."
-    k ""
+    k "E eu sempre posso desenvolver alguns aplicativos para você. Nada mudou, eu só não vou poder trabalhar em você no mesmo nível que vou trabalhar nos Elfbots. Assumindo que tudo isso de certo..."
 
 # game/scripts/kali_events.rpy:5779
 translate pt_br kalicollegetest_f51f9319:
 
     # bot "Oh, okay!"
-    bot ""
+    bot "Oh, ok!"
 
 # game/scripts/kali_events.rpy:5780
 translate pt_br kalicollegetest_e75871fd:
 
     # c "This is a huge opportunity for you, and I can tell you're very motivated to do this. I'm proud of you!"
-    c ""
+    c "Essa é uma grande oportunidade pra você, e eu sei que você está bastante motivada. Eu estou orgulhoso!"
 
 # game/scripts/kali_events.rpy:5783
 translate pt_br kalicollegetest_a83c2cf5:
 
     # k "Thanks, honeybear..."
-    k ""
+    k "Obrigada, ursinho..."
 
 # game/scripts/kali_events.rpy:5784
 translate pt_br kalicollegetest_3986e648:
 
     # c "Are you excited for your new college life?"
-    c ""
+    c "Está animada com a sua nova vida de universitária?"
 
 # game/scripts/kali_events.rpy:5787
 translate pt_br kalicollegetest_15e27d7c:
 
     # k "Yeah, I mean, maybe I'll make some friends, but honestly I'm more excited about having a purpose. This is my chance to really do some good for this world!"
-    k ""
+    k "Sim, quer dizer, talvez eu faça alguns amigos, mas honestamente. Eu estou mais animada com ter um propósito. Essa é a minha chance de fazer algo algo pelo mundo!"
 
 # game/scripts/kali_events.rpy:5788
 translate pt_br kalicollegetest_90e3eab4:
 
     # c "You weren't this excited when you first saw the Elfbot, what happened?"
-    c ""
+    c "Você não estava assim na primeira vez que viu os Elfbots, o que aconteceu?"
 
 # game/scripts/kali_events.rpy:5789
 translate pt_br kalicollegetest_c2090afd:
 
     # k "Sure, the harvesting elves for their blood thing was pretty abhorant, but look at the bigger picture! We won't need to use elvish labor if we have the Elfbots!"
-    k ""
+    k "Claro, a coisa que tirar o sangue dos elfos foi bem macabro, mas olhe para o objetivo maior! Nós não vamos precisar da mão de obra dos elfos se nós tivermos os Elfbots!"
 
 # game/scripts/kali_events.rpy:5790
 translate pt_br kalicollegetest_79341e3e:
 
     # k "I could even see my work being the spark that ignites elvish liberation!"
-    k ""
+    k "Eu consigo até mesmo ver o meu trabalho caminhando para a libertação dos elfos!"
 
 # game/scripts/kali_events.rpy:5791
 translate pt_br kalicollegetest_8401c022:
 
     # c "You have big ambitions. I can't wait to see what you accomplish."
-    c ""
+    c "Você tem grandes amboções. Mal posso esperar para isso se realizar."
 
 # game/scripts/kali_events.rpy:5794
 translate pt_br kalicollegetest_7e606608:
 
     # k "It's only a dream, maybe I shouldn't get my hopes too high..."
-    k ""
+    k "É só uma ambição, talvez eu não devesse elevar minhas expectativas..."
 
 # game/scripts/kali_events.rpy:5795
 translate pt_br kalicollegetest_e3d00aba:
 
     # c "Shoot for the stars, Kali."
-    c ""
+    c "Atire para as estrelas, Kali."
 
 # game/scripts/kali_events.rpy:5798
 translate pt_br kalicollegetest_4bdf60bf:
 
     # k "You're right! AGH! I'm so excited!"
-    k ""
+    k "Você está certo! AGH! Eu estou tão animada!"
 
 # game/scripts/kali_events.rpy:5801
 translate pt_br kalicollegetest_c2fed10b:
 
     # bot "Go team Kali!"
-    bot ""
+    bot "Vai time Kali!"
 
 # game/scripts/kali_events.rpy:5806
 translate pt_br kalicollegetest_4780f165:
 
     # k "Oh, that's right! There were actually a few things you could help with me with!"
-    k ""
+    k "Oh, sim! Na verdade tem algumas coisas que você pode me ajudar!"
 
 # game/scripts/kali_events.rpy:5807
 translate pt_br kalicollegetest_2cd1ec6b:
 
     # k "[botname] you have to tell me how your vision works, how do you see?"
-    k ""
+    k "[botname] você precisa me dizer como a sua visão funciona, como você enxerga?"
 
 # game/scripts/kali_events.rpy:5808
 translate pt_br kalicollegetest_238728ef:
 
     # bot "Ummm, with my eyes silly, hehe."
-    bot ""
+    bot "Ummm, com os meus olhos, bobinha, hehe."
 
 # game/scripts/kali_events.rpy:5809
 translate pt_br kalicollegetest_329caaa4:
 
     # k "No, this will help me on my test! {i}How{/i} do you see? Like, with your eyes."
-    k ""
+    k "Não, isso não vai me ajudar no meu teste! {i}Como{/i} você enxerga? Tipo, com os seus olhos."
 
 # game/scripts/kali_events.rpy:5810
 translate pt_br kalicollegetest_f930b7a0:
 
     # bot "Oh! I use a wide variety of different cameras, sensors and GPS. Depth perception is made partially possible by just having two eyes!"
-    bot ""
+    bot "Oh! Eu uso uma vasta variedade de câmeras, sensores e GPS. Minha percepção de profundidade é possível só com meus dois olhos! "
 
 # game/scripts/kali_events.rpy:5811
 translate pt_br kalicollegetest_68a101a5:
 
     # k "Really? I didn't know that. You have to tell me more! What about your memory?"
-    k ""
+    k "Sério? Eu não sabia disso. Você precisa me contar mais! E sua memória?"
 
 # game/scripts/kali_events.rpy:5812
 translate pt_br kalicollegetest_74cf25f9:
 
     # c "Haha, alright, I'll leave you two to it."
-    c ""
+    c "Haha, certo, eu vou deixar vocês à sós."
 
 # game/scripts/kali_events.rpy:5815
 translate pt_br kalicollegetest_3be8bd03:
 
     # k "Oh, sorry haha... see you later, [name]!"
-    k ""
+    k "Oh, desculpe haha... até mais tarde, [name]!"
 
 # game/scripts/kali_events.rpy:5826
 translate pt_br kali_preparty_e4cc4fbf:
 
     # k "Nnnhh... Shit... shit... what am I going to do..."
-    k ""
+    k "Nnnhh... merda... merda... oque eu vou fazer..."
 
 # game/scripts/kali_events.rpy:5827
 translate pt_br kali_preparty_bf4820cf:
 
     # c "What's wrong?"
-    c ""
+    c "Qual o problema?"
 
 # game/scripts/kali_events.rpy:5828
 translate pt_br kali_preparty_f2e661fe:
 
     # lu "She's worried about being social."
-    lu ""
+    lu "Ela está preocupada sobre ser social."
 
 # game/scripts/kali_events.rpy:5829
 translate pt_br kali_preparty_19ade9a9:
 
     # k "We have to go to this shitty party my Dad is throwing and it's very important we show up to make a good appearance..."
-    k ""
+    k "Nós temos que ir nessa porcaria de festa que meu pai está dando e é muito importante que agente apareça para dar uma boa impressão..."
 
 # game/scripts/kali_events.rpy:5830
 translate pt_br kali_preparty_a42b02cc:
 
     # lu "Oh no, what a pain! We have to talk to very important and interesting people! I bet there will even be free expensive food... what will you do without your microwaved trash?"
-    lu ""
+    lu "Oh não, que dor! Nós temos de conversar com pessoas importantes e interessantes! Eu aposto que terá até mesmo comida cara de graça... oque faremos sem aquelas porcarias de microondas?"
 
 # game/scripts/kali_events.rpy:5832
 translate pt_br kali_preparty_c37f1e1d:
 
     # k "Urgh, shut up."
-    k ""
+    k "Urgh, cala a boca."
 
 # game/scripts/kali_events.rpy:5834
 translate pt_br kali_preparty_8a0296b0:
 
     # lu "Just relax, it's not a big deal... You're not going to be expected to do much. We're just talking and hanging out."
-    lu ""
+    lu "Relaxa, não é grande coisa... você não vai precisar fazer quase nada. Nós vamos só conversar e dar uma volta."
 
 # game/scripts/kali_events.rpy:5836
 translate pt_br kali_preparty_81043489:
 
     # k "Do you have any idea how hard it is for me to {i}just{/i} 'talk and hang out'...? It's not as simple as it looks."
-    k ""
+    k "Você tem idéia o quão difícil é {i}só{/i} 'conversar e dar uma volta' para mim...? Não é tão simples como parece."
 
 # game/scripts/kali_events.rpy:5837
 translate pt_br kali_preparty_46ff7637:
 
     # lu "Everyone does it... you're doing it right now, silly."
-    lu ""
+    lu "Todo mundo faz isso... você está fazendo isso agora, boba."
 
 # game/scripts/kali_events.rpy:5839
 translate pt_br kali_preparty_fe312f4c:
 
     # k "Nnnnngggghh... Oh my god, fuck you..." with ssshake
-    k "" with ssshake
+    k "Nnnnngggghh... meu deus, vá se foder..." with ssshake
 
 # game/scripts/kali_events.rpy:5840
 translate pt_br kali_preparty_fd9b1b25:
 
     # lu "What's wrong with you? I'm just trying to help you out... I do this shit all the time, Kali!"
-    lu ""
+    lu "Qual o problema com você? Eu estou só tentando ajudar você... você faz essa merda o tempo todo, Kali!"
 
 # game/scripts/kali_events.rpy:5841
 translate pt_br kali_preparty_3acc1fb2:
 
     # k "Well, I don't... I hate this shit."
-    k ""
+    k "Bem, não... eu odeio essa merda."
 
 # game/scripts/kali_events.rpy:5842
 translate pt_br kali_preparty_4b3973f0:
 
     # lu "Maybe you would be a happier person if you went out more?"
-    lu ""
+    lu "Talvez você fosse uma pessoa mais feliz se saísse mais vezes?"
 
 # game/scripts/kali_events.rpy:5844
 translate pt_br kali_preparty_759f02de:
 
     # k "Are you kidding me!? Fuck you! You have no idea what I'm feeling!"
-    k ""
+    k "Você tá brincando comigo!? Foda-se! Você não sabe como estou me sentindo!"
 
 # game/scripts/kali_events.rpy:5846
 translate pt_br kali_preparty_d8a96e93:
 
     # lu "Sheesh..."
-    lu ""
+    lu "Deus..."
 
 # game/scripts/kali_events.rpy:5850
 translate pt_br kali_preparty_69038a2a:
 
     # k "*sniff*... egh..."
-    k ""
+    k "*sniff*... egh..."
 
 # game/scripts/kali_events.rpy:5851
 translate pt_br kali_preparty_5e3ba6da:
 
     # c "Hey Kali."
-    c ""
+    c "Ei, Kali."
 
 # game/scripts/kali_events.rpy:5853
 translate pt_br kali_preparty_06edd948:
 
     # k "Rgh, hey [name]..."
-    k ""
+    k "Rgh, ei, [name]..."
 
 # game/scripts/kali_events.rpy:5854
 translate pt_br kali_preparty_08a70826:
 
     # k "Sorry... Uh, I think I overreacted..."
-    k ""
+    k "Desculpe... Um, eu acho que eu exagerei um pouco..."
 
 # game/scripts/kali_events.rpy:5855
 translate pt_br kali_preparty_bf4820cf_1:
 
     # c "What's wrong?"
-    c ""
+    c "Qual o problema?"
 
 # game/scripts/kali_events.rpy:5856
 translate pt_br kali_preparty_274cc60d:
 
     # k "I'm just so stressed, I don't get much of a warning for these things... and I hate talking to people... I don't have anything in common with those elitist pricks anyway."
-    k ""
+    k "Eu só estou estressada, eu não sou avisada sobre essas coisas... e eu odeio conversar com pessoas... eu não tenho nada em comum com aqueles picaretas elitistas."
 
 # game/scripts/kali_events.rpy:5858
 translate pt_br kali_preparty_5ae3b952:
 
     # k "My Dad expects me to just show up like some escort to look pretty, and my sister doesn't understand me at all! I hate this shit!"
-    k ""
+    k "Meu pai espera que eu apareça com um acompanhante para eu parecer importante, e a minha irmã não me entende! Eu odeio essa merda!"
 
 # game/scripts/kali_events.rpy:5859
 translate pt_br kali_preparty_6d11cce0:
 
     # c "Would it help if I came with you?"
-    c ""
+    c "Ajudaria se eu fosse com você?"
 
 # game/scripts/kali_events.rpy:5861
 translate pt_br kali_preparty_9c974223:
 
     # k "Well, you've been invited anyway so I sure hope you're coming... I definitely wouldn't be able to do this by myself..."
-    k ""
+    k "Bem, você foi convidado então eu espero que você vá de qualquer forma... eu definitivamente não conseguiria fazer isso sozinha..."
 
 # game/scripts/kali_events.rpy:5862
 translate pt_br kali_preparty_24ec1c36:
 
     # c "Of course I'm coming."
-    c ""
+    c "É claro que eu vou."
 
 # game/scripts/kali_events.rpy:5864
 translate pt_br kali_preparty_97a020cc:
 
     # k "That's a relief... I still fucking hate this though."
-    k ""
+    k "Isso é um alívio... mas eu ainda odeio isso."
 
 # game/scripts/kali_events.rpy:5867
 translate pt_br kali_preparty_bbc6f320:
 
     # c "I can see that your sister doesn't understand you, it must have been hard living like that."
-    c ""
+    c "Eu vejo que a sua irmã realmente não te entende, deve ter sido difícil viver dessa forma."
 
 # game/scripts/kali_events.rpy:5868
 translate pt_br kali_preparty_9a05a512:
 
     # k "Yeah... my mother wasn't great either..."
-    k ""
+    k "Sim... minha mãe não era muito boa também..."
 
 # game/scripts/kali_events.rpy:5869
 translate pt_br kali_preparty_2ce83163:
 
     # c "I'll be with you every step of the way, and if it sucks, we can just leave."
-    c ""
+    c "Eu vou estar com você o tempo todo, e se ficar sem graça, nós podemos ir embora."
 
 # game/scripts/kali_events.rpy:5871
 translate pt_br kali_preparty_6a15f115:
 
     # k "Hah, thanks... but this isn't really the type of event where you can just leave whenever you want."
-    k ""
+    k "Hah, obrigada... mas esse não é exatamente o tipo de evento que agente pode sair a qualquer hora."
 
 # game/scripts/kali_events.rpy:5872
 translate pt_br kali_preparty_101bd66d:
 
     # c "What are they going to do, keep us there against our will?"
-    c ""
+    c "O que eles vão fazer, nos manter lá contra nossa vontade?"
 
 # game/scripts/kali_events.rpy:5873
 translate pt_br kali_preparty_4a95d45c:
 
     # k "Well no, but..."
-    k ""
+    k "Bem, não, mas..."
 
 # game/scripts/kali_events.rpy:5874
 translate pt_br kali_preparty_1835cc1c:
 
     # c "Then we can leave whenever we want. Who cares what they think."
-    c ""
+    c "Então nós podemos sair quando agente quiser. Quem liga pro que eles pensam."
 
 # game/scripts/kali_events.rpy:5876
 translate pt_br kali_preparty_76c44b5e:
 
     # k "Yeah, I guess..."
-    k ""
+    k "É, eu acho..."
 
 # game/scripts/kali_events.rpy:5879
 translate pt_br kali_preparty_b244c118:
 
     # c "It'll be fun! I think it would be good for you to get out and try something new."
-    c ""
+    c "Vai ser divertido! Eu acho que vai ser bom para você experimentar coisas novas."
 
 # game/scripts/kali_events.rpy:5881
 translate pt_br kali_preparty_bb50fccd:
 
     # k "Well... I don't."
-    k ""
+    k "Bem... eu não."
 
 # game/scripts/kali_events.rpy:5884
 translate pt_br kali_preparty_a2788b5a:
 
     # k "Whatever..."
-    k ""
+    k "Tanto faz..."
 
 # game/scripts/kali_events.rpy:5886
 translate pt_br kali_preparty_869afc61:
 
     # k "We're going to the city in two days at Noon, be ready."
-    k ""
+    k "Nós vamos para a cidade em dois dias à tarde, esteja pronto."
 
 # game/scripts/kali_events.rpy:5887
 translate pt_br kali_preparty_79b58b81:
 
     # c "Your father is coming to Syl'anar?"
-    c ""
+    c "Seu pai está vindo para Syl'anar?"
 
 # game/scripts/kali_events.rpy:5888
 translate pt_br kali_preparty_6b42e9f9:
 
     # k "Yeah, I don't know why, he rarely comes here and doesn't throw these types of parties often."
-    k ""
+    k "Sim, não sei porque, ele raramente vem aqui e dá essas festas."
 
 # game/scripts/kali_events.rpy:5890
 translate pt_br kali_preparty_de70d104:
 
     # k "That means we need to go shopping, FUCK!"
-    k ""
+    k "Significa que agente precisa ir fazer compras, PORRA!"
 
 # game/scripts/kali_events.rpy:5891
 translate pt_br kali_preparty_578a16af:
 
     # c "Don't you have that red dress?"
-    c ""
+    c "Você não tem aquele vestido vermelho?"
 
 # game/scripts/kali_events.rpy:5892
 translate pt_br kali_preparty_f1cbf601:
 
     # k "We aren't wearing dresses, we're going in swim suits..."
-    k ""
+    k "Nós não vamos usar esse tipo de roupa, precisa ser roupas de piscina..."
 
 # game/scripts/kali_events.rpy:5894
 translate pt_br kali_preparty_c9814ed7:
 
     # k "The party we're going to is at my Dad's 'party house'. We'll be swimming and drinking alcohol while the more important people talk..."
-    k ""
+    k "A festa que agente vai será na casa do meu pai. Vai ter gente nadando e bebendo álcool em quanto as pessoas importantes conversam..."
 
 # game/scripts/kali_events.rpy:5895
 translate pt_br kali_preparty_201cbace:
 
     # k "Can you help me pick something out? I'm not really good at knowing what looks good on me."
-    k ""
+    k "Pode me ajudar a escolher alguma coisa? Eu não sou boa em dizer o que fica bom em mim."
 
 # game/scripts/kali_events.rpy:5896
 translate pt_br kali_preparty_3f80d691:
 
     # c "You won't have to worry about that, nothing would look bad on {i}you{/i}."
-    c ""
+    c "Você não precisa se preocupar com isso, nada vai ficar ruim em {i}você(/i)."
 
 # game/scripts/kali_events.rpy:5898
 translate pt_br kali_preparty_a858aade:
 
     # k "Shut up!"
-    k ""
+    k "Cala boca!"
 
 # game/scripts/kali_events.rpy:5899
 translate pt_br kali_preparty_e7836792:
 
     # k "...So you'll help me, right?"
-    k ""
+    k "... Então você vai me ajudar, né?"
 
 # game/scripts/kali_events.rpy:5900
 translate pt_br kali_preparty_4e8c7062:
 
     # c "Of course."
-    c ""
+    c "Claro."
 
 # game/scripts/kali_events.rpy:5902
 translate pt_br kali_preparty_ed9104d8:
 
     # k "Thank you... Sorry for making you go through this with me, my dad kind of just throws these things on us, he doesn't really think about our plans much. Maybe it's just because he's been rich for so long. He didn't even give us money to buy anything..."
-    k ""
+    k "Obrigada... desculpa por te meter nessa comigo, meu pai só joga esse tipo de coisa na gente, ele nem pensa nos nossos planos. Talvez seja porque ele é bem rico. Ele não dá dinheiro para gente comprar nada..."
 
 # game/scripts/kali_events.rpy:5906
 translate pt_br kali_preparty_a4e6776d:
 
     # k "Really? Thank you so much!"
-    k ""
+    k "Sério? Muito obrigada!"
 
 # game/scripts/kali_events.rpy:5910
 translate pt_br kali_preparty_96552940:
 
     # k "I was also thinking of inviting [botname], what do you think?"
-    k ""
+    k "Eu tava pensando em convidar a [botname], o que você acha?"
 
 # game/scripts/kali_events.rpy:5911
 translate pt_br kali_preparty_4b54a5a8:
 
     # c "Why would you do that?"
-    c ""
+    c "Por que convidar ela?"
 
 # game/scripts/kali_events.rpy:5912
 translate pt_br kali_preparty_b2688c13:
 
     # k "Well, aside from her being my friend, she'll make us look better."
-    k ""
+    k "Bem, além dela ser minha amiga, ela vai fazer agente parecer importante."
 
 # game/scripts/kali_events.rpy:5913
 translate pt_br kali_preparty_0cecc2ea:
 
     # k "People usually bring their slave or android to these things to flaunt themselves, so it would just help us fit in and maybe impress a few people."
-    k ""
+    k "As pessoas normalmente levam os escravos ou androids para esse tipo de coisa para ostentar, então ajudaria agente a se entrosar e impressionar algumas pessoas."
 
 # game/scripts/kali_events.rpy:5914
 translate pt_br kali_preparty_ffbea18e:
 
     # c "That sounds good to me. I'm sure you could use a friend by your side."
-    c ""
+    c "Parece bom para mim. Tenho certeza que iria te ajudar a fazer alguns amigos."
 
 # game/scripts/kali_events.rpy:5916
 translate pt_br kali_preparty_607c401c:
 
     # k "Cool... everything is turning out alright... I just hope my boss doesn't fire me for missing another day without much notice..."
-    k ""
+    k "Legal... tudo está bem planejado... eu só espero que meu chefe não me demita por faltar outro dia..."
 
 # game/scripts/kali_events.rpy:5917
 translate pt_br kali_preparty_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:5919
 translate pt_br kali_preparty_335a4fb9:
 
     # k "Fuck it! Wanna go shopping and fuck all day?"
-    k ""
+    k "Foda-se! Quer ir fazer compras e foder o dia inteiro?"
 
 # game/scripts/kali_events.rpy:5920
 translate pt_br kali_preparty_b91d65a9:
 
     # c "Haha, sure, let's go."
-    c ""
+    c "Haha. Claro, vamos."
 
 # game/scripts/kali_events.rpy:5922
 translate pt_br kali_preparty_71c66073:
 
     # "You take some time out of your day to drive Kali to an expensive clothing store in the city."
-    ""
+    "Você toma um tempo do seu dia para levar a Kali para uma loja de roupas caras na cidade. "
 
 # game/scripts/kali_events.rpy:5923
 translate pt_br kali_preparty_ec56a425:
 
     # "Once you two arrive, you begin looking for something for Kali to wear. She's unsure what would look good on her, so she stays back and follows you around - often commenting on style or color preference."
-    ""
+    "Assim que vocês dois chegam, você começa a procurar por algo para a Kali usar. Ela não tem certeza do que poderia ficar bom nela, então ela apenas te segue por aí - de vez em quando escolhendo estilo ou preferência de cores."
 
 # game/scripts/kali_events.rpy:5924
 translate pt_br kali_preparty_31ad3ea4:
 
     # "You find a sexy piece for Kali to wear. After you see how well it fits her, you buy it. Kali seems happy with your purchase."
-    ""
+    "Você encontra uma roupa sexy para a Kali usar. Depois de ver o quão bem fica nela, você compra. Kali parece feliz com a escolha."
 
 # game/scripts/kali_events.rpy:5928
 translate pt_br kali_preparty_713e8ff6:
 
     # k "Thanks! Don't forget, it's in two days at Noon!"
-    k ""
+    k "Obrigada! Não se esqueça, em dois dias, à tarde!"
 
 # game/scripts/kali_events.rpy:5929
 translate pt_br kali_preparty_2c17890e:
 
     # c "Got it."
-    c ""
+    c "Tendi."
 
 # game/scripts/kali_events.rpy:5930
 translate pt_br kali_preparty_4f5f7c21:
 
     # k "And... just let me know when you wanna fuck..."
-    k ""
+    k "E... me diga quando quiser foder..."
 
 # game/scripts/kali_events.rpy:5938
 translate pt_br kali_fancyparty_35091cd9:
 
     # "Once Lucia finishes getting prepared, the four of you lift off into the skies. The helicopter is relatively quiet, so casual conversation is possible without the need of special equipment."
-    ""
+    "Assim que a Lucy termina de se arrumar, vocês quatro levantam voo. O helicóptero é relativamente quieto, uma conversa casual é possível sem precisar de equipamento especial."
 
 # game/scripts/kali_events.rpy:5939
 translate pt_br kali_fancyparty_6f3b1497:
 
     # "While this seems routine to Lucy, Kali is clearly a fish out of water here. Lucy attempts to give Kali some tips, but they largely go ignored."
-    ""
+    "Em quanto isso parece rotina para a Lucy. A Kali está claramente fora d'água aqui. Lucy tenta dar algunsa conselhos para a Kali, mas ela os ignora."
 
 # game/scripts/kali_events.rpy:5940
 translate pt_br kali_fancyparty_d95cedde:
 
     # "[botname] seems to be just as excited as Lucia, but she is also quite anxious which results in frequent conversation between her and Kali about what to expect."
-    ""
+    "[botname] parece bem animada assim como a Lucy, mas também ansiosa. Oque resulta em uma conversa frequente entre ela e a Kali sobre oque esperar."
 
 # game/scripts/kali_events.rpy:5941
 translate pt_br kali_fancyparty_42debb9c:
 
     # "Within a short time, you reach the city. Your helicopter descends towards one of the many towers. As you were landing, you caught a glimpse of the party on the floor just below the one you're landing on."
-    ""
+    "Em pouco tempo, vocês chgam à cidade. O helicóptero desce em direção a uma das torres. Em quanto vocês descem, você tem um vislumbre da festa ao piso bem abaixo de vocês."
 
 # game/scripts/kali_events.rpy:5943
 translate pt_br kali_fancyparty_947cc8ab:
 
     # k "Be right back, we're going to change."
-    k ""
+    k "Já voltamos, nós vamos nos trocar."
 
 # game/scripts/kali_events.rpy:5945
 translate pt_br kali_fancyparty_2a3f7875:
 
     # bot "There's a lot of androids here... everyone looks so rich, too."
-    bot ""
+    bot "Tem muitos androids aqui... todo mundo parece bem rico, também..."
 
 # game/scripts/kali_events.rpy:5946
 translate pt_br kali_fancyparty_25b38b36:
 
     # c "Act natural. You don't want to draw any attention."
-    c ""
+    c "Aja naturalmente. Não chame atenção."
 
 # game/scripts/kali_events.rpy:5948
 translate pt_br kali_fancyparty_ee5d76fe:
 
     # bot "I have to pretend to be a dumb robot, [botown]...?"
-    bot ""
+    bot "Eu tenho que fingir ser um robô burro, [botown]...?"
 
 # game/scripts/kali_events.rpy:5949
 translate pt_br kali_fancyparty_9e1c97f0:
 
     # c "For a bit."
-    c ""
+    c "Um pouco."
 
 # game/scripts/kali_events.rpy:5950
 translate pt_br kali_fancyparty_13b73c92:
 
     # bot "Aww..."
-    bot ""
+    bot "Aww..."
 
 # game/scripts/kali_events.rpy:5952
 translate pt_br kali_fancyparty_013a5760:
 
     # corn "Mr. [name]?"
-    corn ""
+    corn "Senhor [name]?"
 
 # game/scripts/kali_events.rpy:5953
 translate pt_br kali_fancyparty_3eb767c3:
 
     # c "Cornwall?"
-    c ""
+    c "Cornwall?"
 
 # game/scripts/kali_events.rpy:5954
 translate pt_br kali_fancyparty_b4311290:
 
     # corn "I didn't expect to see you here. Whom are you with?"
-    corn ""
+    corn "Eu não esperava te ver aqui. Você está aqui com quem?"
 
 # game/scripts/kali_events.rpy:5955
 translate pt_br kali_fancyparty_8c836f18:
 
     # c "My girlfriend."
-    c ""
+    c "Minha namorada."
 
 # game/scripts/kali_events.rpy:5956
 translate pt_br kali_fancyparty_cd8f94f6:
 
     # corn "Friends in high places, I see."
-    corn ""
+    corn "Amigos em primeiro lugar, eu vejo."
 
 # game/scripts/kali_events.rpy:5957
 translate pt_br kali_fancyparty_14f2ce1f:
 
     # c "Why are you here?"
-    c ""
+    c "E por que está aqui?"
 
 # game/scripts/kali_events.rpy:5958
 translate pt_br kali_fancyparty_c4c94686:
 
     # corn "I'm half the reason this party is happening, you didn't know?"
-    corn ""
+    corn "Eu sou metade do motivo dessa festa acontecer, você não sabia?"
 
 # game/scripts/kali_events.rpy:5959
 translate pt_br kali_fancyparty_6438c1d8:
 
     # k "Hey, we're back."
-    k ""
+    k "Ei, voltamos."
 
 # game/scripts/kali_events.rpy:5964
 translate pt_br kali_fancyparty_8d12726c:
 
     # k "...Hello?"
-    k ""
+    k "... Olá?"
 
 # game/scripts/kali_events.rpy:5965
 translate pt_br kali_fancyparty_0edebe2a:
 
     # c "You look very good."
-    c ""
+    c "Você está ótima."
 
 # game/scripts/kali_events.rpy:5966
 translate pt_br kali_fancyparty_602d9ee2:
 
     # k "Geez dude, stop staring, don't get hard or anything-"
-    k ""
+    k "Meu deus, cara. Para de olhar, nem pense em ficar excitado nem nada-"
 
 # game/scripts/kali_events.rpy:5968
 translate pt_br kali_fancyparty_8a4bf88c:
 
     # k "Oh my god!" with ssshake
-    k "" with ssshake
+    k "Meu deus!" with ssshake
 
 # game/scripts/kali_events.rpy:5970
 translate pt_br kali_fancyparty_dbfe71b7:
 
     # k "{i}Seriously, dude!? You're going to embarrass us! These people are important!{/i}"
-    k ""
+    k "{i}Serião, cara!? Você vai envergonhar agente! Essas pessoas são importantes!{/i}"
 
 # game/scripts/kali_events.rpy:5972
 translate pt_br kali_fancyparty_234d8cdf:
 
     # k "{i}Come on! Get in the pool!{/i}"
-    k ""
+    k "{i}Vem! Entra na piscina!{/i}"
 
 # game/scripts/kali_events.rpy:5973
 translate pt_br kali_fancyparty_ef628432:
 
     # corn "{i}(Trenero's kid...? Hm.){/i}"
-    corn ""
+    corn "{i}(As filhas do Trenero...? Hm.){/i}"
 
 # game/scripts/kali_events.rpy:5975
 translate pt_br kali_fancyparty_75d0d88f:
 
     # kd "Kali, Lucy! You made it!"
-    kd ""
+    kd "Kali, Lucy! Vocês vieram!"
 
 # game/scripts/kali_events.rpy:5976
 translate pt_br kali_fancyparty_91718f43:
 
     # k "Dad?"
-    k ""
+    k "Pai?"
 
 # game/scripts/kali_events.rpy:5977
 translate pt_br kali_fancyparty_1136464f:
 
     # kd "I was worried you weren't going to show up."
-    kd ""
+    kd "Eu estava preocupado que vocês não iam aparecer."
 
 # game/scripts/kali_events.rpy:5979
 translate pt_br kali_fancyparty_9e4e32f9:
 
     # k "Well... It would have been nice to get more of a warning about these things..."
-    k ""
+    k "Bem... seria melhor se você nos avisasse dessas coisas mais cedo as vezes..."
 
 # game/scripts/kali_events.rpy:5980
 translate pt_br kali_fancyparty_8536e710:
 
     # lu "Hey, I'm going to get some drinks, want anyt-"
-    lu ""
+    lu "Ei, eu vou pegar umas bebidas, quer alguma-"
 
 # game/scripts/kali_events.rpy:5982
 translate pt_br kali_fancyparty_455bf661:
 
     # k "-I mean did you even think about how we were going to feel!? I could get fired from my job, Dad!"
-    k ""
+    k "-Você ao menos pensou na gente!? Eu poderia perder meu trabalho, pai!"
 
 # game/scripts/kali_events.rpy:5983
 translate pt_br kali_fancyparty_79ab4723:
 
     # kd "Oh, honey, relax. I own the parent company, remember? You could never be fired."
-    kd ""
+    kd "Oh, querida, relaxa. Eu sou dono da empresa, lembra? Você nunca seria demitida."
 
 # game/scripts/kali_events.rpy:5985
 translate pt_br kali_fancyparty_7e302d65:
 
     # k "What!? Urgh!"
-    k ""
+    k "Que!? Urgh!"
 
 # game/scripts/kali_events.rpy:5987
 translate pt_br kali_fancyparty_832a706c:
 
     # lu "...I'm gonna get something to drink."
-    lu ""
+    lu "... Eu vou pegar algo para beber."
 
 # game/scripts/kali_events.rpy:5990
 translate pt_br kali_fancyparty_bf4820cf:
 
     # c "What's wrong?"
-    c ""
+    c "Qual o problema?"
 
 # game/scripts/kali_events.rpy:5991
 translate pt_br kali_fancyparty_6757f2de:
 
     # k "What's the point..."
-    k ""
+    k "De que adianta..."
 
 # game/scripts/kali_events.rpy:5994
 translate pt_br kali_fancyparty_d0849033:
 
     # k "My Dad's a billionaire, and I'm working at a shitty pizza place he owns. I could get promoted to whatever I want and I won't be fired for anything I do wrong. What am I doing? I'm going to get half his money when he dies anyway..."
-    k ""
+    k "Meu pai é um bilionário, e eu trabalho na porcaria de uma pizzaria que ele é o dono. Eu poderia ser promovida a qualquer hora e não vou ser demitida. O que eu etou fazendo? Eu vou ficar com metade do dinheiro dele quando ele morrer de qualquer forma..."
 
 # game/scripts/kali_events.rpy:5995
 translate pt_br kali_fancyparty_5cbbf0c0:
 
     # bot "Don't think that way..."
-    bot ""
+    bot "Não pense assim..."
 
 # game/scripts/kali_events.rpy:5996
 translate pt_br kali_fancyparty_b8998fb7:
 
     # k "Well what the hell else am I supposed to think? It's completely pointless for me to work..."
-    k ""
+    k "Bem, oque mais eu devo pensar? É completamente sem sentido eu trabalhar..."
 
 # game/scripts/kali_events.rpy:5997
 translate pt_br kali_fancyparty_363a8ac3:
 
     # c "I don't think he would give you everything you need. I think he wants you to work towards a promotion."
-    c ""
+    c "Eu não acho que ele te dará tudo oque quiser. Eu acho que ele quer que você trabalhe pela promoção."
 
 # game/scripts/kali_events.rpy:5998
 translate pt_br kali_fancyparty_d8a0d866:
 
     # k "How did you get that in your head..."
-    k ""
+    k "Por que você acha isso..."
 
 # game/scripts/kali_events.rpy:5999
 translate pt_br kali_fancyparty_074a0812:
 
     # c "He forced you to move to Syl'anar, didn't he? He didn't give you much money to live off of and he kicked you out of his luxurious life style. It sounds like he wants you grow as a person instead of being handed everything like your sister."
-    c ""
+    c "Ele te forçou a se mudar para Syl'anar, não é? Ele não te deu dinheiro para nada e te expulsou da vida luxuosa dele. Me parece que ele quer que você cresça como pessoa ao invés de ser sustentada como a sua irmã."
 
 # game/scripts/kali_events.rpy:6000
 translate pt_br kali_fancyparty_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:6002
 translate pt_br kali_fancyparty_31ad9306:
 
     # k "...But what's the point if I can't fail?"
-    k ""
+    k "... Mas qual o sentido se eu não posso falhar?"
 
 # game/scripts/kali_events.rpy:6003
 translate pt_br kali_fancyparty_a86c810b:
 
     # c "You're still a delivery girl, Kali..."
-    c ""
+    c "Você ainda é uma entregadora, Kali..."
 
 # game/scripts/kali_events.rpy:6005
 translate pt_br kali_fancyparty_d076b931:
 
     # k "...I guess it would be really shitty to deliver pizzas at 80..."
-    k ""
+    k "... Seria uma merda entregar pizza aos 80 anos..."
 
 # game/scripts/kali_events.rpy:6006
 translate pt_br kali_fancyparty_9b3890ff:
 
     # k "...I guess I am failing..."
-    k ""
+    k "... Eu acho que eu estou falhando..."
 
 # game/scripts/kali_events.rpy:6007
 translate pt_br kali_fancyparty_cfa4ca54:
 
     # lu "Oh, don't worry. Your hair is fine, no one will notice."
-    lu ""
+    lu "Oh, não se preocupe. Seu cabelo está bom, ninguém vai notar."
 
 # game/scripts/kali_events.rpy:6009
 translate pt_br kali_fancyparty_0882a7f9:
 
     # k "What? Rgh, fuck you."
-    k ""
+    k "Que? Rgh, vá se foder."
 
 # game/scripts/kali_events.rpy:6010
 translate pt_br kali_fancyparty_96dd0bb3:
 
     # lu "So what were you guys talking about anyway?"
-    lu ""
+    lu "Então, sobre oque vocês estavam conversando?"
 
 # game/scripts/kali_events.rpy:6011
 translate pt_br kali_fancyparty_f366ea7c:
 
     # k "Just about how much you suck."
-    k ""
+    k "Sobre o quanto você não presta."
 
 # game/scripts/kali_events.rpy:6013
 translate pt_br kali_fancyparty_5c169cdf:
 
     # lu "Aw, don't be so grumpy..."
-    lu ""
+    lu "Aw, não seja mal humorada..."
 
 # game/scripts/kali_events.rpy:6014
 translate pt_br kali_fancyparty_06e536a2:
 
     # k "Egh, fuck off!"
-    k ""
+    k "Egh, foda-se!"
 
 # game/scripts/kali_events.rpy:6016
 translate pt_br kali_fancyparty_02c7b725:
 
     # c "It seems there's plenty of opportunity here if you want to find something."
-    c ""
+    c "Parece que tem várias oportunidades aqui se você quer achar alguma coisa."
 
 # game/scripts/kali_events.rpy:6018
 translate pt_br kali_fancyparty_eaa02e17:
 
     # lu "Oh, are you thinking about ditching your delivery job?"
-    lu ""
+    lu "Oh, você está pensando sobre sair do seu trabalho de entregadora?"
 
 # game/scripts/kali_events.rpy:6019
 translate pt_br kali_fancyparty_703a1bd6:
 
     # k "That's none of your business, Lucia..."
-    k ""
+    k "Isso não te interessa, Lucy..."
 
 # game/scripts/kali_events.rpy:6020
 translate pt_br kali_fancyparty_5b8fc022:
 
     # lu "Well I think it would be good for you to find something you can be more ambitious about."
-    lu ""
+    lu "Bem, eu acho que seria bom você procurar por algo mais ambicioso."
 
 # game/scripts/kali_events.rpy:6022
 translate pt_br kali_fancyparty_20b031b7:
 
     # bot "You should work full-time on me! I could use another arm..."
-    bot ""
+    bot "Você poderia trabalhar tempo integral em mim! Seria legar ter outro braço..."
 
 # game/scripts/kali_events.rpy:6023
 translate pt_br kali_fancyparty_f00565f4:
 
     # c "No more arms."
-    c ""
+    c "Não, nada de três braços."
 
 # game/scripts/kali_events.rpy:6025
 translate pt_br kali_fancyparty_f7815d32:
 
     # bot "Heheh, okay..."
-    bot ""
+    bot "Heheh, ok..."
 
 # game/scripts/kali_events.rpy:6027
 translate pt_br kali_fancyparty_a85694a3:
 
     # lu "What about Dad's offer? Is that still on the table?"
-    lu ""
+    lu "E a oferta do pai? Tá pensando nisso?"
 
 # game/scripts/kali_events.rpy:6028
 translate pt_br kali_fancyparty_453fb220:
 
     # k "I don't want to be a CEO..."
-    k ""
+    k "Eu não quero ser uma CEO..."
 
 # game/scripts/kali_events.rpy:6029
 translate pt_br kali_fancyparty_9e3d46d6:
 
     # lu "What do you want to be, then?"
-    lu ""
+    lu "O que você quer ser, então?"
 
 # game/scripts/kali_events.rpy:6031
 translate pt_br kali_fancyparty_d30b67dc:
 
     # k "I don't know!! Can we stop talking about this!?"
-    k ""
+    k "Eu não sei!! Agente pode parar de falar sobre isso!?"
 
 # game/scripts/kali_events.rpy:6033
 translate pt_br kali_fancyparty_67e048ed:
 
     # k "Urgh. Go get me a drink..."
-    k ""
+    k "Utgh. Me traz uma bebida..."
 
 # game/scripts/kali_events.rpy:6034
 translate pt_br kali_fancyparty_8b735976:
 
     # k "Get five, actually."
-    k ""
+    k "Cinco, na verdade."
 
 # game/scripts/kali_events.rpy:6035
 translate pt_br kali_fancyparty_83f3482b:
 
     # lu "Well damn sis, alright!"
-    lu ""
+    lu "Bem, droga mana, beleza!"
 
 # game/scripts/kali_events.rpy:6036
 translate pt_br kali_fancyparty_f4000d98:
 
     # k "I just want this to be done with..."
-    k ""
+    k "Eu só quero acabar com isso..."
 
 # game/scripts/kali_events.rpy:6037
 translate pt_br kali_fancyparty_fc9ff495:
 
     # c "Don't go overboard."
-    c ""
+    c "Não exagere."
 
 # game/scripts/kali_events.rpy:6039
 translate pt_br kali_fancyparty_9c3a655f:
 
     # k "Are you coming in, [botname]?"
-    k ""
+    k "Você não vai entrar, [botname]?"
 
 # game/scripts/kali_events.rpy:6040
 translate pt_br kali_fancyparty_affdf3ec:
 
     # bot "It would be pretty weird for an Android to go in water... most of us can't handle submersion."
-    bot ""
+    bot "Seria bem estranho uma android entrar em uma piscina... a maioria de nós não consegue."
 
 # game/scripts/kali_events.rpy:6041
 translate pt_br kali_fancyparty_9ea7fcf1:
 
     # k "Oh, right..."
-    k ""
+    k "Oh, tá certo..."
 
 # game/scripts/kali_events.rpy:6046
 translate pt_br k_fancyq_2ac1b744:
 
     # k "I have no clue anymore..."
-    k ""
+    k "Eu nem sei mais..."
 
 # game/scripts/kali_events.rpy:6047
 translate pt_br k_fancyq_93801381:
 
     # k "Let's see, in Syl'anar he owns this place, that house we went to before, one in central and one in east Syl'anar... maybe a few more."
-    k ""
+    k "Vamos ver, em Syl'anar ele tem esse lugar, aquele que agente foi da outra vez, mais uma na central e no leste de Syl'anar... talvez mais algumas."
 
 # game/scripts/kali_events.rpy:6048
 translate pt_br k_fancyq_db25a583:
 
     # k "He owned three buildings in The Capitol last time I was living with him. There's at least five more on that continent, and a few others on other continents."
-    k ""
+    k "Ele tinha três casas na Capitol quando eu vivia com ele. Tem ao menos mais 5 no outro continente, e mais alguns em outros."
 
 # game/scripts/kali_events.rpy:6049
 translate pt_br k_fancyq_590a672f:
 
     # c "Does he have a place in every part of the world to stay in?"
-    c ""
+    c "Ele tem uma casa em todo lugar do mundo?"
 
 # game/scripts/kali_events.rpy:6050
 translate pt_br k_fancyq_c8a55f2e:
 
     # k "Just the places he visits the most. He hates staying in hotels, he would save a lot of money if he just sucked it up..."
-    k ""
+    k "Só nos lugares que ele mais visita. Ele odeia ficar em hotéis, ele economizaria bastante dinheiro se ele aguentasse..."
 
 # game/scripts/kali_events.rpy:6052
 translate pt_br k_fancyq_212aa825:
 
     # k "But he does rent each place out when he's not using it for a very cheap price. He was actually on the news last month for letting a homeless family live in one of his apartments in The Capitol absolutely free for eight months."
-    k ""
+    k "Mas ele aluga as casas para outras pessoas quando ele não está usando por um preço bem barato. Ele na verdade, estava na tv mês passado por ter deixado uma família sem teto morar em um dos apartamentos dele na Capital de graça e por oito meses."
 
 # game/scripts/kali_events.rpy:6053
 translate pt_br k_fancyq_d177a729:
 
     # c "He sounds like a decent guy."
-    c ""
+    c "Ele me parece um cara decente."
 
 # game/scripts/kali_events.rpy:6055
 translate pt_br k_fancyq_76116836:
 
     # k "Well... when you look at him like that... yeah, he's not that bad..."
-    k ""
+    k "Bem... quando você olha para ele desse jeito... é, ele não é tão ruim..."
 
 # game/scripts/kali_events.rpy:6056
 translate pt_br k_fancyq_3143a607:
 
     # k "He has done some things a lot people didn't really like... or that I agree with..."
-    k ""
+    k "Ele fez algumas coisas que várias pessoas não gostaram muito... ou não concordaram..."
 
 # game/scripts/kali_events.rpy:6057
 translate pt_br k_fancyq_3fa04db9:
 
     # c "What has he done?"
-    c ""
+    c "E o que ele fez?"
 
 # game/scripts/kali_events.rpy:6058
 translate pt_br k_fancyq_b3eafd38:
 
     # k "Nothing really inherently evil... but some of the things he has done has had some unforseen consequences..."
-    k ""
+    k "Nada verdadeiramente do mal... mas algumas coisas das coisas que ele fez teve algumas consequências não previstas..."
 
 # game/scripts/kali_events.rpy:6059
 translate pt_br k_fancyq_6de91077:
 
     # k "One time when I was young, he was involved with a silicon mining company. He expanded so fast, the mines were cleaned out within a few years. Half the town was of out of a job once it dried up..."
-    k ""
+    k "Uma vez, quando eu era mais jovem, ele estava envolvido com uma empresa mineradora de silicone, as minas foram completamente limpas em alguns anos. Metade da cidade ficou sem emprego quando a mina secou..."
 
 # game/scripts/kali_events.rpy:6060
 translate pt_br k_fancyq_bbdcf5bb:
 
     # k "He doesn't really think about the long term..."
-    k ""
+    k "Ele não pensa no longo prazo..."
 
 # game/scripts/kali_events.rpy:6064
 translate pt_br k_fancyq_b9c1b9e5:
 
     # k "I guess it started with my Grandfather. He was one of the first to be involved with commercial solar panels. He didn't get mega rich like my Dad did though, but he paved the way for my Father."
-    k ""
+    k "Eu acho que isso começou com meu avô. Ele foi um dos primeiros a ser involvido com o comércio de painéis solares. Mas ele não ficou super rico como meu pai, mas ele pavimentou o caminho para o meu pai."
 
 # game/scripts/kali_events.rpy:6065
 translate pt_br k_fancyq_03d5b1b3:
 
     # k "My Dad started by tinkering with androids and computer hardware in college."
-    k ""
+    k "Meu pai começou a se envolver com androids e hardware de computador na faculdade."
 
 # game/scripts/kali_events.rpy:6067
 translate pt_br k_fancyq_c7618e93:
 
     # k "He made these stupid battle bot monstrosities and used a remote controller to scare people..."
-    k ""
+    k "Ele fez essas monstrousidades de robôs de batalha e usou um controle remoto para assustar as pessoas... "
 
 # game/scripts/kali_events.rpy:6068
 translate pt_br k_fancyq_b7f946bc:
 
     # k "Eventually he made Nero Inc., which is a hardware company. Just about anything with electronics in it has something from Nero Inc. inside. Now he focuses more on buying companies."
-    k ""
+    k "Eventualmente ele criou a Nero Inc., que é uma empresa de hardwares. Em pouco tempo qualquer coisa que envolvia eletrônico vinha da Nero Inc., Agora ele está focado em comprar outras empresas."
 
 # game/scripts/kali_events.rpy:6069
 translate pt_br k_fancyq_529e18d3:
 
     # c "So you were the daughter of a billionaire all your life?"
-    c ""
+    c "Então você foi a filha de um bilionário na sua vida toda?"
 
 # game/scripts/kali_events.rpy:6070
 translate pt_br k_fancyq_d4c590a8:
 
     # k "Well, he wasn't always a billionaire, but yeah, it's been pretty much just like this all my life."
-    k ""
+    k "Bem, ele não foi um bilionário a vida inteira, mas sim, foi basicamente isso a minha vida toda."
 
 # game/scripts/kali_events.rpy:6074
 translate pt_br k_fancyq_43ba0d85:
 
     # k "A bit closer than I am to my Dad, I guess."
-    k ""
+    k "Mais próxima que com o meu pai, eu acho."
 
 # game/scripts/kali_events.rpy:6075
 translate pt_br k_fancyq_5bfd3ddd:
 
     # k "She was a waitress, she wasn't too interested in anything relating to technology but she did support my Dad in almost everything."
-    k ""
+    k "Ela era uma garçonete, ela não era tão interessada em nada relacionado a tecnologia mas ela apoiava meu pai em quase tudo."
 
 # game/scripts/kali_events.rpy:6077
 translate pt_br k_fancyq_75426747:
 
     # k "She died when I was six... she was the person who took care of Lucy and I the most, but she still went to work as a waitress, she never quit."
-    k ""
+    k "Ele morreu quando eu tinha seis anos... ela era quem mais cuidava de mim e da Lucy, mas ela ainda tinha que trabalhar como garçonete, ela nunca pediu demissão."
 
 # game/scripts/kali_events.rpy:6078
 translate pt_br k_fancyq_f59c3eee:
 
     # c "Who took care of you when she was gone?"
-    c ""
+    c "Quem cuidou de você quando ela se foi?"
 
 # game/scripts/kali_events.rpy:6080
 translate pt_br k_fancyq_efa7a9f5:
 
     # k "Our androids did. They made us food, changed Lucy's diapers, everything."
-    k ""
+    k "Nossos androids. Eles faziam a comida, trocavam as fraldas da Lucy, tudo."
 
 # game/scripts/kali_events.rpy:6082
 translate pt_br k_fancyq_2957186c:
 
     # k "Our parents would talk through our androids sometimes, I don't remember it too well, but I loved hearing their voices."
-    k ""
+    k "Nossos parentes conversavam conosco através dos androids as vezes, eu não me lembro muito bem, mas eu amava ouvir as vozes deles."
 
 # game/scripts/kali_events.rpy:6083
 translate pt_br k_fancyq_6c4120b6:
 
     # bot "That's so sweet, I didn't know that was possible!"
-    bot ""
+    bot "Que fofo, eu não sabia que isso era possível!"
 
 # game/scripts/kali_events.rpy:6084
 translate pt_br k_fancyq_fd9e028a:
 
     # k "Anything is possible when you're rich, I guess. At the time it was pretty expensive to own an android, now it's a lot more common."
-    k ""
+    k "Qualquer coisa é possível quando se é rico, eu acho. Naquela época era bem mais caro para se ter um android, agora já mais comum."
 
 # game/scripts/kali_events.rpy:6085
 translate pt_br k_fancyq_de5ca60e:
 
     # k "My dad wanted me to learn software in an android, that's how I was introduced into programming."
-    k ""
+    k "Meu pai queria que eu aprendesse a fazer softwares para androids, e foi assim que eu comecei a programar."
 
 # game/scripts/kali_events.rpy:6086
 translate pt_br k_fancyq_0fb253c3:
 
     # bot "That's awesome! What did you do?"
-    bot ""
+    bot "Isso é incrível! E o que você fazia?"
 
 # game/scripts/kali_events.rpy:6087
 translate pt_br k_fancyq_5e3b0c88:
 
     # k "Nothing too special. I mostly made them pull stupid pranks on people."
-    k ""
+    k "Nada de especial. Na maioria das vezes eu pregava peças nas pessoas."
 
 # game/scripts/kali_events.rpy:6089
 translate pt_br k_fancyq_f62c65de:
 
     # bot "Can you program something into my software?"
-    bot ""
+    bot "Você pode programar alguma coisa no meu software?"
 
 # game/scripts/kali_events.rpy:6090
 translate pt_br k_fancyq_f7894d4c:
 
     # k "It's been a really long time since I coded anything in your program's language. I doubt it."
-    k ""
+    k "Faz muito tempo que eu não programo nada na linguagem do seu software. Eu dúvido."
 
 # game/scripts/kali_events.rpy:6091
 translate pt_br k_fancyq_2c282f9d:
 
     # bot "You did something to my program a while ago, didn't you?"
-    bot ""
+    bot "Você não fez alguma coisa à uns dias atrás no meu programas?"
 
 # game/scripts/kali_events.rpy:6092
 translate pt_br k_fancyq_df2fe037:
 
     # k "You're more complicated than you look. I can adjust variables using an app, but I won't be able to develop any new systems for you at the moment."
-    k ""
+    k "Você é mais complicada do que aparenta. Eu só consigo ajustar algumas variáveis usando um aplicativo, mas eu não conseguiria desenvolver nenhum sistema novo para você no momento."
 
 # game/scripts/kali_events.rpy:6093
 translate pt_br k_fancyq_da550ad9:
 
     # bot "Aw, okay."
-    bot ""
+    bot "Aw, ok."
 
 # game/scripts/kali_events.rpy:6097
 translate pt_br k_fancyq_7b4d6ba7:
 
     # k "Like sexually... or...?"
-    k ""
+    k "Tipo... sexualmente, ou... ?"
 
 # game/scripts/kali_events.rpy:6098
 translate pt_br k_fancyq_f0195f19:
 
     # c "Both."
-    c ""
+    c "Ambos."
 
 # game/scripts/kali_events.rpy:6100
 translate pt_br k_fancyq_1c273f24:
 
     # k "Um, okay... I guess I'll start with the non sexual stuff..."
-    k ""
+    k "Um, ok... acho que vou começar com as coisas não sexuais..."
 
 # game/scripts/kali_events.rpy:6101
 translate pt_br k_fancyq_201db7a0:
 
     # bot "Heheh, don't worry Kali, I already know what you do when you think no one else is looking~"
-    bot ""
+    bot "Heheh, não se preocupe Kali, eu já sei oque você faz quando pensa que ninguém está olhando~"
 
 # game/scripts/kali_events.rpy:6103
 translate pt_br k_fancyq_a6a39bcf:
 
     # k "W-What? How?"
-    k ""
+    k "O-O que? Como?"
 
 # game/scripts/kali_events.rpy:6104
 translate pt_br k_fancyq_e5487ef0:
 
     # bot "That's my secret to keep."
-    bot ""
+    bot "Segredo."
 
 # game/scripts/kali_events.rpy:6105
 translate pt_br k_fancyq_55b78173:
 
     # k "Whatever, you're lying..."
-    k ""
+    k "Tanto faz, você está mentindo..."
 
 # game/scripts/kali_events.rpy:6106
 translate pt_br k_fancyq_72567fe7:
 
     # bot "I'll prove it! Maria is masturbating in her room right now."
-    bot ""
+    bot "Eu posso provar! Maria está se masturbando agora."
 
 # game/scripts/kali_events.rpy:6108
 translate pt_br k_fancyq_56c29d1d:
 
     # k "Maria is always masturbating..."
-    k ""
+    k "Maria tá sempre se masturbando..."
 
 # game/scripts/kali_events.rpy:6110
 translate pt_br k_fancyq_e17fccdf:
 
     # k "...I like to watch KPOP videos sometimes, I guess... It's sort of a guilty pleasure, I don't know why I like it..."
-    k ""
+    k "... Eu gosto de assistir vídeos de KPOP as vezes, eu acho... é meio que um prazer culpado, eu não sei por que eu gosto..."
 
 # game/scripts/kali_events.rpy:6111
 translate pt_br k_fancyq_edd93e7b:
 
     # bot "The boys are so cute!"
-    bot ""
+    bot "Os garotos são muito fofos!"
 
 # game/scripts/kali_events.rpy:6113
 translate pt_br k_fancyq_baf6d7ad:
 
     # k "You watch it too?"
-    k ""
+    k "Você também assiste?"
 
 # game/scripts/kali_events.rpy:6114
 translate pt_br k_fancyq_504b2882:
 
     # bot "Only when I'm watching you."
-    bot ""
+    bot "Só quando eu assisto você."
 
 # game/scripts/kali_events.rpy:6116
 translate pt_br k_fancyq_3910eedd:
 
     # k "You don't need to make fun of me..."
-    k ""
+    k "Não precisa me zuar também..."
 
 # game/scripts/kali_events.rpy:6118
 translate pt_br k_fancyq_c1b7bf39:
 
     # c "And what do you like to do when no one's looking sexually?"
-    c ""
+    c "E o que você gosta de fazer quando ninguém está olhando,sexualmente?"
 
 # game/scripts/kali_events.rpy:6120
 translate pt_br k_fancyq_53c6b932:
 
     # k "Ummm......"
-    k ""
+    k "Ummm......"
 
 # game/scripts/kali_events.rpy:6122
 translate pt_br k_fancyq_8e63da33:
 
     # k "You know... {size=-7}{i}The... the rape thing...{/i}{/size}"
-    k ""
+    k "Você sabe... {size=-7}{i}o... negócio de estupro...{/i}{/size}"
 
 # game/scripts/kali_events.rpy:6123
 translate pt_br k_fancyq_c46d68d6:
 
     # bot "I heard that~"
-    bot ""
+    bot "Eu ovi isso~"
 
 # game/scripts/kali_events.rpy:6125
 translate pt_br k_fancyq_4c22d0f9:
 
     # k "Tsk... damn robot."
-    k ""
+    k "Tsk... droga de robô."
 
 # game/scripts/kali_events.rpy:6126
 translate pt_br k_fancyq_c6a9fe78:
 
     # bot "Hey, that wasn't nice!"
-    bot ""
+    bot "Ei, isso não foi legal!"
 
 # game/scripts/kali_events.rpy:6127
 translate pt_br k_fancyq_b95e1f09:
 
     # c "What's something I don't know?"
-    c ""
+    c "Tem alguma coisa que eu não saiba?"
 
 # game/scripts/kali_events.rpy:6128
 translate pt_br k_fancyq_42cf0cdf:
 
     # bot "Tell him about the dreams!"
-    bot ""
+    bot "Conta sobre seus sonhos!"
 
 # game/scripts/kali_events.rpy:6130
 translate pt_br k_fancyq_3244b635:
 
     # k "WHAT!?"
-    k ""
+    k "O QUE!?"
 
 # game/scripts/kali_events.rpy:6131
 translate pt_br k_fancyq_36b3ebf0:
 
     # k "Fuck you! You have been watching me! Tell me how!"
-    k ""
+    k "Vai se foder! Você fica me assistindo! Me diz como!"
 
 # game/scripts/kali_events.rpy:6133
 translate pt_br k_fancyq_77d094b7:
 
     # bot "Hahahaha!"
-    bot ""
+    bot "Hahahaha!"
 
 # game/scripts/kali_events.rpy:6135
 translate pt_br k_fancyq_e17d3f6e:
 
     # k "I'll drown you, bitch!"
-    k ""
+    k "Eu vou te afogar, vadia!"
 
 # game/scripts/kali_events.rpy:6136
 translate pt_br k_fancyq_53019518:
 
     # bot "Heh heheheh, hahaha!"
-    bot ""
+    bot "Heh heheheh, hahaha!"
 
 # game/scripts/kali_events.rpy:6138
 translate pt_br k_fancyq_777a190e:
 
     # bot "-Eh... uhmm..."
-    bot ""
+    bot "-Eh... uhmm..."
 
 # game/scripts/kali_events.rpy:6139
 translate pt_br k_fancyq_70fd707d:
 
     # bot "HA. HA. FUNNY JOKE."
-    bot ""
+    bot "HA. HA. QUE PIADA BOA."
 
 # game/scripts/kali_events.rpy:6140
 translate pt_br k_fancyq_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/scripts/kali_events.rpy:6142
 translate pt_br k_fancyq_e5989189:
 
     # c "What dreams?"
-    c ""
+    c "Que sonhos?"
 
 # game/scripts/kali_events.rpy:6143
 translate pt_br k_fancyq_d036354f:
 
     # k "Uh."
-    k ""
+    k "Uh."
 
 # game/scripts/kali_events.rpy:6145
 translate pt_br k_fancyq_e944290b:
 
     # k "Wellll..."
-    k ""
+    k "Bemmmm..."
 
 # game/scripts/kali_events.rpy:6147
 translate pt_br k_fancyq_37d11040:
 
     # k "Mh, after the first time you made me cum, I couldn't get it out of my head..."
-    k ""
+    k "Mh, depois da primeira vez que você me fez gozar, eu não conseguia tirar isso da minha cabeça..."
 
 # game/scripts/kali_events.rpy:6150
 translate pt_br k_fancyq_35279c37:
 
     # k "When you flipped me over, the way you dominated me was so hot... You plowed me like a bitch and just... mm... made me cum..."
-    k ""
+    k "Quando você me pegou, me virou, e o jeito que você me dominou. Foi tão excitante... você me tratou como uma vadia e... mm... me fez gozar..."
 
 # game/scripts/kali_events.rpy:6151
 translate pt_br k_fancyq_8786b50d:
 
     # k "I {i}really{/i} like the feeling of... being forced like that."
-    k ""
+    k "Eu {i}realmente{/i} gosto de... de ser forçada desse jeito."
 
 # game/scripts/kali_events.rpy:6152
 translate pt_br k_fancyq_4d9cf5af:
 
     # k "When I have no control and I'm being fucked deep by you is when I'm at my happiest..."
-    k ""
+    k "Quando eu não o tenho controle e sou fodida por você, é quando eu fico mais feliz..."
 
 # game/scripts/kali_events.rpy:6153
 translate pt_br k_fancyq_f2b86786:
 
     # k "I have dreams where you tie me up and fill my holes against my will. You never stop, you just keep fucking and fucking until you're satisfied... I keep telling you to stop, but you know I don't truly want you to..."
-    k ""
+    k "Eu tenho sonhos onde você me amarra e enche meus buracos contra a minha vontade. Você nunca para, só continua me fodendo e fodendo até você estar satisfeito... Eu continuo dizendo para você parar, mas você sabe que eu não quero que você pare de verdade..."
 
 # game/scripts/kali_events.rpy:6154
 translate pt_br k_fancyq_15c10f74:
 
     # k "And when you do stop, it's usually just to tease me... you pinch my nipples and rub my pussy even though I'm begging for your cock..."
-    k ""
+    k "E quando você para, é normalmente só para me provocar... você belisca meu mamilos e esfrega contra a minha buceta, mesmo comigo implorando pelo seu pau..."
 
 # game/scripts/kali_events.rpy:6155
 translate pt_br k_fancyq_0c7b74ff:
 
     # k "I keep telling you I don't want any children yet, but you're too worked up... you fill my pussy up whenever you want and always make a huge mess all over my tits..."
-    k ""
+    k "Eu continuo dizendo para você que eu não quero ter nenhum filho, mas você está muito nervoso... você continua enchendo a minha buceta sempre que quer, e sempre faz uma bagunça nos meus peitos..."
 
 # game/scripts/kali_events.rpy:6156
 translate pt_br k_fancyq_acce374e:
 
     # k "You call me a bitch and a slut, and even though I hate it... it turns me on... you degrade me until I'm nothing more than your cum dumpster..."
-    k ""
+    k "Você me chama de cadela e vagabunda, e mesmo eu odiando isso... me deixa excitada... você me quebra até eu não ser mais nada do que sua putinha..."
 
 # game/scripts/kali_events.rpy:6157
 translate pt_br k_fancyq_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:6159
 translate pt_br k_fancyq_a1a6b1cd:
 
     # k "It's... just a fantasy..."
-    k ""
+    k "É... só uma fantasia..."
 
 # game/scripts/kali_events.rpy:6161
 translate pt_br k_fancyq_da919011:
@@ -22846,3787 +22846,3787 @@ translate pt_br k_fancyq_da919011:
 translate pt_br k_fancyq_b94f8ae3:
 
     # k "Fuck off! Haha!"
-    k ""
+    k "Vai se foder! Haha!"
 
 # game/scripts/kali_events.rpy:6168
 translate pt_br k_fancyq_5ca6e33b:
 
     # k "My biggest weakness? I guess it's food... I used to eat a lot, so it can be hard to restrain myself."
-    k ""
+    k "Minha maior fraqueza? Eu acho que é comida... eu costumava comer bastante, então é difícil me restrigir."
 
 # game/scripts/kali_events.rpy:6169
 translate pt_br k_fancyq_4a4021a9:
 
     # k "I still kind of eat like shit, but I get plenty of excerise."
-    k ""
+    k "Eu ainda gosto de comer porcarias, mas eu também faço bastante exercício."
 
 # game/scripts/kali_events.rpy:6170
 translate pt_br k_fancyq_f2a8d978:
 
     # c "Why did you gain so much weight?"
-    c ""
+    c "Por que você ganhou tanto peso na época?"
 
 # game/scripts/kali_events.rpy:6171
 translate pt_br k_fancyq_47b8cd59:
 
     # k "I didn't take my Mother's death well as a child, so I turned to food whereas Lucy spent more time with her friends and outside our house over the years."
-    k ""
+    k "Eu não levei muito bem a morte da minha mãe quando criança, então eu comecei a comer já que a Lucy passava mais tempo com as amigas dela e fora de casa ao passar dos anos."
 
 # game/scripts/kali_events.rpy:6172
 translate pt_br k_fancyq_c1929928:
 
     # k "Whatever I wanted to eat, our android would feed me. So I ate."
-    k ""
+    k "Sempre que eu queria comer, nosso android me alimentava. Então eu comia."
 
 # game/scripts/kali_events.rpy:6177
 translate pt_br k_fancyq_d6b032dc:
 
     # k "What? We don't need to talk about that..."
-    k ""
+    k "Que? Nós não precisamos falar sobre isso..."
 
 # game/scripts/kali_events.rpy:6178
 translate pt_br k_fancyq_5121e1eb:
 
     # c "I want to know more about you."
-    c ""
+    c "Eu quero saber mais sobre você."
 
 # game/scripts/kali_events.rpy:6180
 translate pt_br k_fancyq_a27609e5:
 
     # k "...I guess... I think my tits are awesome... You seem to like them, so..."
-    k ""
+    k "... Eu acho... que meus peitos são bons... você também parece gostar deles, então..."
 
 # game/scripts/kali_events.rpy:6181
 translate pt_br k_fancyq_629a046e:
 
     # bot "They are awesome! Your cute nipples are so pinchable!"
-    bot ""
+    bot "Eles são incríveis! Seus mamilos fofos são tão beiscáveis!"
 
 # game/scripts/kali_events.rpy:6183
 translate pt_br k_fancyq_e7feee09:
 
     # k "Rgh, don't talk about me like that..."
-    k ""
+    k "Rgh, não fale de mim desse jeito..."
 
 # game/scripts/kali_events.rpy:6187
 translate pt_br k_fancyq_97779a78:
 
     # k "What!? Here? No way!"
-    k ""
+    k "O que!? Aqui? Nem ferrando!"
 
 # game/scripts/kali_events.rpy:6188
 translate pt_br k_fancyq_271ada4b:
 
     # bot "Bummer..."
-    bot ""
+    bot "Chata..."
 
 # game/scripts/kali_events.rpy:6192
 translate pt_br k_fancyq_c55e6d50:
 
     # k "What...?"
-    k ""
+    k "Que...?"
 
 # game/scripts/kali_events.rpy:6193
 translate pt_br k_fancyq_f3b583e2:
 
     # c "I think your tits are pretty awesome too."
-    c ""
+    c "Eu também acho seus peitos muito bons."
 
 # game/scripts/kali_events.rpy:6195
 translate pt_br k_fancyq_ff79fbf5:
 
     # k "Okay, I guess I can do a little flash..."
-    k ""
+    k "Ok, eu acho que eu posso dar um flash..."
 
 # game/scripts/kali_events.rpy:6197
 translate pt_br k_fancyq_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:6200
 translate pt_br k_fancyq_9a998f62:
 
     # bot "Oooh!"
-    bot ""
+    bot "Oooh!"
 
 # game/scripts/kali_events.rpy:6202
 translate pt_br k_fancyq_dd818739:
 
     # k "No one saw, right?"
-    k ""
+    k "Ninguém viu, certo?"
 
 # game/scripts/kali_events.rpy:6203
 translate pt_br k_fancyq_34a6233a:
 
     # bot "Who knows?"
-    bot ""
+    bot "Quem sabe?"
 
 # game/scripts/kali_events.rpy:6207
 translate pt_br k_fancyq_ddda30da:
 
     # c "What about your favorite non physical part of yourself?"
-    c ""
+    c "E sua parte não fisíca favorita?"
 
 # game/scripts/kali_events.rpy:6208
 translate pt_br k_fancyq_de36c187:
 
     # k "You want me to just... brag? I don't know, that just kind of feels weird."
-    k ""
+    k "Você quer que eu... me gabe? Eu não sei, isso é estranho."
 
 # game/scripts/kali_events.rpy:6209
 translate pt_br k_fancyq_004a5a9f:
 
     # c "You have my permission to brag about yourself."
-    c ""
+    c "Você tem minha permissão para se gabar."
 
 # game/scripts/kali_events.rpy:6211
 translate pt_br k_fancyq_bb6116a7:
 
     # k "Haha, okay, um..."
-    k ""
+    k "Haha, ok, um..."
 
 # game/scripts/kali_events.rpy:6212
 translate pt_br k_fancyq_c7e835f7:
 
     # k "...I like to think I'm a very dedicated person. Maybe it doesn't really come off that way because I'm a bit lazy... but you have no idea what I'm able to accomplish when I'm doing what I love."
-    k ""
+    k "... Eu gosto de de pensar que eu sou uma pessoa dedicada. Talvez não pareça por que eu sou um pouco preguiçosa... você não tem idéia do que eu sou capaz de atingir quando eu faço o que eu gosto."
 
 # game/scripts/kali_events.rpy:6213
 translate pt_br k_fancyq_954e405b:
 
     # k "I learned programming just because I wanted to have some fun with the androids at my Dad's tower. I'm even diamond in league, so that's pretty cool, I guess..."
-    k ""
+    k "Eu aprendi a programar só por causa que eu queria me divertir com os androids na torre do meu pai. Eu estou até na liga diamante, então isso é bem legal, eu acho..."
 
 # game/scripts/kali_events.rpy:6215
 translate pt_br k_fancyq_88ead648:
 
     # k "Oh, and I know you said non physical, but it takes guts to take your cock down my throat, so I'm pretty proud I'm able to do that."
-    k ""
+    k "Oh, e eu sei que você falou não fisíca, mas se precisa de coragem para conseguir colocar seu pau inteiro na minha garganta, então, eu tenho orgullho que eu consiga fazer isso."
 
 # game/scripts/kali_events.rpy:6220
 translate pt_br k_fancyq_c24688aa:
 
     # mari "Everyone! Your attention please!"
-    mari ""
+    mari "Todo mundo! Um pouco da sua atenção, por favor!"
 
 # game/scripts/kali_events.rpy:6221
 translate pt_br k_fancyq_6dbd8612:
 
     # k "Sounds like something's happening..."
-    k ""
+    k "Me parece que algo vai acontecer..."
 
 # game/scripts/kali_events.rpy:6224
 translate pt_br k_fancyq_43d02cff:
 
     # mari "Hello everyone! As I'm sure you know, we've been working on a very special project."
-    mari ""
+    mari "Olá todo mundo! Como eu tenho certeza que todos aqui sabem, nós estivemos trabalhando em um projeto muito especial."
 
 # game/scripts/kali_events.rpy:6225
 translate pt_br k_fancyq_f38ada64:
 
     # k "{i}{size=-10}Way to keep us in the loop, Dad...{/size}{/i}"
-    k ""
+    k "{i}{size=-10}Bela forma de nos manter informados, pai...{/size}{/i}"
 
 # game/scripts/kali_events.rpy:6226
 translate pt_br k_fancyq_b0e21808:
 
     # mari "Well today, we finally have a working version to show you all!"
-    mari ""
+    mari "Bem, hoje nós finalmente conseguimos finalizar uma versão para mostrar à todos vocês!"
 
 # game/scripts/kali_events.rpy:6228
 translate pt_br k_fancyq_983afe7c:
 
     # mari "But first, I'd like to thank Mr. Cornwall, for whom none of this would have been possible without."
-    mari ""
+    mari "Mas antes, eu gostaria de agradecer ao senhor Cornwall, o qual sem a ajuda nada disso seria possível."
 
 # game/scripts/kali_events.rpy:6229
 translate pt_br k_fancyq_8181a012:
 
     # kd "The Cornwall Foundation generously donated 700 Elves to Nero Inc. for this project."
-    kd ""
+    kd "A Fundação Cornwall generosamente doou 700 elfos à Nero Inc. para esse projeto."
 
 # game/scripts/kali_events.rpy:6231
 translate pt_br k_fancyq_aa3a70ad:
 
     # kd "697 of which are still alive!"
-    kd ""
+    kd "Dos quais 697 ainda estão vivos!"
 
 # game/scripts/kali_events.rpy:6232
 translate pt_br k_fancyq_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/scripts/kali_events.rpy:6233
 translate pt_br k_fancyq_4af83458:
 
     # k "{i}{size=-10}Come on, Dad...{/size}{/i}"
-    k ""
+    k "{i}{size=-10}Sério, pai...{/size}{/i}"
 
 # game/scripts/kali_events.rpy:6235
 translate pt_br k_fancyq_be44b5d9:
 
     # kd "What? I see this as an absolute win!"
-    kd ""
+    kd "O que? Eu vejo isso como uma absoluta vitória!"
 
 # game/scripts/kali_events.rpy:6237
 translate pt_br k_fancyq_9fde71eb:
 
     # kd "{i}{size=-10}Damnit... {/i}{/size}Lily, would you bring the thing out, please?"
-    kd ""
+    kd "{i}{size=-10}Droga... {/i}{/size}Lily, você poderia trazer, por favor?"
 
 # game/scripts/kali_events.rpy:6239
 translate pt_br k_fancyq_db74f282:
 
     # kd "Listen, this is going to change the world for the best! For humans, elves, and Nero Inc!"
-    kd ""
+    kd "Escutem, isso irá mudar o mundo para melhor! Para humanos, elfos, e para a Nero Inc!"
 
 # game/scripts/kali_events.rpy:6240
 translate pt_br k_fancyq_137fdf5e:
 
     # kd "Everyone in Syl'anar wants a slave, right? It's culture around here! But I'm sure we all understand there's people out there doing horrible stuff to their slave."
-    kd ""
+    kd "Todo mundo em Syl'anar quer ter um escravo, não? Faz parte da cultura daqui! Mas todos nós sabemos que há pessoas por aí que fazem coisas horríveis ao seus escravos."
 
 # game/scripts/kali_events.rpy:6242
 translate pt_br k_fancyq_5585b1cf:
 
     # kd "Only reason they have a living slave and not an android is, well, because they're too poor."
-    kd ""
+    kd "E a única razão do por que eles tem escravos vivos e não androids é... bem, por causa da falta de dinheiro."
 
 # game/scripts/kali_events.rpy:6244
 translate pt_br k_fancyq_f576b9dd:
 
     # kd "We present to you..."
-    kd ""
+    kd "Nós apresentamos à vocês..."
 
 # game/scripts/kali_events.rpy:6246
 translate pt_br k_fancyq_8e588b7e:
 
     # "*click*" with ssshake
-    "" with ssshake
+    "*click*" with ssshake
 
 # game/scripts/kali_events.rpy:6249
 translate pt_br k_fancyq_5391cecb:
 
     # kd "The Elfbot!"
-    kd ""
+    kd "O Elfbot!"
 
 # game/scripts/kali_events.rpy:6253
 translate pt_br k_fancyq_99cb4f73:
 
     # kd "Hey, pretty neat, right Kali?"
-    kd ""
+    kd "Ei, bem maneiro, né Kali?"
 
 # game/scripts/kali_events.rpy:6254
 translate pt_br k_fancyq_61da42f6:
 
     # k "...Awesome Dad..."
-    k ""
+    k "... Incrível, pai..."
 
 # game/scripts/kali_events.rpy:6255
 translate pt_br k_fancyq_b42ff323:
 
     # kd "Elfbots are a third cheaper than the other guy, and 70 percent cheaper in upkeep!"
-    kd ""
+    kd "Os Elfbots são três vezes mais baratos, e 70 por cento mais barato de se manter que um escravo!"
 
 # game/scripts/kali_events.rpy:6256
 translate pt_br k_fancyq_ec514967:
 
     # kd "Still more expensive than a real elf, but it's prog-"
-    kd ""
+    kd "Ainda, mais caro que um elfo de verdade, mas já é um progres-"
 
 # game/scripts/kali_events.rpy:6258
 translate pt_br k_fancyq_8e6f701c:
 
     # lily "*gasp*!" with ssshake
-    lily "" with ssshake
+    lily "*susto*!" with ssshake
 
 # game/scripts/kali_events.rpy:6263
 translate pt_br k_fancyq_67307a0e:
 
     # kd "No need to worry everyone, she's still a prototype. This happens 20 times a day..."
-    kd ""
+    kd "Não precisam se preocupar, ela ainda é um protótipo. Isso acontece 20 vezes por dia..."
 
 # game/scripts/kali_events.rpy:6264
 translate pt_br k_fancyq_c2992325:
 
     # mari "It is quite normal for her to have issues at such an early stage. She will be working perfectly when she's finished."
-    mari ""
+    mari "É normal haver erros nesse estágio inicial. Ela estará funcionando perfeitamente quando pronta."
 
 # game/scripts/kali_events.rpy:6268
 translate pt_br k_fancyq_ef0e1460:
 
     # lily "Oh my..." with ssshake
-    lily "" with ssshake
+    lily "Ai meu..." with ssshake
 
 # game/scripts/kali_events.rpy:6269
 translate pt_br k_fancyq_7d5cea0e:
 
     # kd "Oh, well that certainly doesn't happen every day..."
-    kd ""
+    kd "Oh, bem. Isso certamente não acontece todo dia..."
 
 # game/scripts/kali_events.rpy:6271
 translate pt_br k_fancyq_51bcad2c:
 
     # lily "OH MY!" with sshake
-    lily "" with sshake
+    lily "AI MEU!" with sshake
 
 # game/scripts/kali_events.rpy:6273
 translate pt_br k_fancyq_d7e446e5:
 
     # k "What the fuck!?"
-    k ""
+    k "Mas que porra!?"
 
 # game/scripts/kali_events.rpy:6274
 translate pt_br k_fancyq_aeb85dc4:
 
     # lu "Holy shit!"
-    lu ""
+    lu "Puta merda!"
 
 # game/scripts/kali_events.rpy:6275
 translate pt_br k_fancyq_a14c957a:
 
     # corn "My god!"
-    corn ""
+    corn "Meu deus!"
 
 # game/scripts/kali_events.rpy:6276
 translate pt_br k_fancyq_f24348ab:
 
     # kd "Oh, well... isn't that horrifying... That's what betas are for, folks."
-    kd ""
+    kd "Oh, bem... isso não assustador?... É para isso que servem as betas, pessoal."
 
 # game/scripts/kali_events.rpy:6278
 translate pt_br k_fancyq_965fa8cf:
 
     # kd "And that's the perfect segue, heheh! She has blood!"
-    kd ""
+    kd "E essa é a amostra perfeita, heheh! Ela tem sangue!"
 
 # game/scripts/kali_events.rpy:6280
 translate pt_br k_fancyq_6741b7a5:
 
     # kd "No need for nano bots and generators, just feed her a patent pending paste every day and her organic elf blood will do all the work!" with ssshake
-    kd "" with ssshake
+    kd "E não precisa de nano robôs ou geradores, é só alimenta-lá com um pouco de sangue de elfo orgânico e isso irá fazer todo trabalho!" with ssshake
 
 # game/scripts/kali_events.rpy:6281
 translate pt_br k_fancyq_63f0abee:
 
     # kd "Turning her on also turned her heart on as well, perhaps the pressure was set too high... She'll function perfectly when she's finished."
-    kd ""
+    kd "Liga-lá também liga o seu coração, talves a pressão estava muito alta... Ela estará funcionando perfeitamente quando estiver pronta."
 
 # game/scripts/kali_events.rpy:6283
 translate pt_br k_fancyq_65af6879:
 
     # kd "Speaking of which, while she is still technically an android, you wouldn't be wrong if you referred to her as part cyborg. Within a couple of months of her heart beating, pigment should begin to show up in her hair!"
-    kd ""
+    kd "Falando nisso, já que ela ainda é tecnicamente uma android, não seria errado chama-lá de uma ciborgue. Em alguns meses do coração batendo, o pigmento no cabelo dela deve começar a aparecer!"
 
 # game/scripts/kali_events.rpy:6284
 translate pt_br k_fancyq_7a45ffba:
 
     # k "{i}{size=-10}What the fuck!? Is my Dad harvesting elves!?{/size}{/i}"
-    k ""
+    k "{i}{size=-10}Que porra!? O meu pai está cultivando elfos por acaso!?{/size}{/i}"
 
 # game/scripts/kali_events.rpy:6286
 translate pt_br k_fancyq_4270313d:
 
     # kd "Hardware is my speciality, but she wouldn't have been possible without the Church of Gaius' research into organisms. Saint Lily's team and mine have been working very closely these last couple of weeks, and I'm very proud of what they've been able to accomplish so far."
-    kd ""
+    kd "Hardware é a minha especialidade, mas ela não seria possível sem a pesquisa da igreja de Gaius sobre organismos. O time da santa Liy e o meu estivemos trabalhando bastante nas últimas semanas, e eu estou muito orgulhoso do que eles foram capazes de atingir."
 
 # game/scripts/kali_events.rpy:6288
 translate pt_br k_fancyq_80f4b9e9:
 
     # lily "Thank you, I hope this new technology saves many elf lives."
-    lily ""
+    lily "Obrigada, eu espero que essa nova tecnologia salve o máximo de elfos o possível."
 
 # game/scripts/kali_events.rpy:6290
 translate pt_br k_fancyq_d62ce197:
 
     # mari "And with everyone's support, it absolutely will."
-    mari ""
+    mari "E com o suporte do todo mundo, com certeza vai."
 
 # game/scripts/kali_events.rpy:6291
 translate pt_br k_fancyq_ae28ced6:
 
     # kd "Thank you everyone! If you have any questions, we will be answering them all day."
-    kd ""
+    kd "Obrigado a todos! Caso tenham qualquer pergunta, nós estaremos respondendo à todas."
 
 # game/scripts/kali_events.rpy:6294
 translate pt_br k_fancyq_601b415b:
 
     # k "Did you guys see the same thing I did?"
-    k ""
+    k "Vocês viram a mesma coisa que eu vi?"
 
 # game/scripts/kali_events.rpy:6295
 translate pt_br k_fancyq_a6c585da:
 
     # bot "She had blood..."
-    bot ""
+    bot "Ela tinha sangue..."
 
 # game/scripts/kali_events.rpy:6296
 translate pt_br k_fancyq_e4958c93:
 
     # lu "That looked more like an exorcism..."
-    lu ""
+    lu "Aquilo parecia mais com um exorcismo..."
 
 # game/scripts/kali_events.rpy:6298
 translate pt_br k_fancyq_738afd03:
 
     # k "I can't believe our Dad is a slaver now! He's always been against slavery."
-    k ""
+    k "Eu não acredito que o nosso pai é um escravagista agora! Ele sempre foi contra isso."
 
 # game/scripts/kali_events.rpy:6299
 translate pt_br k_fancyq_cdf8e2b3:
 
     # lu "I hate to play devil's advocate here... but do you really think Dad's new wife would be happy about him owning slaves?"
-    lu ""
+    lu "Eu odeio bancar o advogado do diabo aqui... mas você realmente acha que a nova esposa do pai estaria feliz com ele mantendo escravos?"
 
 # game/scripts/kali_events.rpy:6301
 translate pt_br k_fancyq_26296101:
 
     # k "What do you mean?"
-    k ""
+    k "O que você quer dizer?"
 
 # game/scripts/kali_events.rpy:6302
 translate pt_br k_fancyq_e5ec2dbc:
 
     # lu "She's a half elf, and she even said herself she wanted to save elves. I don't think she would be playing along if she didn't like this, and she seemed pretty happy about it."
-    lu ""
+    lu "Ela é uma meia elfa e ela já disse uma vez que ela queria salvar os elfos. Eu não acho que ela estaria envolvida se não gostasse disso, e ela parecia bem feliz sobre isso."
 
 # game/scripts/kali_events.rpy:6303
 translate pt_br k_fancyq_eb89e89b:
 
     # k "They're still harvesting elves for their blood and who knows what else! How can anyone be happy about that?"
-    k ""
+    k "Eles continuam pegando elfos para o sangue e sabe-se lá oque mais! Como alguém pode estar feliz com isso?"
 
 # game/scripts/kali_events.rpy:6304
 translate pt_br k_fancyq_aa6dc8aa:
 
     # lu "I don't know... that does feel a bit strange for Dad to do..."
-    lu ""
+    lu "Eu não sei... isso parece estranho, até mesmo para o pai..."
 
 # game/scripts/kali_events.rpy:6306
 translate pt_br k_fancyq_451d5a0d:
 
     # bot "There's something different about that android, but I'm not really sure what it is... I didn't have a connection to her like I do with others like me."
-    bot ""
+    bot "Tem algo diferente sobre aquele android, mas eu não sei o que é... eu não senti nenhuma conexão com ela como eu tenho com os outros androids."
 
 # game/scripts/kali_events.rpy:6307
 translate pt_br k_fancyq_df922954:
 
     # k "That's probably because a different company made you. This is my Dad's first step into selling androids which basically means that thing has a different operating system to what you have. Or in other words, if you're an apple, she's an orange."
-    k ""
+    k "Isso deve ser porque você foi criada por uma empresa diferente. Essa é a primeira vez que o meu pai se arrisca com androids, oque quer dizer que aquela coisa tem um sistema operacional diferente do seu. Ou em outras palavras, ela é uma maça e você uma laranja."
 
 # game/scripts/kali_events.rpy:6308
 translate pt_br k_fancyq_192aa7ed:
 
     # bot "Oh, that's strange..."
-    bot ""
+    bot "Oh, isso é estranho..."
 
 # game/scripts/kali_events.rpy:6310
 translate pt_br k_fancyq_3c3c1a11:
 
     # k "And what was up with that religious chick? Are they harvesting Cornwall's elves?"
-    k ""
+    k "E qual é a daquela garota? Eles estão pegando elfos do Cornwall?"
 
 # game/scripts/kali_events.rpy:6311
 translate pt_br k_fancyq_bd8ea767:
 
     # lu "Yeah, I don't know... that seems a bit weird. That Elfbot was so creepy..."
-    lu ""
+    lu "É, eu não sei... isso me parece estranho. Aquele Elfbot era tão macabro..."
 
 # game/scripts/kali_events.rpy:6312
 translate pt_br k_fancyq_61cbe448:
 
     # k "My Dad mentioned she had a heart right? That's so fucked up..."
-    k ""
+    k "Meu pai mencionou que ela tinha um coração, né? Isso é tão pertubador..."
 
 # game/scripts/kali_events.rpy:6314
 translate pt_br k_fancyq_6161dc52:
 
     # bot "Wait, Kali! Since there are other androids here, do you think I could try using the new feature you installed in me?"
-    bot ""
+    bot "Espera, Kali! Como tem outros androids aqui, você pode deixar eu testar a nova função que você instalou em mim?"
 
 # game/scripts/kali_events.rpy:6315
 translate pt_br k_fancyq_0ec8242b:
 
     # k "Haha, sure. My laptop is in the helicopter."
-    k ""
+    k "Haha, claro. Meu computador está no helicóptero."
 
 # game/scripts/kali_events.rpy:6316
 translate pt_br k_fancyq_ab335973:
 
     # bot "Okay, bye!"
-    bot ""
+    bot "Ok, tchau!"
 
 # game/scripts/kali_events.rpy:6318
 translate pt_br k_fancyq_0ac1e58e:
 
     # c "What did you install in her?"
-    c ""
+    c "O que você instalou nela?"
 
 # game/scripts/kali_events.rpy:6319
 translate pt_br k_fancyq_62cc267e:
 
     # k "That thing we were talking about a couple days ago. She needs hardware to control other androids so I brought my laptop with me, but she has all the software in her system now."
-    k ""
+    k "Aquela coisa sobre a qual agente tava falando há uns dias atrás. Ela precisa de um hardware para controlar os outros androids, então eu trouxe meu laptop. Mas ela já tem todo o software nela instalado."
 
 # game/scripts/kali_events.rpy:6320
 translate pt_br k_fancyq_189c645f:
 
     # c "Are you sure it's a good idea to let her do this here?"
-    c ""
+    c "Tem certeza que é uma boa idéia deixar ela fazer isso aqui?"
 
 # game/scripts/kali_events.rpy:6321
 translate pt_br k_fancyq_55325fd9:
 
     # k "I doubt she would cause a scene, she's smarter than that. She is an android after all."
-    k ""
+    k "Eu dúvido que ela vai fazer bagunça, ela é mais inteligente que isso. Afinal, ela é uma android."
 
 # game/scripts/kali_events.rpy:6323
 translate pt_br k_fancyq_f356764d:
 
     # k "*sigh*... well, I guess I need to talk to some of the people here. My Dad wants me to mingle with everyone and 'find a job that interests me'..."
-    k ""
+    k "*suspiro*... bem, eu acho que eu tenho que falar com algumas das pessoas daqui. Meu pai quer que eu me misture e 'ache um emprego que me agrade'..."
 
 # game/scripts/kali_events.rpy:6324
 translate pt_br k_fancyq_4cee141a:
 
     # k "I have {i}a lot{/i} of questions for my Dad, so we should make sure to talk to him at least."
-    k ""
+    k "E eu tenho {i}muitas{/i} perguntas para fazer para ele, então nós deveríamos ao menos conversar com ele."
 
 # game/scripts/kali_events.rpy:6328
 translate pt_br k_fancyq_922f234e:
 
     # q "...A brain could cut the price in half, maybe more. I don't have the numbers on me, but could you imagine software that develops itself? There would be no need for a team of software engineers to constantly configure or update it."
-    q ""
+    q "...Um cérebro reduziria o preço pela metade, talvez mais. Eu não tenho os números agora, mas imagine um software que se auto-desenvolve? Não se iria precisar de um time de engenheiros para configurar ou atualizar constantemente."
 
 # game/scripts/kali_events.rpy:6329
 translate pt_br k_fancyq_1ba7e9b4:
 
     # q "Well, regardless, enjoy the rest of your day Saint Lily. I'll let you know if I have any news."
-    q ""
+    q "Bem, de qualquer forma, aproveite o resto do dia Santa Lily. Eu deixarei você saber quando tiver novidades."
 
 # game/scripts/kali_events.rpy:6330
 translate pt_br k_fancyq_fbe045d8:
 
     # lily "Thank you, bishop."
-    lily ""
+    lily "Obrigada, bispo."
 
 # game/scripts/kali_events.rpy:6332
 translate pt_br k_fancyq_50301078:
 
     # lily "Oh, hello. I didn't see you there."
-    lily ""
+    lily "Oh, olá. Eu não te vi aí."
 
 # game/scripts/kali_events.rpy:6334
 translate pt_br k_fancyq_d19b7462:
 
     # lily "I don't believe we've had the pleasure of meeting, Ms. Kali."
-    lily ""
+    lily "Eu acho que ainda não fomos apresentadas, senhorita Kali"
 
 # game/scripts/kali_events.rpy:6335
 translate pt_br k_fancyq_654bf252:
 
     # k "...You're a saint? What did you do?"
-    k ""
+    k "...Você é uma santa? O que você faz?"
 
 # game/scripts/kali_events.rpy:6336
 translate pt_br k_fancyq_a66c5cb6:
 
     # lily "These days, saint is used as more of an honorary title, but that's not to say I'm void of faith. I received my sainthood for the research I've developed for the church."
-    lily ""
+    lily "Nos dias de hoje, santo é só um título honorário, mas isso não significa que não tenho fé. Eu recebi minha santidade graças a minha pesquisa que desenvolvi na igreja."
 
 # game/scripts/kali_events.rpy:6337
 translate pt_br k_fancyq_b4abf3c3:
 
     # k "What research is that? Carving up elves and selling their organs?"
-    k ""
+    k "Que tipo de pesquisa é essa? dissecar elfos e vender os órgãos?"
 
 # game/scripts/kali_events.rpy:6339
 translate pt_br k_fancyq_4dcf2e5c:
 
     # lily "Lord, no! What gave you that idea?"
-    lily ""
+    lily "Deus, não! O que te fez pensar isso?"
 
 # game/scripts/kali_events.rpy:6340
 translate pt_br k_fancyq_2083a44d:
 
     # k "The monstrosity you created... Oh, and you're religious so I'm sure you love using elves in any way you can."
-    k ""
+    k "A monstruosidade que você criou... Oh, e você é religiosa então eu tenho certeza que você está usando os elfos como quiser."
 
 # game/scripts/kali_events.rpy:6341
 translate pt_br k_fancyq_9e825895:
 
     # lily "Kali, our interests are to protect life, I have no interest in hurting elves."
-    lily ""
+    lily "Kali, nossos interesses são de proteger a vida, eu não tenha a intenção de machucar os elfos."
 
 # game/scripts/kali_events.rpy:6342
 translate pt_br k_fancyq_9c7dfa88:
 
     # lily "This whole project - which is being spear-headed by your father and Mrs. Mariella - is being funded to {i}save{/i} elves, not hurt them."
-    lily ""
+    lily "Esse projeto inteiro que está sendo gerenciado pelo seu pai e pela senhora Mariella foi fundado para {i}salvar{/i} os elfos, não machucá-los."
 
 # game/scripts/kali_events.rpy:6343
 translate pt_br k_fancyq_813668cc:
 
     # k "You're going to need to explain it a bit more because it looks to me like you're harvesting elves for cheap androids."
-    k ""
+    k "Você vai precisar se explicar um pouco mais por que me parece que vocês estão transformando elfos em androids baratos."
 
 # game/scripts/kali_events.rpy:6345
 translate pt_br k_fancyq_b0027f97:
 
     # lily "That isn't the case at all! We only harvest blood and we do it as humanely as possible - during the night as they sleep."
-    lily ""
+    lily "Não é isso exatamente! Nós só pegamos o sangue e fazemos isso da forma mais humana o possível, durante à noite quando eles dormem."
 
 # game/scripts/kali_events.rpy:6346
 translate pt_br k_fancyq_4cbaef80:
 
     # k "Only blood? Wait, then what was that guy talking about with brains?"
-    k ""
+    k "Apenas sangue? Espera, então oque aquele cara estava falando sobre cérebros?"
 
 # game/scripts/kali_events.rpy:6347
 translate pt_br k_fancyq_8ac05391:
 
     # lily "Oh haha! Not elf brains, he was talking about sentience. Our neuroscience research has shown that organic brains are not compatible with contemporary machinery."
-    lily ""
+    lily "Oh haha! Não cérebros de elfos, ele estava falando sobre sentimentos. Nossa pesquisa sobre neurociência constou que cérebros orgânicos não são compatíveis com maquinário contemporâneo."
 
 # game/scripts/kali_events.rpy:6348
 translate pt_br k_fancyq_a03ad550:
 
     # k "So it's only blood?"
-    k ""
+    k "Então era só sangue?"
 
 # game/scripts/kali_events.rpy:6349
 translate pt_br k_fancyq_e2f6fe78:
 
     # lily "Blood and various other minor proteins and such required for an organism to function. They don't feel any pain at all."
-    lily ""
+    lily "Sangue e vários outras pequenas proteínas que são necessárias para o funcionamento do organismo. Eles não sentem qualquer tipo de dor."
 
 # game/scripts/kali_events.rpy:6350
 translate pt_br k_fancyq_faa8544e:
 
     # c "Why do you need elf blood?"
-    c ""
+    c "Para que vocês precisam de sangue élfico?"
 
 # game/scripts/kali_events.rpy:6352
 translate pt_br k_fancyq_1f69cef2:
 
     # lily "Blood is... very good at what we need it to do. It's more cost efficient than electricity for what we need, of course that means designing hardware that runs with blood over electricity, but for something that is meant more for the poorer side of society, the positives outweigh the negatives."
-    lily ""
+    lily "Sangue é... muito bom para oque nós precisamos. É mais custo benefício que usar eletricidade, é claro que isso significa que utilizamos um hardware que funciona com sangue ao invés de eletricidade, mas como é algo que é designado para as pessoas mais carentes da sociedade, os pontos positivos compensam os negativos."
 
 # game/scripts/kali_events.rpy:6353
 translate pt_br k_fancyq_b1e17631:
 
     # c "But why {i}elf{/i} blood?"
-    c ""
+    c "Mas por que sangue {i}élfico{/i}?"
 
 # game/scripts/kali_events.rpy:6354
 translate pt_br k_fancyq_0a168d7c:
 
     # lily "All blood is different, humans and elves especially stand out, but if you're asking why we would use elf blood over human blood, it's because elves have no soul."
-    lily ""
+    lily "Todo o sangue é diferente, humanos e elfos em específico. Mas se você está me perguntando o por que usamos sangue élfico ao invés de sangue humano, é porque elfos não tem alma."
 
 # game/scripts/kali_events.rpy:6355
 translate pt_br k_fancyq_4f914cc7:
 
     # "Kali audibly rolls her eyes."
-    ""
+    "Kali espantosamente rola os olhos."
 
 # game/scripts/kali_events.rpy:6356
 translate pt_br k_fancyq_41161ee1:
 
     # k "Sounds like some demonic shit to me..."
-    k ""
+    k "Isso me parece com alguma porra demoníaca para mim..."
 
 # game/scripts/kali_events.rpy:6358
 translate pt_br k_fancyq_9ea0fdad:
 
     # lily "Blood is the essence of life, there is nothing demonic about that, Ms. Kali."
-    lily ""
+    lily "Sangue é a excência da vida, não há nada demoníaco sobre isso, senhorita Kali."
 
 # game/scripts/kali_events.rpy:6359
 translate pt_br k_fancyq_d2116f88:
 
     # c "What are the positives and negatives to this?"
-    c ""
+    c "E os pontos positivos e negativos sobre isso?"
 
 # game/scripts/kali_events.rpy:6361
 translate pt_br k_fancyq_131c3962:
 
     # lily "For believers in Gaius, this means we can finally own an android. Current androids have always resembled humans, so it's been looked down upon to use them for personal gain."
-    lily ""
+    lily "Para os crentes de Gaius, isso significa que nós podemos finalmente ter um android. Os androids atuais sempre tiveram uma aparência humana, por isso sua utilizção para ganhos pessoais tem sido menosprezada."
 
 # game/scripts/kali_events.rpy:6363
 translate pt_br k_fancyq_e6ccd3c3:
 
     # lily "For Ms. Kali, this means an exciting new frontier for her family to explore. I'm sure you're very excited to be in the android, or, should I say cyborg industry?"
-    lily ""
+    lily "Para a senhorita Kali, isso significa uma nova fronteira para a sua família explorar. Eu tenho certeza que você está ansiosa para entrar na indústria de androids, ou devo dizer, indústria de ciborgues?"
 
 # game/scripts/kali_events.rpy:6364
 translate pt_br k_fancyq_7337f688:
 
     # k "I have no clue."
-    k ""
+    k "Sei lá."
 
 # game/scripts/kali_events.rpy:6365
 translate pt_br k_fancyq_5dbe8f7d:
 
     # lily "Well, I'm certainly excited! If nothing but for the elves and the poor."
-    lily ""
+    lily "Bem, eu estou certamente ansiosa! E também pelos elfos e as pessoas carentes."
 
 # game/scripts/kali_events.rpy:6367
 translate pt_br k_fancyq_fac67b3f:
 
-    # lily "For Cornwall and Syl'anar, this means less elves living in the Happy Home Initiative relief centers, which in turn means your tax dollar can go somewhere it is needed more. If this project is a success, Mr. Trenero will order even more elves from Cornwall."
-    lily ""
+    # lily "For Cornwall and Syl'anar, this means leshs elves living in te Happy Home Initiative relief centers, which in turn means your tax dollar can go somewhere it is needed more. If this project is a success, Mr. Trenero will order even more elves from Cornwall."
+    lily "Para o Cornwall e Syl'anar, isso significa menos elfos vivendo em Centros de Assistência da iniciativa Casa Feliz, significa que os impostos coletados podem ir para outros setores mais necessitados. Se esse projeto for um sucesso, o senhor Trenero irá pedir ainda mais elfos para o senhor Cornwall."
 
 # game/scripts/kali_events.rpy:6368
 translate pt_br k_fancyq_37faf4f6:
 
     # lily "As for the Elfbot herself, she's water resistant from head to toe due to the nature of how she's powered. She's not very durable, but she is very light. Lighter than a real elf!"
-    lily ""
+    lily "E sobre a Elfbot, ela é resistente à água da cabeça aos pés devido a natureza da fonte de energia dela. Ela não tem muita durabilidade, mas é bem leve. Mais leve que um elfo de verdade!"
 
 # game/scripts/kali_events.rpy:6369
 translate pt_br k_fancyq_8ef75945:
 
     # lily "If we're able to get the price of the Elfbot near to the price of common elves, this should also mean less abuse reports. If it catches on, anyway..."
-    lily ""
+    lily "Se agente conseguir deixar o preço do Elfbot perto do preço dos elfos comuns, isso significaria menos denúncias de abuso. Se for pego, de qualquer forma..."
 
 # game/scripts/kali_events.rpy:6370
 translate pt_br k_fancyq_cfad3d19:
 
     # c "How about the negatives?"
-    c ""
+    c "E os pontos negativos?"
 
 # game/scripts/kali_events.rpy:6371
 translate pt_br k_fancyq_0db1b1c2:
 
     # lily "Mr. Trenero is required to survey and control the population of the elves. If any escape, there will be major consequences..."
-    lily ""
+    lily "O senhor Trenero controla e gerencia a população de elfos. Se algum escapar, haverá maiores conseguências..."
 
 # game/scripts/kali_events.rpy:6373
 translate pt_br k_fancyq_b0cd06ce:
 
     # k "What the fuck... is he keeping them in a prison or something?"
-    k ""
+    k "Que porra... ele está mantendo os elfos presos ou algo assim?"
 
 # game/scripts/kali_events.rpy:6374
 translate pt_br k_fancyq_6c1c19ea:
 
     # lily "I'm not quite sure where he's keeping the elves. Should these elves escape and start their own civilization, they could breed and damage the worth of the elf, and in turn, Syl'anar's economy."
-    lily ""
+    lily "Eu não tenho certeza de onde ele está mantendo os elfos. Esses elfos devem escapar e começar a própria civilização? Eles poderiam procriar e danificar os valores élficos, e virar a economia de Syl'anar de cabeça para baixo."
 
 # game/scripts/kali_events.rpy:6376
 translate pt_br k_fancyq_6f6a3b6a:
 
     # k "I don't think I'm going to find anything that interests me from her."
-    k ""
+    k "Eu não acho que eu vou conseguir tirar nenhuma informação que me interesse dela."
 
 # game/scripts/kali_events.rpy:6377
 translate pt_br k_fancyq_f1099594:
 
     # k "It is kind of nice to know they're only using their blood and taking it as humanely as possible, but it still kind of feels wrong to me..."
-    k ""
+    k "É bom saber que eles só usando o sangue e tirando da forma mais humana o possível, mas ainda parece errado para mim..."
 
 # game/scripts/kali_events.rpy:6381
 translate pt_br k_fancyq_545f3b63:
 
     # corn "Ah, hello Ms. Trenero, [name]."
-    corn ""
+    corn "Ah, olá senhorita Trenero, [name]."
 
 # game/scripts/kali_events.rpy:6383
 translate pt_br k_fancyq_65188063:
 
     # k "You two have met before?"
-    k ""
+    k "Vocês já se conhecem?"
 
 # game/scripts/kali_events.rpy:6384
 translate pt_br k_fancyq_19a4c84d:
 
     # corn "We have. I met him and his elf some time ago."
-    corn ""
+    corn "Sim na verdade, eu conheci ele e a sua elfa há um tempo atrás."
 
 # game/scripts/kali_events.rpy:6385
 translate pt_br k_fancyq_39949f08:
 
     # k "Oh, you met Lin? Cool."
-    k ""
+    k "Oh, você conheceu a Lin? Legal."
 
 # game/scripts/kali_events.rpy:6386
 translate pt_br k_fancyq_e93f82d6:
 
     # k "So, like... what do you do?"
-    k ""
+    k "Então, tipo... o que você faz?"
 
 # game/scripts/kali_events.rpy:6387
 translate pt_br k_fancyq_cdd71d1a:
 
     # corn "To put it simply, I'm in charge of the whole elf situation in Syl'anar."
-    corn ""
+    corn "De forma simples, eu estou no controle de toda situação élfica em Syl'anar."
 
 # game/scripts/kali_events.rpy:6388
 translate pt_br k_fancyq_5c28f1ee:
 
     # k "So, you're kinda like the master of masters?"
-    k ""
+    k "Então, você é tipo o chefe dos chefes?"
 
 # game/scripts/kali_events.rpy:6389
 translate pt_br k_fancyq_5e4e75d1:
 
     # corn "I have no control over another person's elf, but in other senses, I suppose so."
-    corn ""
+    corn "Eu não tenho controle sobre o elfo de de outra pessoa, mas em outros meios, sim."
 
 # game/scripts/kali_events.rpy:6390
 translate pt_br k_fancyq_fc3b8b46:
 
     # k "Why didn't you bring your slave then?"
-    k ""
+    k "Por que você não trouxe seu escravo então?"
 
 # game/scripts/kali_events.rpy:6391
 translate pt_br k_fancyq_47e5705e:
 
     # corn "Out of respect of the lady of the house, I have decided not to bring any slaves."
-    corn ""
+    corn "Em respeito à senhora da casa, eu decidi não trazer nenhum escravo."
 
 # game/scripts/kali_events.rpy:6392
 translate pt_br k_fancyq_f06ed6bf:
 
     # k "So you sent 700 elves to my Dad?"
-    k ""
+    k "Então, você enviou 700 escravos pro meu pai?"
 
 # game/scripts/kali_events.rpy:6393
 translate pt_br k_fancyq_5d11e38b:
 
     # corn "That's correct."
-    corn ""
+    corn "Isso mesmo."
 
 # game/scripts/kali_events.rpy:6394
 translate pt_br k_fancyq_fa582c12:
 
     # k "To The Capitol?"
-    k ""
+    k "Para a Capitol?"
 
 # game/scripts/kali_events.rpy:6395
 translate pt_br k_fancyq_20c1a5fa:
 
     # corn "Yes, I know it's quite unconventional, but it benefits everyone involved."
-    corn ""
+    corn "Isso, eu sei que isso é inconvencional, mas os benefícios envolvem todo mundo."
 
 # game/scripts/kali_events.rpy:6396
 translate pt_br k_fancyq_4a201b5e:
 
     # k "It's hard to believe someone would just give away 700 people..."
-    k ""
+    k "É difícil acreditar que alguém simplesmente doaria 700 pessoas..."
 
 # game/scripts/kali_events.rpy:6397
 translate pt_br k_fancyq_08870c04:
 
     # corn "700 elves, but yes. They were all without a home, and now they have one."
-    corn ""
+    corn "700 elfos, mas sim. Eles eram todos sem teto, mas agora eles tem um."
 
 # game/scripts/kali_events.rpy:6398
 translate pt_br k_fancyq_397fcca1:
 
     # k "You just gave them to my father out of the kindness of your heart?"
-    k ""
+    k "Você doou para o meu pai só pela gentileza do seu coração?"
 
 # game/scripts/kali_events.rpy:6399
 translate pt_br k_fancyq_247e26b5:
 
     # corn "It was actually Saint Lily and her friends who contacted me about this. She had neither the technology nor the elves for her research."
-    corn ""
+    corn "Na verdade foi a santa Lily e os amigos dela que me contataram sobre isso. Ela não tinha nem tecnologia ou os elfos para a pesquisa."
 
 # game/scripts/kali_events.rpy:6400
 translate pt_br k_fancyq_e3bd738d:
 
     # corn "It's a good cause, so I decided to help. I'm entitled to a royalty for each liter of blood siphoned, so this benefits us as well."
-    corn ""
+    corn "Era uma boa causa, então eu decidi ajudar. Tenho direito a uma realeza para cada litro de sangue sifonado, então isso nos benefícia também."
 
 # game/scripts/kali_events.rpy:6401
 translate pt_br k_fancyq_2141149e:
 
     # k "I'm a bit surprised you're letting elves live outside of Syl'anar."
-    k ""
+    k "Eu estou surpresa que você está deixado elfos viverem fora de Syl'anar."
 
 # game/scripts/kali_events.rpy:6402
 translate pt_br k_fancyq_5d314682:
 
     # corn "No need to worry, Ms. Kali, they've all been neutered."
-    corn ""
+    corn "Não se preocupe, senhorita Kali. Todos eles foram castrados."
 
 # game/scripts/kali_events.rpy:6403
 translate pt_br k_fancyq_5f44666c:
 
     # k "Neutered!? What do mean neutered!?"
-    k ""
+    k "Castrados!? Como assim 'castrados'!?"
 
 # game/scripts/kali_events.rpy:6404
 translate pt_br k_fancyq_e37b7d4a:
 
     # corn "They can't reproduce anymore, Kali."
-    corn ""
+    corn "Que eles não podem se reproduzir mais, Kali."
 
 # game/scripts/kali_events.rpy:6405
 translate pt_br k_fancyq_365eeb5b:
 
     # k "I know what it means!"
-    k ""
+    k "Eu sei oque quer dizer!"
 
 # game/scripts/kali_events.rpy:6407
 translate pt_br k_fancyq_da8f8a13:
 
     # k "{i}{size=-10}Urgh seriously...? The way he used that word...{/i}{/size}"
-    k ""
+    k "{i}{size=-10}Urgh sério...? O jeito que ele usou essa palavra...{/i}{/size}"
 
 # game/scripts/kali_events.rpy:6409
 translate pt_br k_fancyq_a70ecdbf:
 
     # corn "Is there a problem?"
-    corn ""
+    corn "Algum problema?"
 
 # game/scripts/kali_events.rpy:6410
 translate pt_br k_fancyq_d3103801:
 
     # k "What kind of power do you have in whatever the hell you do?"
-    k ""
+    k "Que tipo de poder você tem para fazer isso seja lá no que você estiver envolvido?"
 
 # game/scripts/kali_events.rpy:6411
 translate pt_br k_fancyq_34452506:
 
     # corn "Uh... I'm not sure I understand the question."
-    corn ""
+    corn "Uh... eu não sei se entendi a pergunta."
 
 # game/scripts/kali_events.rpy:6412
 translate pt_br k_fancyq_09c530fa:
 
     # k "You know elves don't have it that great, right? Why don't you improve that?"
-    k ""
+    k "Você sabe que os elfos não merecem isso, né? Porque você não tenta ajudá-los?"
 
 # game/scripts/kali_events.rpy:6413
 translate pt_br k_fancyq_6f8782a7:
 
     # corn "You must be unfamiliar with my work, Ms. Kali. I'm the most progressive person that has ever been in my position of power. It was me who gave elves the rights they now have over 30 years ago."
-    corn ""
+    corn "Você deve não estar familiarizada com o trabalho, senhorita Kali. Eu sou a pessoa mais progressista que já esteve na minha posição. Foi eu quem deu aos elfos os direitos que eles tem agora, há 30 anos atrás."
 
 # game/scripts/kali_events.rpy:6414
 translate pt_br k_fancyq_7ef9b00e:
 
     # k "Oh, really? You must have been very young."
-    k ""
+    k "Oh, sério? Você deveria ser bem novo."
 
 # game/scripts/kali_events.rpy:6415
 translate pt_br k_fancyq_067c81b3:
 
     # corn "I'm a bit older than I look."
-    corn ""
+    corn "Eu sou um pouco mais velho do que pareço."
 
 # game/scripts/kali_events.rpy:6416
 translate pt_br k_fancyq_5170d800:
 
     # k "...And things are still this shitty for them?"
-    k ""
+    k "...E as coisas continuam uma merda para eles?"
 
 # game/scripts/kali_events.rpy:6417
 translate pt_br k_fancyq_45eda2b7:
 
     # corn "Hah, Kali... elves have never had it better. When I was young, it was very common for elves to be raped. It wasn't even considered rape."
-    corn ""
+    corn "Hah, Kali... os elfos nunca estiveram melhor. Quando eu era mais novo, era muito comum os elfos serem estuprados. Não era nem mesmo considerado estupro."
 
 # game/scripts/kali_events.rpy:6418
 translate pt_br k_fancyq_74361e7f:
 
     # k "You know it's still legal to whip an elf every day and night just because they messed up an order, right? And you're fine with that?"
-    k ""
+    k "Você sabe que ainda é legal chicotear um elfo o dia e a noite inteira só por que eles porque eles erraram um pedido, né? E você tá de boa com isso?"
 
 # game/scripts/kali_events.rpy:6419
 translate pt_br k_fancyq_8c5890a8:
 
     # corn "How else are you supposed to train them? Treats and head pats?"
-    corn ""
+    corn "Como mais você deveria treiná-los? Biscoitinhos e carinhos na cabeça?"
 
 # game/scripts/kali_events.rpy:6420
 translate pt_br k_fancyq_7bf17688:
 
     # corn "And where exactly do you see this heading? Total freedom for the elves?"
-    corn ""
+    corn "E para onde exatamente você acha que isso vai dar? Liberdade total para os elfos?"
 
 # game/scripts/kali_events.rpy:6421
 translate pt_br k_fancyq_707a6c6e:
 
     # corn "Ignoring their place in society, they're far too important to this country. Our nation would completely crumble if we treated elves as equals. Without elves, we wouldn't farm enough food to feed ourselves, or have enough construction workers to build a tower. We literally do not have the manpower to replace elves."
-    corn ""
+    corn "Ignorando o lugar deles na sociedade, eles são muito importantes para essa país. Nossa nação quebraria se tratássemos eles como iguais. Sem elfos, nós não teríamos mão de obra nas fazendas para nos alimentar-mos, ou pedreiros para construir prédios. Nós literalmente não temos a mão de obra suficiente para substituir os elfos."
 
 # game/scripts/kali_events.rpy:6422
 translate pt_br k_fancyq_9ce7c99e:
 
     # k "You wouldn't need to replace them if you just treated them like any normal person!"
-    k ""
+    k "Você não precisaria substituir eles se você os tratasse como pessoas normais!"
 
 # game/scripts/kali_events.rpy:6423
 translate pt_br k_fancyq_d2576ff1:
 
     # corn "As I said, our nation would crumble if we treated them as equals. The vast majority of elves have been doing the same thing for over half their lives. We can't simply reeducate over 800 million elves. As you know, elves learn at a much slower rate than humans."
-    corn ""
+    corn "Como eu disse, nossa nação quebraria se tratássemos eles como iguais. A vasta maioria dos elfos vem fazendo a mesma coisa mais da metade de suas vidas. Nós não podemos simplesmente re-educar mais de 800 milhões de elfos. Como você sabe, elfos aprendem muito mais devagar que os humanos."
 
 # game/scripts/kali_events.rpy:6424
 translate pt_br k_fancyq_719d8ddc:
 
     # k "Urgh, whatever."
-    k ""
+    k "Urgh, tanto faz."
 
 # game/scripts/kali_events.rpy:6426
 translate pt_br k_fancyq_bb74a51d:
 
     # k "{i}{size=-10}...I'm not interested in becoming a mistress. What is my Dad thinking...? Come on, [name]...{/i}{/size}"
-    k ""
+    k "{i}{size=-10}...Eu não quero virar uma escravagista. O que meu pai estava pensando...? Qual é, [name]...{/i}{/size}"
 
 # game/scripts/kali_events.rpy:6429
 translate pt_br k_fancyq_a1ec0208:
 
     # kd "Kali!!"
-    kd ""
+    kd "Kali!!"
 
 # game/scripts/kali_events.rpy:6430
 translate pt_br k_fancyq_51a8d39a:
 
     # k "Hey Dad..."
-    k ""
+    k "Oi pai..."
 
 # game/scripts/kali_events.rpy:6431
 translate pt_br k_fancyq_ac9a0a19:
 
     # mari "I'm glad you could make it, Kali."
-    mari ""
+    mari "Estou feliz que você conseguiu vir, Kali."
 
 # game/scripts/kali_events.rpy:6433
 translate pt_br k_fancyq_12b9614a:
 
     # c "How has your leg been?"
-    c ""
+    c "Como está a sua perna?"
 
 # game/scripts/kali_events.rpy:6434
 translate pt_br k_fancyq_f28a6b57:
 
     # kd "A little bit of pain still, but I'll work through it."
-    kd ""
+    kd "Ainda dói um pouco, mas vou ficar bem."
 
 # game/scripts/kali_events.rpy:6436
 translate pt_br k_fancyq_95936e4f:
 
     # k "Dad, you're going to need to explain some stuff to us..."
-    k ""
+    k "Pai, você vai ter que explicar umas coisas pra nós..."
 
 # game/scripts/kali_events.rpy:6437
 translate pt_br k_fancyq_70c1d087:
 
     # kd "Sure! Whatever you'd like."
-    kd ""
+    kd "Claro! Pergunte qualquer coisa."
 
 # game/scripts/kali_events.rpy:6438
 translate pt_br k_fancyq_3526ec1b:
 
     # k "What the hell is going on? Are you a slaver now? I thought you were against that?"
-    k ""
+    k "Que porra tá acontecendo? Você é um escravagista agora? Eu pensei que você fosse contra isso?"
 
 # game/scripts/kali_events.rpy:6439
 translate pt_br k_fancyq_286014aa:
 
     # kd "Oh, well technically yes, I am a slaver now."
-    kd ""
+    kd "Oh, bem, tecnicamente sim, agora sou sim."
 
 # game/scripts/kali_events.rpy:6440
 translate pt_br k_fancyq_b306329f:
 
     # k "Why!? I thought you were against that whole thing!"
-    k ""
+    k "Por que? Eu pensei que você você contra essas coisas!"
 
 # game/scripts/kali_events.rpy:6442
 translate pt_br k_fancyq_36b7cc12:
 
     # kd "Neither of us like the idea of owning elves as slaves, but when we visited them, we knew we could give them a better life than Cornwall ever could."
-    kd ""
+    kd "Nenhum de nós gostamos da idéia de ter elfos como escravos, mas quando os visitamos, nós sabíamos que poderíamos dar uma vida melhor à eles, melhor do que o Cornwall algum dia conseguiu."
 
 # game/scripts/kali_events.rpy:6444
 translate pt_br k_fancyq_8e5b34d1:
 
     # k "So, they're living in good conditions? I heard you guys were taking blood from them every night."
-    k ""
+    k "Então, eles vivem em boas condições de vida? Eu ouvi que vocês estavam tirando sangue deles toda noite."
 
 # game/scripts/kali_events.rpy:6445
 translate pt_br k_fancyq_170f6181:
 
     # kd "They each have their own bed, it's not big, but it's comfortable."
-    kd ""
+    kd "Cada um deles tem a própria cama, não é grande, mas é confortável."
 
 # game/scripts/kali_events.rpy:6446
 translate pt_br k_fancyq_b8e45e69:
 
     # k "And they're fine with you taking their blood?"
-    k ""
+    k "E eles estão de boa com vocês tirando o sangue deles?"
 
 # game/scripts/kali_events.rpy:6447
 translate pt_br k_fancyq_8e8e3197:
 
     # kd "Of course! They've been loving their new lives."
-    kd ""
+    kd "É claro! Eles estão amando as novas vidas deles."
 
 # game/scripts/kali_events.rpy:6448
 translate pt_br k_fancyq_2c6e61b6:
 
     # k "Do they work?"
-    k ""
+    k "Eles tem um emprego?"
 
 # game/scripts/kali_events.rpy:6449
 translate pt_br k_fancyq_ba3425de:
 
     # kd "They do! They work on my hardware now."
-    kd ""
+    kd "Tem sim! Eles trabalham na minha empresa agora."
 
 # game/scripts/kali_events.rpy:6450
 translate pt_br k_fancyq_002a0a07:
 
     # k "You mean you fired 700 people and replaced them with elves?"
-    k ""
+    k "Quer dizer que você demitiu 700 pessoas e substitui eles por elfos?"
 
 # game/scripts/kali_events.rpy:6452
 translate pt_br k_fancyq_ed81a32e:
 
     # kd "Only 697!"
-    kd ""
+    kd "Só 697!"
 
 # game/scripts/kali_events.rpy:6453
 translate pt_br k_fancyq_1f87348e:
 
     # k "Dad, you know that really doesn't make it better, right? Those people had families..."
-    k ""
+    k "Pai, você sabe que isso não faz diferença, né? Aquelas pessoas tinham família..."
 
 # game/scripts/kali_events.rpy:6455
 translate pt_br k_fancyq_30b8e409:
 
     # mari "Kali, I understand how you feel... It's hard to only do good though. We need to make sacrifices to make the world a better place."
-    mari ""
+    mari "Kali, eu sei como você se sente... porém, é difícil fazer somente o bem o tempo todo. Nós precisamos fazer sacríficios para construir um mundo melhor."
 
 # game/scripts/kali_events.rpy:6456
 translate pt_br k_fancyq_6d271bdb:
 
     # mari "The profits we gain from putting the elves to work over paying humans a full salary will be put directly back into developing the Elfbot, which in turn will make it cheaper and more available to those who need it."
-    mari ""
+    mari "A despesa que economizamos ao colocar elfos ao invés de pagar humanos um salário de tempo integral vai ser inteiramente depositada no desenvolvimento dos Elfbots, que será mais barato e mais acessível para aqueles que precisam."
 
 # game/scripts/kali_events.rpy:6457
 translate pt_br k_fancyq_831d4eda:
 
     # k "Oh... hm. It sounds like you guys really thought this through. But seriously... 697 people..."
-    k ""
+    k "Oh... hm. Parece que vocês já tinham tudo planejado. Mas sério?... 697 pessoas..."
 
 # game/scripts/kali_events.rpy:6458
 translate pt_br k_fancyq_3a83940d:
 
     # mari "Of course we have, Kali. We wouldn't play around with lives like that."
-    mari ""
+    mari "É claro que sim, Kali. Nós estamos falando de seres vivos aqui."
 
 # game/scripts/kali_events.rpy:6459
 translate pt_br k_fancyq_eb70a1e2:
 
     # kd "Many of them are still working for us, I kept the best."
-    kd ""
+    kd "Muitos deles ainda trabalham pra gente, eu mantive os melhores."
 
 # game/scripts/kali_events.rpy:6461
 translate pt_br k_fancyq_78c85c95:
 
     # kd "Not only have we thought of the elves, but we also thought of Nero Inc.! We won't be selling hardware to our competitor after we officially announce the Elfbot."
-    kd ""
+    kd "Agente não pensou só nos elfos, mas também na Nero Inc.! Nós não vamos vender nosso hardware aos nossos competidores depois que oficialmente anunciarmos o Elfbot."
 
 # game/scripts/kali_events.rpy:6463
 translate pt_br k_fancyq_79e2aca9:
 
     # k "What? Why would you do that?"
-    k ""
+    k "Que? Por que fazer isso?"
 
 # game/scripts/kali_events.rpy:6464
 translate pt_br k_fancyq_aeab8010:
 
     # kd "Without any competition our product should be much more profitable, and since they rely on our hardware so much, they'll go out of business very quick."
-    kd ""
+    kd "Sem competidores nosso produto será mais rentável, e já que eles dependem tanto do nosso hardware, eles vão ficar para trás nos negócios."
 
 # game/scripts/kali_events.rpy:6465
 translate pt_br k_fancyq_0fe539d8:
 
     # k "You can just destroy massive companies like that?"
-    k ""
+    k "Você pode acabar com grandes impresas desse jeito? Sem mais nem menos?"
 
 # game/scripts/kali_events.rpy:6466
 translate pt_br k_fancyq_519488cf:
 
     # kd "Eh, I've never liked them anyway. They purchase the same hardware time and time again and sell it as a new upgrade, their only business is making money. Once they're out, we'll swoop in and buy their assets."
-    kd ""
+    kd "Eh, eu nunca gostei muito deles. Eles compram um hardware, atualizam ele e vendem como se fosse um produto novo, eles só pensam no dinheiro. Quando eles vazarem, nós vamos chegar e comprar os seus bens."
 
 # game/scripts/kali_events.rpy:6467
 translate pt_br k_fancyq_515ebb1e:
 
     # k "Jesus dad... you have too much power."
-    k ""
+    k "Jesus pai... você realmente tem muito poder."
 
 # game/scripts/kali_events.rpy:6471
 translate pt_br k_fancyq_549c51a3:
 
     # "*shatter*" with ssshake
-    "" with ssshake
+    "*mal funcionamento*" with ssshake
 
 # game/scripts/kali_events.rpy:6473
 translate pt_br k_fancyq_3ce9e9a1:
 
     # bot "Ooooh!"
-    bot ""
+    bot "Ooooh!"
 
 # game/scripts/kali_events.rpy:6475
 translate pt_br k_fancyq_76140a36:
 
     # bot "Hmmm~?"
-    bot ""
+    bot "Hmmm~?"
 
 # game/scripts/kali_events.rpy:6477
 translate pt_br k_fancyq_9f85039f:
 
     # bot "Heheh..."
-    bot ""
+    bot "Heheh..."
 
 # game/scripts/kali_events.rpy:6480
 translate pt_br k_fancyq_5e537c61:
 
     # kd "...and if this is a success, we can move on to other elf models, like Dark Elf, or Drow!"
-    kd ""
+    kd "...E se isso for um sucesso, nós podemos fazer outros modelos, como um modelo de Elfo Negro, ou Drow!"
 
 # game/scripts/kali_events.rpy:6481
 translate pt_br k_fancyq_8e02bf09:
 
     # k "I'm... sure it will be a hit."
-    k ""
+    k "Eu... tenho certeza que vai ser um sucesso."
 
 # game/scripts/kali_events.rpy:6482
 translate pt_br k_fancyq_f1eb6770:
 
     # kd "I saw you talking with a few of the others here, did you find anything that interested you?"
-    kd ""
+    kd "Eu vi você conversando com os outros daqui, descobriu algo que lhe interesse?"
 
 # game/scripts/kali_events.rpy:6483
 translate pt_br k_fancyq_e80f14bb:
 
     # k "Ergh, no..."
-    k ""
+    k "Ergh, não..."
 
 # game/scripts/kali_events.rpy:6484
 translate pt_br k_fancyq_b891b825:
 
     # kd "How about working for Nero Inc. then?"
-    kd ""
+    kd "Que tal você trabalhar para a Nero Inc. então?"
 
 # game/scripts/kali_events.rpy:6485
 translate pt_br k_fancyq_0b8b943a:
 
     # k "There's never been anything that's interested me... Nero Inc. is only a hardware company."
-    k ""
+    k "Não tem nada nela que me interesse... A Nero Inc. é só uma empresa de hardware."
 
 # game/scripts/kali_events.rpy:6486
 translate pt_br k_fancyq_5ba5b98d:
 
     # kd "Not anymore! As of today, we're also in the android business!"
-    kd ""
+    kd "Não mais! A partir de hoje, nós também somos uma empresa de androids!"
 
 # game/scripts/kali_events.rpy:6487
 translate pt_br k_fancyq_e1c261eb:
 
     # k "So?"
-    k ""
+    k "E?"
 
 # game/scripts/kali_events.rpy:6489
 translate pt_br k_fancyq_83006a86:
 
     # kd "We need software developers!"
-    kd ""
+    kd "Nós precisamos de engenheiros de software!"
 
 # game/scripts/kali_events.rpy:6491
 translate pt_br k_fancyq_0d279615:
 
     # k "Y... You do?"
-    k ""
+    k "Vo-... vocês precisam?"
 
 # game/scripts/kali_events.rpy:6492
 translate pt_br k_fancyq_7c7621de:
 
     # k "I can't program an android though, it's way too complicated."
-    k ""
+    k "Mas eu não consigo programar um android, é muito complicado."
 
 # game/scripts/kali_events.rpy:6493
 translate pt_br k_fancyq_cb6f33ec:
 
     # kd "Kali, I decided to use the exact same programming language you always worked with as a child for our Elfbots. It's a lot more complicated than what you're used to for sure... but at least you can understand it, right?"
-    kd ""
+    kd "Kali, eu decidi usar a mesma linguagem de programação que você usa, como uma base para os nossos Elfbots. Com certeza deve ser bem mais complicado do que você está acostumada... mas pelo menos você consegue entender, né?"
 
 # game/scripts/kali_events.rpy:6494
 translate pt_br k_fancyq_82091822_2:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:6495
 translate pt_br k_fancyq_11223cd6:
 
     # k "I haven't really... ergh... Thank you, Dad, but I'm really not the person you want for this job, I don't know anything about making an android."
-    k ""
+    k "Eu não queria... ergh... obrigada, pai. Mas eu não sou a pessoa certa para esse trabalho, eu não sei nada sobre como criar um android."
 
 # game/scripts/kali_events.rpy:6496
 translate pt_br k_fancyq_fea26cf9:
 
     # kd "But you're interested, aren't you? That's the first step."
-    kd ""
+    kd "Mas você tem interesse, não é? Esse é o primeiro passo."
 
 # game/scripts/kali_events.rpy:6497
 translate pt_br k_fancyq_08805912:
 
     # k "Heh, well... it's always kind of been a dream of mine to work on androids... I loved playing with them when I was young..."
-    k ""
+    k "Heh, bem... sempre foi um sonho meu trabalhar em androids... eu amava brincar no código deles quando eu era criança..."
 
 # game/scripts/kali_events.rpy:6499
 translate pt_br k_fancyq_50569dbb:
 
     # kd "That's great! I'll keep a position open for you!"
-    kd ""
+    kd "Que ótimo! Eu manterei uma vaga aberta para você!"
 
 # game/scripts/kali_events.rpy:6500
 translate pt_br k_fancyq_674a73ae:
 
     # k "Wait, Dad no! There's no way I could actually do this, I would need to go to college!"
-    k ""
+    k "Espera, não pai! Não tem como eu possa fazer isso, eu teria que fazer uma faculdade!"
 
 # game/scripts/kali_events.rpy:6502
 translate pt_br k_fancyq_ea44dff1:
 
     # kd "Whatever you need, sweetie."
-    kd ""
+    kd "Oque você precisar, querida."
 
 # game/scripts/kali_events.rpy:6503
 translate pt_br k_fancyq_0a849132:
 
     # k "I don't want to go to college, Dad! And at my age, are you kidding me!? It'd be so weird to start now!"
-    k ""
+    k "Eu não quero fazer faculdade, pai! E ainda mais na minha idade, você tá me zoando!? Seria muito estranho começar agora!"
 
 # game/scripts/kali_events.rpy:6504
 translate pt_br k_fancyq_834f672e:
 
     # kd "You'd be the popular kid in class! Everyone wants to talk to the rich kid."
-    kd ""
+    kd "Você seria a garota mais popular da sala! Todo mundo quer conversar com a gartota rica."
 
 # game/scripts/kali_events.rpy:6505
 translate pt_br k_fancyq_174d0520:
 
     # k "God dammit, Dad! You don't get me at all!"
-    k ""
+    k "Meu deus, pai! Você não tá me entendo!"
 
 # game/scripts/kali_events.rpy:6507
 translate pt_br k_fancyq_4cc554fc:
 
     # kd "What did I do?"
-    kd ""
+    kd "Oque eu fiz?"
 
 # game/scripts/kali_events.rpy:6508
 translate pt_br k_fancyq_0c524fd2:
 
     # k "Come on, [name]!"
-    k ""
+    k "Vamos logo, [name]!"
 
 # game/scripts/kali_events.rpy:6510
 translate pt_br k_fancyq_45a09cb1:
 
     # kd "Ergh... I'm afraid I don't understand my own daughter anymore..."
-    kd ""
+    kd "Ergh... eu acho que eu já nem entendo mais a minha filha..."
 
 # game/scripts/kali_events.rpy:6511
 translate pt_br k_fancyq_0379426c:
 
     # kd "Hey, [name]? I really think this job will be great for her, it seems like she would enjoy it a lot if she knew how. Would you talk to her for me?"
-    kd ""
+    kd "Ei, [name]? Eu acho de verdade que esse trabalho vai ser bom para ela, ela iria se divertir bastante se soubesse como fazer. Você pode falar com ela por mim?"
 
 # game/scripts/kali_events.rpy:6512
 translate pt_br k_fancyq_13ad4642:
 
     # c "I'll see what I can do."
-    c ""
+    c "Eu vou ver o que posso fazer."
 
 # game/scripts/kali_events.rpy:6513
 translate pt_br k_fancyq_27072e10:
 
     # kd "Thank you."
-    kd ""
+    kd "Obrigado."
 
 # game/scripts/kali_events.rpy:6514
 translate pt_br k_fancyq_8d8e9480:
 
     # k "COME ON!!" with ssshake
-    k "" with ssshake
+    k "VAMOS!!" with ssshake
 
 # game/scripts/kali_events.rpy:6516
 translate pt_br k_fancyq_9181db66:
 
     # k "{size=-10}I knew this was going to be a bad idea...{/size}"
-    k ""
+    k "{size=-10}Eu sabia que isso seria uma má idéia...{/size}"
 
 # game/scripts/kali_events.rpy:6517
 translate pt_br k_fancyq_1d05beb7:
 
     # c "Come with me."
-    c ""
+    c "Vem comigo."
 
 # game/scripts/kali_events.rpy:6519
 translate pt_br k_fancyq_0f4f8ef4:
 
     # k "{size=-10}Where are we going...?{/size}"
-    k ""
+    k "{size=-10}Onde agente tá indo...?{/size}"
 
 # game/scripts/kali_events.rpy:6522
 translate pt_br k_fancyq_c57f3d6e:
 
     # k "The... restroom...?"
-    k ""
+    k "O... banheiro...?"
 
 # game/scripts/kali_events.rpy:6526
 translate pt_br k_fancyq_31dcab63:
 
     # k "Hahhh..."
-    k ""
+    k "Hahhh..."
 
 # game/scripts/kali_events.rpy:6528
 translate pt_br k_fancyq_a110451b:
 
     # k "Why are we in the restroom?"
-    k ""
+    k "Por que agente veio aqui?"
 
 # game/scripts/kali_events.rpy:6529
 translate pt_br k_fancyq_ec09c9a9:
 
     # c "You did great out there, you know."
-    c ""
+    c "Você se saiu muito bem lá atrás, sabe."
 
 # game/scripts/kali_events.rpy:6530
 translate pt_br k_fancyq_26296101_1:
 
     # k "What do you mean?"
-    k ""
+    k "Como assim?"
 
 # game/scripts/kali_events.rpy:6531
 translate pt_br k_fancyq_6c6609d5:
 
     # c "You didn't need me with you at all. I mean, I'm happy to be with you, but you would have done just as good if I weren't here."
-    c ""
+    c "Eu não precisa estar com você. Quer dizer, eu estou feliz de ficar com você, mas você conseguiu lidar com tudo sozinha."
 
 # game/scripts/kali_events.rpy:6533
 translate pt_br k_fancyq_c251396b:
 
     # k "Yeah... but... it's your presence that helps."
-    k ""
+    k "É... mas... sua presença ajuda."
 
 # game/scripts/kali_events.rpy:6535
 translate pt_br k_fancyq_615889fa:
 
     # c "Kali, you were wonderful out there. You were confident, assertive, and you knew what you didn't like. And somehow you managed to look sexy throughout all of it."
-    c ""
+    c "Kali, você foi incrível antes. Você foi determinada, assertiva, e você sabia o que não queria. E além disso, você ficou bem sexy com esse seu jeito."
 
 # game/scripts/kali_events.rpy:6537
 translate pt_br k_fancyq_f993cc37:
 
     # k "Thank you..."
-    k ""
+    k "Obrigada...w"
 
 # game/scripts/kali_events.rpy:6538
 translate pt_br k_fancyq_1c3ee6c4:
 
     # c "What do you think about your Dad's offer?"
-    c ""
+    c "O que você acha da proposta do seu pai?"
 
 # game/scripts/kali_events.rpy:6540
 translate pt_br k_fancyq_53d01466:
 
     # k "I kind of liked it... but it's not reasonable at all."
-    k ""
+    k "Eu meio que gostei... mas não é razoável."
 
 # game/scripts/kali_events.rpy:6541
 translate pt_br k_fancyq_82999201:
 
     # k "I would have to take years of college classes just to be hired, and by that time, the job is probably going to be taken by someone far more motivated and better at this than I am."
-    k ""
+    k "Eu teria que fazer anos de faculdade só para ser contratada, e a qualquer momento, o emprego pode ser pego por alguém bem mais motivado e melhor do que eu."
 
 # game/scripts/kali_events.rpy:6542
 translate pt_br k_fancyq_807e0637:
 
     # c "That's college for you."
-    c ""
+    c "Vai ser fácil para você."
 
 # game/scripts/kali_events.rpy:6544
 translate pt_br k_fancyq_f9da4348:
 
     # k "...I guess it is."
-    k ""
+    k "...Eu acho que sim."
 
 # game/scripts/kali_events.rpy:6546
 translate pt_br k_fancyq_c55cbb61:
 
     # k "But going to college? At my age? Most people have already graduated by the time they're my age..."
-    k ""
+    k "Mas faculdade? Na minha idade? A maioria das pessoas já devem estar graduadas na minha idade..."
 
 # game/scripts/kali_events.rpy:6547
 translate pt_br k_fancyq_59226a15:
 
     # c "There's nothing weird about someone wanting a job."
-    c ""
+    c "Não tem nada de estranho sobre alguém querendo um emprego."
 
 # game/scripts/kali_events.rpy:6548
 translate pt_br k_fancyq_8e0c30df:
 
     # k "Well... I'm rusty at it anyway, I haven't been practicing much programming..."
-    k ""
+    k "Bem... eu estou meia enferrujada, eu não andei praticando muito pogramação..."
 
 # game/scripts/kali_events.rpy:6549
 translate pt_br k_fancyq_4c39b2cc:
 
     # c "If you can develop an app, you're probably more advanced than most people who would be in your class anyway."
-    c ""
+    c "Se você consegue desenvolver um aplicativo, provavelmente você já está melhor que a maioria das pessoas que estariam da sua sala."
 
 # game/scripts/kali_events.rpy:6550
 translate pt_br k_fancyq_7999e93e:
 
     # k "You... really think I should go?"
-    k ""
+    k "Você... realmente acha que eu devo ir?"
 
 # game/scripts/kali_events.rpy:6551
 translate pt_br k_fancyq_af8d17ab:
 
     # c "I think this is something that interests you, and I think you should do what you enjoy."
-    c ""
+    c "Eu acho que isso é algo que te interessa, e eu acho que você deve fazer o que gosta."
 
 # game/scripts/kali_events.rpy:6552
 translate pt_br k_fancyq_6a40a931:
 
     # c "You've already got an android near by, I'm sure she could help you a lot."
-    c ""
+    c "Você tem uma android por perto, eu tenho certeza que ela pode te ajudar."
 
 # game/scripts/kali_events.rpy:6554
 translate pt_br k_fancyq_038c351c:
 
     # k "...{w}..."
-    k ""
+    k "...{w}..."
 
 # game/scripts/kali_events.rpy:6555
 translate pt_br k_fancyq_1da54fea:
 
     # k "It's hard to imagine it."
-    k ""
+    k "É difícil pensar sobre isso."
 
 # game/scripts/kali_events.rpy:6556
 translate pt_br k_fancyq_6a8c570f:
 
     # c "You have plenty of time to think about it."
-    c ""
+    c "Você tem bastante tempo para pensar nisso."
 
 # game/scripts/kali_events.rpy:6557
 translate pt_br k_fancyq_ee9c9e25:
 
     # k "Hmm... yeah, I will think about it."
-    k ""
+    k "Hmm... é, vou pensar sobre isso."
 
 # game/scripts/kali_events.rpy:6559
 translate pt_br k_fancyq_72325cd2:
 
     # k "Thank you, [name]. I feel like you really know me."
-    k ""
+    k "Obrigada, [name]. Eu acho que você realmente me conhece."
 
 # game/scripts/kali_events.rpy:6560
 translate pt_br k_fancyq_ecf18235:
 
     # "*knock knock knock*"
-    ""
+    "*knock knock knock*"
 
 # game/scripts/kali_events.rpy:6562
 translate pt_br k_fancyq_300b5940:
 
     # lu "Um... Hello? [name]? Did I see you go in there?"
-    lu ""
+    lu "Um.. olá? [name]? Vocês estão aí?"
 
 # game/scripts/kali_events.rpy:6563
 translate pt_br k_fancyq_48fc288b:
 
     # c "What's up?"
-    c ""
+    c "Sim?"
 
 # game/scripts/kali_events.rpy:6564
 translate pt_br k_fancyq_f82be70d:
 
     # lu "Can you hurry up in there? Your android is, uh... causing issues..."
-    lu ""
+    lu "Podem se apressar? O seu android está, uh... causando problemas..."
 
 # game/scripts/kali_events.rpy:6565
 translate pt_br k_fancyq_b447b502:
 
     # k "Oh shit..."
-    k ""
+    k "Oh merda..."
 
 # game/scripts/kali_events.rpy:6567
 translate pt_br k_fancyq_349a94c6:
 
     # bot "Heheheheheh~"
-    bot ""
+    bot "Heheheheheh~"
 
 # game/scripts/kali_events.rpy:6569
 translate pt_br k_fancyq_7e192899:
 
     # bot "Give me your money please. I need some."
-    bot ""
+    bot "Me dê seu dinheiro por favor. Eu preciso dele."
 
 # game/scripts/kali_events.rpy:6570
 translate pt_br k_fancyq_3c7a0341:
 
     # corn "STAND DOWN! STOP!"
-    corn ""
+    corn "PARADA! FIQUE PARADA!"
 
 # game/scripts/kali_events.rpy:6571
 translate pt_br k_fancyq_4ffec664:
 
     # lily "What's going on!?"
-    lily ""
+    lily "O que está acontecendo!?"
 
 # game/scripts/kali_events.rpy:6572
 translate pt_br k_fancyq_e60bbfb2:
 
     # kd "She's malfunctioning!"
-    kd ""
+    kd "Ela deve estar com algum defeito!"
 
 # game/scripts/kali_events.rpy:6573
 translate pt_br k_fancyq_31c73c3c:
 
     # cart "Stop her, Serni!"
-    cart ""
+    cart "Pare ela, Serni!"
 
 # game/scripts/kali_events.rpy:6575
 translate pt_br k_fancyq_aa187e0a:
 
     # serni "RRRGH!" with ssshake
-    serni "" with ssshake
+    serni "RRRGH!" with ssshake
 
 # game/scripts/kali_events.rpy:6577
 translate pt_br k_fancyq_52057740:
 
     # bot "Huh!?" with ssshake
-    bot "" with ssshake
+    bot "Huh!?" with ssshake
 
 # game/scripts/kali_events.rpy:6579
 translate pt_br k_fancyq_d3f18b40:
 
     # serni "Rrrrghhh!" with ssshake
-    serni "" with ssshake
+    serni "Rrrrghhh!" with ssshake
 
 # game/scripts/kali_events.rpy:6581
 translate pt_br k_fancyq_aa187e0a_1:
 
     # serni "RRRGH!" with ssshake
-    serni "" with ssshake
+    serni "RRRGH!" with ssshake
 
 # game/scripts/kali_events.rpy:6582
 translate pt_br k_fancyq_6ae7ac4d:
 
     # serni "RGH!!" with ssshake
-    serni "" with ssshake
+    serni "RGH!!" with ssshake
 
 # game/scripts/kali_events.rpy:6583
 translate pt_br k_fancyq_07e06e5e:
 
     # serni "NNNRRGH!!!" with ssshake
-    serni "" with ssshake
+    serni "NNNRRGH!!!" with ssshake
 
 # game/scripts/kali_events.rpy:6585
 translate pt_br k_fancyq_2518b5ae:
 
     # serni "RRRRRRGHHHH!!!" with ssshake
-    serni "" with ssshake
+    serni "RRRRRRGHHHH!!!" with ssshake
 
 # game/scripts/kali_events.rpy:6586
 translate pt_br k_fancyq_bd1d3a2d:
 
     # bot "W-What!?"
-    bot ""
+    bot "Q-Que!?"
 
 # game/scripts/kali_events.rpy:6588
 translate pt_br k_fancyq_862cc753:
 
     # serni "RARGH!" with sshake
-    serni "" with sshake
+    serni "RARGH!" with sshake
 
 # game/scripts/kali_events.rpy:6590
 translate pt_br k_fancyq_58f27fd3:
 
     # bot "Hng!" with sshake
-    bot "" with sshake
+    bot "Hng!" with sshake
 
 # game/scripts/kali_events.rpy:6592
 translate pt_br k_fancyq_1d3c0dee:
 
     # bot "*gasp*!"
-    bot ""
+    bot "*surpresa*!"
 
 # game/scripts/kali_events.rpy:6594
 translate pt_br k_fancyq_4310771c:
 
     # serni "ARRGH!" with sshake
-    serni "" with sshake
+    serni "ARRGH!" with sshake
 
 # game/scripts/kali_events.rpy:6596
 translate pt_br k_fancyq_b099ff86:
 
     # bot "Aaah! Oh my god!"
-    bot ""
+    bot "Aaah! Meu deus!"
 
 # game/scripts/kali_events.rpy:6598
 translate pt_br k_fancyq_80ee389d:
 
     # serni "Nyagh!" with ssshake
-    serni "" with ssshake
+    serni "Nyagh!" with ssshake
 
 # game/scripts/kali_events.rpy:6600
 translate pt_br k_fancyq_aa4eebb4:
 
     # serni "Arrrghh! Naneth naur, mui nem!"
-    serni ""
+    serni "Arrrghh! Naneth naur, mui nem!"
 
 # game/scripts/kali_events.rpy:6602
 translate pt_br k_fancyq_11b6c0b4:
 
     # serni "ERGH! Bel- tin tur-!" with ssshake
-    serni "" with ssshake
+    serni "ERGH! Bel- tin tur-!" with ssshake
 
 # game/scripts/kali_events.rpy:6604
 translate pt_br k_fancyq_86cd3d39:
 
     # bot "Uhhh...!"
-    bot ""
+    bot "Uhhh...!"
 
 # game/scripts/kali_events.rpy:6606
 translate pt_br k_fancyq_38bc6ae8:
 
     # serni "HNGGG!!" with ssshake
-    serni "" with ssshake
+    serni "HNGGG!!" with ssshake
 
 # game/scripts/kali_events.rpy:6611
 translate pt_br k_fancyq_c84e32f8:
 
     # serni "Gahk!" with sshake
-    serni "" with sshake
+    serni "Gahk!" with sshake
 
 # game/scripts/kali_events.rpy:6613
 translate pt_br k_fancyq_0ba21026:
 
     # serni "Aghhhh! Manui naeg! FIRK!"
-    serni ""
+    serni "Aghhhh! Manui naeg! FIRK!"
 
 # game/scripts/kali_events.rpy:6615
 translate pt_br k_fancyq_5d5ce76d:
 
     # serni "RARRRRGHHH!!!" with sshake
-    serni "" with sshake
+    serni "RARRRRGHHH!!!" with sshake
 
 # game/scripts/kali_events.rpy:6617
 translate pt_br k_fancyq_ab59cee0:
 
     # bot "AAH! NNGH!" with ssshake
-    bot "" with ssshake
+    bot "AAH! NNGH!" with ssshake
 
 # game/scripts/kali_events.rpy:6619
 translate pt_br k_fancyq_813c82f1:
 
     # bot "NNGH! M-Maybe we can talk this out!? NGH!" with ssshake
-    bot "" with ssshake
+    bot "NNGH! T-talvez agente possa conversar!? NGH!" with ssshake
 
 # game/scripts/kali_events.rpy:6621
 translate pt_br k_fancyq_9a1a4173:
 
     # serni "HOLLEN OR- A BEL-!!! ARGH!" with ssshake
-    serni "" with ssshake
+    serni "HOLLEN OU- A BEL-!!! ARGH!" with ssshake
 
 # game/scripts/kali_events.rpy:6623
 translate pt_br k_fancyq_c77806b6:
 
     # serni "HUMAN TECHLOGUI ECH- NIN ANGRUI!" with sshake
-    serni "" with sshake
+    serni "TECNHOLOGIA HUMHANA ECH- NIN BNRAVA!" with sshake
 
 # game/scripts/kali_events.rpy:6625
 translate pt_br k_fancyq_ae1b08b5:
 
     # serni "HUMAN TECHLOGUI ONLUI NAEG!" with ssshake
-    serni "" with ssshake
+    serni "TECNHOLOGIA HUMHANA APNEJAS NAEG!" with ssshake
 
 # game/scripts/kali_events.rpy:6627
 translate pt_br k_fancyq_7e629d0e:
 
     # serni "UIN COE CIN TUL-!" with ssshake
-    serni "" with ssshake
+    serni "UIN COE CIN TUL-!" with ssshake
 
 # game/scripts/kali_events.rpy:6628
 translate pt_br k_fancyq_3afc796a:
 
     # serni "HIN CIN RINN-!!!" with ssshake
-    serni "" with ssshake
+    serni "HIN CIN RINN-!!!" with ssshake
 
 # game/scripts/kali_events.rpy:6629
 translate pt_br k_fancyq_953797f4:
 
     # bot "AAGGGH!" with ssshake
-    bot "" with ssshake
+    bot "AAGGGH!" with ssshake
 
 # game/scripts/kali_events.rpy:6630
 translate pt_br k_fancyq_86de650a:
 
     # serni "{b}DIE!!!!!{/b}" with sshake
-    serni "" with sshake
+    serni "{b}MORRA!!!!!{/b}" with sshake
 
 # game/scripts/kali_events.rpy:6634
 translate pt_br k_fancyq_3107fa72:
 
     # bot "AGHK!!"
-    bot ""
+    bot "AGHK!!"
 
 # game/scripts/kali_events.rpy:6636
 translate pt_br k_fancyq_1c366a61:
 
     # bot "Nrgh...!" with ssshake
-    bot "" with ssshake
+    bot "Nrgh...!" with ssshake
 
 # game/scripts/kali_events.rpy:6637
 translate pt_br k_fancyq_b303395f:
 
     # bot "I can't move my legs...!"
-    bot ""
+    bot "Eu não consigo mexer as pernas...!"
 
 # game/scripts/kali_events.rpy:6639
 translate pt_br k_fancyq_1780655c:
 
     # bot "Aaah!"
-    bot ""
+    bot "Aaah!"
 
 # game/scripts/kali_events.rpy:6641
 translate pt_br k_fancyq_3d54719c:
 
     # bot "..." with ssshake
-    bot "" with ssshake
+    bot "..." with ssshake
 
 # game/scripts/kali_events.rpy:6642
 translate pt_br k_fancyq_61c1cc44:
 
     # lily "Such a beast..."
-    lily ""
+    lily "Besta..."
 
 # game/scripts/kali_events.rpy:6644
 translate pt_br k_fancyq_25dbb06f:
 
     # c "What are you doing? Was that you?"
-    c ""
+    c "O que você está fazendo? Aquela era você?"
 
 # game/scripts/kali_events.rpy:6645
 translate pt_br k_fancyq_1c3458bf:
 
     # bot "O-Oh, [botown], Kali!"
-    bot ""
+    bot "O-Oh, [botown], Kali!"
 
 # game/scripts/kali_events.rpy:6647
 translate pt_br k_fancyq_ddb3b09f:
 
     # k "Did you... bring my laptop down here?"
-    k ""
+    k "Você... trouxe meu laptop aqui pra baixo?"
 
 # game/scripts/kali_events.rpy:6648
 translate pt_br k_fancyq_75fb91b5:
 
     # bot "Yes..."
-    bot ""
+    bot "Sim..."
 
 # game/scripts/kali_events.rpy:6650
 translate pt_br k_fancyq_5f4b00aa:
 
     # c "You can't attack people like that."
-    c ""
+    c "Você não pode atacar as pessoas assim."
 
 # game/scripts/kali_events.rpy:6651
 translate pt_br k_fancyq_ae8de8ef:
 
     # bot "She attacked me first!"
-    bot ""
+    bot "Ela me atacou primeiro!"
 
 # game/scripts/kali_events.rpy:6653
 translate pt_br k_fancyq_4506ba09:
 
     # k "Dude! Shut up about that, are you kidding?"
-    k ""
+    k "Cara! Cala a boca, você tá zoando?"
 
 # game/scripts/kali_events.rpy:6654
 translate pt_br k_fancyq_297d93f3:
 
     # c "What?"
-    c ""
+    c "Que?"
 
 # game/scripts/kali_events.rpy:6655
 translate pt_br k_fancyq_f6cb0048:
 
     # k "SHE CAN BE IN TWO PLACES AT ONCE!"
-    k ""
+    k "ELA PODE ESTAR EM DOIS LUGARES AO MESMO TEMPO!"
 
 # game/scripts/kali_events.rpy:6656
 translate pt_br k_fancyq_c321af51:
 
     # k "If she can fully control two bodies at the same time, she can control as many b-"
-    k ""
+    k "Se ela pode controlar completamente dois corpos ao mesmo tempo, ela pode controlar quantos cor-"
 
 # game/scripts/kali_events.rpy:6658
 translate pt_br k_fancyq_82091822_3:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:6660
 translate pt_br k_fancyq_7731f44b:
 
     # k "Can I speak to you... in private?"
-    k ""
+    k "Podemos conversar... a sós?"
 
 # game/scripts/kali_events.rpy:6662
 translate pt_br k_fancyq_bda175ed:
 
     # k "I don't know if I should be freaking out, or very excited right now..."
-    k ""
+    k "Eu não sei se eu deveria estar assustada agora, ou animada..."
 
 # game/scripts/kali_events.rpy:6663
 translate pt_br k_fancyq_bb00a52c:
 
     # c "What do you mean?"
-    c ""
+    c "Como assim?"
 
 # game/scripts/kali_events.rpy:6665
 translate pt_br k_fancyq_8e140175:
 
     # k "Lucy was right! This may have been a {u}very{/u} bad idea! She could turn into a fucking hive mind!"
-    k ""
+    k "Lucy estava certa! Essa deve ter sido uma idéia {u}muito{/u} ruim! Ela pode acabar virando uma espécie de abelha rainha!"
 
 # game/scripts/kali_events.rpy:6666
 translate pt_br k_fancyq_eb13c08a:
 
     # k "She doesn't need that visor in front of her eyes like we do, she just needs to connect to my laptop and she can do it wirelessly!"
-    k ""
+    k "Ela não precisa daquele visor nos olhos como agente, ela só precisa se conectar ao meu laptop e pode fazer isso sem nem mesmo usar um cabo!"
 
 # game/scripts/kali_events.rpy:6668
 translate pt_br k_fancyq_10055d17:
 
     # k "Oh my god, if she has hardware that does the same, she wouldn't need to connect to ANYTHING physical! She could do it all herself!"
-    k ""
+    k "Meu deus, se o hardware for igual, ela não precisaria nem mesmo se conectar à NADA físico! Ela pode fazer tudo através dela mesma!"
 
 # game/scripts/kali_events.rpy:6670
 translate pt_br k_fancyq_f51073d1:
 
     # k "She said she could see in my room, right? And she said she could see Maria's too! She can see as many things as she can connect to! And her range is already insane!"
-    k ""
+    k "Ela disse que conseguia observar o meu quarto, né? E também com o quarto da Maria! Ela consegue ver qualquer coisa que possa ser conectada à ela! E o alcance dela já é insano!"
 
 # game/scripts/kali_events.rpy:6671
 translate pt_br k_fancyq_2fa18b45:
 
     # k "She doesn't even need to put herself in danger to fight! You saw that too!"
-    k ""
+    k "Ela não precisa nem mesmo se colocar em perigo para lutar! Você viu, não viu!"
 
 # game/scripts/kali_events.rpy:6673
 translate pt_br k_fancyq_83cd5775:
 
     # c "...She may have full administrative controls over herself as well."
-    c ""
+    c "...Ela tem total controle administrativo sobre ela também."
 
 # game/scripts/kali_events.rpy:6674
 translate pt_br k_fancyq_b60f50a1:
 
     # k "WHAT!? Why did you do that!?"
-    k ""
+    k "O QUE!? Por que você fez isso!?"
 
 # game/scripts/kali_events.rpy:6675
 translate pt_br k_fancyq_0fe6f4f9:
 
     # c "I didn't."
-    c ""
+    c "Não fui eu."
 
 # game/scripts/kali_events.rpy:6677
 translate pt_br k_fancyq_b04ab763:
 
     # k "Ohh... this is bad, right? Are sci-fi stories true? We're fucked, right? We're fucked."
-    k ""
+    k "Ohh... isso é ruim, né? As histórias sci-fi serão reais? Nós estamos fudidos, não é? Estamos fudidos."
 
 # game/scripts/kali_events.rpy:6679
 translate pt_br k_fancyq_bb02f425:
 
     # k "We should never let her do that again, right?"
-    k ""
+    k "Nós nunca mais devemos deixar ela fazer isso de novo, certo?"
 
 # game/scripts/kali_events.rpy:6682
 translate pt_br k_fancyq_608543fc:
 
     # k "Right!"
-    k ""
+    k "Certo!"
 
 # game/scripts/kali_events.rpy:6684
 translate pt_br k_fancyq_9333294d:
 
     # k "But I created it! I made a hive mind! That was me!"
-    k ""
+    k "Mas eu fiz isso! Eu criei a abelha rainha! Fui eu!"
 
 # game/scripts/kali_events.rpy:6685
 translate pt_br k_fancyq_e9d1c1f4:
 
     # k "Well it was mostly me! Maybe half, at least...!"
-    k ""
+    k "Bem, a maior parte! Talvez metade, pelo menos...!"
 
 # game/scripts/kali_events.rpy:6687
 translate pt_br k_fancyq_54475cce:
 
     # k "Is that a good thing, or a bad thing...? I don't know..."
-    k ""
+    k "Isso é uma coisa boa, ou uma coisa ruim...? Eu não sei..."
 
 # game/scripts/kali_events.rpy:6689
 translate pt_br k_fancyq_35860c3e:
 
     # k "I don't know either! It's your android!"
-    k ""
+    k "Eu não sei também! O android é seu!"
 
 # game/scripts/kali_events.rpy:6690
 translate pt_br k_fancyq_0a60bce6:
 
     # c "You made the hive mind."
-    c ""
+    c "Você criou a abelha rainha."
 
 # game/scripts/kali_events.rpy:6692
 translate pt_br k_fancyq_4488af80:
 
     # k "I did, didn't I? I created a hive mind!"
-    k ""
+    k "Eu criei, não criei? Eu criei a abelha rainha!"
 
 # game/scripts/kali_events.rpy:6693
 translate pt_br k_fancyq_e9d1c1f4_1:
 
     # k "Well it was mostly me! Maybe half, at least...!"
-    k ""
+    k "Bem, a maior parte! Talvez metade, pelo menos...!"
 
 # game/scripts/kali_events.rpy:6695
 translate pt_br k_fancyq_54475cce_1:
 
     # k "Is that a good thing, or a bad thing...? I don't know..."
-    k ""
+    k "Isso é uma coisa boa, ou uma coisa ruim...? Eu não sei..."
 
 # game/scripts/kali_events.rpy:6697
 translate pt_br k_fancyq_26296101_2:
 
     # k "What do you mean?"
-    k ""
+    k "O que você quer dizer?"
 
 # game/scripts/kali_events.rpy:6698
 translate pt_br k_fancyq_30d037c5:
 
     # c "World power, that sort of thing."
-    c ""
+    c "Dominação global, esse tipo de coisa."
 
 # game/scripts/kali_events.rpy:6699
 translate pt_br k_fancyq_93334484:
 
     # k "What?"
-    k ""
+    k "Que?"
 
 # game/scripts/kali_events.rpy:6700
 translate pt_br k_fancyq_898775b5:
 
     # c "How many androids can she connect to?"
-    c ""
+    c "Com quantos androids ela pode se conectar?"
 
 # game/scripts/kali_events.rpy:6701
 translate pt_br k_fancyq_03f3df22:
 
     # k "As many as she wants, hypothetically!"
-    k ""
+    k "Quantos ela quiser, hipoteticamente!"
 
 # game/scripts/kali_events.rpy:6702
 translate pt_br k_fancyq_249ccd00:
 
     # c "Great, we can take over the world easily."
-    c ""
+    c "Ótimo, nós podemos tomar o mundo facilmente."
 
 # game/scripts/kali_events.rpy:6703
 translate pt_br k_fancyq_f9b96cb1:
 
     # k "Don't joke about that! This is actually kind of scary!"
-    k ""
+    k "Não faça piadas sobre isso! Isso é assustador!"
 
 # game/scripts/kali_events.rpy:6705
 translate pt_br k_fancyq_9333294d_1:
 
     # k "But I created it! I made a hive mind! That was me!"
-    k ""
+    k "Mas eu fiz isso! Eu criei a abelha rainha! Fui eu!"
 
 # game/scripts/kali_events.rpy:6706
 translate pt_br k_fancyq_e9d1c1f4_2:
 
     # k "Well it was mostly me! Maybe half, at least...!"
-    k ""
+    k "Bem, a maior parte! Talvez metade, pelo menos...!"
 
 # game/scripts/kali_events.rpy:6708
 translate pt_br k_fancyq_54475cce_2:
 
     # k "Is that a good thing, or a bad thing...? I don't know..."
-    k ""
+    k "Isso é uma coisa boa, ou uma coisa ruim...? Eu não sei..."
 
 # game/scripts/kali_events.rpy:6709
 translate pt_br k_fancyq_84382d75:
 
     # c "I guess we're going to find out..."
-    c ""
+    c "Eu acho que nós teremos que descobrir..."
 
 # game/scripts/kali_events.rpy:6711
 translate pt_br k_fancyq_6e526b36:
 
     # aar "Stop! {b}STOP!{/b}"
-    aar ""
+    aar "Pare! {b}PARE!{/b}"
 
 # game/scripts/kali_events.rpy:6712
 translate pt_br k_fancyq_0efea4e4:
 
     # cart "Serni, put his android down! You'll kill someone if you throw her off!"
-    cart ""
+    cart "Serni, solte o android dele! Você vai matar alguém se jogar ela para longe!"
 
 # game/scripts/kali_events.rpy:6713
 translate pt_br k_fancyq_02cc449e:
 
     # serni "Nin victorui glenn- mír. Nin. Nin!"
-    serni ""
+    serni "Nin viftórdia glenn- mír. Nin. Nin!"
 
 # game/scripts/kali_events.rpy:6714
 translate pt_br k_fancyq_bdb2cbae:
 
     # aar "Control your slave!"
-    aar ""
+    aar "Controle a sua escrava!"
 
 # game/scripts/kali_events.rpy:6715
 translate pt_br k_fancyq_73d74431:
 
     # cart "Serni! SERNI! Put her down, you big angry grape!"
-    cart ""
+    cart "Serni! SERNI! Solte ela, sua uva raivosa!"
 
 # game/scripts/kali_events.rpy:6717
 translate pt_br k_fancyq_915ee0ff:
 
     # serni "SERNI VICTORUI! NIN! Im tur- ceri- im anír- su victorui!" with ssshake
-    serni "" with ssshake
+    serni "SERNI VIFTÓRDIA! NIN! Im tur- ceri- im anír- su viftórdia!" with ssshake
 
 # game/scripts/kali_events.rpy:6718
 translate pt_br k_fancyq_951bffc3:
 
     # kd "What the hell is going on over there!?"
-    kd ""
+    kd "O que diabos está acontecendo aqui!?"
 
 # game/scripts/kali_events.rpy:6719
 translate pt_br k_fancyq_70cef6ad:
 
     # mari "Does anyone speak elvish!?"
-    mari ""
+    mari "Alguém sabe falar em élfico!?"
 
 # game/scripts/kali_events.rpy:6721
 translate pt_br k_fancyq_7d6d32ff:
 
     # lu "Um... I think now is a good time to go... things are getting pretty hectic here..."
-    lu ""
+    lu "Um... eu acho que agora é um bom momento de sair... as coisas estão ficando bem caóticas aqui..."
 
 # game/scripts/kali_events.rpy:6723
 translate pt_br k_fancyq_b25f214c:
 
     # k "I'll take any excuse to leave. Take [botname] and go to the helicopter, we'll be right there. But {u}don't{/u} take my laptop, leave that here. I'll grab it on my way out."
-    k ""
+    k "Eu posso usar qualquer desculpa para sair. Pegue a [botname] e vá para o helicóptero, nós já vamos para lá. Mas {u}não{/u} pegue o meu laptop, deixe-o lá. Eu pego depois."
 
 # game/scripts/kali_events.rpy:6724
 translate pt_br k_fancyq_52c8742d:
 
     # lu "Oh, okay."
-    lu ""
+    lu "Oh, ok."
 
 # game/scripts/kali_events.rpy:6726
 translate pt_br k_fancyq_d88b1cf2:
 
     # k "Okay, well at least we're leaving now. We should probably keep [botname] and my laptop away from each other for now..."
-    k ""
+    k "Beleza, bem, ao menos nós estamos saindo agora. Provavelmente nós devemos deixar a [botname] e o meu laptop separados por enquanto..."
 
 # game/scripts/kali_events.rpy:6727
 translate pt_br k_fancyq_848b0b66:
 
     # c "Good idea."
-    c ""
+    c "Boa idéia."
 
 # game/scripts/kali_events.rpy:6729
 translate pt_br k_fancyq_89466a90:
 
     # k "Bye, Dad! We're leaving!"
-    k ""
+    k "Tchau, pai! Nós estamos indo!"
 
 # game/scripts/kali_events.rpy:6730
 translate pt_br k_fancyq_4c509ea3:
 
     # kd "Oh, okay! I'll call you, sweetie!"
-    kd ""
+    kd "Oh, ok! Eu te ligo depois, querida!"
 
 # game/scripts/kali_events.rpy:6732
 translate pt_br k_fancyq_aa321592:
 
     # "Kali firmly grasps her laptop during the entire ride back..."
-    ""
+    "Kali segura firmemente seu laptop durante toda volta..."
 
 # game/scripts/kali_events.rpy:6737
 translate pt_br k_fancyq_2085091e:
 
     # k "Phew, we're finally home... Thank you for coming with me, [name]."
-    k ""
+    k "Phew, finalmente em casa... obrigada por vir comigo, [name]."
 
 # game/scripts/kali_events.rpy:6738
 translate pt_br k_fancyq_50c08646:
 
     # c "You seem worried."
-    c ""
+    c "Você parece preocupada."
 
 # game/scripts/kali_events.rpy:6739
 translate pt_br k_fancyq_7be2fbea:
 
     # k "I am! I don't know what to think about [botname]... I'm actually kind of scared of her now. She could be listening to us right now!"
-    k ""
+    k "E estou! Eu não sei oque pensar sobre a [botname]... eu na verdade estou meio assustada agora. Ela pode estar nos ouvindo agora!"
 
 # game/scripts/kali_events.rpy:6740
 translate pt_br k_fancyq_4d791159:
 
     # c "Why don't you talk to her about it?"
-    c ""
+    c "Por que você não conversa com ela sobre isso?"
 
 # game/scripts/kali_events.rpy:6741
 translate pt_br k_fancyq_c4223b7e:
 
     # k "Should I?"
-    k ""
+    k "Será que eu devo?"
 
 # game/scripts/kali_events.rpy:6742
 translate pt_br k_fancyq_0c775062:
 
     # c "She's still your friend."
-    c ""
+    c "Ela ainda é a sua amiga."
 
 # game/scripts/kali_events.rpy:6743
 translate pt_br k_fancyq_698b6815:
 
     # k "...Alright... I'll think about it..."
-    k ""
+    k "...Tudo bem... eu vou pensar sobre isso..."
 
 # game/scripts/kali_events.rpy:6766
 translate pt_br kaliapp_be399ab0:
 
     # k "It's done!"
-    k ""
+    k "Terminei!"
 
 # game/scripts/kali_events.rpy:6767
 translate pt_br kaliapp_6e6e7e86:
 
     # lu "Hmmmm...? It still looks like scribbles to me..."
-    lu ""
+    lu "Hmmmm...? Isso parece rascunhos pra mim..."
 
 # game/scripts/kali_events.rpy:6768
 translate pt_br kaliapp_4e229ba8:
 
     # k "That's just the code, the average person isn't going to see it. Go get [name]!"
-    k ""
+    k "Isso é só um código, a maioria das pessoas não vão entender mesmo. Vá chamar o [name]!"
 
 # game/scripts/kali_events.rpy:6770
 translate pt_br kaliapp_1aaaed22:
 
     # lu "Uh? Oh, he's at the door already. Hey bro~"
-    lu ""
+    lu "Uh? oh, ele já está na porta. Oi mano~"
 
 # game/scripts/kali_events.rpy:6771
 translate pt_br kaliapp_99979dba:
 
     # k "Come here, look!"
-    k ""
+    k "Vem aqui, olha!"
 
 # game/scripts/kali_events.rpy:6773
 translate pt_br kaliapp_ce9e0d58:
 
     # k "The app I've been developing for 7 years is finally done!"
-    k ""
+    k "O aplicativo que eu estive desenvolvendo por 7 anos está finalmente pronto!"
 
 # game/scripts/kali_events.rpy:6774
 translate pt_br kaliapp_40dafaa2:
 
     # lu "You've been making an app?"
-    lu ""
+    lu "Você esteve fazendo um um aplicativo?"
 
 # game/scripts/kali_events.rpy:6775
 translate pt_br kaliapp_58a977d6:
 
     # k "I've told you about it like 10 times this week!"
-    k ""
+    k "Eu te falei sobre isso umas 10 vezes essa semana!"
 
 # game/scripts/kali_events.rpy:6776
 translate pt_br kaliapp_b0fa6ee7:
 
     # c "I didn't know about this."
-    c ""
+    c "Eu não sabia sobre isso."
 
 # game/scripts/kali_events.rpy:6777
 translate pt_br kaliapp_f2bd6847:
 
     # k "I keep my computer on all the time, can't you read the code?"
-    k ""
+    k "Eu deixo meu coputador ligado o tempo todo, não consegue ler o código?"
 
 # game/scripts/kali_events.rpy:6778
 translate pt_br kaliapp_ef65653b:
 
     # c "Not that well..."
-    c ""
+    c "Não muito bem..."
 
 # game/scripts/kali_events.rpy:6779
 translate pt_br kaliapp_cd2379c0:
 
     # lu "What does it do, sis?"
-    lu ""
+    lu "E o que isso faz, mana?"
 
 # game/scripts/kali_events.rpy:6781
 translate pt_br kaliapp_98c5cc4b:
 
     # k "It's basically a hack for androids. It lets you control them remotely, and even use a VR headset and body suit to fully control their limbs! Or just a controller."
-    k ""
+    k "É basicamente um hack de androids. Deixa você controlar eles remotamente, e até mesmo usar um VR para controlar eles totalmente! Ou só usar um controle mesmo."
 
 # game/scripts/kali_events.rpy:6783
 translate pt_br kaliapp_5d3b065c:
 
     # k "Oh, and it allows you to track your android, which is something only the company wants to be able to do..."
-    k ""
+    k "Oh, e te deixa localizar seu android, oque é algo que só as empresas conseguem fazer..."
 
 # game/scripts/kali_events.rpy:6784
 translate pt_br kaliapp_ac98f649:
 
     # lu "Isn't some of that kind of... illegal?"
-    lu ""
+    lu "Isso não é meio... ilegal?"
 
 # game/scripts/kali_events.rpy:6786
 translate pt_br kaliapp_ad8f6c20:
 
     # k "Yeah, probably..."
-    k ""
+    k "É, provavelmente..."
 
 # game/scripts/kali_events.rpy:6788
 translate pt_br kaliapp_83503be6:
 
     # k "But you can see all of the android's stats as well, like body temperature. You can even force it to change modes without a command!"
-    k ""
+    k "Mas você consegue ver todos os status também, como temperatura corporal. Você pode forçar à mudar os modos sem um comando!"
 
 # game/scripts/kali_events.rpy:6789
 translate pt_br kaliapp_3d996283:
 
     # lu "So, are you gonna sell it then and make some money?"
-    lu ""
+    lu "Então, você vai vender isso e ganhar dinheiro?"
 
 # game/scripts/kali_events.rpy:6791
 translate pt_br kaliapp_8bfe2a71:
 
     # k "Yeah! I was thinking I'd put it on an app store for like $999 or something."
-    k ""
+    k "Isso! Eu estava pensando em colocar em alguma loja por $999 ou algo assim."
 
 # game/scripts/kali_events.rpy:6792
 translate pt_br kaliapp_5ef38185:
 
     # lu "Won't you get caught that way?"
-    lu ""
+    lu "Você não vai ser pega desse jeito?"
 
 # game/scripts/kali_events.rpy:6793
 translate pt_br kaliapp_d5a40223:
 
     # k "That's partly why it's so expensive. There's no way everyone is going to want to do this sort of thing anyway."
-    k ""
+    k "É por isso que é tão caro. Não tem jeito de todo mundo querer esse tipo de coisa."
 
 # game/scripts/kali_events.rpy:6794
 translate pt_br kaliapp_f190dc03:
 
     # lu "Then why are you making it?"
-    lu ""
+    lu "Então por que você está fazendo isso?"
 
 # game/scripts/kali_events.rpy:6796
 translate pt_br kaliapp_51a82ebb:
 
     # k "Oh my god, what is in that empty head of yours? I talk about it all the time!"
-    k ""
+    k "Meu deus, o que tem nessa sua cabeça? Eu falo sobre isso o tempo todo!"
 
 # game/scripts/kali_events.rpy:6798
 translate pt_br kaliapp_19c8371b:
 
     # k "Remember when I was 17, and we basically lived in the Nero Inc. tower? Seeing all those annoying androids made me want to control them and do some stupid shit with them like tip the copier."
-    k ""
+    k "Lembra de quando eu tinha 17, e agente basicamente vivia na torre da Nero? Ver todos aqueles androids irritantes me fez querer controlar eles e fazer alguma besteira."
 
 # game/scripts/kali_events.rpy:6799
 translate pt_br kaliapp_9d90ba90:
 
     # k "Anyway, I realized soon after that, that what I was doing is something I could get sued for. They really want to keep all of their systems private."
-    k ""
+    k "De qualquer forma, Eu entendi, que o que eu estava querendo fazer poderia ser realmente feito. Eles realmente queriam manter os sistemas deles privados."
 
 # game/scripts/kali_events.rpy:6801
 translate pt_br kaliapp_f32994f0:
 
     # lu "Probably because it could cause a war."
-    lu ""
+    lu "Provavelmete por que poderia causar uma guerra."
 
 # game/scripts/kali_events.rpy:6802
 translate pt_br kaliapp_13480cfa:
 
     # k "What? What do you mean?"
-    k ""
+    k "Que? O que você quer dizer?"
 
 # game/scripts/kali_events.rpy:6804
 translate pt_br kaliapp_a6c1bfbc:
 
     # lu "Dude, if humans can get inside an android's body, they'll be able to do all sorts of superhuman stuff! An android could punch through a human easily!"
-    lu ""
+    lu "Cara, se os humanos pudessem controlar os corpos dos androids, eles poderiam fazer o que eles quisessem! Um android poderia matar um humano facilmente!"
 
 # game/scripts/kali_events.rpy:6806
 translate pt_br kaliapp_6f23dc21:
 
     # k "I've considered this! The android's systems are still completely active, it just doesn't have control over them. There is a way to hack the harm precaution system out, but I don't give anyone access to that. An android will still never hurt a human."
-    k ""
+    k "Eu já pensei nisso! Os sistemas android continuam completamente ativos, eu só não tenho controle sobre eles. Tem um jeito de desativar isso, mas eu não daria acesso para ninguém. Um android vai continuar não podendo machucar um humano."
 
 # game/scripts/kali_events.rpy:6807
 translate pt_br kaliapp_100c262d:
 
     # lu "Sure, but what if they don't need to? You can rob a bank without hurting anyone!"
-    lu ""
+    lu "Claro, mas e se eles não precisassem? Você pode roubar um banco sem machucar ninguém!"
 
 # game/scripts/kali_events.rpy:6809
 translate pt_br kaliapp_bc5960e1:
 
     # k "Egh, look, I'm sure someone somewhere will use my app for malicious purposes, that's another reason why it's so expensive! I don't want any children to get ahold of this."
-    k ""
+    k "Egh, olha, eu tenho certeza que alguém vai usar meu aplicativo para o mal, outra razão do por que é tão caro! Eu não quero que nenhum criança tenha isso."
 
 # game/scripts/kali_events.rpy:6811
 translate pt_br kaliapp_af48e8aa:
 
     # k "It'll do far more good than bad!"
-    k ""
+    k "Vai servir para mais coisas boas que ruims!"
 
 # game/scripts/kali_events.rpy:6812
 translate pt_br kaliapp_e664112b:
 
     # lu "I'm just saying, sis... it's pretty dangerous."
-    lu ""
+    lu "Eu só estou dizendo, mana... isso é bastante perigoso."
 
 # game/scripts/kali_events.rpy:6814
 translate pt_br kaliapp_89c1e599:
 
     # k "What do you think, [name]?"
-    k ""
+    k "O que você acha, [name]?"
 
 # game/scripts/kali_events.rpy:6818
 translate pt_br kaliapp_8e8aa5ed:
 
     # k "Really? Come on... It's been my project for 7 years!"
-    k ""
+    k "Sério? Qual é... esse é o meu projeto de 7 anos!"
 
 # game/scripts/kali_events.rpy:6819
 translate pt_br kaliapp_0684ea9a:
 
     # c "It could get you, and your father in a lot of trouble."
-    c ""
+    c "Poderia deixar você, e seu pai com muitos problemas."
 
 # game/scripts/kali_events.rpy:6820
 translate pt_br kaliapp_a4e65cd9:
 
     # k "I'm completely anonymous, I always use a VPN."
-    k ""
+    k "Eu estou completamente anônima, eu sempre uso VPN."
 
 # game/scripts/kali_events.rpy:6821
 translate pt_br kaliapp_db7aeee8:
 
     # c "And if you're ever going to be the CEO of Nero Inc., this is going to look very bad."
-    c ""
+    c "E se você um dia se tornar a CEO da Nero, isso iria dar muito ruim."
 
 # game/scripts/kali_events.rpy:6823
 translate pt_br kaliapp_d73c12c2:
 
     # k "Yeah, that would be a problem..."
-    k ""
+    k "É, isso seria um problema..."
 
 # game/scripts/kali_events.rpy:6824
 translate pt_br kaliapp_f925d20b:
 
     # k "Whatever. I haven't decided if I'm going to take up his offer anyway."
-    k ""
+    k "Tanto faz. Eu não decidi se eu vou aceitar essa oferta de qualquer forma."
 
 # game/scripts/kali_events.rpy:6826
 translate pt_br kaliapp_b6ec8b5f:
 
     # lu "Oh my god! Yes you are! You are not going to pass up a multi billion dollar company for some stupid app!"
-    lu ""
+    lu "Meu deus! Sim, você iria! Você não vai trocar uma empresa multi bilionáriam por um aplicativo estúpido!"
 
 # game/scripts/kali_events.rpy:6828
 translate pt_br kaliapp_9619d001:
 
     # k "I'll do what I want, sis."
-    k ""
+    k "Eu vou fazer o que eu quiser, mana."
 
 # game/scripts/kali_events.rpy:6829
 translate pt_br kaliapp_39702f52:
 
     # lu "Loser."
-    lu ""
+    lu "Idiota."
 
 # game/scripts/kali_events.rpy:6831
 translate pt_br kaliapp_a5786e1d:
 
     # k "I don't really care about the money. Like I said, the price is mostly so high because I don't want people getting it."
-    k ""
+    k "Eu não ligo realmente para o dinheiro. Como eu disse, o preço é bem alto justamente por que eu não quero que as pessoas consigam."
 
 # game/scripts/kali_events.rpy:6833
 translate pt_br kaliapp_249adf10:
 
     # lu "Yeah, but you kinda want the money."
-    lu ""
+    lu "É, mas você ainda quer o dinheiro."
 
 # game/scripts/kali_events.rpy:6835
 translate pt_br kaliapp_45bf41c1:
 
     # k "Meh, I don't need it. I'm making more than enough at papa rons."
-    k ""
+    k "Meh, eu não preciso disso. Eu ganho mais que o suficiente no papa rons."
 
 # game/scripts/kali_events.rpy:6836
 translate pt_br kaliapp_cebf6184:
 
     # lu "Dude, papa rons is barely above minimum wage."
-    lu ""
+    lu "Cara, o salário do papa rons é um pouco mais que um salário minímo."
 
 # game/scripts/kali_events.rpy:6837
 translate pt_br kaliapp_8a41540a:
 
     # k "Yeah, but I make more than enough every year."
-    k ""
+    k "É, mas eu faço mais que o suficiente todo ano."
 
 # game/scripts/kali_events.rpy:6840
 translate pt_br kaliapp_f58706a8:
 
     # k "Thanks!"
-    k ""
+    k "Valeu!"
 
 # game/scripts/kali_events.rpy:6841
 translate pt_br kaliapp_694bf406:
 
     # lu "You are such a kiss ass, dude."
-    lu ""
+    lu "Você é um pé na bunda, cara."
 
 # game/scripts/kali_events.rpy:6842
 translate pt_br kaliapp_caac9bbe:
 
     # c "I really do think it's a good idea."
-    c ""
+    c "Eu realmente acho que é uma boa idéia."
 
 # game/scripts/kali_events.rpy:6844
 translate pt_br kaliapp_8e7d6d04:
 
     # lu "Whatever, we all know Kali whips you all night in that dungeon of yours..."
-    lu ""
+    lu "Tanto faz, nós todos sabemos que a Kali te chicoteia a noite inteira naquela masmorra de você..."
 
 # game/scripts/kali_events.rpy:6845
 translate pt_br kaliapp_9667866f:
 
     # k "Hahaha, oh my god..."
-    k ""
+    k "Hahaha, meu deus..."
 
 # game/scripts/kali_events.rpy:6847
 translate pt_br kaliapp_80cfa3cd:
 
     # k "Oh! We should test it out on [botname], right?"
-    k ""
+    k "Oh! Agente pode testar na [botname], né?"
 
 # game/scripts/kali_events.rpy:6848
 translate pt_br kaliapp_5dd74473:
 
     # c "Sure, I can ask her if she's up for it."
-    c ""
+    c "Claro, eu posso chamá-la se ela quiser fazer isso."
 
 # game/scripts/kali_events.rpy:6849
 translate pt_br kaliapp_fb1a244d:
 
     # k "Please do! I can't release this without knowing for certain it works!"
-    k ""
+    k "Por favor! Eu não posso lançar isso sem ter certeza que funciona!"
 
 # game/scripts/kali_events.rpy:6854
 translate pt_br kaliapp_fa963c99:
 
     # c "Are you interested in testing Kali's new app?"
-    c ""
+    c "Você está interessada em testar o novo aplicativo da Kali?"
 
 # game/scripts/kali_events.rpy:6855
 translate pt_br kaliapp_27d6924a:
 
     # bot "Oh! She made another app for me? Sure, I would love to help Kali!"
-    bot ""
+    bot "Oh! ela fez outro app pra mim? Claro, eu adoraria ajudar a Kali!"
 
 # game/scripts/kali_events.rpy:6858
 translate pt_br kaliapp_45e703b0:
 
     # k "Okay, so I'm essentially going to hack you right now, are you alright with that?"
-    k ""
+    k "Ok, então basicamente eu vou te hackear agora, você está de bem com isso?"
 
 # game/scripts/kali_events.rpy:6859
 translate pt_br kaliapp_9da5b3ef:
 
     # bot "You're not going to do anything bad, are you...?"
-    bot ""
+    bot "Você nã vai fazer nada de ruim, né...?"
 
 # game/scripts/kali_events.rpy:6860
 translate pt_br kaliapp_10b1adf9:
 
     # k "No, of course not! I just want to see if this works. I'll move you around, see what you see, talk through you, that sort of thing."
-    k ""
+    k "Não, claro que não! Eu só quero ver se funciona. Eu vou me mexer por aí, ver oque você vê, falar através de você, esse tipo de coisa."
 
 # game/scripts/kali_events.rpy:6861
 translate pt_br kaliapp_20f6ec6c:
 
     # bot "What will happen to me then?"
-    bot ""
+    bot "O que vai acontecer comigo?"
 
 # game/scripts/kali_events.rpy:6862
 translate pt_br kaliapp_819089d8:
 
     # k "You'll still be there, you just won't have control. Uh... I guess since you're conscious you would just feel like you're looking out of a window?"
-    k ""
+    k "Você ainda vai estar no seu corpo, você só não vai conseguir controlá-lo. Uh... é como se você estivesse olhando por uma janela, talvez?"
 
 # game/scripts/kali_events.rpy:6863
 translate pt_br kaliapp_1a791e49:
 
     # bot "Oh... Well, I trust you Kali."
-    bot ""
+    bot "Oh... bem, eu confio em você Kali."
 
 # game/scripts/kali_events.rpy:6864
 translate pt_br kaliapp_91899813:
 
     # k "Awesome! Thanks."
-    k ""
+    k "Maravilha! Obrigada."
 
 # game/scripts/kali_events.rpy:6866
 translate pt_br kaliapp_b1b9b095:
 
     # "Kali messes around with her computer. She finalizes some things and looks over her code one last time. Once she's sure everything will be safe for [botname], she begins..."
-    ""
+    "Kali mexe no computador. Ela finaliza algumas coisas e dá uma última olhada no código. Depois te ter certeza que tudo estaria seguro para a [botname], ela começa..."
 
 # game/scripts/kali_events.rpy:6868
 translate pt_br kaliapp_c50009e0:
 
     # k "Alright, here I go."
-    k ""
+    k "Beleza, aqui vai."
 
 # game/scripts/kali_events.rpy:6870
 translate pt_br kaliapp_51164b46:
 
     # bot "NN!" with sshake
-    bot "" with sshake
+    bot "NN!" with sshake
 
 # game/scripts/kali_events.rpy:6872
 translate pt_br kaliapp_7fdf868c:
 
     # bot "Oh shit, it's working! Oh my god! The controls are great..."
-    bot ""
+    bot "Oh merda, tá funcionando! Meu deus! Os controles são ótimos..."
 
 # game/scripts/kali_events.rpy:6873
 translate pt_br kaliapp_5198ba24:
 
     # lu "I'm hearing both of you at the same time..."
-    lu ""
+    lu "Eu estou ouvindo vocês duas ao mesmo tempo..."
 
 # game/scripts/kali_events.rpy:6874
 translate pt_br kaliapp_cdcdc77b:
 
     # bot "Yeah, the android will always mimic what the user is saying. You can also type it out, but that's much slower."
-    bot ""
+    bot "Sim, o android vai sempre imitar oque o usuário diz. Você pode digitar também, mas é muito mais devagar."
 
 # game/scripts/kali_events.rpy:6876
 translate pt_br kaliapp_f4f4e864:
 
     # bot "Damn, she has HUGE tits!"
-    bot ""
+    bot "Porra, ela tem peitos enormes!"
 
 # game/scripts/kali_events.rpy:6879
 translate pt_br kaliapp_73f87ebc:
 
     # lu "You just noticed that?"
-    lu ""
+    lu "Você só prestou atenção nisso?"
 
 # game/scripts/kali_events.rpy:6880
 translate pt_br kaliapp_518b89f7:
 
     # bot "Well no, I just never considered what they'd look like from my perspective..."
-    bot ""
+    bot "Bem, não. Eu apenas nunca considerei eles nessa perspectiva..."
 
 # game/scripts/kali_events.rpy:6882
 translate pt_br kaliapp_7973c294:
 
     # bot "Hm, oh... It'd definitely be fun to use her on you, [name]... Maybe I could suck your cock with her?"
-    bot ""
+    bot "Hm, oh... seria divertido usar ela em você, [name]... talvez eu possa chupar o seu pau através dela?"
 
 # game/scripts/kali_events.rpy:6884
 translate pt_br kaliapp_f14687a2:
 
     # bot "-HN! No! That's too embarrassing! And put my mask back on!" with ssshake
-    bot "" with ssshake
+    bot "-HN! Não! É muito vergonhoso! E coloque minha maáscara de volta!" with ssshake
 
 # game/scripts/kali_events.rpy:6886
 translate pt_br kaliapp_1ed09ffc:
 
     # bot "Eggh~! Woah... I think she just took back control..."
-    bot ""
+    bot "Eggh~! Woah... eu acho que ela recuperou o controle por um instante..."
 
 # game/scripts/kali_events.rpy:6888
 translate pt_br kaliapp_5673e5e8:
 
     # bot "Whatever, I'm sure that was because of her consciousness. Normal android's don't have a consciousness so they won't be able to take control."
-    bot ""
+    bot "Tanto faz, tenho certeza que é porque ela tem consciência. Androids normais não tem uma, então eles não conseguiriam."
 
 # game/scripts/kali_events.rpy:6890
 translate pt_br kaliapp_1376ad89:
 
     # "Zzzt!" with ssshake
-    "" with ssshake
+    "Zzzt!" with ssshake
 
 # game/scripts/kali_events.rpy:6891
 translate pt_br kaliapp_8ad4de14:
 
     # k "Alright, that's enough. Thanks [botname]!"
-    k ""
+    k "Ok, já chega. Obrigada [botname]!"
 
 # game/scripts/kali_events.rpy:6893
 translate pt_br kaliapp_cb3af4bf:
 
     # bot "Ergh... I have a headache..."
-    bot ""
+    bot "Ergh... que dor de cabeça..."
 
 # game/scripts/kali_events.rpy:6895
 translate pt_br kaliapp_68db5ae9:
 
     # bot "Wait... Can I use that thing on other androids?"
-    bot ""
+    bot "Espera... você pode usar essa coisa em outros androids?"
 
 # game/scripts/kali_events.rpy:6896
 translate pt_br kaliapp_fdaa8185:
 
     # k "Yeah, I don't see why you wouldn't be able to."
-    k ""
+    k "Sim, não vejo porque não conseguiria."
 
 # game/scripts/kali_events.rpy:6898
 translate pt_br kaliapp_7a68d180:
 
     # bot "It seems to work by overriding all of my functions to your program. Well, all of the ones you want to override..."
-    bot ""
+    bot "Parece funcionar com você reescrevendo as minhas funções para o seu programa. Bem, quaiquer que você quiser reescrever..."
 
 # game/scripts/kali_events.rpy:6899
 translate pt_br kaliapp_56b91c07:
 
     # bot "I could take back control, but that's not something other androids can do. Your program tried blocking one of my dormant programs, so it didn't bother me much. I think that's why I was able to do that."
-    bot ""
+    bot "Eu posso recuperar o controle. Mas, isso não é uma coisa que os outros androids podem fazer. O seu programa tenta bloquear um dos meus programas inativos, então não me incomoda muito. Eu acho que é por isso que eu consegui fazer isso."
 
 # game/scripts/kali_events.rpy:6900
 translate pt_br kaliapp_a74530c2:
 
     # bot "Since your app is wireless, it must be sort of be like a virus, am I right?"
-    bot ""
+    bot "Já que o seu programa é wireless, deve ser algo parecido com um vírus, estou certa?"
 
 # game/scripts/kali_events.rpy:6901
 translate pt_br kaliapp_999dee79:
 
     # k "Yeah... I guess so. It does change an android's program a bit to allow for someone to take control of them. It can only work if their program is modified a bit."
-    k ""
+    k "Isso... isso mesmo. Altera um pouco os programas dos androids para conseguir tomar o controle. Só funciona se o programa deles é um pouco modificado."
 
 # game/scripts/kali_events.rpy:6902
 translate pt_br kaliapp_b3b256c0:
 
     # bot "If that's true, and I'm able to connect to your app, then I must be able to directly interact with another android's program..."
-    bot ""
+    bot "Se isso for verdade, e eu consigo me conectar ao seu programa, eu devo ser capaz de diretamente interagir com os programas de outros androids..."
 
 # game/scripts/kali_events.rpy:6903
 translate pt_br kaliapp_e1e15118:
 
     # bot "Are you able to modify whatever you want in an android?"
-    bot ""
+    bot "Você consegue modificar oque quiser em um android?"
 
 # game/scripts/kali_events.rpy:6905
 translate pt_br kaliapp_cc2e758d:
 
     # k "Yeah, I have full control over whatever I want, for the most part. There's still a lot of systems inside androids I don't understand. I used your code to help."
-    k ""
+    k "Isso, eu tenho quase total controle do que eu quiser. Mas ainda tem um monte de sistemas dentro dos androids que eu não entendo. Eu usei o seu código para me ajudar."
 
 # game/scripts/kali_events.rpy:6906
 translate pt_br kaliapp_8c53ebbb:
 
     # bot "You have my code?"
-    bot ""
+    bot "Você tem o meu código?"
 
 # game/scripts/kali_events.rpy:6907
 translate pt_br kaliapp_8a873ede:
 
     # k "Yeah, it's very different from a normal android's actually. You have a shit ton of loops, I don't know why you have that."
-    k ""
+    k "Sim, é bem diferente de um android normal na verdade. Você tem muitos loops, eu não sei o porque você tem isso."
 
 # game/scripts/kali_events.rpy:6908
 translate pt_br kaliapp_1af2a765:
 
     # k "But other than that, everything else is pretty normal."
-    k ""
+    k "Mas tirando isso, está tudo normal."
 
 # game/scripts/kali_events.rpy:6909
 translate pt_br kaliapp_d57ab233:
 
     # bot "Controlling other androids would be pretty neat! I could make myself a lot of friends, heheh!"
-    bot ""
+    bot "Controlar outros androids seria muito legal! Eu poderia fazer muitos amigos, heheh!"
 
 # game/scripts/kali_events.rpy:6910
 translate pt_br kaliapp_b0f023a3:
 
     # k "Well, you wouldn't really be able to move for yourself when you're hooking up to another android. You'd be blind."
-    k ""
+    k "Bem, você não consegue realmente se mover por conta própria quando está controlando outro android. Você fica cego."
 
 # game/scripts/kali_events.rpy:6911
 translate pt_br kaliapp_2f0a0fb8:
 
     # bot "So long as I'm not wearing that thing, I would be able to see out of my eyes! I'm not limited to only two eyes, you know. I can see hundreds of different things at the same time!"
-    bot ""
+    bot "Contando que eu não use essa coisa, eu consegueria ver através dos meus olhos! Não me limitando a dois olhos, sabe. Eu posso ver centenas de coisas diferentes ao mesmo tempo!"
 
 # game/scripts/kali_events.rpy:6912
 translate pt_br kaliapp_2822878e:
 
     # bot "I'm looking at Ashley pee right now!"
-    bot ""
+    bot "Eu estou vendo a Ashley fazendo xixi agora!"
 
 # game/scripts/kali_events.rpy:6913
 translate pt_br kaliapp_898cd03f:
 
     # c "We have cameras there?"
-    c ""
+    c "Nós temos câmeras lá?"
 
 # game/scripts/kali_events.rpy:6915
 translate pt_br kaliapp_6ce6ef84:
 
     # bot "Oh, I forgot to tell you I-"
-    bot ""
+    bot "Oh, eu esqueci de lhe dizer, eu-"
 
 # game/scripts/kali_events.rpy:6917
 translate pt_br kaliapp_e1fc19e3:
 
     # k "-Wait, you're right...! If I were able to upload this program into you, you would totally be able to take over other androids!"
-    k ""
+    k "-Espera, você está certa...! Se eu conseguir fazer um upload desse programa em você, você poderia realmente controlar outros androids!"
 
 # game/scripts/kali_events.rpy:6919
 translate pt_br kaliapp_75124582:
 
     # bot "That would be really cool, right [botown]? You could have an army of me!"
-    bot ""
+    bot "Isso seria bem legal. né ,[botown]? Você poderia ter um excército de mim!"
 
 # game/scripts/kali_events.rpy:6920
 translate pt_br kaliapp_a97d4f3c:
 
     # c "Sounds fun."
-    c ""
+    c "Parece divertido."
 
 # game/scripts/kali_events.rpy:6922
 translate pt_br kaliapp_cdb7121d:
 
     # bot "He likes the idea, Kali! Can you do it?"
-    bot ""
+    bot "Ele gostou da idéia, Kali! Você pode fazer isso?"
 
 # game/scripts/kali_events.rpy:6924
 translate pt_br kaliapp_1e44a96e:
 
     # lu "Oh my god, you're going to start the robot uprising, and it's going to start with her..."
-    lu ""
+    lu "Meu deus, você vai começar o levante dos robôs, e vai começar com ela..."
 
 # game/scripts/kali_events.rpy:6926
 translate pt_br kaliapp_aaaa756c:
 
     # k "This isn't a sci-fi story, Lucia. It'll be fine."
-    k ""
+    k "Isso não é uma história sci-fi, Lucy. Vai ser divertido."
 
 # game/scripts/kali_events.rpy:6927
 translate pt_br kaliapp_0fe2c5e9:
 
     # lu "Whatever... Don't say I didn't warn you..."
-    lu ""
+    lu "Tanto faz... não diga que eu não te avisei..."
 
 # game/scripts/kali_events.rpy:6929
 translate pt_br kaliapp_52f43fc5:
 
     # k "Alright, you're going to have to give me a couple of days to make something. I can use the template of you I have backed up on my computer to test it so it doesn't mess up anything inside you."
-    k ""
+    k "Tá bem, você vai precisar me dar alguns dias para fazer qualquer coisa. Eu posso usar o backup do seu template que eu tenho no meu computador para testar, então não vai bagunçar nada em você."
 
 # game/scripts/kali_events.rpy:6930
 translate pt_br kaliapp_fc6171e5:
 
     # bot "Thank you!"
-    bot ""
+    bot "Obrigada!"
 
 # game/scripts/kali_events.rpy:6938
 translate pt_br kalirplay_7417fc2c:
 
     # "You and Maria wait for Kali to leave. Once her shift begins, Maria orders pizza..."
-    ""
+    "Você e Maria esperam Kali sair. Assim que o turno dela começa, Maria pede uma pizza..."
 
 # game/scripts/kali_events.rpy:6940
 translate pt_br kalirplay_c697f105:
 
     # m "The app says she's right outside the hotel, are you excited!? I know I am!"
-    m ""
+    m "O aplicativo diz que ela está na frente do hotel, você tá ansioso? Porquê eu estou!"
 
 # game/scripts/kali_events.rpy:6941
 translate pt_br kalirplay_b950e5d9:
 
     # k "*knock knock knock* Pizza!"
-    k ""
+    k "*knock knock knock* Pizza!"
 
 # game/scripts/kali_events.rpy:6943
 translate pt_br kalirplay_8d7585ee:
 
     # m "Oh! She's here! Ahem..."
-    m ""
+    m "Oh! Ela chegou! Ahem..."
 
 # game/scripts/kali_events.rpy:6944
 translate pt_br kalirplay_0f943ea2:
 
     # m "Come in!"
-    m ""
+    m "Pode entrar!"
 
 # game/scripts/kali_events.rpy:6946
 translate pt_br kalirplay_cb865e23:
 
     # k "Hey, order some pizza?"
-    k ""
+    k "Ei, pediram uma pizza?"
 
 # game/scripts/kali_events.rpy:6947
 translate pt_br kalirplay_508021fa:
 
     # m "I did! You're right on time, just put the pizza on the bed."
-    m ""
+    m "Sim! Bem na hora, pode deixar na cama."
 
 # game/scripts/kali_events.rpy:6949
 translate pt_br kalirplay_b14d5696:
 
     # k "The bed...?"
-    k ""
+    k "Na cama...?"
 
 # game/scripts/kali_events.rpy:6950
 translate pt_br kalirplay_5f0ba691:
 
     # k "Why don't I just give it to y-"
-    k ""
+    k "Por que eu não posso só entregar para voc-"
 
 # game/scripts/kali_events.rpy:6952
 translate pt_br kalirplay_1099f008:
 
     # k "-Maria?"
-    k ""
+    k "-Maria?"
 
 # game/scripts/kali_events.rpy:6954
 translate pt_br kalirplay_2b0a7085:
 
     # k "Hmmm!? Nn...?" with ssshake
-    k "" with ssshake
+    k "Hmmm!? Nn...?" with ssshake
 
 # game/scripts/kali_events.rpy:6956
 translate pt_br kalirplay_f306dbe3:
 
     # k "NNNNN!!! MMM!" with ssshake
-    k "" with ssshake
+    k "NNNNN!!! MMM!" with ssshake
 
 # game/scripts/kali_events.rpy:6958
 translate pt_br kalirplay_e4d9120f:
 
     # k "HM, MARRIMM! HELMME! MRM!" with ssshake
-    k "" with ssshake
+    k "HM, MARRIMM! SOCRROO! MRM!" with ssshake
 
 # game/scripts/kali_events.rpy:6960
 translate pt_br kalirplay_7cc9e56f:
 
     # k "AAAHMMM!!! NN!" with ssshake
-    k "" with ssshake
+    k "AAAHMMM!!! NN!" with ssshake
 
 # game/scripts/kali_events.rpy:6962
 translate pt_br kalirplay_4a5fbc83:
 
     # k "NNGH! SSSTOMM! MMM!" with ssshake
-    k "" with ssshake
+    k "NNGH! SSSTOMM! MMM!" with ssshake
 
 # game/scripts/kali_events.rpy:6964
 translate pt_br kalirplay_a9e00b5e:
 
     # c "Calm down."
-    c ""
+    c "Se acalma."
 
 # game/scripts/kali_events.rpy:6965
 translate pt_br kalirplay_dc5da507:
 
     # k "HMM!? MM!"
-    k ""
+    k "HMM!? MM!"
 
 # game/scripts/kali_events.rpy:6967
 translate pt_br kalirplay_f34d8fef:
 
     # k "MMMM! MARRIMM!!! NNNNM! NN!" with ssshake
-    k "" with ssshake
+    k "MMMM! MARRIMM!!! NNNNM! NN!" with ssshake
 
 # game/scripts/kali_events.rpy:6968
 translate pt_br kalirplay_6cfa2fb0:
 
     # c "Kali!"
-    c ""
+    c "Kali!"
 
 # game/scripts/kali_events.rpy:6970
 translate pt_br kalirplay_a61951a4:
 
     # k "HNN! MM- Nnn? Hmmm!?"
-    k ""
+    k "HNN! MM- Nnn? Hmmm!?"
 
 # game/scripts/kali_events.rpy:6972
 translate pt_br kalirplay_c7357f7a:
 
     # k "[name]!?"
-    k ""
+    k "[name]!?"
 
 # game/scripts/kali_events.rpy:6974
 translate pt_br kalirplay_dab59614:
 
     # k "Ahhh... Hahh... Oh my god... You scared me so much..."
-    k ""
+    k "Ahhh... Hahh... meu deus... você me assustou tanto..."
 
 # game/scripts/kali_events.rpy:6975
 translate pt_br kalirplay_4f8cbcf0:
 
     # k "I thought you were... Nnn... Nevermind..."
-    k ""
+    k "Eu pensei que você estava... nnn... nada..."
 
 # game/scripts/kali_events.rpy:6977
 translate pt_br kalirplay_af7d0666:
 
     # k "Nnn... Actually, now that I know it was you... That was really ho-"
-    k ""
+    k "Nnn... na verdade, agora que eu sei que era você... isso foi muito exci-"
 
 # game/scripts/kali_events.rpy:6979
 translate pt_br kalirplay_5cb0b23c:
 
     # k "MMM!" with ssshake
-    k "" with ssshake
+    k "MMM!" with ssshake
 
 # game/scripts/kali_events.rpy:6983
 translate pt_br kalirplay_dd8f8c5f:
 
     # k "Wait, you're tying me up? Why?"
-    k ""
+    k "Espera, você está me amarrando? Por que?"
 
 # game/scripts/kali_events.rpy:6984
 translate pt_br kalirplay_140d437f:
 
     # c "You'll like it more."
-    c ""
+    c "Você vai gostar mais desse jeito."
 
 # game/scripts/kali_events.rpy:6986
 translate pt_br kalirplay_fc855f44:
 
     # k "Like it more...?"
-    k ""
+    k "Gostar mais...?"
 
 # game/scripts/kali_events.rpy:6988
 translate pt_br kalirplay_132553f3:
 
     # k "Nn!" with ssshake
-    k "" with ssshake
+    k "Nn!" with ssshake
 
 # game/scripts/kali_events.rpy:6990
 translate pt_br kalirplay_1f2b91fb:
 
     # k "W-Wait, you're already getting started? I'm not ready y-"
-    k ""
+    k "E-Espera, você já vai começar? Eu não estou pronta aind-"
 
 # game/scripts/kali_events.rpy:6992
 translate pt_br kalirplay_69242bbe:
 
     # k "Nnnhhg!"
-    k ""
+    k "Nnnhhg!"
 
 # game/scripts/kali_events.rpy:6993
 translate pt_br kalirplay_e28d658e:
 
     # c "Then why are you so wet?"
-    c ""
+    c "Então por que você está tão molhada?"
 
 # game/scripts/kali_events.rpy:6994
 translate pt_br kalirplay_0ec0abe7:
 
     # k "Mmmmm~ Hnn..."
-    k ""
+    k "Mmmmm~ Hnn..."
 
 # game/scripts/kali_events.rpy:6997
 translate pt_br kalirplay_07c7fef6:
 
     # k "Ffffmmm! Nggghhh...!"
-    k ""
+    k "Ffffmmm! Nggghhh...!"
 
 # game/scripts/kali_events.rpy:6998
 translate pt_br kalirplay_87fea7f7:
 
     # k "Mnn, nn! Fffkkg, mmm gnna cum! Mmm!"
-    k ""
+    k "Mnn, nn! Fffkkg, mmm vo goza! Mmm!"
 
 # game/scripts/kali_events.rpy:6999
 translate pt_br kalirplay_55f2a2c4:
 
     # k "Fggk! Fggk! FFFFGKK!"
-    k ""
+    k "Fggk! Fggk! FFFFGKK!"
 
 # game/scripts/kali_events.rpy:7001
 translate pt_br kalirplay_5e303604:
 
     # k "MMMMMMMMMMNNNN!!!" with sshake
-    k "" with sshake
+    k "MMMMMMMMMMNNNN!!!" with sshake
 
 # game/scripts/kali_events.rpy:7003
 translate pt_br kalirplay_245ae429:
 
     # k "HNN! HNNN! NNNNN!!!" with sshake
-    k "" with sshake
+    k "HNN! HNNN! NNNNN!!!" with sshake
 
 # game/scripts/kali_events.rpy:7005
 translate pt_br kalirplay_39018eaa:
 
     # k "Ahhh! Hahhh! Hnnn...! Ahhh..."
-    k ""
+    k "Ahhh! Hahhh! Hnnn...! Ahhh..."
 
 # game/scripts/kali_events.rpy:7006
 translate pt_br kalirplay_2fe398a8:
 
     # k "Ahh... Fuck... Fuck... Did... Did I squirt...?"
-    k ""
+    k "Ahh... porra... porra... eu... eu esguichei...?"
 
 # game/scripts/kali_events.rpy:7011
 translate pt_br kalirplay_5e633893:
 
     # k "Wow... Where did that come from...?"
-    k ""
+    k "Wow... qual o motivo de tudo isso...?"
 
 # game/scripts/kali_events.rpy:7012
 translate pt_br kalirplay_db738985:
 
     # c "We're not done yet..."
-    c ""
+    c "Nós ainda não terminamos..."
 
 # game/scripts/kali_events.rpy:7014
 translate pt_br kalirplay_93334484:
 
     # k "What?"
-    k ""
+    k "Que?"
 
 # game/scripts/kali_events.rpy:7017
 translate pt_br kalirplay_84d35ee5:
 
     # k "FUCK!" with ssshake
-    k "" with ssshake
+    k "PORRA!" with ssshake
 
 # game/scripts/kali_events.rpy:7019
 translate pt_br kalirplay_689920c3:
 
     # k "Wait! Wait!"
-    k ""
+    k "Espera! Espera!"
 
 # game/scripts/kali_events.rpy:7021
 translate pt_br kalirplay_5052f102:
 
     # k "NNNNNN!!!" with ssshake
-    k "" with ssshake
+    k "NNNNNN!!!" with ssshake
 
 # game/scripts/kali_events.rpy:7023
 translate pt_br kalirplay_551bfdf3:
 
     # k "Fuck, fuck! AHH!" with ssshake
-    k "" with ssshake
+    k "Porra, porrra! AHH!" with ssshake
 
 # game/scripts/kali_events.rpy:7024
 translate pt_br kalirplay_0c480a4f:
 
     # k "NNNGHHAAAAH!!!" with sshake
-    k "" with sshake
+    k "NNNGHHAAAAH!!!" with sshake
 
 # game/scripts/kali_events.rpy:7025
 translate pt_br kalirplay_65ba5a5d:
 
     # k "[name]! Damn it! I'm too sensitive! I just came! FUCK!"
-    k ""
+    k "[name]! Droga! Eu sou muito sensível! Eu gozei! PORRA!"
 
 # game/scripts/kali_events.rpy:7026
 translate pt_br kalirplay_d8848f71:
 
     # k "Please, wait! NN! FUCK! I can't stop CUMMING!"
-    k ""
+    k "Por favor, espera! NN! PORRA! Eu ainda tô GOZANDO!"
 
 # game/scripts/kali_events.rpy:7027
 translate pt_br kalirplay_5eed34a7:
 
     # k "AAAAAAAH! AGHH!" with ssshake
-    k "" with ssshake
+    k "AAAAAAAH! AGHH!" with ssshake
 
 # game/scripts/kali_events.rpy:7032
 translate pt_br kalirplay_2183d872:
 
     # a "Looks like it hurts..."
-    a ""
+    a "Parece que isso dói..."
 
 # game/scripts/kali_events.rpy:7033
 translate pt_br kalirplay_c773a679:
 
     # m "Apparently she likes it that way."
-    m ""
+    m "Aparentemente ela gosta assim."
 
 # game/scripts/kali_events.rpy:7034
 translate pt_br kalirplay_4cd5a064:
 
     # a "She looks so cute when she's in pain!"
-    a ""
+    a "Ela é tão fofa quando está com dor!"
 
 # game/scripts/kali_events.rpy:7035
 translate pt_br kalirplay_3d70c1af:
 
     # m "Ashley..."
-    m ""
+    m "Ashley..."
 
 # game/scripts/kali_events.rpy:7038
 translate pt_br kalirplay_7d032aab:
 
     # k "HNN! OH MY GOD! OH MY GOD! YOU'RE STILL GOING!"
-    k ""
+    k "HNN! MEU DEUS! MEU DEUS! VOCÊ AINDA TÁ INDO!"
 
 # game/scripts/kali_events.rpy:7039
 translate pt_br kalirplay_2f1627ed:
 
     # k "GOD, FUCK! DAMN IT! FUCK!!! SHIT!"
-    k ""
+    k "DEUS, PORRA! DROGA! PORRA!!! MERDA!"
 
 # game/scripts/kali_events.rpy:7040
 translate pt_br kalirplay_d876ec4d:
 
     # k "FUCKKK! [name]! AAAAAAAH!!! FUCK! FUCKING, FUCK!"
-    k ""
+    k "PORRAAA! [name]! AAAAAAAH!!! PORRA! PORRA PORRA!"
 
 # game/scripts/kali_events.rpy:7042
 translate pt_br kalirplay_6b16eab1:
 
     # k "AGHN!" with ssshake
-    k "" with ssshake
+    k "AGHN!" with ssshake
 
 # game/scripts/kali_events.rpy:7044
 translate pt_br kalirplay_92b7d2d2:
 
     # k "*gasp*! FUCK! You're cumming!?" with ssshake
-    k "" with ssshake
+    k "*ofegante*! PORRA! Você tá gozando!?" with ssshake
 
 # game/scripts/kali_events.rpy:7046
 translate pt_br kalirplay_d9693be3:
 
     # k "Hnnn-nnnn... Nnnghh... Gggghhh... Ohhhh..." with ssshake
-    k "" with ssshake
+    k "Hnnn-nnnn... Nnnghh... Gggghhh... Ohhhh..." with ssshake
 
 # game/scripts/kali_events.rpy:7049
 translate pt_br kalirplay_912493f7:
 
     # k "Nnnnghh..." with ssshake
-    k "" with ssshake
+    k "Nnnnghh..." with ssshake
 
 # game/scripts/kali_events.rpy:7051
 translate pt_br kalirplay_5288f463:
 
     # k "Aaa-aahh... [name]... S-Still... C-Cumming... Nnngggh..."
-    k ""
+    k "Aaa-aahh... [name]... A-Ainda... G-Gozando... Nnngggh..."
 
 # game/scripts/kali_events.rpy:7052
 translate pt_br kalirplay_6041387d:
 
     # k "N... No more... Please..."
-    k ""
+    k "C... chega... por favor..."
 
 # game/scripts/kali_events.rpy:7054
 translate pt_br kalirplay_88bceff5:
 
     # k "Wuh... Wait...! You're just going to leave...? Aren't you going to say anything?"
-    k ""
+    k "Wuh... espera...! Você só vai sair...? Não vai dizer nada?"
 
 # game/scripts/kali_events.rpy:7055
 translate pt_br kalirplay_d5116ea6:
 
     # c "It'd just ruin the fantasy."
-    c ""
+    c "Isso estragaria a fantasia."
 
 # game/scripts/kali_events.rpy:7057
 translate pt_br kalirplay_e2137c5b:
 
     # k "...What...?"
-    k ""
+    k "... Que...?"
 
 # game/scripts/kali_events.rpy:7059
 translate pt_br kalirplay_cad8959a:
 
     # k "Hnnnn..."
-    k ""
+    k "Hnnnn..."
 
 # game/scripts/kali_events.rpy:7061
 translate pt_br kalirplay_1332adf9:
 
     # k "Wait...!"
-    k ""
+    k "Espera..."
 
 # game/scripts/kali_events.rpy:7067
 translate pt_br kalirplay_ecf63373:
 
     # k "AAAH!" with ssshake
-    k "" with ssshake
+    k "AAAH!" with ssshake
 
 # game/scripts/kali_events.rpy:7069
 translate pt_br kalirplay_744e7623:
 
     # k "Fuck... You're being really rough [name]..."
-    k ""
+    k "Porra... você está sendo muito bruto [name]..."
 
 # game/scripts/kali_events.rpy:7071
 translate pt_br kalirplay_b15f9d5d:
 
     # k "NNNNNN!!! AAAAAAAAAAH!" with ssshake
-    k "" with ssshake
+    k "NNNNNN!!! AAAAAAAAAAH!" with ssshake
 
 # game/scripts/kali_events.rpy:7073
 translate pt_br kalirplay_708fa6a1:
 
     # k "FUCK! MY ASS!? OH MY GOD!" with ssshake
-    k "" with ssshake
+    k "PORRA! MINHA BUNDA!? MEU DEUS!" with ssshake
 
 # game/scripts/kali_events.rpy:7074
 translate pt_br kalirplay_8f252aae:
 
     # k "SHIT! AH! SLOW DOWN! FUCK!"
-    k ""
+    k "MERDA! AH! MAI DEVAGAR! PORRA!"
 
 # game/scripts/kali_events.rpy:7075
 translate pt_br kalirplay_b8e45485:
 
     # k "NNNGHHAAAAH!!!"
-    k ""
+    k "NNNGHHAAAAH!!!"
 
 # game/scripts/kali_events.rpy:7078
 translate pt_br kalirplay_2f1627ed_1:
 
     # k "GOD, FUCK! DAMN IT! FUCK!!! SHIT!"
-    k ""
+    k "DEUS, PORRA! DROGA! PORRA!!!! MERDA!"
 
 # game/scripts/kali_events.rpy:7079
 translate pt_br kalirplay_5d28f2b3:
 
     # k "Nnn! Wait! [name] you're too rough! FUCK!"
-    k ""
+    k "Nnn! Espera! [name] tá muito bruto! PORRA!"
 
 # game/scripts/kali_events.rpy:7080
 translate pt_br kalirplay_a334f7df:
 
     # k "Please, wait! NN! FUCK! I can't- NGH, FUCK!"
-    k ""
+    k "Por favor, espera! NN! PORRA! Eu não po- NGH, PORRA!"
 
 # game/scripts/kali_events.rpy:7081
 translate pt_br kalirplay_a3703209:
 
     # k "NNN, C-CUMMING! FUCK!"
-    k ""
+    k "NNN, G-GOZANDO! PORRA!"
 
 # game/scripts/kali_events.rpy:7082
 translate pt_br kalirplay_f296d191:
 
     # k "NNNNNNNNNNAAAAAHHHHHH!!!" with ssshake
-    k "" with ssshake
+    k "NNNNNNNNNNAAAAAHHHHHH!!!" with ssshake
 
 # game/scripts/kali_events.rpy:7087
 translate pt_br kalirplay_2183d872_1:
 
     # a "Looks like it hurts..."
-    a ""
+    a "Parece que isso dói..."
 
 # game/scripts/kali_events.rpy:7088
 translate pt_br kalirplay_c773a679_1:
 
     # m "Apparently she likes it that way."
-    m ""
+    m "Aparentemente ela gosta assim."
 
 # game/scripts/kali_events.rpy:7089
 translate pt_br kalirplay_4cd5a064_1:
 
     # a "She looks so cute when she's in pain!"
-    a ""
+    a "Ela é tão fofa quando está com dor!"
 
 # game/scripts/kali_events.rpy:7090
 translate pt_br kalirplay_3d70c1af_1:
 
     # m "Ashley..."
-    m ""
+    m "Ashley..."
 
 # game/scripts/kali_events.rpy:7093
 translate pt_br kalirplay_7d032aab_1:
 
     # k "HNN! OH MY GOD! OH MY GOD! YOU'RE STILL GOING!"
-    k ""
+    k "HNN! MEU DEUS! MEU DEUS! VOCÊ AINDA TÁ INDO!"
 
 # game/scripts/kali_events.rpy:7094
 translate pt_br kalirplay_d876ec4d_1:
 
     # k "FUCKKK! [name]! AAAAAAAH!!! FUCK! FUCKING, FUCK!"
-    k ""
+    k "PORRAAA! [name]! AAAAAAAH!!! PORRA! PORRA PORRA!"
 
 # game/scripts/kali_events.rpy:7096
 translate pt_br kalirplay_6b16eab1_1:
 
     # k "AGHN!" with ssshake
-    k "" with ssshake
+    k "AGHN!" with ssshake
 
 # game/scripts/kali_events.rpy:7098
 translate pt_br kalirplay_92b7d2d2_1:
 
     # k "*gasp*! FUCK! You're cumming!?" with ssshake
-    k "" with ssshake
+    k "*ofegante*! PORRA! Você tá gozando!?" with ssshake
 
 # game/scripts/kali_events.rpy:7100
 translate pt_br kalirplay_d9693be3_1:
 
     # k "Hnnn-nnnn... Nnnghh... Gggghhh... Ohhhh..." with ssshake
-    k "" with ssshake
+    k "Hnnn-nnnn... Nnnghh... Gggghhh... Ohhhh..." with ssshake
 
 # game/scripts/kali_events.rpy:7103
 translate pt_br kalirplay_912493f7_1:
 
     # k "Nnnnghh..." with ssshake
-    k "" with ssshake
+    k "Nnnnghh..." with ssshake
 
 # game/scripts/kali_events.rpy:7105
 translate pt_br kalirplay_5288f463_1:
 
     # k "Aaa-aahh... [name]... S-Still... C-Cumming... Nnngggh..."
-    k ""
+    k "Aaa-aahh... [name]... a-ainda... g-gozando... Nnngggh..."
 
 # game/scripts/kali_events.rpy:7106
 translate pt_br kalirplay_6041387d_1:
 
     # k "N... No more... Please..."
-    k ""
+    k "C... chega... por favor..."
 
 # game/scripts/kali_events.rpy:7108
 translate pt_br kalirplay_d588ca45:
 
     # k "Wuh... Wait...! You're just... Going to leave...? Ahhh... Aren't you going to say anything?"
-    k ""
+    k "Wuh... espera...! Você só vai sair...? Não vai dizer nada?"
 
 # game/scripts/kali_events.rpy:7109
 translate pt_br kalirplay_d5116ea6_1:
 
     # c "It'd just ruin the fantasy."
-    c ""
+    c "Isso estragaria a fantasia."
 
 # game/scripts/kali_events.rpy:7111
 translate pt_br kalirplay_e2137c5b_1:
 
     # k "...What...?"
-    k ""
+    k "... Que...?"
 
 # game/scripts/kali_events.rpy:7113
 translate pt_br kalirplay_cad8959a_1:
 
     # k "Hnnnn..."
-    k ""
+    k "Hnnnn..."
 
 # game/scripts/kali_events.rpy:7115
 translate pt_br kalirplay_1332adf9_1:
 
     # k "Wait...!"
-    k ""
+    k "Espera..."
 
 # game/scripts/kali_events.rpy:7133
 translate pt_br kaliprefetish_1acbe60d:
 
     # k "Fuck, fuck!"
-    k ""
+    k "Porra, porra!"
 
 # game/scripts/kali_events.rpy:7134
 translate pt_br kaliprefetish_64afd396:
 
     # c "{i}(She's masturbating? To what?){/i}"
-    c ""
+    c "{i}(Ela tá se masturbando? Para oque?)"
 
 # game/scripts/kali_events.rpy:7136
 translate pt_br kaliprefetish_b9150c47:
 
     # porn "Ah! Stay away!"
-    porn ""
+    porn "Ah! Fique longe!"
 
 # game/scripts/kali_events.rpy:7137
 translate pt_br kaliprefetish_56d70479:
 
     # k "MMMMMMM!"
-    k ""
+    k "MMMMMMM!"
 
 # game/scripts/kali_events.rpy:7138
 translate pt_br kaliprefetish_adf3f2a9:
 
     # k "Ahh... Hnn, I almost came... Ngh... Again..."
-    k ""
+    k "Ahh... Hnn, quase... Ngh... de novo..."
 
 # game/scripts/kali_events.rpy:7140
 translate pt_br kaliprefetish_92efba2d:
 
     # porn "No, no! I can't take that! No!"
-    porn ""
+    porn "Não, não! Isso não! Não!"
 
 # game/scripts/kali_events.rpy:7141
 translate pt_br kaliprefetish_10f947be:
 
     # k "Ohh, fuck, fuck, fuck, fuck! Nnn!"
-    k ""
+    k "Ohh, porra, porra, porra, porra! Nnn!"
 
 # game/scripts/kali_events.rpy:7143
 translate pt_br kaliprefetish_5ebaaae7:
 
     # porn "If you didn't want it, why are you so wet...?"
-    porn ""
+    porn "Se você não quer isso, por que está tão molhada...?"
 
 # game/scripts/kali_events.rpy:7144
 translate pt_br kaliprefetish_51cf4340:
 
     # porn "T-That's not true!"
-    porn ""
+    porn "N-Não é verdade!"
 
 # game/scripts/kali_events.rpy:7145
 translate pt_br kaliprefetish_38c2f608:
 
     # k "She's such a fucking slut... Nnn!"
-    k ""
+    k "Ela é uma vadia do caralho... Nnn!"
 
 # game/scripts/kali_events.rpy:7146
 translate pt_br kaliprefetish_de85f717:
 
     # porn "W-Wait! I'm a virgin, I'm a- AHH!!!"
-    porn ""
+    porn "E-Espere! Eu sou virgem, Eu- AHH!!!"
 
 # game/scripts/kali_events.rpy:7148
 translate pt_br kaliprefetish_bc4d5b49:
 
     # k "Ahhh!!! That's so hot! I want to do that so bad...! Nn!" with ssshake
-    k "" with ssshake
+    k "Ahhh!!! Isso é excitante! Eu quero tanto fazer isso...! Nn!" with ssshake
 
 # game/scripts/kali_events.rpy:7149
 translate pt_br kaliprefetish_0d19b691:
 
     # c "{i}(What is she watching? She looks very into this...){/i}"
-    c ""
+    c "{i}(O que ela está assistindo? Ela parece gostar bastante...){/i}"
 
 # game/scripts/kali_events.rpy:7151
 translate pt_br kaliprefetish_007f49cc:
 
     # porn "No! Not my ass too!"
-    porn ""
+    porn "Não! Não na minha bunda também!"
 
 # game/scripts/kali_events.rpy:7152
 translate pt_br kaliprefetish_ff41b473:
 
     # k "She's taking it in the ass now? Oh fuck... That's so hot!"
-    k ""
+    k "Ela tá tomando na bundo também? Oh porra... Isso é tão excitante!"
 
 # game/scripts/kali_events.rpy:7154
 translate pt_br kaliprefetish_e4ff6e6b:
 
     # porn "AAAAAAAAAH!" with ssshake
-    porn "" with ssshake
+    porn "AAAAAAAAAH!" with ssshake
 
 # game/scripts/kali_events.rpy:7155
 translate pt_br kaliprefetish_30f2aed5:
 
     # k "Fuck, fuck! She looks like she's feeling so good! Nnn, I wish someone would do that to me... Ahh!"
-    k ""
+    k "Porra, porra! Ela parece estar se sentindo tão bem! Nnn, eu queria que alguém fizesse isso comigo... Ahh!"
 
 # game/scripts/kali_events.rpy:7156
 translate pt_br kaliprefetish_bdc9a2ee:
 
     # k "Ahhhn! Nnn! {size=-10}Fuck my ass, [name]... Nnnuh, I don't care, just... Ah, just take it...{/size}"
-    k ""
+    k "Ahhhn! Nnn! {size=-10}Fode a minha bunda, [name]... Nnnuh, Eu não me importo, só... ah, só fode...{/size}"
 
 # game/scripts/kali_events.rpy:7158
 translate pt_br kaliprefetish_bfbe9414:
 
     # porn "Let me go! Let me go!"
-    porn ""
+    porn "Me deixa ir! Me deixa ir!"
 
 # game/scripts/kali_events.rpy:7159
 translate pt_br kaliprefetish_2f8db84c:
 
     # k "Hnn, fuck... She can take it so rough... Ahhh..."
-    k ""
+    k "Hnn, porra... ela consegue aguentar isso tão bruto... Ahhh..."
 
 # game/scripts/kali_events.rpy:7160
 translate pt_br kaliprefetish_040e65d3:
 
     # porn "AAAAHHHNN~!"
-    porn ""
+    porn "AAAAHHHNN~!"
 
 # game/scripts/kali_events.rpy:7162
 translate pt_br kaliprefetish_7f0e4a35:
 
     # k "NNNG!" with ssshake
-    k "" with ssshake
+    k "NNNG!" with ssshake
 
 # game/scripts/kali_events.rpy:7163
 translate pt_br kaliprefetish_0ec09e5d:
 
     # k "Fuck, I'm so close! Oh my god! Fuck!"
-    k ""
+    k "Porra, eu tô quase! Meu deus! Porra!"
 
 # game/scripts/kali_events.rpy:7164
 translate pt_br kaliprefetish_d3b46ed1:
 
     # porn "Stop, please! I'm going to cum! Ahh!"
-    porn ""
+    porn "Para, por favor! Eu vou gozar! Ahh!"
 
 # game/scripts/kali_events.rpy:7165
 translate pt_br kaliprefetish_1aaa53c9:
 
     # k "Treat her like a whore, treat her like a slut! Rape that bitch! NNNN!"
-    k ""
+    k "Trate ela como uma puta, trate ela como uma vadia! Estupre essa cadela! NNNN!"
 
 # game/scripts/kali_events.rpy:7167
 translate pt_br kaliprefetish_7819680d:
 
     # k "FFUUUUUCK!!!" with ssshake
-    k "" with ssshake
+    k "POOORRAAAA!!" with ssshake
 
 # game/scripts/kali_events.rpy:7168
 translate pt_br kaliprefetish_e5bbcb6c:
 
     # k "NNNGUH!" with ssshake
-    k "" with ssshake
+    k "NNNGUH!" with ssshake
 
 # game/scripts/kali_events.rpy:7170
 translate pt_br kaliprefetish_aa936fe4:
 
     # k "Ahh... Hnnn... Fuck... I came so hard... Did I squirt...?"
-    k ""
+    k "Ahh... Hnnn... porra... eu gozei tanto... eu esguichei...?"
 
 # game/scripts/kali_events.rpy:7172
 translate pt_br kaliprefetish_5a0d3b88:
 
     # porn "Good day everyone! You just saw me get 'raped' today! Heheh."
-    porn ""
+    porn "Bom dia todo mundo! Hoje vocês me viram ser 'estuprada'! Heheh."
 
 # game/scripts/kali_events.rpy:7173
 translate pt_br kaliprefetish_95b2a597:
 
     # porn "How did you enjoy our role play today?"
-    porn ""
+    porn "Vocês gostaram da nossa atuação de hoje?"
 
 # game/scripts/kali_events.rpy:7174
 translate pt_br kaliprefetish_cca1ca65:
 
     # porn "It was great! I can't wait for next time!"
-    porn ""
+    porn "Foi bom! Eu mal posso esperar pela próxima vez!"
 
 # game/scripts/kali_events.rpy:7175
 translate pt_br kaliprefetish_12ed77ce:
 
     # k "Urgh, why do they need to put those things at the end? It just ruins the fantasy..."
-    k ""
+    k "Urgh, por que eles precisam colocar essas coisas no final? Só estraga a fantasia..."
 
 # game/scripts/kali_events.rpy:7177
 translate pt_br kaliprefetish_32619026:
 
     # k "Fuck, I need to clean myself..."
-    k ""
+    k "Porra, eu preciso me limpar..."
 
 # game/scripts/kali_events.rpy:7179
 translate pt_br kaliprefetish_d08d3c12:
 
     # c "Rape play... Hm, well I can't say I'm surprised. She does like it rough..."
-    c ""
+    c "Fantasia de estupro... Hm, bem não posso dizer que estou surpreso. Ela gosta de fazer isso bruto..."
 
 # game/scripts/kali_events.rpy:7180
 translate pt_br kaliprefetish_3ea33ddd:
 
     # c "Maybe I could help her..."
-    c ""
+    c "Talvez eu possa ajuda-lá..."
 
 # game/scripts/kali_events.rpy:7183
 translate pt_br kaliprefetish_194651ed:
 
     # c "I've got an idea..."
-    c ""
+    c "Tenho uma idéia..."
 
 # game/scripts/kali_events.rpy:7187
 translate pt_br kaliprefetish_6d27d723:
 
     # m "Hey, what's up?"
-    m ""
+    m "Ei, e aí?"
 
 # game/scripts/kali_events.rpy:7189
 translate pt_br kaliprefetish_34b64d5f:
 
     # "You explain everything you saw..."
-    ""
+    "Você explica tudo o que viu..."
 
 # game/scripts/kali_events.rpy:7193
 translate pt_br kaliprefetish_6681aedc:
 
     # m "No way! She really said that?"
-    m ""
+    m "Nem ferrando! Ela realmente disse isso?"
 
 # game/scripts/kali_events.rpy:7194
 translate pt_br kaliprefetish_2808ce73:
 
     # c "Her words exactly."
-    c ""
+    c "Exatamente essas palavras."
 
 # game/scripts/kali_events.rpy:7195
 translate pt_br kaliprefetish_6b2ae1b7:
 
     # m "I never knew she was so dirty!"
-    m ""
+    m "Eu não sabia que ela é tão safada assim!"
 
 # game/scripts/kali_events.rpy:7198
 translate pt_br kaliprefetish_d5664444:
 
     # m "So what's your plan? Why come to me?"
-    m ""
+    m "Então qual é o seu plano? Por que veio até mim?"
 
 # game/scripts/kali_events.rpy:7199
 translate pt_br kaliprefetish_dc7847bc:
 
     # c "I still want her to feel safe, I don't want to terrify her. I was thinking you could order pizza from her while she's at work, and I'll take the rest."
-    c ""
+    c "Eu ainda quero que ela fique segura, não quero aterrorizá-la. Eu estava pensando em você pedir uma pizza em quanto ela está trabalhando, que eu cuido do resto."
 
 # game/scripts/kali_events.rpy:7200
 translate pt_br kaliprefetish_fab35b04:
 
     # m "Sounds like a good plan... But if you want to use my room, then I get to record it!"
-    m ""
+    m "Parece um bom plano... mas se você vai usar o meu quarto, então eu vou ter que gravar isso!"
 
 # game/scripts/kali_events.rpy:7201
 translate pt_br kaliprefetish_a78138bd:
 
     # c "As long as you don't share it online..."
-    c ""
+    c "Contanto que você não publique em nenhum lugar..."
 
 # game/scripts/kali_events.rpy:7204
 translate pt_br kaliprefetish_d8296d4d:
 
     # m "Of course not! Just let me know when you're ready to set this up! Sometime around Noon would be best."
-    m ""
+    m "É claro que não! Me diga quando você estiver pronto! Meio dia seria uma boa."
 
 # game/scripts/kali_events.rpy:7208
 translate pt_br kaliprefetish_b0cf988e:
@@ -27058,7 +27058,7 @@ translate pt_br kalimaidmaid_2a0ecc6a:
 translate pt_br kalimaidmaid_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/scripts/kali_events.rpy:7367
 translate pt_br kalimaidmaid_2b922a7d:
@@ -27154,1567 +27154,1567 @@ translate pt_br kalipapa_b7228bdc:
 translate pt_br kdadsick_69b3084d:
 
     # c "What was that?"
-    c ""
+    c "O que foi isso?"
 
 # game/scripts/kali_events.rpy:7438
 translate pt_br kdadsick_491ffb68:
 
     # c "Sounded like it came from outside..."
-    c ""
+    c "Parece que veio lá de fora..."
 
 # game/scripts/kali_events.rpy:7441
 translate pt_br kdadsick_be54f049:
 
     # pol "Kali Trenero, you need to come with me."
-    pol ""
+    pol "Kali Trenero, você precisa vir comigo."
 
 # game/scripts/kali_events.rpy:7442
 translate pt_br kdadsick_93334484:
 
     # k "What?"
-    k ""
+    k "Que?"
 
 # game/scripts/kali_events.rpy:7444
 translate pt_br kdadsick_f4ff6d8f:
 
     # c "Wha-"
-    c ""
+    c "O qu-"
 
 # game/scripts/kali_events.rpy:7445
 translate pt_br kdadsick_2bfdb602:
 
     # pol "-Step away, sir!"
-    pol ""
+    pol "-Para trás, senhor!"
 
 # game/scripts/kali_events.rpy:7446
 translate pt_br kdadsick_8b78771c:
 
     # k "No, it's fine, he's not going to hurt me."
-    k ""
+    k "Não, tudo bem, ele não vai me machucar."
 
 # game/scripts/kali_events.rpy:7448
 translate pt_br kdadsick_27a6040c:
 
     # pol "Whatever the case may be, your life could be in danger, ma'am."
-    pol ""
+    pol "Não importa, sua vida pode estar em perigo, senhora."
 
 # game/scripts/kali_events.rpy:7449
 translate pt_br kdadsick_bb90c21f:
 
     # k "Why? What happened?"
-    k ""
+    k "Por que? O que aconteceu?"
 
 # game/scripts/kali_events.rpy:7450
 translate pt_br kdadsick_c09b9c70:
 
     # pol "Your father's been attacked. He has requested me to pick you up. The helicopter is waiting outside for you and your sister."
-    pol ""
+    pol "O seu pai sofreu um ataque. Ele me pediu para vir busca-lá. O helicóptero está esperando no lado de fora por você e sua irmã. "
 
 # game/scripts/kali_events.rpy:7452
 translate pt_br kdadsick_40711f28:
 
     # k "Attacked!? What do you mean?"
-    k ""
+    k "Ataque? O que você quer dizer?"
 
 # game/scripts/kali_events.rpy:7453
 translate pt_br kdadsick_329b2687:
 
     # pol "I'm not at liberty to discuss that. My orders were to bring you and your sister home."
-    pol ""
+    pol "Eu não posso descutir sobre isso. Minhas ordems são para buscar você e sua irmã."
 
 # game/scripts/kali_events.rpy:7454
 translate pt_br kdadsick_c01b1fd5:
 
     # c "Can you trust this woman?"
-    c ""
+    c "Você confia nessa mulher?"
 
 # game/scripts/kali_events.rpy:7456
 translate pt_br kdadsick_c9cb6cdd:
 
     # k "She's one of my father's bodyguards, I've known her before I moved out here."
-    k ""
+    k "Ela é uma dos guarda costas do meu pai. Eu conhecia ela desde antes de eu me mudar para cá."
 
 # game/scripts/kali_events.rpy:7457
 translate pt_br kdadsick_7a5bf61d:
 
     # pol "You can take him along if you'd like, but we need to go now."
-    pol ""
+    pol "Você pode levar ele se quiser, mas nós temos que ir agora."
 
 # game/scripts/kali_events.rpy:7458
 translate pt_br kdadsick_baf734f0:
 
     # k "Are you okay with coming [name]?"
-    k ""
+    k "Tudo bem por você [name]?"
 
 # game/scripts/kali_events.rpy:7459
 translate pt_br kdadsick_4e8c7062:
 
     # c "Of course."
-    c ""
+    c "Claro."
 
 # game/scripts/kali_events.rpy:7461
 translate pt_br kdadsick_4f348fb8:
 
     # k "Okay, we'll come. I'll get my sister."
-    k ""
+    k "Ok, já estamos indo. Vou chamar minha irmã."
 
 # game/scripts/kali_events.rpy:7462
 translate pt_br kdadsick_c8207958:
 
     # pol "Please be quick, ma'am."
-    pol ""
+    pol "Por favor seja rápida, senhora."
 
 # game/scripts/kali_events.rpy:7464
 translate pt_br kdadsick_da56e0cc:
 
     # "You've never been in a helicopter before. You weren't sure if it was going to be fun, or scary... In the end, it was neither."
-    ""
+    "Você nunca esteve em um helicóptero antes. Você não tinha certeza se seria divertido, ou assustador... no final, não foi nenhum dos dois."
 
 # game/scripts/kali_events.rpy:7465
 translate pt_br kdadsick_d33eb781:
 
     # "There's a gloomy and serious mood in the air around you as Kali and Lucia worry for their father. You decide to keep quiet and leave them to their thoughts."
-    ""
+    "Há um humor sombrio e sério no ar em sua volta, já que a Kali e a Lucy estão preocupadas com o pai delas. Você decide ficar quieto e deixa-lás divagar em pensamentos."
 
 # game/scripts/kali_events.rpy:7466
 translate pt_br kdadsick_dc2ae21d:
 
     # "Not so long after you board a private jet. What it lacks in size it more than makes up in speed. On the tail of the plane you spot 'Nero Inc.'"
-    ""
+    "Depois de açgum tempo você embarca em um jato privado. Que é pequeno, porém, que compensa em velocidade. Na cauda do avião você vê uma logo marca 'Nero Inc'."
 
 # game/scripts/kali_events.rpy:7467
 translate pt_br kdadsick_72031acf:
 
     # "Soon after, you're surrounded by nothing but clouds and sea. You're headed toward The Capitol, Kali's home town on a continent across the ocean."
-    ""
+    "Em seguida, você está rodeado por nada além de nuvens e o mar. Vocês vão em direção a Capital, a cidade natal da Kali em outro continente através do oceano."
 
 # game/scripts/kali_events.rpy:7468
 translate pt_br kdadsick_d55d921b:
 
     # "Of course, you've been there before. It's where you were born."
-    ""
+    "É claro, você já esteve aqui antes. Foi onde você nasceu."
 
 # game/scripts/kali_events.rpy:7469
 translate pt_br kdadsick_3da0423e:
 
     # "Hours later, you can tell you're close. You've heard the stories. If you were to stand on the edge of the city and look away from it, you would see nothing but cultivated farm land, only coming to an end at the horizon."
-    ""
+    "Horas depois, vocês parecem estar perto. Você já ouviu as histórias. Se você ficar na borda da cidade e olhar para o horizonte, você não veria nada além de fazendas e plantações."
 
 # game/scripts/kali_events.rpy:7470
 translate pt_br kdadsick_6ef8a700:
 
     # "The farm lands that surround the city in every direction are much larger than the city itself. The population that the city holds within must be supported somehow, after all."
-    ""
+    "As fazendas rodeiam a cidade em todas as direções, são muito maiores que a própria cidade. As pessoas que moram na cidade deve ter sua comida vinda de algum lugar afinal."
 
 # game/scripts/kali_events.rpy:7471
 translate pt_br kdadsick_159a9850:
 
     # "The next feature you notice is the web-like network of rivers running through the city meeting at its center, and extending past the city itself onto the farm lands. Man-made or not, it's hard to tell. But it only serves to add to the city's legendary status."
-    ""
+    "A próxima coisa que você nota são os rios que correm através da cidade até o centro como se fosse teias de aranha, se extendendo através da própria cidade até as terras agrícolas. Artificial ou não, é difícil dizer. Mas serve para acrescentar status à lendária cidade."
 
 # game/scripts/kali_events.rpy:7472
 translate pt_br kdadsick_a15748be:
 
     # "But you're not at the edge of the city, you're now directly above the city center. Put simply, it's more of a metropolis than a city."
-    ""
+    "Mas você não está na borda da cidade, você está diretamente acima do centro dela. Na verdade, é mais para uma metropolis que uma simples cidade."
 
 # game/scripts/kali_events.rpy:7473
 translate pt_br kdadsick_f655ff1c:
 
     # "You consider The Capitol's motto. 'The City of Horizons'. Were you flying just above the city skyline, you would see nothing but city up until the horizon cuts it off. But as you see it now, you see a massive city thinly lined with farm land."
-    ""
+    "Você se lembra do lema da Capital. 'A cidade dos horizontes'. Se você estiver voando acima da cidade, você não veria nada além da cidade até o horizonte."
 
 # game/scripts/kali_events.rpy:7474
 translate pt_br kdadsick_68294286:
 
     # "But possibly one of the city's most notable features is its ancient medieval wall. It's a fairly normal wall from the time it was built. Simply meant to keep out invaders wishing to kill some King. But the city has long outgrown it's ancient borders. Now it's nothing more than a part of its history."
-    ""
+    "Mas possivelmente uma das coisas mais notáveis é uma parede medieval antiga. É uma parede razoavelmente normal do tempo que foi construída. Simplesmente para manter fora os invasores desejando matar algum rei. Mas a cidade cresceu muito se comparado a sua versão antiga. Agora não é mais nada do que parte da história."
 
 # game/scripts/kali_events.rpy:7475
 translate pt_br kdadsick_076fbd58:
 
     # "Soon after, the private jet lands. Without much warning, you three are rushed onto yet another helicopter. Now headed directly to one of Kali's father's houses..."
-    ""
+    "Depois de algum tempop o jato pousa. Sem muito aviso, vocês três são colocados em outro helicóptero. Agora em direção a uma das casas do pai da Kali..."
 
 # game/scripts/kali_events.rpy:7477
 translate pt_br kdadsick_cafcaff0:
 
     # lu "I hate The Capitol's heat..."
-    lu ""
+    lu "Eu odeio o calor da Capitol..."
 
 # game/scripts/kali_events.rpy:7479
 translate pt_br kdadsick_50d7e48b:
 
     # k "Is that seriously what you're thinking about right now? Dad could be dying!"
-    k ""
+    k "É sério que você está pensando nisso agora? O pai pode estar morrendo!"
 
 # game/scripts/kali_events.rpy:7480
 translate pt_br kdadsick_9d6c68d5:
 
     # lu "I'm just trying to keep my mind off of it..."
-    lu ""
+    lu "Eu tô só tentando me distrair desse fato..."
 
 # game/scripts/kali_events.rpy:7482
 translate pt_br kdadsick_5575d037:
 
     # pol "With Kali and Lucia's permission, you can come in, sir. But if you cause any trouble, don't be surprised when you find a bullet in your arm."
-    pol ""
+    pol "Com a permissão da Kali e da Lucy você pode entrar, senhor. Mas se você causar algum problema, não se assute quando achar uma bala no seu braço."
 
 # game/scripts/kali_events.rpy:7483
 translate pt_br kdadsick_a4e325e5:
 
     # c "Got it..."
-    c ""
+    c "Saquei..."
 
 # game/scripts/kali_events.rpy:7484
 translate pt_br kdadsick_b8adcb41:
 
     # pol "You'll meet Mrs. Trenero inside, she'll take you to Mr. Trenero."
-    pol ""
+    pol "Vocês se encontrarão com a senhora Trenero, ela as levarão até o senhor Trenero."
 
 # game/scripts/kali_events.rpy:7485
 translate pt_br kdadsick_8b7dd88c:
 
     # lu "Urgh, she's here...?"
-    lu ""
+    lu "Urgh, ela tá aqui...?"
 
 # game/scripts/kali_events.rpy:7486
 translate pt_br kdadsick_9f776518:
 
     # k "I'd be surprised if she wasn't... She's Dad's new wife..."
-    k ""
+    k "Eu estaria surpresa se não estivesse... Ela é a nova esposa do pai..."
 
 # game/scripts/kali_events.rpy:7488
 translate pt_br kdadsick_e306af85:
 
     # k "It's been so long since I've been to this house..."
-    k ""
+    k "Faz tanto tempo desde que eu estive nessa casa..."
 
 # game/scripts/kali_events.rpy:7489
 translate pt_br kdadsick_98cd6880:
 
     # lu "I like the city-center one more."
-    lu ""
+    lu "Prefiro o centro da cidade."
 
 # game/scripts/kali_events.rpy:7491
 translate pt_br kdadsick_de6cfcc6:
 
     # k "Who's that?"
-    k ""
+    k "Quem é aquela?"
 
 # game/scripts/kali_events.rpy:7492
 translate pt_br kdadsick_b086ec4c:
 
     # lu "Dad's whore..."
-    lu ""
+    lu "A puta do pai..."
 
 # game/scripts/kali_events.rpy:7493
 translate pt_br kdadsick_10976353:
 
     # k "Dad's new wife?"
-    k ""
+    k "A nova esposa do pai você quer dizer?"
 
 # game/scripts/kali_events.rpy:7494
 translate pt_br kdadsick_784204fe:
 
     # lu "Yep. Saw her ass naked on top of Dad..."
-    lu ""
+    lu "Isso aí, eu vi ela pelada em cima do pai..."
 
 # game/scripts/kali_events.rpy:7495
 translate pt_br kdadsick_c207a11e:
 
     # k "I didn't need to know that... Let's go meet her, I guess..."
-    k ""
+    k "Eu não precisava saber disso... vamos ir dizer oi, eu acho..."
 
 # game/scripts/kali_events.rpy:7497
 translate pt_br kdadsick_fbf0f283:
 
     # q "Good evening everyone... I wasn't expecting a man?"
-    q ""
+    q "Boa tarde todo mundo... eu não esperava ver um homem junto?"
 
 # game/scripts/kali_events.rpy:7498
 translate pt_br kdadsick_1b2bdf3c:
 
     # k "He's my boyfriend."
-    k ""
+    k "Ele é o meu namorado."
 
 # game/scripts/kali_events.rpy:7499
 translate pt_br kdadsick_6c15e757:
 
     # q "I see..."
-    q ""
+    q "Entendo..."
 
 # game/scripts/kali_events.rpy:7500
 translate pt_br kdadsick_83b4061a:
 
     # mari "My name is Mariella, it's good to meet you, Mr...?"
-    mari ""
+    mari "Me chamo Mariella, é um prazer te conhecer, senhor...?"
 
 # game/scripts/kali_events.rpy:7501
 translate pt_br kdadsick_41a96064:
 
     # c "[name]... Are you an elf?"
-    c ""
+    c "[name]... você é uma elfa?"
 
 # game/scripts/kali_events.rpy:7502
 translate pt_br kdadsick_6cebc649:
 
     # k "Wait, she does have pointy ears... But she doesn't look like an Elf..."
-    k ""
+    k "Espera, você tem orelhas pontudas... mas não se parece com um elfo..."
 
 # game/scripts/kali_events.rpy:7503
 translate pt_br kdadsick_0cc04bee:
 
     # lu "I've never been this close to her..."
-    lu ""
+    lu "Eu nunca estive tão perto dela..."
 
 # game/scripts/kali_events.rpy:7504
 translate pt_br kdadsick_eec692d3:
 
     # mari "I'm a half elf, yes... half common."
-    mari ""
+    mari "Eu sou uma mestiça de elfo, na verdade... meia elfa."
 
 # game/scripts/kali_events.rpy:7505
 translate pt_br kdadsick_b3170aa7:
 
     # k "Isn't it illegal for you to be here?"
-    k ""
+    k "Não é ilegal você estar aqui?"
 
 # game/scripts/kali_events.rpy:7507
 translate pt_br kdadsick_472afdb0:
 
     # mari "That's not a nice way to greet your step mother for the first time..."
-    mari ""
+    mari "Isso não é uma coisa legal de se dizer logo depois de conhecer sua madrasta..."
 
 # game/scripts/kali_events.rpy:7508
 translate pt_br kdadsick_f613e5df:
 
     # k "I just thought elves couldn't leave Syl'anar."
-    k ""
+    k "Eu só tava pensando que os elfos não podiam sair de Syl'anar."
 
 # game/scripts/kali_events.rpy:7509
 translate pt_br kdadsick_b8f20640:
 
     # mari "I suppose you could say I'm a gift from Mr. Cornwall..."
-    mari ""
+    mari "Pode-se dizer que eu sou um presento para o senhor Cornwall..."
 
 # game/scripts/kali_events.rpy:7510
 translate pt_br kdadsick_6d46380e:
 
     # k "So you're my Dad's slave...?"
-    k ""
+    k "Então você é a escrava do meu pai...?"
 
 # game/scripts/kali_events.rpy:7511
 translate pt_br kdadsick_dcbb621a:
 
     # mari "No, I'm a free woman now, I chose to marry your father."
-    mari ""
+    mari "Não, eu sou uma mulher livre agora, eu escolhi casar com o seu pai."
 
 # game/scripts/kali_events.rpy:7512
 translate pt_br kdadsick_4d5cbcf8:
 
     # c "A free Elf..."
-    c ""
+    c "Um elfo livre..."
 
 # game/scripts/kali_events.rpy:7514
 translate pt_br kdadsick_e90cc972:
 
     # mari "A half elf no less, even more rare. Hahaha..."
-    mari ""
+    mari "Um meio elfo nada menos, só é mais raro. Hahaha..."
 
 # game/scripts/kali_events.rpy:7515
 translate pt_br kdadsick_9f676865:
 
     # mari "Seeing as you're a man from Syl'anar, I do hope you aren't keeping any slaves? There's quite the disdain for slavers here..."
-    mari ""
+    mari "Bem, vendo que você é um homem de Syl'anar, eu espero que você não esteja mantendo nenhum escravo? Há um grande desdém pelos escravitas por aqui..."
 
 # game/scripts/kali_events.rpy:7516
 translate pt_br kdadsick_38eea8d6:
 
     # k "No, he's not."
-    k ""
+    k "Não, ele não é."
 
 # game/scripts/kali_events.rpy:7517
 translate pt_br kdadsick_e3cd0cd7:
 
     # mari "Good to hear..."
-    mari ""
+    mari "Bom saber..."
 
 # game/scripts/kali_events.rpy:7518
 translate pt_br kdadsick_97cdc62a:
 
     # mari "But I know you're thinking it. I'm 315. We live half as a long as elves, and 7 times longer than humans."
-    mari ""
+    mari "Mas eu sei que você estar pensando. Eu tenhos 315 anos, nós meio elfos vivemos a metade de anos que os elfos, e 7 vezes mais que os humanos."  
 
 # game/scripts/kali_events.rpy:7519
 translate pt_br kdadsick_75e05d79:
 
     # lu "Makes a good whore to look young forever..."
-    lu ""
+    lu "Dá uma boa puta, parecer jovem para sempre..."
 
 # game/scripts/kali_events.rpy:7521
 translate pt_br kdadsick_fa43f6be:
 
     # mari "Is this really a good time to bicker when your father was just shot?"
-    mari ""
+    mari "Esse é realmente um bom momento para discussões, justo quando seu pai acabou de ser baleado?"
 
 # game/scripts/kali_events.rpy:7523
 translate pt_br kdadsick_5e248c07:
 
     # k "SHOT!?" with ssshake
-    k "" with ssshake
+    k "BALEADO!?" with ssshake
 
 # game/scripts/kali_events.rpy:7524
 translate pt_br kdadsick_18419038:
 
     # mari "Just a leg injury, dear. He will be perfectly fine."
-    mari ""
+    mari "Foi na perna, querida. Ele estará perfeitamente bem logo."
 
 # game/scripts/kali_events.rpy:7525
 translate pt_br kdadsick_6f35a1f2:
 
     # k "If people are trying to kill him, he will not be perfectly fine! He's in danger!"
-    k ""
+    k "Se há pessoas tentando o matar, ele não estará perfeitamente bem! Ele está em perigo!"
 
 # game/scripts/kali_events.rpy:7526
 translate pt_br kdadsick_7974f197:
 
     # c "Who would try to kill him?"
-    c ""
+    c "Quem iria querer matá-lo?"
 
 # game/scripts/kali_events.rpy:7528
 translate pt_br kdadsick_577fbb54:
 
     # mari "Political opponents, financial opponents, who knows? He's one of the richest men in the world. He holds a power many would love to steal."
-    mari ""
+    mari "Opositores políticos, adversários financeiros, quem sabe? Ele é um dos homens mais ricos do mundo. Ele tem poder, e muitos tentariam tirar isso dele."
 
 # game/scripts/kali_events.rpy:7530
 translate pt_br kdadsick_61c22c51:
 
     # k "So he hasn't been caught?"
-    k ""
+    k "Então ele não foi pego?"
 
 # game/scripts/kali_events.rpy:7531
 translate pt_br kdadsick_be149b5f:
 
     # mari "He has not. That's why you were rushed over here, your lives could be in danger too. It only happened this morning. Or, last night for you."
-    mari ""
+    mari "Não, não foi. E é por isso que agente trouxe vocês aqui, suas vidas também podem estar em perio. Aconteceu nessa manhã. Ou, no caso de vocês, na última noite."
 
 # game/scripts/kali_events.rpy:7532
 translate pt_br kdadsick_04dd0803:
 
     # mari "Seeing as they shot his leg, the shooter was either a bad shot, or not aiming to kill. If the case is that they're not trying to murder your father, you two could easily be kidnapped and ransomed."
-    mari ""
+    mari "Como o tiro pegou na perna, o atirador poderia ou ser ruim, ou não queria matá-lo. E se esse é o caso eles não estão querendo assasinar seu pai, vocês duas poderiam ser facilmente sequestradas."
 
 # game/scripts/kali_events.rpy:7533
 translate pt_br kdadsick_1d6522af:
 
     # k "You really think anyone knows where I live? Or even go as far as Syl'anar to capture me?"
-    k ""
+    k "Você realmete acha que alguém sabe onde eu moro? Ou até mesmo iria tão longe de Syl'anar para me capturar?"
 
 # game/scripts/kali_events.rpy:7534
 translate pt_br kdadsick_dbf26833:
 
     # mari "Do you know how much someone could ransom you for, dear? Billions. The wrong person would chase you to the ends of the earth."
-    mari ""
+    mari "Sabe por quanto eles pediriam por seu resgate, querida? Bilhões. A pessoa errada iria te procurar até o fim do mundo."
 
 # game/scripts/kali_events.rpy:7535
 translate pt_br kdadsick_bb786147:
 
     # k "Good point..."
-    k ""
+    k "Bom ponto..."
 
 # game/scripts/kali_events.rpy:7537
 translate pt_br kdadsick_5c12d4ca:
 
     # mari "Come now, let's see your Father, shall we?"
-    mari ""
+    mari "Vem, vamos ir ver o seu pai, sim?"
 
 # game/scripts/kali_events.rpy:7539
 translate pt_br kdadsick_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/scripts/kali_events.rpy:7541
 translate pt_br kdadsick_b5540d4c:
 
     # lu "{i}SHE'S TOTALLY IN ON IT!{/i}"
-    lu ""
+    lu "{i}ELA ESTÁ COM CERTEZA METIDA NISTO!{/i}"
 
 # game/scripts/kali_events.rpy:7542
 translate pt_br kdadsick_93334484_1:
 
     # k "What?"
-    k ""
+    k "Que?"
 
 # game/scripts/kali_events.rpy:7544
 translate pt_br kdadsick_6c2f867d:
 
     # lu "I can't be the only one that notices!?"
-    lu ""
+    lu "Eu não posso ser a única que notou!?"
 
 # game/scripts/kali_events.rpy:7545
 translate pt_br kdadsick_0ca52f6b:
 
     # k "What are you talking about?"
-    k ""
+    k "Do que você está falando?"
 
 # game/scripts/kali_events.rpy:7546
 translate pt_br kdadsick_0f1f8581:
 
     # lu "She said it herself! 'There's quite the disdain for slavers here'!"
-    lu ""
+    lu "Ela mesmo disse! 'Há um grande desdém pelos escravitas por aqui'!"
 
 # game/scripts/kali_events.rpy:7547
 translate pt_br kdadsick_235bd1fa:
 
     # k "Dad doesn't own any Elves..."
-    k ""
+    k "O pai não tem nenhum elfo..."
 
 # game/scripts/kali_events.rpy:7548
 translate pt_br kdadsick_b21c69fc:
 
     # lu "No, but he's heavily invested in Cornwall's company! Think about it!"
-    lu ""
+    lu "Não, mas ele ivestiu imensamente na empresa do Cornwall! Pensa nisso!"
 
 # game/scripts/kali_events.rpy:7549
 translate pt_br kdadsick_fe531f31:
 
     # lu "Cornwall controls the whole Elvish slavery thing! Without our father's financial support, he wouldn't be able to control the whole population!"
-    lu ""
+    lu "Cornwall controla todo o mercado de escravos! Sem o apoio financeiro do nosso pai, ele não seria capaz de controlar a população inteira!"
 
 # game/scripts/kali_events.rpy:7551
 translate pt_br kdadsick_8e9e53ea:
 
     # k "Oh... Oh shit, you might be right..."
-    k ""
+    k "Oh... merda, você pode estar certa..."
 
 # game/scripts/kali_events.rpy:7552
 translate pt_br kdadsick_054bc37e:
 
     # c "Seems pretty obvious, doesn't it?"
-    c ""
+    c "Parece bem óvio, não?"
 
 # game/scripts/kali_events.rpy:7554
 translate pt_br kdadsick_eafb5b7d:
 
     # lu "You mean it makes sense!?"
-    lu ""
+    lu "Quer dizer que faz sentido, não!?"
 
 # game/scripts/kali_events.rpy:7555
 translate pt_br kdadsick_5e4ff86f:
 
     # k "That's true, too many people would expect her to be a part of it anyway. Even if she did want to hurt him, there's cameras everywhere here... Even the phone lines are monitored."
-    k ""
+    k "Verdade, muitas pessoas achariam que ela tem algo a ver de qualquer forma. Mesmo se ela não quissese machucá-lo, há camerâs por toda parte aqui... até as linhas de telefone são monitoradas."
 
 # game/scripts/kali_events.rpy:7557
 translate pt_br kdadsick_e9706f2f:
 
     # lu "Then she's using mail!"
-    lu ""
+    lu "Então ela está usando e-mail!"
 
 # game/scripts/kali_events.rpy:7558
 translate pt_br kdadsick_22f152cc:
 
     # k "Also monitored..."
-    k ""
+    k "Também monitorado..."
 
 # game/scripts/kali_events.rpy:7559
 translate pt_br kdadsick_f06527f3:
 
     # k "Lucy, I know you dislike her, but do you really think she'd want to hurt Dad? He's the reason she's free, like REALLY free. She may be the only free Elf in the world..."
-    k ""
+    k "Lucy, eu sei que você não gosta dela, mas você realmente acha que ela machucaria o pai? Ele é a razão dela estar livre, tipo REALMENTE livre. Ela deve ser o único elfo livre no mundo..."
 
 # game/scripts/kali_events.rpy:7560
 translate pt_br kdadsick_cfeeed67:
 
     # lu "That's exactly why she'd be the one to start it! She's in a position of power, she has the money to hire anyone she wants!"
-    lu ""
+    lu "Por isso mesmo que ela faria isso! Ela está em uma posição de poder, ela tem dinheiro para contratar qualquer um que ela quiser!"
 
 # game/scripts/kali_events.rpy:7561
 translate pt_br kdadsick_53eb47cb:
 
     # k "Assuming he even gives her any money. He didn't give much to Mom..."
-    k ""
+    k "Assumindo que ele de dinheiro para ela. Ele não dava tanto nem para a mãe..."
 
 # game/scripts/kali_events.rpy:7562
 translate pt_br kdadsick_03394051:
 
     # lu "That's because she was a bad spender! You saw all the jewelery on her! She had four massive diamonds on her ears alone!"
-    lu ""
+    lu "É por que ela é uma péssima gastadora! Você viu todas aquelas joias nela! Ela tem quatro imensas pedras de diamante só nas orelhas!"
 
 # game/scripts/kali_events.rpy:7563
 translate pt_br kdadsick_0787d306:
 
     # k "It's not unlike Dad to shower people he loves with gifts..."
-    k ""
+    k "Não é estranho do pai afogar as pessoas que ele ama com presentes..."
 
 # game/scripts/kali_events.rpy:7564
 translate pt_br kdadsick_d4b31fbc:
 
     # lu "And when was the last time YOU got a gift!?"
-    lu ""
+    lu "E quando foi a última vez que VOCÊ ganhou um presente!?"
 
 # game/scripts/kali_events.rpy:7566
 translate pt_br kdadsick_52315c2d:
 
     # k "Whatever, Dad's waiting on us, we should talk to him."
-    k ""
+    k "Tanto faz, o pai tá esperando agente, nós devíamos ir falar com ele."
 
 # game/scripts/kali_events.rpy:7567
 translate pt_br kdadsick_a7154b0c:
 
     # lu "Damn it Kali, don't dismiss me like that! He could be in danger!"
-    lu ""
+    lu "Droga Kali, não me ignore assim! Ele pode estar em perigo!"
 
 # game/scripts/kali_events.rpy:7568
 translate pt_br kdadsick_9799511b:
 
     # k "Either way he's in danger. She's definitely not going to hurt him in his own home with all these guards and cameras..."
-    k ""
+    k "Mesmo ele estando em perigo. Ela definitivamente não vai machucá-lo na própria casa, com todos esses guardas e câmeras..."
 
 # game/scripts/kali_events.rpy:7569
 translate pt_br kdadsick_28e85176:
 
     # lu "Rrrr... Fine, let's just go see how Dad is."
-    lu ""
+    lu "Rrrr... ok, vamos logo ver como o pai está."
 
 # game/scripts/kali_events.rpy:7572
 translate pt_br kdadsick_22e78afd:
 
     # kd "There are my daughters!"
-    kd ""
+    kd "Aí estão as minhas filhas!"
 
 # game/scripts/kali_events.rpy:7573
 translate pt_br kdadsick_2fe84c33:
 
     # k "Dad..."
-    k ""
+    k "Pai..."
 
 # game/scripts/kali_events.rpy:7574
 translate pt_br kdadsick_a4f90b98:
 
     # lu "Are you okay?"
-    lu ""
+    lu "Tudo bem com você?"
 
 # game/scripts/kali_events.rpy:7576
 translate pt_br kdadsick_7a79035a:
 
     # kd "Oh, I'm fine. The bullet went right through, just need to let it heal for a while."
-    kd ""
+    kd "Oh, eu estou bem. A bala atravessou, só preciso deixar curar com o tempo."
 
 # game/scripts/kali_events.rpy:7578
 translate pt_br kdadsick_1cbd3813:
 
     # kd "How are you, Mr. [name]? I didn't expect to see you here today. Is the business going good?"
-    kd ""
+    kd "Como você está, senhor [name]? Eu não espereva que você viesse junto. Os negócios estão indo bem?"
 
 # game/scripts/kali_events.rpy:7579
 translate pt_br kdadsick_02704531:
 
     # c "It's going great, thanks."
-    c ""
+    c "Está tudo bem sim, obrigado."
 
 # game/scripts/kali_events.rpy:7580
 translate pt_br kdadsick_55d36967:
 
     # kd "That's good to hear!"
-    kd ""
+    kd "Bom saber!"
 
 # game/scripts/kali_events.rpy:7582
 translate pt_br kdadsick_c8c64947:
 
     # k "Who would try to hurt you, Dad? It doesn't make much sense..."
-    k ""
+    k "Quem tentaria te machucar, pai? Isso não faz sentido..."
 
 # game/scripts/kali_events.rpy:7583
 translate pt_br kdadsick_5e3ff7b9:
 
     # kd "The police can't find any apparent motives. I was heading into Nero Tower, I was shot right as I got out of the car. Police say the shooter was nested in a nearby balcony."
-    kd ""
+    kd "A polícia não achou nenhum motivo aparente. Eu estava indo até a torre Nero, eu levei o tire logo depois de sair do carro. a polícia deisse que o atirador estava escondido em uma varanda próxima."
 
 # game/scripts/kali_events.rpy:7584
 translate pt_br kdadsick_474de778:
 
     # k "Then they clearly were after you specifically if they knew which car you were in."
-    k ""
+    k "Então eles claramente estavão atrás especificamente de você se eles sabiam em qual carro você estava."
 
 # game/scripts/kali_events.rpy:7585
 translate pt_br kdadsick_3ba47f12:
 
     # kd "Well, yes... They were clearly after me. However, the balcony was very close. A kill shot would have been easy enough, so it's likely they didn't want to take my life at all."
-    kd ""
+    kd "Bem, sim... eles estavam atrás de mim. Contudo, a varanda estava bem perto. Um tiro mortal teria sido bem fácil, então no final eles não queriam me matar."
 
 # game/scripts/kali_events.rpy:7587
 translate pt_br kdadsick_a58214ab:
 
     # lu "Dad, don't talk like that..."
-    lu ""
+    lu "Pai, não fale isso..."
 
 # game/scripts/kali_events.rpy:7588
 translate pt_br kdadsick_7e86422a:
 
     # kd "Whatever the case may be, I'll be safe."
-    kd ""
+    kd "De um jeito ou de outro, eu estarei seguro."
 
 # game/scripts/kali_events.rpy:7590
 translate pt_br kdadsick_0cfdf23e:
 
     # kd "Mariella suggested fitting my car with bullet proof glass. Honestly, I'm not sure why I haven't done it until now. I'll also be wearing a bullet proof vest from now on."
-    kd ""
+    kd "A Mariella sugeriu colocar vidro a prova de balas no carro. Honestamente, eu não sei por que eu não fiz isso até agora. Eu também estarei usando colete a prova de balas a partir de agora."
 
 # game/scripts/kali_events.rpy:7591
 translate pt_br kdadsick_6bb3127f:
 
     # kd "On top of that, this house already has a bullet proof internal structure, including the glass."
-    kd ""
+    kd "E além disso, essa casa já tem estrura a prova de balas, incluindo vidros."
 
 # game/scripts/kali_events.rpy:7592
 translate pt_br kdadsick_aad22795:
 
     # lu "{size=-10}{i}Doesn't protect from threats on the inside...{/i}{/size}"
-    lu ""
+    lu "{size=-10}{i}Isso não protege dos perigos de dentro...{/i}{/size}"
 
 # game/scripts/kali_events.rpy:7594
 translate pt_br kdadsick_51efff04:
 
     # k "Well, what are we going to do? We can't stay here, Dad."
-    k ""
+    k "Bem, o que nós vamos fazer? Nós não podemos ficar aqui, pai."
 
 # game/scripts/kali_events.rpy:7595
 translate pt_br kdadsick_e08ae0b4:
 
     # kd "It wasn't too long ago that you were fighting to stay here."
-    kd ""
+    kd "Não faz muito que você estava brigando para ficar aqui."
 
 # game/scripts/kali_events.rpy:7596
 translate pt_br kdadsick_af349008:
 
     # k "I have a life over there now."
-    k ""
+    k "Eu tenho uma vida lá agora."
 
 # game/scripts/kali_events.rpy:7598
 translate pt_br kdadsick_9d463dbb:
 
     # mari "It won't be safe for you there, Kali."
-    mari ""
+    mari "Não vai ser seguro para você lá, Kali."
 
 # game/scripts/kali_events.rpy:7599
 translate pt_br kdadsick_1b20a23a:
 
     # k "It'll be fine, the hotel has protection."
-    k ""
+    k "Vou ficar bem, o hotel tem proteções."
 
 # game/scripts/kali_events.rpy:7600
 translate pt_br kdadsick_badc9a1b:
 
     # mari "If you say so..."
-    mari ""
+    mari "Se você diz..."
 
 # game/scripts/kali_events.rpy:7602
 translate pt_br kdadsick_0a1eb880:
 
     # kd "I told you that you'd be making your own decisions when I moved you out to Syl'anar... So if you really don't want to stay, and you say you have protection, then I won't make you stay."
-    kd ""
+    kd "Eu te falei que você estaria fazendo suas próprias decisões quando se mudou para Syl'anar... então se você realmente não quer ficar, e se você diz está protegida, então eu não te obrigarei a ficar."
 
 # game/scripts/kali_events.rpy:7603
 translate pt_br kdadsick_c4a45e17:
 
     # mari "Are you sure that's the best thing to do, dear?"
-    mari ""
+    mari "Tem certeza de que essa é a melhor coisa a se fazer, querido?"
 
 # game/scripts/kali_events.rpy:7604
 translate pt_br kdadsick_53f2a7e7:
 
     # kd "If I have [name]'s word that my daughters will be safe, then I'll let them do as they please."
-    kd ""
+    kd "Se eu tenho a palavra do [name] que a minha filha estará segura, então eu irei deixar você tomar sua decisão."
 
 # game/scripts/kali_events.rpy:7605
 translate pt_br kdadsick_7fdd8747:
 
     # c "They'll be safe, no one will hurt them."
-    c ""
+    c "Elas estarão seguras, ninguém irá machucá-las."
 
 # game/scripts/kali_events.rpy:7606
 translate pt_br kdadsick_164f1e69:
 
     # kd "Very well. [name], could I speak with you alone?"
-    kd ""
+    kd "Muito bem. [name], pode falar com você à sós?"
 
 # game/scripts/kali_events.rpy:7607
 translate pt_br kdadsick_5fba08df:
 
     # k "What are you going to talk about with him?"
-    k ""
+    k "O que você irá falar com ele?"
 
 # game/scripts/kali_events.rpy:7608
 translate pt_br kdadsick_7395fa54:
 
     # kd "It's business related, honey."
-    kd ""
+    kd "São só negócios, querida."
 
 # game/scripts/kali_events.rpy:7609
 translate pt_br kdadsick_22c719b5:
 
     # k "Okay..."
-    k ""
+    k "Ok..."
 
 # game/scripts/kali_events.rpy:7611
 translate pt_br kdadsick_a5a7ec3f:
 
     # kd "I'd normally get up and walk with you, but that's a little hard in my current condition..."
-    kd ""
+    kd "Eu normalmente me levantaria e caminharia com você, mas é um pouco difícil na minha condição atual..."
 
 # game/scripts/kali_events.rpy:7612
 translate pt_br kdadsick_2ff1d0df:
 
     # kd "Listen, today was an eye opener. I won't be alive forever, so I need to start planning for the inevitable. Has Kali quit coding?"
-    kd ""
+    kd "Escute, hoje eu abri meus olhos. Eu não vou viver para sempre, então eu preciso me preparar para o inevitavél. A Kali ainda está progamando?"
 
 # game/scripts/kali_events.rpy:7613
 translate pt_br kdadsick_2c7de829:
 
     # c "It looks like she's coding something almost every day."
-    c ""
+    c "Eu acho que ela cria alguma coisa todo dia."
 
 # game/scripts/kali_events.rpy:7614
 translate pt_br kdadsick_6f676a26:
 
     # kd "That's good news. Have you heard of Nero Incorporated?"
-    kd ""
+    kd "Isso é bom de ouvir. Você já ouviu falar da corporação Nero?"
 
 # game/scripts/kali_events.rpy:7615
 translate pt_br kdadsick_663181e9:
 
     # c "I don't think I have."
-    c ""
+    c "Na verdade não."
 
 # game/scripts/kali_events.rpy:7616
 translate pt_br kdadsick_67c8c333:
 
     # kd "It's my company. Well, my primary company."
-    kd ""
+    kd "É a minha empresa. Bem, minha principal empresa."
 
 # game/scripts/kali_events.rpy:7617
 translate pt_br kdadsick_0044f0eb:
 
     # kd "Before I had Kali and Lucia, I was in the real estate business. I only got into electronics when they were born."
-    kd ""
+    kd "Antes da Kali e a Lucy nascerem, eu estava no ramo imobiliário. Eu só fui para os eletrôicos quando elas nascerão."
 
 # game/scripts/kali_events.rpy:7618
 translate pt_br kdadsick_60ca4555:
 
     # kd "If you have a smart phone, laptop, fridge, or any other common house hold electronic, it probably uses Nero Inc. technology. I'm invested in many other businesses as well, but Nero Incorporated is my blood, sweat, and tears."
-    kd ""
+    kd "Se você tem um celular, laptop, geladeira, ou qualquer outro eletrônico em sua casa, provavelmente usa a tecnologia da corporação Nero. Eu investi em vários outros negócios também, mas a Nero é o meu sangue, suór e lágrimas."
 
 # game/scripts/kali_events.rpy:7619
 translate pt_br kdadsick_d5bd7ba3:
 
     # kd "It's very clear to me now that I won't be running it forever. That's where Kali comes in."
-    kd ""
+    kd "Está muito claro para mim que eu não vou gerenciar para sempre. É aí que a Kali entra."
 
 # game/scripts/kali_events.rpy:7620
 translate pt_br kdadsick_3a00fbdf:
 
     # c "You're going to give her your company?"
-    c ""
+    c "Você vai dar sua empresa para ela?"
 
 # game/scripts/kali_events.rpy:7621
 translate pt_br kdadsick_2198f8a1:
 
     # kd "I am. At some point in the near future anyway."
-    kd ""
+    kd "Eu vou. Em algum momento num futuro próximo."
 
 # game/scripts/kali_events.rpy:7622
 translate pt_br kdadsick_f3bea5cf:
 
     # kd "Kali is no business woman, but she's been using computers since she was born. She knows more about them than I do at this point."
-    kd ""
+    kd "A Kali não é uma mulher gerente, mas ela esteve mexendo com computadores desde que ela nasceu. Ela sabe mais do que eu nesse ponto."
 
 # game/scripts/kali_events.rpy:7623
 translate pt_br kdadsick_42a284b5:
 
     # c "She doesn't strike me as a business woman."
-    c ""
+    c "Ela não me parece do tipo gerente."
 
 # game/scripts/kali_events.rpy:7624
 translate pt_br kdadsick_7a24621a:
 
     # kd "Nor is she one... This is why I'm talking to you right now, and not her."
-    kd ""
+    kd "Não é mesmo... é por isso que eu estou conversando com você agora, e não com ela."
 
 # game/scripts/kali_events.rpy:7625
 translate pt_br kdadsick_5172a9b9:
 
     # c "You want me to convince her to run your company?"
-    c ""
+    c "Você quer que eu a convença de gerencias a sua empresa?"
 
 # game/scripts/kali_events.rpy:7626
 translate pt_br kdadsick_35b3822e:
 
     # kd "She already wants it, she just doesn't want to admit it. You know how she is."
-    kd ""
+    kd "Ela já quer isso, só não quer admitir. Você sabe como ela é."
 
 # game/scripts/kali_events.rpy:7627
 translate pt_br kdadsick_19cad243:
 
     # kd "Of course the board won't be too happy about my decision, but it's mine to make. Kali will be a much better CEO than I was."
-    kd ""
+    kd "É claro que a diretoria não ficará feliz, mas a decisão é minha. A Kali vai ser uma CEO muito melhor do que eu."
 
 # game/scripts/kali_events.rpy:7628
 translate pt_br kdadsick_4b325eca:
 
     # c "What about Lucia?"
-    c ""
+    c "E a Lucy?"
 
 # game/scripts/kali_events.rpy:7629
 translate pt_br kdadsick_7851930a:
 
     # kd "Lucia is not a computer person. Besides that, she needs to do a bit of growing up."
-    kd ""
+    kd "Lucya não é uma pessoa de computadores. E também, ela ainda precisa crescer."
 
 # game/scripts/kali_events.rpy:7630
 translate pt_br kdadsick_e54b1ec9:
 
     # kd "Anyway, Mr. [name]... I'm sure you weren't expecting to be flown half way across the world when you woke up this morning. I'm sorry for doing that to you."
-    kd ""
+    kd "De qualquer forma, senhor [name]... eu tenho certeza de que você não estava esperando voar sobre metade do planeta nessa manhã. Me desculpe por fazer isso com você."
 
 # game/scripts/kali_events.rpy:7631
 translate pt_br kdadsick_add0b8ec:
 
     # c "I've never been to The Capitol before, It was worth seeing."
-    c ""
+    c "Eu nunca estive na Capitol antes, valeu a pena dar uma olhada."
 
 # game/scripts/kali_events.rpy:7632
 translate pt_br kdadsick_b4ab40c7:
 
     # kd "Well, I'm glad you like my little city. It's been such a joy to see this city grow over the years."
-    kd ""
+    kd "Bem, estou feliz de que gostou da minha pequena cidade. Foi uma alegria ver ela crescer ao passar dos anos."
 
 # game/scripts/kali_events.rpy:7633
 translate pt_br kdadsick_fef82528:
 
     # c "Your city?"
-    c ""
+    c "Sua cidade?"
 
 # game/scripts/kali_events.rpy:7634
 translate pt_br kdadsick_1a45fc2a:
 
     # kd "I'm also the mayor of The Capitol."
-    kd ""
+    kd "Eu sou o prefeito da Capitol."
 
 # game/scripts/kali_events.rpy:7635
 translate pt_br kdadsick_9601c61a:
 
     # c "You sure have a lot on your plate..."
-    c ""
+    c "Você com certeza tem bastante coisa no prato..."
 
 # game/scripts/kali_events.rpy:7637
 translate pt_br kdadsick_069d2654:
 
     # kd "Yes. Today, it felt like one of my children shot me. I've invested so much money into this city, I've basically fed it with my own cash."
-    kd ""
+    kd "Sim. Hoje, eu sinto que uma criança minha me deu um tiro. Eu investi muito dinheiro nessa cidade, eu praticamnete à alimentei com meu próprio dinheiro."
 
 # game/scripts/kali_events.rpy:7638
 translate pt_br kdadsick_a6f2a325:
 
     # kd "Oh, and one more thing."
-    kd ""
+    kd "Oh, e mais uma coisa."
 
 # game/scripts/kali_events.rpy:7640
 translate pt_br kdadsick_08aac2a3:
 
     # kd "I'd also like to give you $10,000."
-    kd ""
+    kd "Eu também gostaria de lhe dar $10.000."
 
 # game/scripts/kali_events.rpy:7641
 translate pt_br kdadsick_115c34c4:
 
     # c "What? Why?"
-    c ""
+    c "Que? Por que?"
 
 # game/scripts/kali_events.rpy:7642
 translate pt_br kdadsick_de5c077a:
 
     # kd "My daughter loves you, Mr. [name]. Both you and Kali are living in a hotel of all things, not even a house. Heck, maybe I will buy you two a house some day. If I live long enough to see it."
-    kd ""
+    kd "Minha filha te ama, senhor [name]. Ambo, você e a Kali, vivem em um hotel apesar de tudo, nem mesmo uma casa. Bem, talvez eu compre uma casa para vocês algum dia. Se eu viver o bastante para isso."
 
 # game/scripts/kali_events.rpy:7643
 translate pt_br kdadsick_67ffa64b:
 
     # kd "But for now, I'll give you $10,000."
-    kd ""
+    kd "Mas por em quanto, eu vou te dar $10.000."
 
 # game/scripts/kali_events.rpy:7644
 translate pt_br kdadsick_211900c1:
 
     # c "To do what with?"
-    c ""
+    c "Para fzer o que?"
 
 # game/scripts/kali_events.rpy:7645
 translate pt_br kdadsick_952348ea:
 
     # kd "Maybe buy some guards? I know it'd make me feel more at ease."
-    kd ""
+    kd "Talvez contratar alguns guardas? Faria eu me sentir mais aliviado."
 
 # game/scripts/kali_events.rpy:7646
 translate pt_br kdadsick_61c4787f:
 
     # c "I think I've got that covered."
-    c ""
+    c "Acho que eu tenho tudo sob controle."
 
 # game/scripts/kali_events.rpy:7647
 translate pt_br kdadsick_b2f963b0:
 
     # kd "Bullet proof windows then! Imagine hearing about a hotel with bullet proof windows, it'd be the safest hotel in all of Syl'anar!"
-    kd ""
+    kd "Janelas a prova de balas então! Imagine em um hotel com janelas a prova de balas, seria o hotel mais seguro de toda Syl'anar!"
 
 # game/scripts/kali_events.rpy:7648
 translate pt_br kdadsick_795a95a5:
 
     # kd "What ever you'd like, as long as it makes Kali happy."
-    kd ""
+    kd "Oque você quiser fazer, contanto que deixe a Kali feliz."
 
 # game/scripts/kali_events.rpy:7649
 translate pt_br kdadsick_d6f6e42e:
 
     # c "I appreciate it."
-    c ""
+    c "Agradeço."
 
 # game/scripts/kali_events.rpy:7650
 translate pt_br kdadsick_1c88abdb:
 
     # kd "And I appreciate you making my daughter happy."
-    kd ""
+    kd "E eu agradeço por você fzaer minha filha feliz."
 
 # game/scripts/kali_events.rpy:7652
 translate pt_br kdadsick_ca0b13a1:
 
     # kd "Alright, go get out of here. It's about time I take a nap for the first time in years."
-    kd ""
+    kd "Muito bem, pode ir agora. Está na hora de eu tirar um cochilo pela primeira vez em anos."
 
 # game/scripts/kali_events.rpy:7655
 translate pt_br kdadsick_e0c9b276:
 
     # lu "What'd you guys talk about?"
-    lu ""
+    lu "Sobre oque vocês conversaram?"
 
 # game/scripts/kali_events.rpy:7656
 translate pt_br kdadsick_a5bb86f2:
 
     # c "Your Dad wants to give you his company, Kali."
-    c ""
+    c "Seu pai quer lhe dar a empresa dele, Kali."
 
 # game/scripts/kali_events.rpy:7658
 translate pt_br kdadsick_93334484_2:
 
     # k "What?"
-    k ""
+    k "Que?"
 
 # game/scripts/kali_events.rpy:7659
 translate pt_br kdadsick_180c4526:
 
     # lu "Oh! What do I get?"
-    lu ""
+    lu "Oh! O que eu ganho?"
 
 # game/scripts/kali_events.rpy:7660
 translate pt_br kdadsick_f08067fe:
 
     # c "Nothing."
-    c ""
+    c "Nada."
 
 # game/scripts/kali_events.rpy:7662
 translate pt_br kdadsick_3fdeb8b9:
 
     # lu "She gets a multi-billion dollar company and I get nothing!?"
-    lu ""
+    lu "Ela ganha uma empresa multi bilionária e eu não ganho nada!?"
 
 # game/scripts/kali_events.rpy:7664
 translate pt_br kdadsick_3cbab85d:
 
     # k "I don't want the company."
-    k ""
+    k "Eu não quero a empresa."
 
 # game/scripts/kali_events.rpy:7665
 translate pt_br kdadsick_c3f4cd72:
 
     # c "He said you'd say that."
-    c ""
+    c "Ele falou que você diria isso."
 
 # game/scripts/kali_events.rpy:7666
 translate pt_br kdadsick_1a010ce7:
 
     # k "It's because I don't want it. Do I look like a business woman to you? I've never worn a dress in my life."
-    k ""
+    k "E é por que eu não quero. Eu pareço do tipo gerente para você? Eu nunca nem usei um vestido na minha vida."
 
 # game/scripts/kali_events.rpy:7667
 translate pt_br kdadsick_b3328386:
 
     # c "That's not true."
-    c ""
+    c "Isso não é verdade."
 
 # game/scripts/kali_events.rpy:7668
 translate pt_br kdadsick_8e85bfd7:
 
     # k "You know what I mean. I don't even want to be in charge of anyone."
-    k ""
+    k "Você entenbdeu. Eu não quero estar no comando de ninguém."
 
 # game/scripts/kali_events.rpy:7669
 translate pt_br kdadsick_177f4d20:
 
     # k "I don't even want to get promoted at Papa Rons..."
-    k ""
+    k "Eu nem quero ser promovida no Papa Rons..."
 
 # game/scripts/kali_events.rpy:7670
 translate pt_br kdadsick_d7ec0a2b:
 
     # c "So you want to do the same thing forever? Live in a hotel and deliver pizzas until you're 80?"
-    c ""
+    c "Então você quer fazer a mesma coisa para sempre? Viver em um hotel e entregar pizza até os 80?"
 
 # game/scripts/kali_events.rpy:7672
 translate pt_br kdadsick_e0395878:
 
     # k "*sigh*, No I don't want to deliver pizzas forever."
-    k ""
+    k "*suspiro*, Não, eu não quero entregar pizzas para sempre."
 
 # game/scripts/kali_events.rpy:7673
 translate pt_br kdadsick_2f5798e8:
 
     # lu "I don't see why you shouldn't do it... You're good with computers."
-    lu ""
+    lu "Eu não vejo o por que você não deveria fazer isso... você é boa com computadores."
 
 # game/scripts/kali_events.rpy:7675
 translate pt_br kdadsick_e7821b2b:
 
     # k "But I'm not good at leading."
-    k ""
+    k "Mas eu não sou boa em gerenciar."
 
 # game/scripts/kali_events.rpy:7676
 translate pt_br kdadsick_af6cb97c:
 
     # lu "Then let the board do all the work. Maybe you'll even invent some program thingy or something."
-    lu ""
+    lu "Então deixe o conselho fazer todo o trabalho. Talvez você crie um aplicativo, ou algo assim."
 
 # game/scripts/kali_events.rpy:7678
 translate pt_br kdadsick_c51c735c:
 
     # k "Program thingy...?"
-    k ""
+    k "Aplicativo, ou algo assim...?"
 
 # game/scripts/kali_events.rpy:7679
 translate pt_br kdadsick_9fa9f7e9:
 
     # lu "What? Do you not do your program thingy all day?"
-    lu ""
+    lu "O que? Vocês não faz suas coisas de aplicativo o dia inteiro?"
 
 # game/scripts/kali_events.rpy:7680
 translate pt_br kdadsick_357af3a4:
 
     # k "Urgh..."
-    k ""
+    k "Urgh..."
 
 # game/scripts/kali_events.rpy:7682
 translate pt_br kdadsick_5e0eca1d:
 
     # k "Come on, let's go back home."
-    k ""
+    k "Vem, vamos voltar."
 
 # game/scripts/kali_events.rpy:7683
 translate pt_br kdadsick_9f39e053:
 
     # lu "You don't want to stay for a couple days...? When was the last time you visited The Capitol?"
-    lu ""
+    lu "Você não quer ficar por alguns dias...? Quando foi a última vez que você esteve aqui?"
 
 # game/scripts/kali_events.rpy:7685
 translate pt_br kdadsick_812841e6:
 
     # k "No, I don't want to stay here any longer than I need to. I still need to go to work."
-    k ""
+    k "Não, eu não quero ficar aqui por mais tempo do que eu preciso. Eu ainda preciso ir para o meu emprego."
 
 # game/scripts/kali_events.rpy:7686
 translate pt_br kdadsick_ae9072e7:
 
     # lu "What...?"
-    lu ""
+    lu "Que...?"
 
 # game/scripts/kali_events.rpy:7688
 translate pt_br kdadsick_54aed23b:
 
     # k "Can we go now?"
-    k ""
+    k "Já podemos ir agora?"
 
 # game/scripts/kali_events.rpy:7689
 translate pt_br kdadsick_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/scripts/kali_events.rpy:7691
 translate pt_br kdadsick_e6a07189:
 
     # mari "Mr. [name], may I speak with you?"
-    mari ""
+    mari "Senhor [name], posso falar com você?"
 
 # game/scripts/kali_events.rpy:7695
 translate pt_br kdadsick_5d5b37b2:
 
     # mari "I want you to use that money for good."
-    mari ""
+    mari "Eu quero que você use aquele dinheiro para o bem."
 
 # game/scripts/kali_events.rpy:7696
 translate pt_br kdadsick_63f41264:
 
     # c "You know about the money?"
-    c ""
+    c "Você sabe sobre o dinheiro?"
 
 # game/scripts/kali_events.rpy:7697
 translate pt_br kdadsick_83bb21e0:
 
     # mari "I brought it up to my husband and he agreed."
-    mari ""
+    mari "Eu convenci meu marido a lhe dar o dinheiro."
 
 # game/scripts/kali_events.rpy:7698
 translate pt_br kdadsick_f5d33c4c:
 
     # mari "I know you said you weren't a slaver, but I want you to become one."
-    mari ""
+    mari "Você me disse que não era um escravagista, mas eu quero que se torne um."
 
 # game/scripts/kali_events.rpy:7699
 translate pt_br kdadsick_bb00a52c:
 
     # c "What do you mean?"
-    c ""
+    c "Como assim?"
 
 # game/scripts/kali_events.rpy:7700
 translate pt_br kdadsick_c6a7d6d1:
 
     # mari "$10,000 is a lot of money, [name]. It could buy you a small house."
-    mari ""
+    mari "$10.000 é bastante dinheiro, [name]. Você poderia comprar uma casa pequena."
 
 # game/scripts/kali_events.rpy:7701
 translate pt_br kdadsick_dad054c8:
 
     # mari "What I'm saying is, consider saving some elves. There's much I want to do to help the slavery problem in your country, but little I can from here."
-    mari ""
+    mari "Oque eu estou dizendo é, considere salvar alguns escravos. Há bastante coisa que eu quero fazer para ajudar com o problema da escravização no seu país, mas eu posso fazer pouca coisa daqui."
 
 # game/scripts/kali_events.rpy:7702
 translate pt_br kdadsick_2cc0f1a4:
 
     # mari "If you just buy some elves, and give them a good life, a good free one, that would make me very happy. Or at least as free as the system allows."
-    mari ""
+    mari "Se você apenas comprar alguns escravos, e dar a eles uma vida boa, uma vida livre, isso me faria muito feliz. Ou pelo menos livre dentro do que o sistema permite."
 
 # game/scripts/kali_events.rpy:7703
 translate pt_br kdadsick_85ed5660:
 
     # c "You want me to build an adoption center?"
-    c ""
+    c "Você quer que eu construa um centro de adoção?"
 
 # game/scripts/kali_events.rpy:7705
 translate pt_br kdadsick_3520e32c:
 
     # mari "An adoption center... That's funny."
-    mari ""
+    mari "Centro de adoção... engraçado."
 
 # game/scripts/kali_events.rpy:7707
 translate pt_br kdadsick_54f4cb3b:
 
     # mari "It would be better than the government owning them, and better than some pig."
-    mari ""
+    mari "Seria melhor que o governo cuidando deles, ou algum porco."
 
 # game/scripts/kali_events.rpy:7708
 translate pt_br kdadsick_e1ebcc56:
 
     # mari "Plus, it's completely legal to own as many elves as you'd like. You could even build a whole city where elves can roam free of their masters and trade by themselves."
-    mari ""
+    mari "E também, é completamente legal de manter quantos escravos você quiser. Você poderia até mesmo construir uma cidade inteira onde os elfos podem andar livremente dos mestres e proprietários."
 
 # game/scripts/kali_events.rpy:7709
 translate pt_br kdadsick_62637b4b:
 
     # c "That's pretty ambitious."
-    c ""
+    c "Isso é bastante ambicioso."
 
 # game/scripts/kali_events.rpy:7711
 translate pt_br kdadsick_35ca990d:
 
     # mari "It's always good to dream of a better world, Mr. [name]."
-    mari ""
+    mari "É sempre bom sonhar com um mundo melhor, senhor [name]."
 
 # game/scripts/kali_events.rpy:7713
 translate pt_br kdadsick_49e5ed7a:
 
     # mari "Sorry for keeping you waiting, Mr. [name]. Would you like anything before you leave? Some water maybe?"
-    mari ""
+    mari "Desculpa por te segurar, senhor [name]. Você gostaria de alguma coisa antes de sair? Água talvez?"
 
 # game/scripts/kali_events.rpy:7716
 translate pt_br mariellaquestion_b2187a22:
 
     # mari "Want to know more, then?"
-    mari ""
+    mari "Você quer saber mais então?"
 
 # game/scripts/kali_events.rpy:7717
 translate pt_br mariellaquestion_9d9fb6df:
 
     # c "I do."
-    c ""
+    c "Isso."
 
 # game/scripts/kali_events.rpy:7719
 translate pt_br mariellaquestion_2798ef27:
 
     # mari "In Syl'anar, half elves have no rights. They're seen as an abomination."
-    mari ""
+    mari "Em Syl'anar, meio-elfos não tem direitos. Eles são vistos como abominações."
 
 # game/scripts/kali_events.rpy:7720
 translate pt_br mariellaquestion_906775b3:
 
     # mari "We sell for a lot because of that. Some would even breed elves for the purpose of selling half elves."
-    mari ""
+    mari "Nós somos vendidos bastante por causa disso. Alguns até mesmo engravidariam elfos com o propósito de vender mestiços."
 
 # game/scripts/kali_events.rpy:7722
 translate pt_br mariellaquestion_4c4aa770:
 
     # mari "Every day I wake up happy knowing I am where I am."
-    mari ""
+    mari "Todo dia eu acordo feliz sabendo que eu estou aonde estou."
 
 # game/scripts/kali_events.rpy:7724
 translate pt_br mariellaquestion_f5c62ed1:
 
     # mari "Half elves can live a human's life though, if the doctor is willing to break the law, he could.... 'circumcise'... A half elf's ears."
-    mari ""
+    mari "Porém os meio-elfos podem viver junto com os humanos, se um médico estiver disposto a quebrar a lei, ele poderia... 'circuncisar'... a orelha de um mestiço."
 
 # game/scripts/kali_events.rpy:7725
 translate pt_br mariellaquestion_0c23bc4b:
 
     # c "You mean cut the tips off?"
-    c ""
+    c "Você quer dizer cortar as pontas?"
 
 # game/scripts/kali_events.rpy:7727
 translate pt_br mariellaquestion_8a3e81f7:
 
     # mari "Exactly. Nobody would be able to tell without performing DNA tests. Anyone below 25 percent Elvish DNA is considered a Human, and at least half of the population in Syl'anar has some elvish DNA in them."
-    mari ""
+    mari "Exatamente. Ninguém poderia dizer sem teste de DNA. Qualquer um com menos de 25 por cento de DNA élfico é considerado humano, pelo menos metade da população de Syl'anar tem um pouco de DNA élfico."
 
 # game/scripts/kali_events.rpy:7728
 translate pt_br mariellaquestion_b44de101:
 
     # mari "It's ridiculous... I'm considered worthless trash over there, but my children would have full rights..."
-    mari ""
+    mari "É ridículo... eu sou considerada um lixo sem valor lá fora, mas meus filhos terão direitos..."
 
 # game/scripts/kali_events.rpy:7729
 translate pt_br mariellaquestion_df0fbf40:
 
     # mari "But there is an easy way to tell which Human has elvish ancestry..."
-    mari ""
+    mari "Mas tem um jeito de dizer se um humano é decendente de elfo..."
 
 # game/scripts/kali_events.rpy:7730
 translate pt_br mariellaquestion_67287a2b:
 
     # c "How?"
-    c ""
+    c "Como?"
 
 # game/scripts/kali_events.rpy:7731
 translate pt_br mariellaquestion_eedbb022:
 
     # mari "The eyes!"
-    mari ""
+    mari "Os olhos!"
 
 # game/scripts/kali_events.rpy:7732
 translate pt_br mariellaquestion_f44fc0f0:
 
     # mari "As you can tell, mine are a golden color. Luckily for me, the same color as my hair. Although my hair is from my human Mother's side."
-    mari ""
+    mari "Como pode ver, os meus tem a cor dourada. Sorte a minha, mesma cor do meu cabelo. Contudo meu cabelo é por parte da minha mãe humana."
 
 # game/scripts/kali_events.rpy:7733
 translate pt_br mariellaquestion_77ae9d7b:
 
     # mari "My Father was a common elf, and of course all common elves share these same three traits. Dark hair, freckles, and yellow eyes."
-    mari ""
+    mari "Meu pai era um elfo comum, e claro, todos os elfos comuns compartilham das mesmas caraterísticas. Cabelo escuro, sardas, e olhos amarelos."
 
 # game/scripts/kali_events.rpy:7734
 translate pt_br mariellaquestion_e1c0152b:
 
     # mari "In every case of a human breeding with an elf, that bloodline will keep their ancestor's unique elvish eyes. Even if they are 1/16th elvish."
-    mari ""
+    mari "Em caso de um humano engravidar um elfo, essa linha de sangue vai manter os traços únicos, os olhos élficos. Mesmo se ele for 16º elfo."
 
 # game/scripts/kali_events.rpy:7735
 translate pt_br mariellaquestion_e731a288:
 
     # c "What eye colors belong to humans with elvish ancestry?"
-    c ""
+    c "Qual a cor dos olhos que pertence aos humanos com ancestrais elfos?"
 
 # game/scripts/kali_events.rpy:7736
 translate pt_br mariellaquestion_830d558c:
 
     # mari "Ah, that's an easy one."
-    mari ""
+    mari "Ah, isso é fácil."
 
 # game/scripts/kali_events.rpy:7737
 translate pt_br mariellaquestion_83d5b141:
 
     # mari "Common elf and desert elf ancestry would leave you with light yellow, amber or golden eyes."
-    mari ""
+    mari "Se você tiver ancestrais elfos você teria olhos amarelo claro, laranja ou dourados."
 
 # game/scripts/kali_events.rpy:7738
 translate pt_br mariellaquestion_9888fee0:
 
     # mari "Dark elf ancestry would leave you with pink eyes. Although rarely the human can even keep the dark elf's dark purple eyes completely, without losing any of the color."
-    mari ""
+    mari "Ancestrais de Elfos Negros te deixarão com a cor rosa nos olhos. Contudo, até humanos não conseguem manter a cor rosa dos Elfos Negros completamente sem perder um pouco da cor."
 
 # game/scripts/kali_events.rpy:7739
 translate pt_br mariellaquestion_d2b9a3e0:
 
     # mari "While a half elf would lose a drow's unique pupil shape for seeing in the dark, the ancestry would leave you with a dirty orange or red color."
-    mari ""
+    mari "Em quanto um meio elfo perderia o formato único dos olhos de um Drow por ver no escuro, os ancestrais te deixariam com a cor laranja ou vermelha."
 
 # game/scripts/kali_events.rpy:7740
 translate pt_br mariellaquestion_db3e2aba:
 
     # mari "However, a half drow would be horribly crippled. Half drow cannot see, and they cannot use their body. Impregnating a Drow is a serious crime because of this."
-    mari ""
+    mari "Contudo, um meio-drow seria horrivelmente aleijado. Meios-drow não podem enxergar, e eles não conseguem usar seus corpos. Engravidar um Drow é um sério crime por causa disso."
 
 # game/scripts/kali_events.rpy:7741
 translate pt_br mariellaquestion_a1975c67:
 
     # c "What about a high elf?"
-    c ""
+    c "E um elfo supremo?"
 
 # game/scripts/kali_events.rpy:7743
 translate pt_br mariellaquestion_27ff0637:
 
     # mari "I'm sorry? A what?"
-    mari ""
+    mari "Me desculpe? O que?"
 
 # game/scripts/kali_events.rpy:7744
 translate pt_br mariellaquestion_8716a76f:
 
     # c "Sorry, nevermind."
-    c ""
+    c "Nada não, foi mal."
 
 # game/scripts/kali_events.rpy:7748
 translate pt_br mariellaquestion_68a52465:
 
     # mari "Ah, you mean with my husband?"
-    mari ""
+    mari "Ah, você quer dizer com meu marido?"
 
 # game/scripts/kali_events.rpy:7750
 translate pt_br mariellaquestion_92a3e500:
 
     # mari "I'm actually a cousin of Cornwall's."
-    mari ""
+    mari "Na verdade eu sou uma prima do Cornwall."
 
 # game/scripts/kali_events.rpy:7751
 translate pt_br mariellaquestion_278193fe:
 
     # c "He profits off of elves being slaves, why would he save you?"
-    c ""
+    c "Ele investi em escravagistas de elfos, por que ele te salvaria?"
 
 # game/scripts/kali_events.rpy:7752
 translate pt_br mariellaquestion_a7f083b7:
 
     # mari "It's the system, dear. There are laws in place, it's a foundation of Syl'anar to enslave elves. If it wasn't Cornwall, it'd be someone else."
-    mari ""
+    mari "É o sistema, querido. Há regras no lugar, é a base da Syl'anar escravizar elfos. Se não fosse Cornwall, seria outro alguém."
 
 # game/scripts/kali_events.rpy:7754
 translate pt_br mariellaquestion_37256672:
 
     # mari "Luckily for us, he has an open mind about these things. He gave the elves rights, you know? The first time in history."
-    mari ""
+    mari "Sorte a nossa, ele tem a mente aberta sobre essas coisas. Ele deu aos elfos direitos, sabe? Pela primeira vez na história."
 
 # game/scripts/kali_events.rpy:7755
 translate pt_br mariellaquestion_fa2d4fea:
 
     # mari "Anyway, Cornwall and I have been friends since we were young. I took care of him as a child."
-    mari ""
+    mari "De qualquer forma, eu e Cornwall éramos amigos desde jovens. Eu cuidava dele como se fosse meu filho. "
 
 # game/scripts/kali_events.rpy:7757
 translate pt_br mariellaquestion_46ace2ae:
 
     # mari "He wanted to give me a better life. But an elf leaving Syl'anar is a serious crime. It's even a cause for war."
-    mari ""
+    mari "Ele queria me dar uma vida melhor. Mas um elfo sair de Syl'anar é um sério crime. É até mesmo motivo de guerras."
 
 # game/scripts/kali_events.rpy:7758
 translate pt_br mariellaquestion_ee7fd917:
 
     # c "It's that serious?"
-    c ""
+    c "Sério?"
 
 # game/scripts/kali_events.rpy:7759
 translate pt_br mariellaquestion_07e8974f:
 
     # mari "It's very serious. The monopoly Syl'anar has over the elves is strictly enforced. If a single male and female elf leave the continent, they could start a whole family of elves."
-    mari ""
+    mari "Sim, é muito sério. O monopólio que Syl'anar tem sobre os elfos é muito rigoroso. Se um único homem ou mulher elfo sair do continente, eles poderiam começar uma família inteira de elfos."
 
 # game/scripts/kali_events.rpy:7761
 translate pt_br mariellaquestion_98e65c10:
 
     # mari "The world is ignorant to what happens in Syl'anar. There are no news articles of elves, no actors, nothing. They have no voice."
-    mari ""
+    mari "O mundo ignora oque acontece em Syl'anar. Não há notícias mencionando elfos, não tem atores, nada. Eles não tem voz."
 
 # game/scripts/kali_events.rpy:7763
 translate pt_br mariellaquestion_3d9b7b97:
 
     # mari "My coming here was in the news. 'The first Half elf outside of Syl'anar'."
-    mari ""
+    mari "Minha vinda aqui foi para as notícias. 'O primeiro meio-elfo fora de Syl'anar'."
 
 # game/scripts/kali_events.rpy:7764
 translate pt_br mariellaquestion_54607835:
 
     # mari "Of course there were tensions between our nations, but Cornwall stood up for me. He claimed my elvish ancestry would be gone within the next two generations, and Syl'anar backed down."
-    mari ""
+    mari "E é claro, existia tensão entre as nossas nações, mas Cornwall me defendeu. Ele disse que minha ancestralidade élfica iria desaparecer daqui duas gerações, e Syl'anar recuou."
 
 # game/scripts/kali_events.rpy:7765
 translate pt_br mariellaquestion_32b2e6e6:
 
     # mari "It's mostly true, my elvish genes won't be getting stronger, even if I do have children. But the eyes would always stay, of course."
-    mari ""
+    mari "É verdade, meus genes élficos não ficariam mais fortes, mesmo se eu tivesse uma criança. Mas os olhos sempre iriam ficar, é claro."
 
 # game/scripts/kali_events.rpy:7768
 translate pt_br mariellaquestion_891314a3:
 
     # mari "It was nice meeting you, Mr. [name]."
-    mari ""
+    mari "Foi bom lhe conhecer, senhor [name]."
 
 # game/scripts/kali_events.rpy:7771
 translate pt_br mariellaquestion_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/scripts/kali_events.rpy:7774
 translate pt_br mariellaquestion_2ecf1e62:
 
     # "You, Kali, and Lucia make your way to the helicopter parked just outside the house."
-    ""
+    "Você, Kali e Lucy caminham até o helicóptero estacionado na parte externa da casa."
 
 # game/scripts/kali_events.rpy:7775
 translate pt_br mariellaquestion_aa99b7be:
 
     # "On the ride to the family's private jet, you notice Kali is contemplating something. Assuming it's about her Father's offer, you consider his words. Does Kali really want to run his company?"
-    ""
+    "No caminho ao jato da família, você nota que Kali está pensando em algo. Assumindo que é sobre a oferta do pai delaa, você lembra das palavaras dele. Kali realmente quer gerenciar essa empresa?"
 
 # game/scripts/kali_events.rpy:7776
 translate pt_br mariellaquestion_9732e9e4:
 
     # "The rest of the trip is fairly uneventful other than your view of clouds and ocean stretching farther than the eye can see. It's a beautiful sight you wish you could see more of. Life on land seems so restrictive and punishing. Life up here... It's free, it's fresh, it's calm. You feel you could live a thousand years in the sky."
-    ""
+    "O resto da viagem ocorre sem problemas, além da sua visão das nuvens e oceano se estendendo ao longe. É uma vista linda, você gostaria de ver mais. A vida na terra parece tão restritiva e punitiva. A vida lá em cima... é livre, fresco, é calmo. Você sente que poderia viver cem mil anos no céu."
 
 # game/scripts/kali_events.rpy:7777
 translate pt_br mariellaquestion_f913a3cd:
 
     # "You arrive back to the hotel at sundown. Lucia worries for her father, and is a little disappointed she didn't receive any gifts like Kali did."
-    ""
+    "Vocês chegam no hotel no pôr-do-sol. Lucy está preocupada com o pai, e é um pouco desapontador que ela não recebeu nenhum presente como a Kalli."
 
 # game/scripts/kali_events.rpy:7778
 translate pt_br mariellaquestion_d743121d:
 
     # "Kali has a lot to think on. She's been groomed to take over the company when she was young, but she never saw herself as worthy of such a position. The offer is no longer ignorable now, she has to decide what her life will become..."
-    ""
+    "A Kali tem muito o que pensar. Ela foi preparada para gerenciar a empresa desde nova, mas ela nunca se viu como digna da posição. Agora a oferta não é mais ignorável, ela precisa decidir oque será da vida dela..."
 
 # game/scripts/kali_events.rpy:7779
 translate pt_br mariellaquestion_2b73f2e0:
 
     # "Your phone beeps. You look at the notifications and you can see a deposit of $10,000 directly in to your bank account."
-    ""
+    "O seu telefone toca. Você olha para as notificações e você ve um depósito de $10.000 diretamente na sua conta bancária."
 
 # game/scripts/kali_events.rpy:7814
 translate pt_br lucyroomchoices_60a0ada7:
@@ -29974,757 +29974,757 @@ translate pt_br kalifight_d8e4c606:
 translate pt_br kalifight_5d858562:
 
     # k "What the FUCK is this shit!?"
-    k ""
+    k "Mas que PORRA é essa!?"
 
 # game/scripts/kali_events.rpy:8171
 translate pt_br kalifight_ee22314a:
 
     # k "God DAMN IT!"
-    k ""
+    k "Que DROGA!"
 
 # game/scripts/kali_events.rpy:8173
 translate pt_br kalifight_d208e488:
 
     # k "[name]!"
-    k ""
+    k "[name]!"
 
 # game/scripts/kali_events.rpy:8174
 translate pt_br kalifight_79226b6e:
 
     # c "What's the issue?"
-    c ""
+    c "Qual o problema?"
 
 # game/scripts/kali_events.rpy:8175
 translate pt_br kalifight_874bd2ee:
 
     # k "Are you having sex with my sister behind my back!?"
-    k ""
+    k "Você está transando com a minha irmã pelas minhas costas!?"
 
 # game/scripts/kali_events.rpy:8176
 translate pt_br kalifight_297d93f3:
 
     # c "What?"
-    c ""
+    c "O que?"
 
 # game/scripts/kali_events.rpy:8177
 translate pt_br kalifight_a7f90a02:
 
     # k "Don't lie to me!"
-    k ""
+    k "Não minta para mim!"
 
 # game/scripts/kali_events.rpy:8178
 translate pt_br kalifight_3070bc42:
 
     # c "What are you talking about?"
-    c ""
+    c "Do que você tá falando?"
 
 # game/scripts/kali_events.rpy:8179
 translate pt_br kalifight_a6a3d96a:
 
     # k "There's some really slutty outfits in my closet that aren't mine! They're new, too!"
-    k ""
+    k "Tem umas roupas bem safadas no meu armário que não são minhas! E são novas também!"
 
 # game/scripts/kali_events.rpy:8180
 translate pt_br kalifight_ebe96166:
 
     # c "Okay?"
-    c ""
+    c "Beleza?"
 
 # game/scripts/kali_events.rpy:8181
 translate pt_br kalifight_94ec4b69:
 
     # k "SO YOU KNEW!?"
-    k ""
+    k "ENTÂO VOCÊ SABIA?"
 
 # game/scripts/kali_events.rpy:8182
 translate pt_br kalifight_1e3b2765:
 
     # c "What."
-    c ""
+    c "Que?"
 
 # game/scripts/kali_events.rpy:8184
 translate pt_br kalifight_8eaa775e:
 
     # k "Well you're not surprised!"
-    k ""
+    k "Bem, você não está surpreso!"
 
 # game/scripts/kali_events.rpy:8185
 translate pt_br kalifight_c75b86d8:
 
     # k "I see Lucy flirting with you all the time! Ever since she met you she's been trying to suck your cock!"
-    k ""
+    k "Eu vejo a Lucy flertando com você o tempo todo! Desde quando ela te conheceu ela esteve tentando chupar o seu pau!"
 
 # game/scripts/kali_events.rpy:8186
 translate pt_br kalifight_a9c19baa:
 
     # k "At the beach, too! She made you massage her breasts!"
-    k ""
+    k "Lá na praia também! Ela fez você massagear os peitos dela!"
 
 # game/scripts/kali_events.rpy:8187
 translate pt_br kalifight_94ac479c:
 
     # k "I bet the only reason you two didn't fuck is because I was there!"
-    k ""
+    k "Eu aposto que a única rezão pela qual vocês não foderam é porque eu estava lá!"
 
 # game/scripts/kali_events.rpy:8188
 translate pt_br kalifight_debe4059:
 
     # k "She's just trying to steal you away from me! And you're okay with that!?"
-    k ""
+    k "Ela só queria te roubar de mim! E você tá de boa com isso!?"
 
 # game/scripts/kali_events.rpy:8189
 translate pt_br kalifight_75a66500:
 
     # k "Do you not even care about me!? What's wrong with-"
-    k ""
+    k "Você ao menos se importa comigo!? Oque há de errado co-"
 
 # game/scripts/kali_events.rpy:8191
 translate pt_br kalifight_b8ed863f:
 
     # k "AHH!" with ssshake
-    k "" with ssshake
+    k "AHHH!" with ssshake
 
 # game/scripts/kali_events.rpy:8193
 translate pt_br kalifight_68f3e165:
 
     # lu "Have fun!" with sshake
-    lu "" with sshake
+    lu "Se divirtam!" with sshake
 
 # game/scripts/kali_events.rpy:8194
 translate pt_br kalifight_233f0c1d:
 
     # k "LUCY!?"
-    k ""
+    k "LUCY!?"
 
 # game/scripts/kali_events.rpy:8195
 translate pt_br kalifight_d6cf8b19:
 
     # lu "You guys aren't coming out of there until you make up, okay? Okay! Bye! Be back in an hour!"
-    lu ""
+    lu "Vocês não vão sair daí até fazerem as pazes, ok? OK! Tchau! Eu volto em uma hora!"
 
 # game/scripts/kali_events.rpy:8196
 translate pt_br kalifight_b8ad33c1:
 
     # k "AN HOUR!?"
-    k ""
+    k "UMA HORA!?"
 
 # game/scripts/kali_events.rpy:8198
 translate pt_br kalifight_592b9ec5:
 
     # k "What the fuck is going on!?"
-    k ""
+    k "Mas que porra tá acontecendo!?"
 
 # game/scripts/kali_events.rpy:8199
 translate pt_br kalifight_a9f34c76:
 
     # c "I don't know."
-    c ""
+    c "Eu sei lá."
 
 # game/scripts/kali_events.rpy:8201
 translate pt_br kalifight_f7e10484:
 
     # k "LUCY! LET ME OUT!"
-    k ""
+    k "LUCY! ABRE ESSA PORTA!"
 
 # game/scripts/kali_events.rpy:8202
 translate pt_br kalifight_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8203
 translate pt_br kalifight_d464b281:
 
     # k "LUCY!"
-    k ""
+    k "LUCY!"
 
 # game/scripts/kali_events.rpy:8204
 translate pt_br kalifight_7c57e622:
 
     # c "She's not here anymore."
-    c ""
+    c "Ela já foi embora."
 
 # game/scripts/kali_events.rpy:8206
 translate pt_br kalifight_bf6f0617:
 
     # k "Rgghh..."
-    k ""
+    k "Rgghh..."
 
 # game/scripts/kali_events.rpy:8207
 translate pt_br kalifight_297d93f3_1:
 
     # c "What?"
-    c ""
+    c "Oque?"
 
 # game/scripts/kali_events.rpy:8209
 translate pt_br kalifight_cb1041d0:
 
     # k "I'm still mad at you..."
-    k ""
+    k "Eu ainda estou brava com você..."
 
 # game/scripts/kali_events.rpy:8211
 translate pt_br kalifight_4e5a4202:
 
     # c "Why?"
-    c ""
+    c "Por que?"
 
 # game/scripts/kali_events.rpy:8212
 translate pt_br kalifight_2c0d8ebd:
 
     # k "...Whatever."
-    k ""
+    k "... Não importa."
 
 # game/scripts/kali_events.rpy:8213
 translate pt_br kalifight_6153247d:
 
     # c "I thought we were passed 'whatevers'."
-    c ""
+    c "Eu pensei que nós já havíamos passado do 'não importa'."
 
 # game/scripts/kali_events.rpy:8214
 translate pt_br kalifight_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8215
 translate pt_br kalifight_a734854e:
 
     # k "I just don't like that Lucy is always flirting with you..."
-    k ""
+    k "Eu só não gosto de como a Lucy tá sempre flertanto com você..."
 
 # game/scripts/kali_events.rpy:8216
 translate pt_br kalifight_8667d3a1:
 
     # c "Why? You already know about the other girls here."
-    c ""
+    c "Por que? Você já sabe sobre as outras garotas daqui."
 
 # game/scripts/kali_events.rpy:8218
 translate pt_br kalifight_a7a5b11e:
 
     # k "That's completely different!"
-    k ""
+    k "Isso é completamente diferente!"
 
 # game/scripts/kali_events.rpy:8219
 translate pt_br kalifight_67287a2b:
 
     # c "How?"
-    c ""
+    c "Diferente como?"
 
 # game/scripts/kali_events.rpy:8221
 translate pt_br kalifight_8cbde748:
 
     # k "Because... I don't know..."
-    k ""
+    k "Porque... eu não sei..."
 
 # game/scripts/kali_events.rpy:8222
 translate pt_br kalifight_82091822_2:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8223
 translate pt_br kalifight_790a0617:
 
     # k "Well, are you fucking her?"
-    k ""
+    k "Bem, você tá fodendo ela?"
 
 # game/scripts/kali_events.rpy:8224
 translate pt_br kalifight_a5a81561:
 
     # c "I don't think that's the problem here."
-    c ""
+    c "Eu não acho que esse seja o problema aqui."
 
 # game/scripts/kali_events.rpy:8225
 translate pt_br kalifight_82091822_3:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8226
 translate pt_br kalifight_925e3dbd:
 
     # c "Are you jealous of her?"
-    c ""
+    c "Você tem inveja dela?"
 
 # game/scripts/kali_events.rpy:8228
 translate pt_br kalifight_9865135f:
 
     # k "What!? No! Of course not!"
-    k ""
+    k "Que!? Não! Claro que não!"
 
 # game/scripts/kali_events.rpy:8229
 translate pt_br kalifight_82eb0108:
 
     # c "Kali..."
-    c ""
+    c "Kali..."
 
 # game/scripts/kali_events.rpy:8231
 translate pt_br kalifight_a858aade:
 
     # k "Shut up!"
-    k ""
+    k "Cala a boca!"
 
 # game/scripts/kali_events.rpy:8232
 translate pt_br kalifight_d405871b:
 
     # c "Kali, what do you have to be jealous of?"
-    c ""
+    c "Kali, do que você tem inveja dela?"
 
 # game/scripts/kali_events.rpy:8233
 translate pt_br kalifight_fd4ceffa:
 
     # k "Nothing!"
-    k ""
+    k "Nada!"
 
 # game/scripts/kali_events.rpy:8234
 translate pt_br kalifight_82091822_4:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8236
 translate pt_br kalifight_9407cdeb:
 
     # k "Urgh! I mean, you've seen her! She's pretty! She's young! She's confident! She's stylish!"
-    k ""
+    k "Urgh! Quer dizer, você já viu ela! Ela é bonita! Ela é jovem! Ela é confiante! Ela é estilosa!"
 
 # game/scripts/kali_events.rpy:8238
 translate pt_br kalifight_c6d95b05:
 
     # k "She hasn't even been here that long, but look! Most of those clothes aren't mine!"
-    k ""
+    k "Ela não está aqui há tanto tempo aqui, mas olha! A maioria dessas roupas não são minhas!"
 
 # game/scripts/kali_events.rpy:8240
 translate pt_br kalifight_86a3ccf5:
 
     # k "I give her a bed, and she flirts with my boyfriend! I give her a closet and she uses most of it! She's taking everything from me!"
-    k ""
+    k "Eu dou para ela um lugar para dormir e ela da em cima do meu namorado! Eu dou para ela um closet e ela usa a maior parte dele! Ela está tirando tudo de mim!"
 
 # game/scripts/kali_events.rpy:8241
 translate pt_br kalifight_7ed355ea:
 
     # c "Alright, then I'll kick her out."
-    c ""
+    c "Tudo bem então, eu vou expulsar ela."
 
 # game/scripts/kali_events.rpy:8243
 translate pt_br kalifight_1d10cef5:
 
     # k "What!? Really?"
-    k ""
+    k "Que!? Sério?"
 
 # game/scripts/kali_events.rpy:8244
 translate pt_br kalifight_69e4dab3:
 
     # k "I mean, wait! No! You can't kick her out!"
-    k ""
+    k "Quer dizer! Não! Você não pode expulsar ela!"
 
 # game/scripts/kali_events.rpy:8245
 translate pt_br kalifight_c86e5d51:
 
     # c "Isn't that what you want?"
-    c ""
+    c "Não é isso que você queria?"
 
 # game/scripts/kali_events.rpy:8247
 translate pt_br kalifight_d137c236:
 
     # k "...No... I don't want her gone..."
-    k ""
+    k "... Não... Eu não quero que ela vá..."
 
 # game/scripts/kali_events.rpy:8248
 translate pt_br kalifight_82091822_5:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8249
 translate pt_br kalifight_0da040a1:
 
     # k "She's so annoying..."
-    k ""
+    k "Ela é tão irritante..."
 
 # game/scripts/kali_events.rpy:8250
 translate pt_br kalifight_143c96f2:
 
     # c "She loves you though."
-    c ""
+    c "Porém, ela te ama."
 
 # game/scripts/kali_events.rpy:8252
 translate pt_br kalifight_33eb9a23:
 
     # k "You call this love!? She locked me in a closet!"
-    k ""
+    k "Você chama isso de amor!? Ela me trancou no meu closet!"
 
 # game/scripts/kali_events.rpy:8253
 translate pt_br kalifight_e6172d52:
 
     # c "She locked {i}us{/i} in a closet."
-    c ""
+    c "Ela {i}nos{/i} trancou no seu closet."
 
 # game/scripts/kali_events.rpy:8254
 translate pt_br kalifight_cc20e27f:
 
     # k "So!?"
-    k ""
+    k "E!?"
 
 # game/scripts/kali_events.rpy:8255
 translate pt_br kalifight_bbed2ba8:
 
     # c "If she didn't like you, she would have only locked you in here, not me."
-    c ""
+    c "Se ela não gostasse de você, ela trancaria só você aqui, e não eu."
 
 # game/scripts/kali_events.rpy:8256
 translate pt_br kalifight_5310ce33:
 
     # k "So! So... So what!? What does she want then?"
-    k ""
+    k "E! E... Então o que!? O que ela quer então?"
 
 # game/scripts/kali_events.rpy:8257
 translate pt_br kalifight_d9fb3005:
 
     # c "Your guess is as good as mine, but she clearly doesn't hate you."
-    c ""
+    c "Bem, eu também não sei, mas ela claramente não te odeia."
 
 # game/scripts/kali_events.rpy:8259
 translate pt_br kalifight_82091822_6:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8260
 translate pt_br kalifight_42481b06:
 
     # k "She's just being a brat again..."
-    k ""
+    k "Ela só tá sendo uma peste de novo..."
 
 # game/scripts/kali_events.rpy:8261
 translate pt_br kalifight_6d830174:
 
     # c "What are you worried about?"
-    c ""
+    c "Com o que você tá preocupada?"
 
 # game/scripts/kali_events.rpy:8262
 translate pt_br kalifight_530a6f78:
 
     # k "Whatev- Urgh... I don't- ... *sigh*..."
-    k ""
+    k "Sei l- Urgh... Eu não s-... *suspiro*..."
 
 # game/scripts/kali_events.rpy:8263
 translate pt_br kalifight_dc652405:
 
     # k "Do you like her?"
-    k ""
+    k "Você gosta dela?"
 
 # game/scripts/kali_events.rpy:8264
 translate pt_br kalifight_9e93b3f9:
 
     # k "...More than me?"
-    k ""
+    k "... Mais do que de mim?"
 
 # game/scripts/kali_events.rpy:8265
 translate pt_br kalifight_a59f8f81:
 
     # c "Of course not."
-    c ""
+    c "É claro que não."
 
 # game/scripts/kali_events.rpy:8267
 translate pt_br kalifight_af12b6aa:
 
     # k "Good..."
-    k ""
+    k "Bom..."
 
 # game/scripts/kali_events.rpy:8268
 translate pt_br kalifight_b3f8ab8c:
 
     # c "That's what you were worried about?"
-    c ""
+    c "Era com isso que você estava preocupada?"
 
 # game/scripts/kali_events.rpy:8269
 translate pt_br kalifight_be082246:
 
     # k "Well... Kind of..."
-    k ""
+    k "Bem... meio que sim..."
 
 # game/scripts/kali_events.rpy:8270
 translate pt_br kalifight_8b9fdc30:
 
     # k "I've never been anyone's first choice, not even my Dad's... I don't want to lose that again..."
-    k ""
+    k "Eu nunca fui a primeira escolha, nem mesmo do meu pai... eu não quero perder isso de novo..."
 
 # game/scripts/kali_events.rpy:8271
 translate pt_br kalifight_c604f98e:
 
     # c "You don't need to worry about your sister."
-    c ""
+    c "Você não precisa se preocupar com a sua irmã."
 
 # game/scripts/kali_events.rpy:8272
 translate pt_br kalifight_e52f7681:
 
     # k "...Fine..."
-    k ""
+    k "... Tá bem..."
 
 # game/scripts/kali_events.rpy:8274
 translate pt_br kalifight_8a1803d7:
 
     # k "Stupid clothes..."
-    k ""
+    k "Roupas estúpidas..."
 
 # game/scripts/kali_events.rpy:8275
 translate pt_br kalifight_eb4dd974:
 
     # c "Why don't you try them on?"
-    c ""
+    c "Por que você não às eperimenta?"
 
 # game/scripts/kali_events.rpy:8277
 translate pt_br kalifight_f9d8bdbe:
 
     # k "What? Why?"
-    k ""
+    k "O que? Por que?"
 
 # game/scripts/kali_events.rpy:8278
 translate pt_br kalifight_bff4ef20:
 
     # c "It's your closet, isn't it?"
-    c ""
+    c "É o seu closet, não é?"
 
 # game/scripts/kali_events.rpy:8279
 translate pt_br kalifight_f8fdf0d2:
 
     # c "And you did say she had some slutty clothes..."
-    c ""
+    c "E você disse que ela tinha umas roupas safadas..."
 
 # game/scripts/kali_events.rpy:8281
 translate pt_br kalifight_a413cb01:
 
     # k "...Alright... Fine."
-    k ""
+    k "... Ok... beleza."
 
 # game/scripts/kali_events.rpy:8284
 translate pt_br kalifight_8a1efce0:
 
     # k "Urgh, remember these? So gross..."
-    k ""
+    k "Urgh, lembra dessa? Nojento..."
 
 # game/scripts/kali_events.rpy:8285
 translate pt_br kalifight_1285e1f3:
 
     # k "I'm starting to feel like a brat already..."
-    k ""
+    k "Eu já estou começando a me sentir uma pirralha..."
 
 # game/scripts/kali_events.rpy:8288
 translate pt_br kalifight_1d276b0d:
 
     # c "It looks nice on you."
-    c ""
+    c "Fica bom em você."
 
 # game/scripts/kali_events.rpy:8290
 translate pt_br kalifight_6d2431dc:
 
     # k "Hey, shut up! You're not supposed to like my sister's clothes!"
-    k ""
+    k "Ei, cala a boca! Não é para você gostar das roupas da minha irmã!"
 
 # game/scripts/kali_events.rpy:8293
 translate pt_br kalifight_a4536509:
 
     # k "What do you think about these?"
-    k ""
+    k "O que você acha dessa?"
 
 # game/scripts/kali_events.rpy:8296
 translate pt_br kalifight_da7365f9:
 
     # c "Wow, that's nice."
-    c ""
+    c "Wow, essa é boa."
 
 # game/scripts/kali_events.rpy:8297
 translate pt_br kalifight_8dfd5522:
 
     # k "I think so too. Might have to steal these from her..."
-    k ""
+    k "Eu também acho. Acho que vou roubar essa para mim..."
 
 # game/scripts/kali_events.rpy:8299
 translate pt_br kalifight_6fb165f8:
 
     # k "Hmm..."
-    k ""
+    k "Hmm..."
 
 # game/scripts/kali_events.rpy:8300
 translate pt_br kalifight_297d93f3_2:
 
     # c "What?"
-    c ""
+    c "O que?"
 
 # game/scripts/kali_events.rpy:8302
 translate pt_br kalifight_670e2dec:
 
     # k "How about now?"
-    k ""
+    k "E agora?"
 
 # game/scripts/kali_events.rpy:8303
 translate pt_br kalifight_8b488380:
 
     # c "Definitely improving..."
-    c ""
+    c "Definitivamente melhor..."
 
 # game/scripts/kali_events.rpy:8305
 translate pt_br kalifight_ecd11a06:
 
     # k "Hahaha!"
-    k ""
+    k "Hahaha!"
 
 # game/scripts/kali_events.rpy:8308
 translate pt_br kalifight_01f099cc:
 
     # k "Urgh, what was she planning to do with this?"
-    k ""
+    k "Urgh, o que ela tava planejando fazer com essa?"
 
 # game/scripts/kali_events.rpy:8309
 translate pt_br kalifight_24e77b02:
 
     # k "God, I feel so gross wearing this..."
-    k ""
+    k "Deus, eu me sinto tão nojenta usando isso..."
 
 # game/scripts/kali_events.rpy:8313
 translate pt_br kalifight_8b003f14:
 
     # k "Well? Would you fuck me in this?"
-    k ""
+    k "Bem? Você me foderia nisso?"
 
 # game/scripts/kali_events.rpy:8316
 translate pt_br kalifight_1c9e3ffa:
 
     # k "Noted..."
-    k ""
+    k "Anotado..."
 
 # game/scripts/kali_events.rpy:8320
 translate pt_br kalifight_2f339c56:
 
     # k "Yeah... Wearing this feels pretty stupid anyway..."
-    k ""
+    k "É... usar isso parece bem estúpido de qualquer jeito..."
 
 # game/scripts/kali_events.rpy:8323
 translate pt_br kalifight_4ca83404:
 
     # k "Sorry [name]... I shouldn't have gotten mad at you... It wasn't fair."
-    k ""
+    k "Desulpa [name]... eu não deveria ficado brava com você... não foi justo."
 
 # game/scripts/kali_events.rpy:8324
 translate pt_br kalifight_4957702e:
 
     # k "You can... Have sex with Lucy, if you want..."
-    k ""
+    k "Você pode... você pode fazer sexo com a Lucy, se você quiser..."
 
 # game/scripts/kali_events.rpy:8325
 translate pt_br kalifight_115c34c4:
 
     # c "What? Why?"
-    c ""
+    c "Que? Por que?"
 
 # game/scripts/kali_events.rpy:8326
 translate pt_br kalifight_6fcf1c60:
 
     # k "Well I'm totally fine with you and the other girls... As long as we're together, it doesn't really bother me. So... As long as you like me more than her... I guess it's fine..."
-    k ""
+    k "Bem, eu estou de acordo com você e as outras garotas... contanto que nós estejamos juntos, não me incomoda. Então... desde que goste de mim mais do que dela... eu acho que tudo bem..."
 
 # game/scripts/kali_events.rpy:8327
 translate pt_br kalifight_e862cf1c:
 
     # k "I mean... If you want to, anyway..."
-    k ""
+    k "Quer dizer... se você quiser, de qualquer forma..."
 
 # game/scripts/kali_events.rpy:8328
 translate pt_br kalifight_256ec68c:
 
     # c "I didn't know you were this open about it."
-    c ""
+    c "Eu não sabia que você era aberta sobre isso."
 
 # game/scripts/kali_events.rpy:8329
 translate pt_br kalifight_17fa771e:
 
     # k "Like I said, as long as we're together, I don't really mind. I guess I would prefer if it was only us, but, I don't think you're that type of guy... and besides, it's kind of hot..."
-    k ""
+    k "Como eu disse, contanto que nós estejamos juntos, eu não me importo. Eu acho que eu preferiria que fosse só agente, mas, eu não acho que você é esse tipo de cara... e também, é meio excitante..."
 
 # game/scripts/kali_events.rpy:8331
 translate pt_br kalifight_dce9e23a:
 
     # k "Urgh, god damn it, Lucy. Hello!?"
-    k ""
+    k "Urgh, meu deus, Lucy. Olá?"
 
 # game/scripts/kali_events.rpy:8333
 translate pt_br kalifight_bff5d7f5:
 
     # k "LU- Oh... It's open...?"
-    k ""
+    k "LU- Oh... está aberta...?"
 
 # game/scripts/kali_events.rpy:8335
 translate pt_br kalifight_c4550cd5:
 
     # k "URGH! DAMN IT LUCY, WHERE ARE YOU!?"
-    k ""
+    k "URGH! DROGA LUCY, ONDE TU TÁ?"
 
 # game/scripts/kali_events.rpy:8336
 translate pt_br kalifight_6218868d:
 
     # "*SLAM*" with ssshake
-    "" with ssshake
+    "*BATIDA*" with ssshake
 
 # game/scripts/kali_events.rpy:8339
 translate pt_br kalifight_e25ccc73:
 
     # lu "Enjoy your talk?"
-    lu ""
+    lu "Aproveitou sua conversa?"
 
 # game/scripts/kali_events.rpy:8340
 translate pt_br kalifight_5d7d803b:
 
     # c "Lucy?"
-    c ""
+    c "Lucy?"
 
 # game/scripts/kali_events.rpy:8342
 translate pt_br kalifight_1af947d3:
 
     # lu "You didn't think I was just going to leave without listening, did you?"
-    lu ""
+    lu "Você não pensou que eu ia só saie sem ouvir, pensou?"
 
 # game/scripts/kali_events.rpy:8343
 translate pt_br kalifight_8e3f6e0f:
 
     # c "You were listening the whole time?"
-    c ""
+    c "Você tava escutando esse tempo todo?"
 
 # game/scripts/kali_events.rpy:8344
 translate pt_br kalifight_e9ee4710:
 
     # lu "Of course!"
-    lu ""
+    lu "Claro!"
 
 # game/scripts/kali_events.rpy:8345
 translate pt_br kalifight_049e29ca:
 
     # c "Why did you push us in there?"
-    c ""
+    c "Por que você nos empurrou ali?"
 
 # game/scripts/kali_events.rpy:8346
 translate pt_br kalifight_db6da4d6:
 
     # lu "She was really angry, and she was going to try to push you away from her. Which would have made her even angrier with you..."
-    lu ""
+    lu "Ela estava muito brava, e ela ia tentar te empurrar longe dela. Oque teria deixado ela ainda mais brava com você..."
 
 # game/scripts/kali_events.rpy:8347
 translate pt_br kalifight_22f07c15:
 
     # lu "I know Kali, remember? The only way you two were going to avoid an arguement was to talk it out, and she wasn't going to do that..."
-    lu ""
+    lu "Eu conheço a Kali, sabe? O único jeito de vocês evitarem uma briga era conversando sobre isso, e ela não ia fazer isso..."
 
 # game/scripts/kali_events.rpy:8348
 translate pt_br kalifight_b4906937:
 
     # lu "She doesn't even know herself as well as I do."
-    lu ""
+    lu "Ela nem ao menos à conhece tão bem quanto eu."
 
 # game/scripts/kali_events.rpy:8350
 translate pt_br kalifight_73355fc4:
 
     # lu "You're welcome!"
-    lu ""
+    lu "De nada!"
 
 # game/scripts/kali_events.rpy:8474
 translate pt_br kali_anal_repeat_0467e2bc:
@@ -30820,1243 +30820,1243 @@ translate pt_br kali_anal_repeat_e7b6ced2:
 translate pt_br kananal_aef814fa:
 
     # k "Hey [name]..."
-    k ""
+    k "Ei [name]..."
 
 # game/scripts/kali_events.rpy:8525
 translate pt_br kananal_92708bdb:
 
-    # c "Kali? What are you-"
-    c ""
+    # c "What are you-"
+    c "Oque você est-"
 
 # game/scripts/kali_events.rpy:8527
 translate pt_br kananal_afb8e2e7:
 
     # k "Mmmp... Mmmnn..."
-    k ""
+    k "Mmmp... Mmmnn..."
 
 # game/scripts/kali_events.rpy:8532
 translate pt_br kananal_b1635e1e:
 
     # k "I hope the glasses didn't get in the way..."
-    k ""
+    k "Eu espero que os óculos não atrapalhem..."
 
 # game/scripts/kali_events.rpy:8534
 translate pt_br kananal_18225d4e:
 
     # k "What do you think? I ordered this thing weeks ago, and it finally arrived today! It had to ship overseas..."
-    k ""
+    k "Oque você acha? Eu encomendei isso há uma semana atrás, e finalmente hoje chegou! Tive que importar de outro país..."
 
 # game/scripts/kali_events.rpy:8535
 translate pt_br kananal_0f173ebb:
 
     # c "What is it?"
-    c ""
+    c "E oque é?"
 
 # game/scripts/kali_events.rpy:8536
 translate pt_br kananal_9da36179:
 
     # k "I'm cosplaying as a girl from this hentai game I've been playing."
-    k ""
+    k "É um cosplay de uma garota de um jogo hentai que eu estive jogando."
 
 # game/scripts/kali_events.rpy:8537
 translate pt_br kananal_88cbcf66:
 
     # k "I never get to wear skirts, they're so fun!"
-    k ""
+    k "Eu não sou acostumada a usar saias, mas elas são divertidas!"
 
 # game/scripts/kali_events.rpy:8545
 translate pt_br kananal_e33ca7b1:
 
     # k "Enjoy the sneak peek? Hahaha!"
-    k ""
+    k "Gostou da olhadinha? Hahaha!"
 
 # game/scripts/kali_events.rpy:8547
 translate pt_br kananal_48514d21:
 
     # k "[name]... The girl who wears this gets fucked in the ass so much she turns into an anal whore..."
-    k ""
+    k "[name]... A garota que usa isso é fodida na bunda tanto que ela vira vagabunda..."
 
 # game/scripts/kali_events.rpy:8548
 translate pt_br kananal_dd6bd3c5:
 
     # k "Do you want to turn me into an anal whore?"
-    k ""
+    k "Você quer me transformar em uma vagabunda?"
 
 # game/scripts/kali_events.rpy:8552
 translate pt_br kananal_85ceb222:
 
     # k "Good."
-    k ""
+    k "Bom."
 
 # game/scripts/kali_events.rpy:8555
 translate pt_br kananal_e144a02d:
 
     # k "Go ahead, do your thing... don't keep me waiting~"
-    k ""
+    k "Vá em frente, faça oque você sabe fazer... não me deixe esperando~"
 
 # game/scripts/kali_events.rpy:8557
 translate pt_br kananal_3711148f:
 
     # k "Hnn! NNGH! Fuck...! Holy shit, you're in my ass!" with ssshake
-    k "" with ssshake
+    k "Hnn! NNGH! Porra...! Puta merda, você tá dentro da minha bunda!" with ssshake
 
 # game/scripts/kali_events.rpy:8558
 translate pt_br kananal_035b3ac2:
 
     # k "It feels... Really weird... From the way she was getting off, I thought this would make me feel like a whore, but it's just... Weird."
-    k ""
+    k "Eu me sinto... bem estranha... do jeito que ela tava falando, eu pensei que isso ia fazer eu me sentir uma puta, mas é só... estranho."
 
 # game/scripts/kali_events.rpy:8560
 translate pt_br kananal_1c126d83:
 
     # k "'Oh no, you've beaten me and torn up my clothes exposing my tits and ass! What are you going to do to me now...?' Heheh!"
-    k ""
+    k "'Oh não, você me derrotou e arrancou as minhas roupas, mostrando meus peitos e minha bunda! Oque você vai fazer comigo agora...?' Heheh!"
 
 # game/scripts/kali_events.rpy:8562
 translate pt_br kananal_d112e047:
 
     # k "Oh! Fuck..."
-    k ""
+    k "Oh! Porra..."
 
 # game/scripts/kali_events.rpy:8563
 translate pt_br kananal_600c5445:
 
     # k "Ohggh, god... Hnn..."
-    k ""
+    k "Ohggh, deus... Hnn..."
 
 # game/scripts/kali_events.rpy:8564
 translate pt_br kananal_66bfab2d:
 
     # k "It feels so different from my pussy!"
-    k ""
+    k "É muito diferente do que na minha buceta!"
 
 # game/scripts/kali_events.rpy:8565
 translate pt_br kananal_5cb37493:
 
     # k "Aghh, but I definitely feel like a slut with this on! Hnnn!"
-    k ""
+    k "Aghh, mas eu definitivamente me sinto uma vadia nessa roupa! Hnnn!"
 
 # game/scripts/kali_events.rpy:8566
 translate pt_br kananal_f8522f31:
 
     # k "They would- Hn! Fill her up so much she looked pregnant! Ahn!"
-    k ""
+    k "Eles en- Hn! Enchiam tanto a barriga dela que ela parecia estar grávida! Ahn!"
 
 # game/scripts/kali_events.rpy:8567
 translate pt_br kananal_e129708d:
 
     # k "Hnngg! Oh my god, [name]! My ass!"
-    k ""
+    k "Hnngg! Meus deus, [name]! Minha bunda!"
 
 # game/scripts/kali_events.rpy:8570
 translate pt_br kananal_b33cbc04:
 
     # k "Hmm! Hnng! Fuck! Aghh!"
-    k ""
+    k "Hmm! Hnng! Porra! Aghh!"
 
 # game/scripts/kali_events.rpy:8571
 translate pt_br kananal_0304eda8:
 
     # k "God, your cock is sliding in and out of my ass! Ahh!"
-    k ""
+    k "Deus, seu pau tá saindo e entrando na minha bunda! Ahh!"
 
 # game/scripts/kali_events.rpy:8572
 translate pt_br kananal_87f41667:
 
     # k "Yes yes yes! Hnn! I feel like such an anal slut! Agh!"
-    k ""
+    k "Isso isso isso! Hnn! Eu me sinto uma vagabunda! Agh!"
 
 # game/scripts/kali_events.rpy:8573
 translate pt_br kananal_d4c64977:
 
     # k "AH! HNN!"
-    k ""
+    k "AH! HNN!"
 
 # game/scripts/kali_events.rpy:8574
 translate pt_br kananal_cbf1bab9:
 
     # k "[name]! You need to cum inside me! Please! Ahh!"
-    k ""
+    k "[name]! Você precisa gozar dentro de mim! Por favor! Ahh!"
 
 # game/scripts/kali_events.rpy:8578
 translate pt_br kananal_dad2a4ef:
 
     # k "Hnnn!" with ssshake
-    k "" with ssshake
+    k "Hnnn!" with ssshake
 
 # game/scripts/kali_events.rpy:8579
 translate pt_br kananal_2c1711d6:
 
     # k "Yes! Fuck! Fill my ass up!" with ssshake
-    k "" with ssshake
+    k "Isso! Porra! Enche a minha bunda!" with ssshake
 
 # game/scripts/kali_events.rpy:8580
 translate pt_br kananal_0cfc804c:
 
     # k "Holy shit!!!" with ssshake
-    k "" with ssshake
+    k "Puta merda!!!" with ssshake
 
 # game/scripts/kali_events.rpy:8585
 translate pt_br kananal_a9e5f1c0:
 
     # k "Ahhh! Nnh, nnnm..."
-    k ""
+    k "Ahhh! Nnh, nnnm..."
 
 # game/scripts/kali_events.rpy:8588
 translate pt_br kananal_88e7ec33:
 
     # k "Hahhh... ahhh... holy shit..."
-    k ""
+    k "Hahhh... ahhh... puta merda..."
 
 # game/scripts/kali_events.rpy:8589
 translate pt_br kananal_a393eba3:
 
     # c "What did you think?"
-    c ""
+    c "Oque você achou?"
 
 # game/scripts/kali_events.rpy:8591
 translate pt_br kananal_cbe587a6:
 
     # k "That was... an interesting experience..."
-    k ""
+    k "Isso foi... uma experiência interessante..."
 
 # game/scripts/kali_events.rpy:8592
 translate pt_br kananal_05372295:
 
     # k "So, yeah... I guess that was fun."
-    k ""
+    k "Então, é... acho que foi divertido."
 
 # game/scripts/kali_events.rpy:8593
 translate pt_br kananal_cc4220ba:
 
     # k "Well, uh... let me know if you want to do that again, I guess..."
-    k ""
+    k "Bem, uh... me avise se quiser fazer isso de novo, eu acho..."
 
 # game/scripts/kali_events.rpy:8594
 translate pt_br kananal_920f2fa3:
 
     # c "You'd like to do that again, hm?"
-    c ""
+    c "Então você quer fazer isso de novo, hm?"
 
 # game/scripts/kali_events.rpy:8595
 translate pt_br kananal_b2ee035d:
 
     # k "Sure, why not...? We can do whatever we want."
-    k ""
+    k "Claro, por que não...? Nós podemos fazer oque quisermos."
 
 # game/scripts/kali_events.rpy:8597
 translate pt_br kananal_f23ce54b:
 
     # "You've unlocked anal sex with Kali!"
-    ""
+    "Você desbloqueou sexo anal com a Kali!"
 
 # game/scripts/kali_events.rpy:8605
 translate pt_br kananal_039ad430:
 
     # "(Are you sure? This will lock you out of the repeatable anal option forever.)"
-    ""
+    "(Você tem certeza? Isso vai trancar a opção de fazer sexo anal para sempre.)"
 
 # game/scripts/kali_events.rpy:8609
 translate pt_br kananal_85ceb222_1:
 
     # k "Good."
-    k ""
+    k "Bom."
 
 # game/scripts/kali_events.rpy:8612
 translate pt_br kananal_e144a02d_1:
 
     # k "Go ahead, do your thing... don't keep me waiting~"
-    k ""
+    k "Vá em frente, faça oque você sabe fazer... não me deixe esperando~"
 
 # game/scripts/kali_events.rpy:8614
 translate pt_br kananal_3711148f_1:
 
     # k "Hnn! NNGH! Fuck...! Holy shit, you're in my ass!" with ssshake
-    k "" with ssshake
+    k "Hnn! NNGH! Porra...! Puta merda, você tá dentro da minha bunda!" with ssshake
 
 # game/scripts/kali_events.rpy:8615
 translate pt_br kananal_035b3ac2_1:
 
     # k "It feels... Really weird... From the way she was getting off, I thought this would make me feel like a whore, but it's just... Weird."
-    k ""
+    k "Eu me sinto... bem estranha... do jeito que ela tava falando, eu pensei que isso ia fazer eu me sentir uma puta, mas é só... estranho."
 
 # game/scripts/kali_events.rpy:8617
 translate pt_br kananal_1c126d83_1:
 
     # k "'Oh no, you've beaten me and torn up my clothes exposing my tits and ass! What are you going to do to me now...?' Heheh!"
-    k ""
+    k "'Oh não, você me derrotou e arrancou as minhas roupas, mostrando meus peitos e minha bunda! Oque você vai fazer comigo agora...?' Heheh!"
 
 # game/scripts/kali_events.rpy:8619
 translate pt_br kananal_d112e047_1:
 
     # k "Oh! Fuck..."
-    k ""
+    k "Oh! Porra..."
 
 # game/scripts/kali_events.rpy:8620
 translate pt_br kananal_600c5445_1:
 
     # k "Ohggh, god... Hnn..."
-    k ""
+    k "Ohggh, deus... Hnn..."
 
 # game/scripts/kali_events.rpy:8621
 translate pt_br kananal_66bfab2d_1:
 
     # k "It feels so different from my pussy!"
-    k ""
+    k "É muito diferente do que na minha buceta!"
 
 # game/scripts/kali_events.rpy:8622
 translate pt_br kananal_5cb37493_1:
 
     # k "Aghh, but I definitely feel like a slut with this on! Hnnn!"
-    k ""
+    k "Aghh, mas eu definitivamente me sinto uma vadia nessa roupa! Hnnn!"
 
 # game/scripts/kali_events.rpy:8623
 translate pt_br kananal_f8522f31_1:
 
     # k "They would- Hn! Fill her up so much she looked pregnant! Ahn!"
-    k ""
+    k "Eles en- Hn! Enchiam tanto a barriga dela que ela parecia estar grávida! Ahn!"
 
 # game/scripts/kali_events.rpy:8624
 translate pt_br kananal_e129708d_1:
 
     # k "Hnngg! Oh my god, [name]! My ass!"
-    k ""
+    k "Hnngg! Oh meu deus, [name]! Minha bunda!"
 
 # game/scripts/kali_events.rpy:8627
 translate pt_br kananal_b33cbc04_1:
 
     # k "Hmm! Hnng! Fuck! Aghh!"
-    k ""
+    k "Hmm! Hnng! Porra! Aghh!"
 
 # game/scripts/kali_events.rpy:8628
 translate pt_br kananal_0304eda8_1:
 
     # k "God, your cock is sliding in and out of my ass! Ahh!"
-    k ""
+    k "Deus, seu pau tá saindo e entrando na minha bunda! Ahh!"
 
 # game/scripts/kali_events.rpy:8629
 translate pt_br kananal_87f41667_1:
 
     # k "Yes yes yes! Hnn! I feel like such an anal slut! Agh!"
-    k ""
+    k "Isso isso isso! Hnn! Eu me sinto uma vagabunda! Agh!"
 
 # game/scripts/kali_events.rpy:8630
 translate pt_br kananal_d4c64977_1:
 
     # k "AH! HNN!"
-    k ""
+    k "AH! HNN!"
 
 # game/scripts/kali_events.rpy:8631
 translate pt_br kananal_cbf1bab9_1:
 
     # k "[name]! You need to cum inside me! Please! Ahh!"
-    k ""
+    k "[name]! Você precisa gozar dentro de mim! Por favor! Ahh!"
 
 # game/scripts/kali_events.rpy:8635
 translate pt_br kananal_dad2a4ef_1:
 
     # k "Hnnn!" with ssshake
-    k "" with ssshake
+    k "Hnnn!" with ssshake
 
 # game/scripts/kali_events.rpy:8636
 translate pt_br kananal_2c1711d6_1:
 
     # k "Yes! Fuck! Fill my ass up!" with ssshake
-    k "" with ssshake
+    k "Isso! Porra! Enche a minha bunda!" with ssshake
 
 # game/scripts/kali_events.rpy:8637
 translate pt_br kananal_0cfc804c_1:
 
     # k "Holy shit!!!" with ssshake
-    k "" with ssshake
+    k "Puta merda!!!" with ssshake
 
 # game/scripts/kali_events.rpy:8642
 translate pt_br kananal_a9e5f1c0_1:
 
     # k "Ahhh! Nnh, nnnm..."
-    k ""
+    k "Ahhh! Nnh, nnnm..."
 
 # game/scripts/kali_events.rpy:8645
 translate pt_br kananal_88e7ec33_1:
 
     # k "Hahhh... ahhh... holy shit..."
-    k ""
+    k "Hahhh... ahhh... puta merda..."
 
 # game/scripts/kali_events.rpy:8646
 translate pt_br kananal_a393eba3_1:
 
     # c "What did you think?"
-    c ""
+    c "Oque você achou?"
 
 # game/scripts/kali_events.rpy:8648
 translate pt_br kananal_cbe587a6_1:
 
     # k "That was... an interesting experience..."
-    k ""
+    k "Isso foi... uma experiência interessante..."
 
 # game/scripts/kali_events.rpy:8649
 translate pt_br kananal_05372295_1:
 
     # k "So, yeah... I guess that was fun."
-    k ""
+    k "Então, é... acho que foi divertido."
 
 # game/scripts/kali_events.rpy:8650
 translate pt_br kananal_cc4220ba_1:
 
     # k "Well, uh... let me know if you want to do that again, I guess..."
-    k ""
+    k "Bem, uh... me avise se quiser fazer isso de novo, eu acho..."
 
 # game/scripts/kali_events.rpy:8651
 translate pt_br kananal_920f2fa3_1:
 
     # c "You'd like to do that again, hm?"
-    c ""
+    c "Bem, uh... me avise se quiser fazer isso de novo, eu acho..."
 
 # game/scripts/kali_events.rpy:8652
 translate pt_br kananal_b2ee035d_1:
 
     # k "Sure, why not...? We can do whatever we want."
-    k ""
+    k "Então você quer fazer isso de novo, hm?"
 
 # game/scripts/kali_events.rpy:8654
 translate pt_br kananal_f23ce54b_1:
 
     # "You've unlocked anal sex with Kali!"
-    ""
+    "Você desbloqueou sexo anal com a Kali!"
 
 # game/scripts/kali_events.rpy:8663
 translate pt_br kananal_93334484:
 
     # k "What?"
-    k ""
+    k "O que?"
 
 # game/scripts/kali_events.rpy:8665
 translate pt_br kananal_c87416d1:
 
     # k "But... I bought this for anal sex! It's what she does! We can't have normal sex in this!"
-    k ""
+    k "Mas... eu comprei essa roupa só para fazer anal! É para isso que ela serve! Não podemos fazer sexo normal nela! "
 
 # game/scripts/kali_events.rpy:8667
 translate pt_br kananal_d61f80df:
 
     # k "Whatever, it was a stupid idea anyway."
-    k ""
+    k "Tanto faz, foi uma idéia estúpida mesmo."
 
 # game/scripts/kali_events.rpy:8668
 translate pt_br kananal_df65017d:
 
     # k "Just get out before Lucy gets back..."
-    k ""
+    k "Só sai daqui antes que a Lucy volte..."
 
 # game/scripts/kali_events.rpy:8679
 translate pt_br lukalbeach_3d98bd7b:
 
     # lu "Kaliiii~ ...Come on...!"
-    lu ""
+    lu "Kaliiii~ ... Qual é...!"
 
 # game/scripts/kali_events.rpy:8680
 translate pt_br lukalbeach_bf832a13:
 
     # k "No."
-    k ""
+    k "Não."
 
 # game/scripts/kali_events.rpy:8681
 translate pt_br lukalbeach_491ccc2a:
 
     # lu "Kaliiiiiiiii~"
-    lu ""
+    lu "Kaliiiiiiiii~"
 
 # game/scripts/kali_events.rpy:8682
 translate pt_br lukalbeach_26f11ca3:
 
     # k "I'm not interested."
-    k ""
+    k "Eu não estou com vontade."
 
 # game/scripts/kali_events.rpy:8683
 translate pt_br lukalbeach_310b43d8:
 
     # lu "But Kali, you're so pale!"
-    lu ""
+    lu "Mas Kali, você está muito pálida!"
 
 # game/scripts/kali_events.rpy:8684
 translate pt_br lukalbeach_32ca204c:
 
     # k "Why do you care how white I am?"
-    k ""
+    k "Por que você se importa o quão pálida eu tô?"
 
 # game/scripts/kali_events.rpy:8685
 translate pt_br lukalbeach_203b2d1f:
 
     # lu "Because it's not healthy! Come ooooon~ come with me to the beach! Dad didn't have any near his place... pleeeeease~?"
-    lu ""
+    lu "Porque não é saudável! Vamooooos~, vem, vamos para a praia! O pai nunca teve um lugar perto de uma... por favooooor~?"
 
 # game/scripts/kali_events.rpy:8686
 translate pt_br lukalbeach_cf32e7f0:
 
     # k "I'm good."
-    k ""
+    k "Tô bem."
 
 # game/scripts/kali_events.rpy:8687
 translate pt_br lukalbeach_effd937a:
 
     # lu "Why noooot...?"
-    lu ""
+    lu "Por que nãoooo...?"
 
 # game/scripts/kali_events.rpy:8688
 translate pt_br lukalbeach_12e34ed2:
 
     # k "You know I hate people, and the sun... and fresh air. And don't even get me started on sand. It's so coarse, and rough, and it gets everywhere."
-    k ""
+    k "Você sabe que eu odeio as pessoas, e o sol... e ar fresco. E a areia, é tão... arenoso, e gruda em todo lugar."
 
 # game/scripts/kali_events.rpy:8689
 translate pt_br lukalbeach_5ca88e32:
 
     # lu "Oh shut up, Kali. You can bring your husband..."
-    lu ""
+    lu "Oh qual é Kali. Você pode levar seu marido..."
 
 # game/scripts/kali_events.rpy:8691
 translate pt_br lukalbeach_93334484:
 
     # k "What?"
-    k ""
+    k "Que?"
 
 # game/scripts/kali_events.rpy:8693
 translate pt_br lukalbeach_327d5fd6:
 
     # k "Shut up! {u}Husband?{/u} What do you mean husband? We're not even close to being married!"
-    k ""
+    k "Cala a boca! {u}marido?{/u} Oque você quer dizer com 'marido'? Nós não estamos nem perto de casarmos!"
 
 # game/scripts/kali_events.rpy:8694
 translate pt_br lukalbeach_3034639c:
 
     # lu "Well yeah... you need to show off your body more, then he'll marry you. How is he supposed to decide something like that when all you wear are hoodies..."
-    lu ""
+    lu "Bem, sim... você precisa mostrar mais do seu corpo, então ele vai se casar com você. Como ele pode querer isso quando você só usa moletons..."
 
 # game/scripts/kali_events.rpy:8695
 translate pt_br lukalbeach_7cee0768:
 
     # k "W-What? Shut up, brat!"
-    k ""
+    k "O-Oque? Cala a boca, peste!"
 
 # game/scripts/kali_events.rpy:8697
 translate pt_br lukalbeach_60cabfdd:
 
     # k "We're not having this conversation."
-    k ""
+    k "A conversa acabou."
 
 # game/scripts/kali_events.rpy:8698
 translate pt_br lukalbeach_08b44e04:
 
     # lu "Fine..."
-    lu ""
+    lu "Beleza..."
 
 # game/scripts/kali_events.rpy:8700
 translate pt_br lukalbeach_ab1c0c84:
 
     # k "...{w}...{w}\n{i}Finally, some peace and quiet...{/i}"
-    k ""
+    k "...{w}...{w}\n{i}Finalmente, paz e tranquilidade...{/i}"
 
 # game/scripts/kali_events.rpy:8702
 translate pt_br lukalbeach_39da34bd:
 
     # lu "I'll just go with [name] by myself then! How do I look?"
-    lu ""
+    lu "Eu vou com o [name] sozinha então! Como eu estou?"
 
 # game/scripts/kali_events.rpy:8703
 translate pt_br lukalbeach_cc45556c:
 
     # k "What!?"
-    k ""
+    k "Que!?"
 
 # game/scripts/kali_events.rpy:8704
 translate pt_br lukalbeach_b08b2cd3:
 
     # lu "Come on, be honest!"
-    lu ""
+    lu "Vai, seja honesta!"
 
 # game/scripts/kali_events.rpy:8705
 translate pt_br lukalbeach_5b023b8a:
 
     # k "You're not going with him! Not alone!"
-    k ""
+    k "Você não vai com ele! Não sozinha!"
 
 # game/scripts/kali_events.rpy:8706
 translate pt_br lukalbeach_192b7cbb:
 
     # lu "I guess we'll just see what he says about that. Are you coming or not?"
-    lu ""
+    lu "Acho que temos que descobrir oque ele acha. Você vem ou não?"
 
 # game/scripts/kali_events.rpy:8707
 translate pt_br lukalbeach_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8709
 translate pt_br lukalbeach_c9d5bd17:
 
     # k "Fine, I'll go... but only to make sure you stay out of trouble."
-    k ""
+    k "Ok, eu vou... mas só para garantir que você não faça besteira."
 
 # game/scripts/kali_events.rpy:8710
 translate pt_br lukalbeach_d10ce16b:
 
     # lu "Mhm... it's totally {i}not{/i} to spend time with [name] while half naked in front of me..."
-    lu ""
+    lu "Mhm... sim, {i}com certeza{/i} não é para eu passar um tempo com o [name] semi nu na minha frente..."
 
 # game/scripts/kali_events.rpy:8711
 translate pt_br lukalbeach_c80afbc0:
 
     # k "You're a perv, why do you even have these thoughts?"
-    k ""
+    k "Você é uma pevertida, por que você tem esses pensamentos?"
 
 # game/scripts/kali_events.rpy:8712
 translate pt_br lukalbeach_ca3acc72:
 
     # lu "I think you just answered that, Kali. Heheh!\nCome on, get dressed! Hurry, hury!"
-    lu ""
+    lu "Eu acho que você já respondeu isso, Kali. Heheh!\nVai logo se vestir! Rápido, rápido!"
 
 # game/scripts/kali_events.rpy:8715
 translate pt_br lukalbeach_6c4b7aa5:
 
     # lu "Hi [name]~ We're going to the beach, and you're coming with okay? Let's have some fun today!"
-    lu ""
+    lu "Oi [name]~ Nós estamos indo para a praia, e você vem com agente, ok? Vamos nos divertir hoje!"
 
 # game/scripts/kali_events.rpy:8716
 translate pt_br lukalbeach_b7ee10ac:
 
     # c "Sure, sounds good."
-    c ""
+    c "Claro, parece uma boa."
 
 # game/scripts/kali_events.rpy:8717
 translate pt_br lukalbeach_ea3ae180:
 
     # lu "See Kali, I knew he'd want to!"
-    lu ""
+    lu "Viu Kali, eu sabia que ele iria querer ir também!"
 
 # game/scripts/kali_events.rpy:8718
 translate pt_br lukalbeach_df2980a9:
 
     # c "By the way, looking great Kali."
-    c ""
+    c "Álias, belo biquíni, Kali."
 
 # game/scripts/kali_events.rpy:8720
 translate pt_br lukalbeach_b435fc73:
 
     # k "Shut up..."
-    k ""
+    k "Cala a boca..."
 
 # game/scripts/kali_events.rpy:8721
 translate pt_br lukalbeach_9c309ad0:
 
     # lu "Come on, you're driving!"
-    lu ""
+    lu "Vamos lá, você dirige!"
 
 # game/scripts/kali_events.rpy:8722
 translate pt_br lukalbeach_3b5eba2d:
 
     # c "Right now?"
-    c ""
+    c "Agora?"
 
 # game/scripts/kali_events.rpy:8723
 translate pt_br lukalbeach_75e6a675:
 
     # lu "Yes now! What do you think we're dressed for?"
-    lu ""
+    lu "Sim, agora! Por que você acha que nós estamos vestidas assim?"
 
 # game/scripts/kali_events.rpy:8725
 translate pt_br lukalbeach_ac1821da:
 
     # "After you get dressed, the three of you jump in your car and drive to the beach..."
-    ""
+    "Depois de se arrumar, vocês três vão até o carro e dirigem até a praia..."
 
 # game/scripts/kali_events.rpy:8727
 translate pt_br lukalbeach_8d280544:
 
     # lu "Wow! It's so beautiful here! Way better than the beaches near The Capitol! The water is so blue!"
-    lu ""
+    lu "Wow! É tão lindo aqui! Bem melhor que as praias da Capitol! A água é tão azul!"
 
 # game/scripts/kali_events.rpy:8728
 translate pt_br lukalbeach_501bebe7:
 
     # k "It's just a beach... and it's pretty hot too, are we done?"
-    k ""
+    k "É só uma praia... e é bem quente também, já terminou?"
 
 # game/scripts/kali_events.rpy:8729
 translate pt_br lukalbeach_444a5d0a:
 
     # lu "Are you kidding? We haven't even started yet!"
-    lu ""
+    lu "Tá zuando? Nós nem começamos ainda!"
 
 # game/scripts/kali_events.rpy:8730
 translate pt_br lukalbeach_5b1abd2c:
 
     # k "Ugh..."
-    k ""
+    k "Ugh..."
 
 # game/scripts/kali_events.rpy:8732
 translate pt_br lukalbeach_2ed2d771:
 
     # lu "What do you think is out there...?"
-    lu ""
+    lu "Oque você acha que tem por aqui...?"
 
 # game/scripts/kali_events.rpy:8733
 translate pt_br lukalbeach_195c973d:
 
     # k "Water."
-    k ""
+    k "Água."
 
 # game/scripts/kali_events.rpy:8734
 translate pt_br lukalbeach_4e1e10dd:
 
     # lu "What do you think is under the water though?"
-    lu ""
+    lu "Mas oque você acha que tem em baixo da água?"
 
 # game/scripts/kali_events.rpy:8735
 translate pt_br lukalbeach_264903fa:
 
     # k "More water..."
-    k ""
+    k "Mais água..."
 
 # game/scripts/kali_events.rpy:8736
 translate pt_br lukalbeach_a6203fac:
 
     # lu "Lighten up, Kali. We're at the beach! You're supposed to have fun!"
-    lu ""
+    lu "Se anima, Kali. Nós estamos na praia! Você tem que se divertir!"
 
 # game/scripts/kali_events.rpy:8737
 translate pt_br lukalbeach_d2b79255:
 
     # k "You're the one that dragged us out here..."
-    k ""
+    k "Foi você quem nos arrastou para cá..."
 
 # game/scripts/kali_events.rpy:8738
 translate pt_br lukalbeach_df7d7dfd:
 
     # lu "So we could all have fun! It'll be a good day, Kali, just relax!"
-    lu ""
+    lu "Para que agente possa se divertir! Vai ser um bom dia, Kali, apenas relaxe!"
 
 # game/scripts/kali_events.rpy:8739
 translate pt_br lukalbeach_d95ea160:
 
     # k "Not really how it works, but..."
-    k ""
+    k "Não sei como isso vai ajudar, mas..."
 
 # game/scripts/kali_events.rpy:8741
 translate pt_br lukalbeach_c3f6fe00:
 
     # c "How are you feeling, Kali?"
-    c ""
+    c "Como está se sentindo, Kali?"
 
 # game/scripts/kali_events.rpy:8742
 translate pt_br lukalbeach_a4d00ce6:
 
     # k "*sigh*... I'll be fine."
-    k ""
+    k "*suspiro*... tudo certo."
 
 # game/scripts/kali_events.rpy:8743
 translate pt_br lukalbeach_88bf65c4:
 
     # c "You look tense."
-    c ""
+    c "Você parece tensa."
 
 # game/scripts/kali_events.rpy:8745
 translate pt_br lukalbeach_f6e3b229:
 
     # k "It's just a busy day, but the water is nice I guess..."
-    k ""
+    k "Eu só tive um dia difícil, mas a água está boa eu acho..."
 
 # game/scripts/kali_events.rpy:8746
 translate pt_br lukalbeach_ec407a64:
 
     # lu "Come on, you can't be sad at the beach. Not with your boyfriend! Isn't this what you've always wanted?"
-    lu ""
+    lu "Qual é Kali, você não pode ficar triste na praia. Não com o seu namorado! Não era isso que você sempre quis?"
 
 # game/scripts/kali_events.rpy:8747
 translate pt_br lukalbeach_aaa94fb7:
 
     # k "No, it's what {i}you've{/i} always wanted..."
-    k ""
+    k "Não, é oque {i}você{/i} sempre quis..."
 
 # game/scripts/kali_events.rpy:8749
 translate pt_br lukalbeach_599a8a4d:
 
     # lu "I'll never understand you Kali... I mean what do you even have to be nervous of? You're not a fat kid anymore."
-    lu ""
+    lu "Eu nunca vou te entender, Kali... quer dizer, por que você está tão nervosa? Você não é mais uma criança gorda."
 
 # game/scripts/kali_events.rpy:8750
 translate pt_br lukalbeach_db8a7d0f:
 
     # k "You might like the attention, but I hate the press. If they see us they're going to start taking creepy photos and sell them to the highest bidder. I don't want my ass all over social media."
-    k ""
+    k "Você pode gostar da atenção, mas eu não. Se eles virem agente vão começar a tirar fotos e vender pela internet, eu não quero minha bunda rodando por aí."
 
 # game/scripts/kali_events.rpy:8751
 translate pt_br lukalbeach_7d764f7d:
 
     # lu "People barely know you exist, you've made sure of that..."
-    lu ""
+    lu "As pessoas mal sabem que você existe, você se certificou disso..."
 
 # game/scripts/kali_events.rpy:8752
 translate pt_br lukalbeach_382cc9a6:
 
     # k "Well it's going to be obvious who I am when I'm next to you. You can't shut up about being a Trenero online. I don't even know why people care about us anyway... Dad is the special one. It's not like we've ever done anything with our lives..."
-    k ""
+    k "Bem, vai ser óbvio quem eu sou quando eu estiver perto de você. Você não para de falar sobre ser uma Trenero online. Eu não me importo sobre oque as pessoas pensam de nós de qualquer forma... o pai é o especial. Não é como se agente tivesse feito algo das nossas vidas..."
 
 # game/scripts/kali_events.rpy:8754
 translate pt_br lukalbeach_093102ef:
 
     # lu "Hey, that's not nice! People love my inspirational quotes!"
-    lu ""
+    lu "Ei, isso não foi legal! As pessoas adoram minhas falas inspiradoras!"
 
 # game/scripts/kali_events.rpy:8755
 translate pt_br lukalbeach_13840ccd:
 
     # k "Well it's true, Dad makes sure of it. And people only love them because you're rich and think some of it will rub off. I bet you didn't even write them yourself."
-    k ""
+    k "Bem, verdade. O pai fez questão disso, e as pessoas só gostam delas porque você é rica e pensam que vão coseguir tirar um pouco disso. Eu aposto que nem é você que as escreve."
 
 # game/scripts/kali_events.rpy:8756
 translate pt_br lukalbeach_40b8e2b9:
 
     # lu "Art is derivative!"
-    lu ""
+    lu "A arte é derivada!"
 
 # game/scripts/kali_events.rpy:8757
 translate pt_br lukalbeach_3f06deb6:
 
     # k "Pff. Art."
-    k ""
+    k "Pff, Arte."
 
 # game/scripts/kali_events.rpy:8758
 translate pt_br lukalbeach_8e18c75e:
 
     # lu "Well I'm sorry I make people's day a little bit better! What do you do all day? Yell at people online?"
-    lu ""
+    lu "Bem me desculpe, eu faço o dia das pessoas um pouco melhor! Oque você faz o dia inteiro? Grita com as pessoas na internet?"
 
 # game/scripts/kali_events.rpy:8759
 translate pt_br lukalbeach_6a7fdf24:
 
     # k "Yep."
-    k ""
+    k "Sim."
 
 # game/scripts/kali_events.rpy:8760
 translate pt_br lukalbeach_f99c88d7:
 
     # lu "And she doesn't even have shame about it!"
-    lu ""
+    lu "E ela nem tem vergonha de admitir isso!"
 
 # game/scripts/kali_events.rpy:8761
 translate pt_br lukalbeach_c7427552:
 
     # k "*sigh*... can we go now? I'm getting burnt out here..."
-    k ""
+    k "*suspiro*... já podemos ir? Eu estou queimando aqui fora..."
 
 # game/scripts/kali_events.rpy:8762
 translate pt_br lukalbeach_5c353cc7:
 
     # c "I can put some sunscreen on you."
-    c ""
+    c "Eu posso passar protetor solar em você."
 
 # game/scripts/kali_events.rpy:8763
 translate pt_br lukalbeach_bc3ab85d:
 
     # k "Uhhhm..."
-    k ""
+    k "Uhhhm..."
 
 # game/scripts/kali_events.rpy:8764
 translate pt_br lukalbeach_eaae88a8:
 
     # lu "Yeah! You're not getting out of this that easy, Kali! I bet it'll even make you hornyyy~"
-    lu ""
+    lu "Isso! Você não vai embora assim tão fácil, Kali! Eu aposto que ele vai até mesmo te deixar com tesããão~"
 
 # game/scripts/kali_events.rpy:8765
 translate pt_br lukalbeach_0d7e868e:
 
     # k "Ugh... you're so gross. \nFine, I don't want to get sunburnt."
-    k ""
+    k "Ugh... você é nojenta. \nBeleza, eu não quero ficar queimada."
 
 # game/scripts/kali_events.rpy:8767
 translate pt_br lukalbeach_c9d39aed:
 
     # lu "Want my advice? Take your bikini off, you don't want tanlines."
-    lu ""
+    lu "Quer um conselho? Tire seu biquíni, você não quer ficar com marcas, quer?"
 
 # game/scripts/kali_events.rpy:8768
 translate pt_br lukalbeach_81dc28e3:
 
     # k "Shut up, you know I'm not doing that."
-    k ""
+    k "Cala a boca, você sabe que eu não vou fazer isso."
 
 # game/scripts/kali_events.rpy:8769
 translate pt_br lukalbeach_b445b1f3:
 
     # lu "Awww, come on..."
-    lu ""
+    lu "Awww, qual é..."
 
 # game/scripts/kali_events.rpy:8770
 translate pt_br lukalbeach_17a33c16:
 
     # c "Ready?"
-    c ""
+    c "Pronta?"
 
 # game/scripts/kali_events.rpy:8772
 translate pt_br lukalbeach_ee1f0c2a:
 
     # k "Yeah, get it over with... and don't get any ideas like last time... my top stays on this time."
-    k ""
+    k "Sim, termina logo com isso... e não pense em besteiras como da última vez... meu sutiã fica em mim dessa vez."
 
 # game/scripts/kali_events.rpy:8773
 translate pt_br lukalbeach_6467ac6d:
 
     # lu "And what am I supposed to do? Just get sunburnt?"
-    lu ""
+    lu "E oque eu devo fazer? Esperar uma queimadura?"
 
 # game/scripts/kali_events.rpy:8774
 translate pt_br lukalbeach_ffeeee2f:
 
     # k "Put it on yourself."
-    k ""
+    k "Coloque você mesma."
 
 # game/scripts/kali_events.rpy:8775
 translate pt_br lukalbeach_b8e59c10:
 
     # lu "Or maybe [name] can do it for me? Heheh..."
-    lu ""
+    lu "Ou talvez, [name] possa fazer isso por mim? Heheh..."
 
 # game/scripts/kali_events.rpy:8776
 translate pt_br lukalbeach_e8d022b6:
 
     # k "No chance."
-    k ""
+    k "Sem chance."
 
 # game/scripts/kali_events.rpy:8781
 translate pt_br lukali_menu_40651bc8:
 
     # k "Careful..."
-    k ""
+    k "Cuidado..."
 
 # game/scripts/kali_events.rpy:8782
 translate pt_br lukali_menu_4eae29e3:
 
     # c "I know what I'm doing, just relax."
-    c ""
+    c "Eu sei o que estou fazendo, só relaxe."
 
 # game/scripts/kali_events.rpy:8783
 translate pt_br lukali_menu_4e41f052:
 
     # k "Well, okay... just don't miss anywhere, I burn very easily."
-    k ""
+    k "Bem, ok... só não esqueça de nenhum lugar, eu me queimo bem fácil."
 
 # game/scripts/kali_events.rpy:8791
 translate pt_br lukali_menu_00a24c2b:
 
     # k "Mmmh... that feels kind of nice actually..."
-    k ""
+    k "Mmmh... isso até que é bom na verdade..."
 
 # game/scripts/kali_events.rpy:8792
 translate pt_br lukali_menu_c35e7e62:
 
     # lu "I told you that you would like it."
-    lu ""
+    lu "Eu te falei que ia gostar."
 
 # game/scripts/kali_events.rpy:8793
 translate pt_br lukali_menu_2d7bcdc7:
 
     # k "No, you said it would make me horny. Which is not what I want in public..."
-    k ""
+    k "Não, você me disse que isso me deixaria com tesão. Oque eu não quero ter em público..."
 
 # game/scripts/kali_events.rpy:8794
 translate pt_br lukali_menu_7909e463:
 
     # k "Do you get off on the idea of the press catching you or something?"
-    k ""
+    k "Você não pensa que a imprensa possa te achar ou algo assim?"
 
 # game/scripts/kali_events.rpy:8795
 translate pt_br lukali_menu_46606c73:
 
     # lu "Maybe I like the rush, so what?"
-    lu ""
+    lu "Talvez eu goste da imprensa, e daí?"
 
 # game/scripts/kali_events.rpy:8796
 translate pt_br lukali_menu_74eb8c34:
 
     # k "You're such a weirdo..."
-    k ""
+    k "Você é bem esquita..."
 
 # game/scripts/kali_events.rpy:8804
 translate pt_br lukali_menu_c960d223:
 
     # k "Ahh... hey, now you're just playing with my tits..."
-    k ""
+    k "Ahh... Ei, agora você está só brincando com os meus peitos..."
 
 # game/scripts/kali_events.rpy:8805
 translate pt_br lukali_menu_72ea1ca4:
 
     # c "Do you want me to stop?"
-    c ""
+    c "Você quer que eu pare?"
 
 # game/scripts/kali_events.rpy:8806
 translate pt_br lukali_menu_9b3b19f6:
 
     # k "Um... no. Just don't do it for too long or people will get suspicious."
-    k ""
+    k "Um... não. só não demore muito ou as pessoas vão ficar desconfiadas."
 
 # game/scripts/kali_events.rpy:8807
 translate pt_br lukali_menu_439f3969:
 
     # lu "Now who's the perv..."
-    lu ""
+    lu "Quem é a perveti..."
 
 # game/scripts/kali_events.rpy:8808
 translate pt_br lukali_menu_14e5f849:
 
     # k "Uh, you're the one watching. Get your own boyfriend."
-    k ""
+    k "Uh, você é quem está assistindo. Consiga o seu próprio namorado."
 
 # game/scripts/kali_events.rpy:8814
 translate pt_br lukali_menu_1ab436ce:
 
     # k "Hey, don't forget my back."
-    k ""
+    k "Ei, não se esqueça das minhas costas."
 
 # game/scripts/kali_events.rpy:8815
 translate pt_br lukali_menu_ffd89b36:
 
     # lu "She means her ass..."
-    lu ""
+    lu "Ela quer dizer bunda..."
 
 # game/scripts/kali_events.rpy:8816
 translate pt_br lukali_menu_36d430c4:
 
     # k "Well, yeah, that too..."
-    k ""
+    k "Bem, sim, aí também..."
 
 # game/scripts/kali_events.rpy:8818
 translate pt_br lukali_menu_3c1b08f5:
 
     # k "Mmmh..."
-    k ""
+    k "Mmmh..."
 
 # game/scripts/kali_events.rpy:8819
 translate pt_br lukali_menu_d1155d17:
 
     # lu "You have a pretty nice ass for someone who sits on it all day."
-    lu ""
+    lu "Você tem uma bunda muito boa para alguém que fica sentada o dia todo."
 
 # game/scripts/kali_events.rpy:8820
 translate pt_br lukali_menu_f5409509:
 
     # k "Why are you even looking at it? Mind your own business."
-    k ""
+    k "E por que você está olhando? Cuida da sua vida."
 
 # game/scripts/kali_events.rpy:8828
 translate pt_br lukali_menu_8190327a:
 
     # lu "Hey [name]! Have you ever fucked her on the beach before? And if not, would you want to?"
-    lu ""
+    lu "Ei [name]! Vocês já foderam na praia antes? E se não, você gostaria?"
 
 # game/scripts/kali_events.rpy:8830
 translate pt_br lukali_menu_2fef87b4:
 
     # c "We've done some things..."
-    c ""
+    c "Nós fizemos algumas coisas..."
 
 # game/scripts/kali_events.rpy:8831
 translate pt_br lukali_menu_d2406a4c:
 
     # lu "Ohh, is that so?"
-    lu ""
+    lu "Ohh, Oque?"
 
 # game/scripts/kali_events.rpy:8832
 translate pt_br lukali_menu_6d6700f5:
 
     # k "{i}What are you doing? Don't tell her...{/i}"
-    k ""
+    k "{i}Oque tá fazendo? Não diga para ela...{/i}"
 
 # game/scripts/kali_events.rpy:8833
 translate pt_br lukali_menu_15cbc2b0:
 
     # lu "No, tell me! What are you two hiding? Tell me, tell me!"
-    lu ""
+    lu "Não, me diga! Oque vocês dois estão escondendo? Me diz, me diz!"
 
 # game/scripts/kali_events.rpy:8834
 translate pt_br lukali_menu_adfcf331:
 
     # c "I'll leave it to your imagination."
-    c ""
+    c "Vou deixar para a sua imaginação."
 
 # game/scripts/kali_events.rpy:8835
 translate pt_br lukali_menu_88d258c7:
 
     # lu "*gasp*! So mean~\n...But kinda hotter?"
-    lu ""
+    lu "*suspiro*! Tão má~\n... Mas meio excitante?"
 
 # game/scripts/kali_events.rpy:8839
 translate pt_br lukali_menu_76df9c9b:
 
     # lu "I bet you could tell her to do anything and she would... Maybe even spread her pussy for you, right here."
-    lu ""
+    lu "Eu aposto que se você dizer para ela fazer qualquer coisa ela faria... Talvez até  mesmo abrir as pernas para você, bem aqui."
 
 # game/scripts/kali_events.rpy:8840
 translate pt_br lukali_menu_b435fc73:
 
     # k "Shut up..."
-    k ""
+    k "Cala a boca..."
 
 # game/scripts/kali_events.rpy:8841
 translate pt_br lukali_menu_aa4dd0a8:
 
     # lu "That wasn't a no!"
-    lu ""
+    lu "Isso não foi um não!"
 
 # game/scripts/kali_events.rpy:8842
 translate pt_br lukali_menu_a858aade:
 
     # k "Shut up!"
-    k ""
+    k "Cala a boca!"
 
 # game/scripts/kali_events.rpy:8843
 translate pt_br lukali_menu_7f6f25e0:
 
     # lu "I knew you were a slut in the sheets, heheh!"
-    lu ""
+    lu "Eu sabia que você era uma vadia por de baixo dos lençóis, heheh!"
 
 # game/scripts/kali_events.rpy:8847
 translate pt_br lukali_menu_cd6c938b:
 
     # k "Ugh, don't answer that..."
-    k ""
+    k "Ugh, não responda..."
 
 # game/scripts/kali_events.rpy:8848
 translate pt_br lukali_menu_d37b003e:
 
     # lu "So you have!"
-    lu ""
+    lu "Então você fez!"
 
 # game/scripts/kali_events.rpy:8849
 translate pt_br lukali_menu_5268bd33:
 
     # k "No! Shut up!"
-    k ""
+    k "Não! Cala a boca!"
 
 # game/scripts/kali_events.rpy:8850
 translate pt_br lukali_menu_e3fd6a6f:
 
     # lu "Well maybe you should..."
-    lu ""
+    lu "Bem, tavez você poderia..."
 
 # game/scripts/kali_events.rpy:8851
 translate pt_br lukali_menu_33f183a7:
 
     # k "No, we shouldn't."
-    k ""
+    k "Não, não poderíamos."
 
 # game/scripts/kali_events.rpy:8852
 translate pt_br lukali_menu_1b216bb8:
 
     # lu "Hmph, fine..."
-    lu ""
+    lu "Hmph, tá certo..."
 
 # game/scripts/kali_events.rpy:8856
 translate pt_br lukali_menu_de340323:
 
     # q "*gasp*! Lucy? Is that you!?"
-    q ""
+    q "*suspiro*! Lucy? É você!?"
 
 # game/scripts/kali_events.rpy:8858
 translate pt_br lukali_menu_c3292137:
 
     # lu "Hm? Oh hey!"
-    lu ""
+    lu "Hm? Oh ei!"
 
 # game/scripts/kali_events.rpy:8859
 translate pt_br lukali_menu_c35a641d:
 
     # q "Oh my god, it is! I didn't know you were in Syl'anar again!"
-    q ""
+    q "Meus Deus, é você! Eu não sabia que você estava em Syl'anar de novo!"
 
 # game/scripts/kali_events.rpy:8860
 translate pt_br lukali_menu_c9d2dea3:
 
     # lu "Yeah, I kinda moved here..."
-    lu ""
+    lu "Sim, eu meio que me mudei para cá..."
 
 # game/scripts/kali_events.rpy:8861
 translate pt_br lukali_menu_3bc64578:
 
     # q "No way, good for you! I would have invited you but I didn't know!"
-    q ""
+    q "Nem ferrando, bom para você! Eu teria convidado você mas eu não sabia!"
 
 # game/scripts/kali_events.rpy:8863
 translate pt_br lukali_menu_b5328f1e:
 
     # q "Oh... who's that? Do you have a sister?"
-    q ""
+    q "Oh... quem é essa? Você tem uma irmã?"
 
 # game/scripts/kali_events.rpy:8864
 translate pt_br lukali_menu_2fd0a19a:
 
     # lu "Yep, that's Kali my older sister, and her boyfriend [name]."
-    lu ""
+    lu "Sim, essa é a Kali, minha irmã mais velha. E o namorado dela, [name]."
 
 # game/scripts/kali_events.rpy:8866
 translate pt_br lukali_menu_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:8867
 translate pt_br lukali_menu_0f073f3c:
 
     # k "Um, hi..."
-    k ""
+    k "Um, oi..."
 
 # game/scripts/kali_events.rpy:8868
 translate pt_br lukali_menu_2bcc950e:
 
     # q "Hey! What are you doing?"
-    q ""
+    q "Ei! Oque você tá fazendo?"
 
 # game/scripts/kali_events.rpy:8869
 translate pt_br lukali_menu_48957d79:
 
     # k "Uh, just- uh... I sunburn easily..."
-    k ""
+    k "Uh, só- uh... me bronzeando..."
 
 # game/scripts/kali_events.rpy:8870
 translate pt_br lukali_menu_f70b92d2:
 
     # q "Oh... okay."
-    q ""
+    q "Oh... ok."
 
 # game/scripts/kali_events.rpy:8872
 translate pt_br lukali_menu_c340a27a:
 
     # belle "I can't believe Lucy never mentioned you! I'm Belle by the way, it's short for Isabelle."
-    belle ""
+    belle "Eu não acredito que a Lucy nunca falou de você! Eu sou Belle, aliás. É um apelido para Isabelle."
 
 # game/scripts/kali_events.rpy:8873
 translate pt_br lukali_menu_03b20eda:
 
     # zara "Zara."
-    zara ""
+    zara "Zara."
 
 # game/scripts/kali_events.rpy:8874
 translate pt_br lukali_menu_ac462f83:
 
     # k "Well, I can..."
-    k ""
+    k "Bem, eu posso..."
 
 # game/scripts/kali_events.rpy:8875
 translate pt_br lukali_menu_a85cd0ce:
 
     # lu "Ugh, she's just not very social... \nYou know you wouldn't have wanted to meet them, Kali."
-    lu ""
+    lu "Ugh, ela não é muito social... \nVocê sabe que não iria nem querer conhecê-las, Kali."
 
 # game/scripts/kali_events.rpy:8876
 translate pt_br lukali_menu_6dd1ddad:
 
     # belle "You could have at least mentioned you had a sister..."
-    belle ""
+    belle "Você poderia pelo menos ter mencionado que tinha uma irmã..."
 
 # game/scripts/kali_events.rpy:8879
 translate pt_br lukali_menu_393f0377:
@@ -32098,193 +32098,193 @@ translate pt_br lukali_menu_549b06ce:
 translate pt_br lukali_menu_820bd25c:
 
     # lu "So what are you all doing here?"
-    lu ""
+    lu "Então, oque vocês todas estão fazendo aqui?"
 
 # game/scripts/kali_events.rpy:8889
 translate pt_br lukali_menu_29e78f5c:
 
     # belle "Caliber has some of the best beaches in the world! How could we {i}not{/i} be here?"
-    belle ""
+    belle "Caliber tem algumas das melhores praias do mundo! Como que agente pode {i}não{/i} estar aqui?"
 
 # game/scripts/kali_events.rpy:8890
 translate pt_br lukali_menu_0a16ff15:
 
     # zara "We were invited to a party nearby. Nothing crazy, but it is invite only. You could all probably come though, I don't think he would mind."
-    zara ""
+    zara "Nós fomos convidadas para uma festa aqui perto. Nada louco, só um convite. Vocês poderiam vir junto, eu não acho que ele vá ligar."
 
 # game/scripts/kali_events.rpy:8891
 translate pt_br lukali_menu_fc25bb0b:
 
     # k "Oh, uh..."
-    k ""
+    k "Oh, uh..."
 
 # game/scripts/kali_events.rpy:8892
 translate pt_br lukali_menu_3febadab:
 
     # lu "Yeah, sorry... I would love to but I don't think my boring sister would have any fun. I'm going to have to pass for now, but thanks!"
-    lu ""
+    lu "É, desculpa... Eu adoraria mas eu não acho que a minha irmã chata iria se divertir. Eu vou passar dessa vez, mas obrigada!"
 
 # game/scripts/kali_events.rpy:8893
 translate pt_br lukali_menu_840cde85:
 
     # belle "Awww, okay! Maybe we could grab a drink though? It's been a while! We should catch up!"
-    belle ""
+    belle "Awww, ok! Talvez nós possamos ir beber alguma coisa então? Já faz um tempo! Nós deveríamos sair juntas!"
 
 # game/scripts/kali_events.rpy:8895
 translate pt_br lukali_menu_c8f842ea:
 
     # q "Hey? We're sort of on a strict schedule here. We can't miss this. If we're late we won't get any pictures with him."
-    q ""
+    q "Ei? Nós estamos ocupadas aqui. Não podemos perder isso. Se nos atrasarmos nós não vamos conseguir nennhuma foto com ele."
 
 # game/scripts/kali_events.rpy:8896
 translate pt_br lukali_menu_07520c04:
 
     # belle "Oh you're right! He won't be there all day will he! Ugh!"
-    belle ""
+    belle "Oh tem razão! Ele não vai estar lá oi dia inteiro! Ugh!"
 
 # game/scripts/kali_events.rpy:8898
 translate pt_br lukali_menu_84f29f04:
 
     # belle "Sorry girl, we gotta go! Are you sure you don't want to come?"
-    belle ""
+    belle "Foi mal garota, nós temos que ir! Tem certeza de que não quer vir?"
 
 # game/scripts/kali_events.rpy:8899
 translate pt_br lukali_menu_b37c5b1d:
 
     # lu "Wait, who are you going to see?"
-    lu ""
+    lu "Espera, quem vocês estão indo ver?"
 
 # game/scripts/kali_events.rpy:8900
 translate pt_br lukali_menu_4e727673:
 
     # belle "THE Jack Rider!"
-    belle ""
+    belle "O Jack Rider!"
 
 # game/scripts/kali_events.rpy:8901
 translate pt_br lukali_menu_5c1c043f:
 
     # lu "*gasp*! No way! How did you get an invite?"
-    lu ""
+    lu "*suspiro*! Nem ferrando! Como vocês conseguiram um convite?"
 
 # game/scripts/kali_events.rpy:8902
 translate pt_br lukali_menu_8ff8b424:
 
     # belle "Oh, we used to have a little thing a while back... let's just say it didn't end on good terms. I guess this is his way of saying sorry, or an attempt to get back with me..."
-    belle ""
+    belle "Oh, nós costumavámos ter uma coisa uns tempo atrás... Vamos dizer que terminou tudo bem. Eu acho que esse é o jeito dele de pedir desculpas, ou tentar voltar comigo..."
 
 # game/scripts/kali_events.rpy:8903
 translate pt_br lukali_menu_6636f5b7:
 
     # k "Uh, who?"
-    k ""
+    k "Uh, quem?"
 
 # game/scripts/kali_events.rpy:8904
 translate pt_br lukali_menu_7ca15f51:
 
     # lu "He's a famous actor Kali, how have you not heard of him? *sigh*... I wish I could go."
-    lu ""
+    lu "Ele é um atôr famoso Kali, como você não conhece ele? *suspiro*... Eu queria poder ir."
 
 # game/scripts/kali_events.rpy:8905
 translate pt_br lukali_menu_e8a81c88:
 
     # k "You don't have to miss it just for me, [name] and I can go back home if you really want to meet Jack Rider."
-    k ""
+    k "Você não precisa perder isso por minha causa. [name] e eu vamos voltar para o hotel caso você realmente queira ir conhecer esse Jack Rider."
 
 # game/scripts/kali_events.rpy:8906
 translate pt_br lukali_menu_3230a15e:
 
     # lu "Well... okay then! Let's do it!"
-    lu ""
+    lu "Bem... ok então! Combinado!"
 
 # game/scripts/kali_events.rpy:8907
 translate pt_br lukali_menu_93644867:
 
     # belle "Yay! Come on, we don't want to be late!"
-    belle ""
+    belle "Yay! Vem, não queremos nos atrasar!"
 
 # game/scripts/kali_events.rpy:8909
 translate pt_br lukali_menu_74ac2dc3:
 
     # lu "Okay, bye Kali, bye [name]! I'll be home by midnight!"
-    lu ""
+    lu "Ok, tchau Kali, tchau [name]! Eu vou voltarei perto da meia noite!"
 
 # game/scripts/kali_events.rpy:8910
 translate pt_br lukali_menu_9a106081:
 
     # k "*sigh*, typical..."
-    k ""
+    k "*suspiro, típico..."
 
 # game/scripts/kali_events.rpy:8913
 translate pt_br lukali_menu_7719a38d:
 
     # k "Well, now at least we can go home...\nI actually didn't have the {i}worst{/i} time possible... not as bad as I thought it would be anyway. Much better with you around."
-    k ""
+    k "Bem, pelo menos agora agente pode voltar...\n Na verdade não foi {i}tão{/i} ruim assim... quer dizer, não tanto quanto eu achei. Bem melhor com você junto."
 
 # game/scripts/kali_events.rpy:8914
 translate pt_br lukali_menu_66d1d184:
 
     # c "I'm glad I could help. Are you sure you want to go back home already?"
-    c ""
+    c "Que bom que pude ajudar. Quer ir para casa já?"
 
 # game/scripts/kali_events.rpy:8915
 translate pt_br lukali_menu_fcda2b95:
 
     # k "I guess... I don't know, what do you want to do?"
-    k ""
+    k "Eu acho... eu não sei, oque você quer fazer?"
 
 # game/scripts/kali_events.rpy:8916
 translate pt_br lukali_menu_349a5129:
 
     # c "We could go to Bernie's and play a round of bowling."
-    c ""
+    c "Nós podiamos ir no Bernie's e jogar boliche."
 
 # game/scripts/kali_events.rpy:8917
 translate pt_br lukali_menu_95837c4b:
 
     # k "Hmmm... that actually doesn't sound too bad. But only one game."
-    k ""
+    k "Hmmm... pode ser. Mas só um jogo."
 
 # game/scripts/kali_events.rpy:8920
 translate pt_br lukali_menu_0aeb9ce0:
 
     # k "Hmph, now this is something I can actually enjoy."
-    k ""
+    k "Hmph, isso pode ser divertido."
 
 # game/scripts/kali_events.rpy:8921
 translate pt_br lukali_menu_5ec7c73d:
 
     # k "Get serious, [name], because I'm not going easy!"
-    k ""
+    k "Pegue pesado, [name]. Por que eu não vou!"
 
 # game/scripts/kali_events.rpy:8922
 translate pt_br lukali_menu_98ede918:
 
     # c "You're on."
-    c ""
+    c "Pode deixar."
 
 # game/scripts/kali_events.rpy:8924
 translate pt_br lukali_menu_b616f349:
 
     # "As you watch Kali play, you notice how much calmer she is here than at the crowded beach. Now you can tell she's in the zone, her only focus is the game, and she's pretty good at it."
-    ""
+    "Enquanto você espera Kali jogar, você nota o quão mais calma ela é aqui do que na praia. Pode-se dizer que ela está na sua própria zona, apenas se focando no jogo, e eola é muito boa nisso."
 
 # game/scripts/kali_events.rpy:8926
 translate pt_br lukali_menu_456c26dc:
 
     # k "Haha, that was fun [name]... thank you."
-    k ""
+    k "haha, isso foi divertido [name].. obrigada."
 
 # game/scripts/kali_events.rpy:8927
 translate pt_br lukali_menu_01c5f266:
 
     # c "Of course, are you ready to head back home now?"
-    c ""
+    c "Disponha, tá pronta para voltar agora?"
 
 # game/scripts/kali_events.rpy:8928
 translate pt_br lukali_menu_5240d62c:
 
     # k "Yeah... I could use a nap."
-    k ""
+    k "Sim... um cochilo seria muito bom."
 
 # game/scripts/kali_events.rpy:8937
 translate pt_br kalipinups_c2dd59d7:
@@ -35572,7 +35572,7 @@ translate pt_br kdad_8953e40d:
 translate pt_br kdad_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/scripts/kali_events.rpy:10367
 translate pt_br kdad_637e3242:
@@ -41428,3931 +41428,3931 @@ translate pt_br kalibend_22c719b5:
 translate pt_br KaliKnock1_5566a5da:
 
     # q "Fuck... fuck...! FUCK!"
-    q ""
+    q "Porra... porra...! PORRA!"
 
 # game/scripts/kali_events.rpy:12475
 translate pt_br KaliKnock1_9362fea3:
 
     # c "Hmm...?"
-    c ""
+    c "Hmm...?"
 
 # game/scripts/kali_events.rpy:12476
 translate pt_br KaliKnock1_f586bf6b:
 
     # q "Nnnngh! Fuck!"
-    q ""
+    q "Nnnngh! Droga!"
 
 # game/scripts/kali_events.rpy:12478
 translate pt_br KaliKnock1_fd8ef07e:
 
     # q "Fucking dammit! Fuck this shitty game! FUCK!"
-    q ""
+    q "Droga! Foda-se esse jogo de merda! PORRA!"
 
 # game/scripts/kali_events.rpy:12479
 translate pt_br KaliKnock1_98ba7ce2:
 
     # c "Hello?"
-    c ""
+    c "Olá?"
 
 # game/scripts/kali_events.rpy:12481
 translate pt_br KaliKnock1_c55cdbec:
 
     # q "Huh?"
-    q ""
+    q "Huh?"
 
 # game/scripts/kali_events.rpy:12483
 translate pt_br KaliKnock1_dc79d598:
 
     # q "Rrrngh, fuck off!" with ssshake
-    q "" with ssshake
+    q "Rrrngh, cai fora!" with ssshake
 
 # game/scripts/kali_events.rpy:12484
 translate pt_br KaliKnock1_2a7e6029:
 
     # c "Uh, hey, I'm the new manager of this place."
-    c ""
+    c "Uh, ei, Eu sou o novo Gerente daqui."
 
 # game/scripts/kali_events.rpy:12485
 translate pt_br KaliKnock1_4b54ef8c:
 
     # q "Are you here to kick me out for being too loud?"
-    q ""
+    q "Você está aqui para me expulsar por fazer muito barulho?"
 
 # game/scripts/kali_events.rpy:12486
 translate pt_br KaliKnock1_b80c041a:
 
     # c "No, I'm just checking in on everyone."
-    c ""
+    c "Não, eu só vim me apresentar para todo mundo."
 
 # game/scripts/kali_events.rpy:12487
 translate pt_br KaliKnock1_edbb9b9d:
 
     # q "Then fuck off! I'm busy!"
-    q ""
+    q "Então cai fora! Eu tô ocupada!"
 
 # game/scripts/kali_events.rpy:12488
 translate pt_br KaliKnock1_15adeeef:
 
     # c "Too busy playing games?"
-    c ""
+    c "Ocupada demais jogando videogame?"
 
 # game/scripts/kali_events.rpy:12489
 translate pt_br KaliKnock1_e28c60c3:
 
     # q "Too busy escaping from this shitty reality!"
-    q ""
+    q "Ocupada demais tentando escapar dessa realidade de merda!"
 
 # game/scripts/kali_events.rpy:12490
 translate pt_br KaliKnock1_5c59de0b:
 
     # q "Nnngh, come on! Come on!"
-    q ""
+    q "Nnngh, vai! Agora!"
 
 # game/scripts/kali_events.rpy:12492
 translate pt_br KaliKnock1_37302bd5:
 
     # q "FUCK!" with ssshake
-    q "" with ssshake
+    q "PORRA!" with ssshake
 
 # game/scripts/kali_events.rpy:12494
 translate pt_br KaliKnock1_4c3d7e9b:
 
     # k "*sigh*... sorry... Hey, I'm Kali."
-    k ""
+    k "*suspiro*... desculpe... Ei, meu nome é Kali."
 
 # game/scripts/kali_events.rpy:12495
 translate pt_br KaliKnock1_e3837b00:
 
     # c "I'm [name]. \nWhat was that about escaping reality?"
-    c ""
+    c "O meu é [name]. \nOque foi aquilo sobre escapar da realidade?"
 
 # game/scripts/kali_events.rpy:12496
 translate pt_br KaliKnock1_1c36bd9b:
 
     # k "Just... egh, I shouldn't be here... on this continent or in this shitty hotel..."
-    k ""
+    k "É só que... egh, eu não deveria estar aqui... nesse continente ou nessa porcaria de hotel..."
 
 # game/scripts/kali_events.rpy:12497
 translate pt_br KaliKnock1_62e524cc:
 
     # c "Why? What happened?"
-    c ""
+    c "Por que? Oque aconteceu?"
 
 # game/scripts/kali_events.rpy:12498
 translate pt_br KaliKnock1_55bcb450:
 
     # k "...Why do you care?"
-    k ""
+    k "...Por que você se importa?"
 
 # game/scripts/kali_events.rpy:12499
 translate pt_br KaliKnock1_232a347b:
 
     # c "I just do."
-    c ""
+    c "Porquê sim"
 
 # game/scripts/kali_events.rpy:12500
 translate pt_br KaliKnock1_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:12502
 translate pt_br KaliKnock1_969a3f2b:
 
     # k "*sigh*, well my dad decided it would be a {i}great{/i} idea to send his daughter to the other side of the world so she could 'experience reality'..."
-    k ""
+    k "*suspiro* Bem, meu pai decidiu que seria uma {i}boa{/i} idéia mandar a filha para o outro lado do mundo para que ela pudesse 'experienciar a realidade'..."
 
 # game/scripts/kali_events.rpy:12503
 translate pt_br KaliKnock1_2c6cf3d0:
 
     # k "By that he means, without a silver spoon in my mouth..."
-    k ""
+    k "E com isso ele quis dizer, sem uma colher de prata na minha boca..."
 
 # game/scripts/kali_events.rpy:12504
 translate pt_br KaliKnock1_cc24ec67:
 
     # c "Are you rich?"
-    c ""
+    c "Você é rica?"
 
 # game/scripts/kali_events.rpy:12505
 translate pt_br KaliKnock1_b6e79bb9:
 
     # k "I'm not, obviously... but he's {i}very{/i} rich. So now I get to experience living paycheck to paycheck like the rest of society... "
-    k ""
+    k "Eu não, obviamente... mas o meu pai, ele é {i}muito{/i} rico. então agora eu tenho que viver de pagamento em pagamento como o resto da sociedade..."
 
 # game/scripts/kali_events.rpy:12506
 translate pt_br KaliKnock1_1287cc60:
 
     # k "He said it's what I needed... that it would turn me into a proper business woman..."
-    k ""
+    k "Ele disse que é disso que eu preciso... que isso iria me tornar em uma verdadeira mulher de negócios..."
 
 # game/scripts/kali_events.rpy:12507
 translate pt_br KaliKnock1_7c015c88:
 
     # k "All of that is bullshit... I don't care about running his business and I never will. So I guess this is my punishment..."
-    k ""
+    k "Mas tudo isso é besteira... eu não ligo sobre gerenciar os negócios dele, e nunca irei. Então, eu acho que essa é a minha punição..."
 
 # game/scripts/kali_events.rpy:12508
 translate pt_br KaliKnock1_591555de:
 
     # c "That's rough."
-    c ""
+    c "Parece complicado."
 
 # game/scripts/kali_events.rpy:12510
 translate pt_br KaliKnock1_70c0e28c:
 
     # k "I don't even have a job! I'm still living on the care package he sent with me..."
-    k ""
+    k "Eu nem mesmo tenho um emprego! Eu continuo vivendo da mesada que ele me manda todo mês..."
 
 # game/scripts/kali_events.rpy:12514
 translate pt_br KaliKnock1_41073e7c:
 
     # k "I'm a big girl, I don't need your help..."
-    k ""
+    k "Eu sou uma garota crescida, não preciso da sua ajuda..."
 
 # game/scripts/kali_events.rpy:12515
 translate pt_br KaliKnock1_e90d773c:
 
     # k "But, thanks..."
-    k ""
+    k "Mas obrigada..."
 
 # game/scripts/kali_events.rpy:12520
 translate pt_br KaliKnock1_1a2e144f:
 
     # k "I would rather die than wear a maid outfit..."
-    k ""
+    k "Eu prefiro morrer à usar uma roupa de empregada..."
 
 # game/scripts/kali_events.rpy:12524
 translate pt_br KaliKnock1_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:12525
 translate pt_br KaliKnock1_29d0ae2a:
 
     # k "I should fucking kill you for saying that."
-    k ""
+    k "Eu deveria te matar por dizer isso."
 
 # game/scripts/kali_events.rpy:12528
 translate pt_br KaliKnock1_e7004701:
 
     # k "I've never even had a job, honestly... life for me was mostly games, food, and hacking my father's androids..."
-    k ""
+    k "Eu nunca mesmo tive um emprego. Honestamente, a vida pra mim era videogames, comida, e hackear os androids do meu pai..."
 
 # game/scripts/kali_events.rpy:12529
 translate pt_br KaliKnock1_f4dc9edf:
 
     # k "And my annoying sister... I don't miss her too much..."
-    k ""
+    k "E minha irmã irritante... eu não sinto tanta falta dela..."
 
 # game/scripts/kali_events.rpy:12530
 translate pt_br KaliKnock1_2c0177f0:
 
     # k "I'll have to find something soon though or I won't be able to pay rent..."
-    k ""
+    k "Eu vou ter de achar algo logo, ou eu não vou conseguir pagar o aluguel..."
 
 # game/scripts/kali_events.rpy:12531
 translate pt_br KaliKnock1_8023af53:
 
     # c "I'm sure we can work something out if that's necessary."
-    c ""
+    c "Eu tenho certeza que nós podemos te ajudar se necessário."
 
 # game/scripts/kali_events.rpy:12533
 translate pt_br KaliKnock1_ddbef400:
 
     # k "You mean you'll let me live here until I can find a job?"
-    k ""
+    k "Quer dizer que você vai me deixar morar aqui até eu achar um trabalho?"
 
 # game/scripts/kali_events.rpy:12534
 translate pt_br KaliKnock1_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/scripts/kali_events.rpy:12535
 translate pt_br KaliKnock1_9ed64919:
 
     # k "Hey, thank you! That's the first good thing that's happened to me since I moved here."
-    k ""
+    k "Ei, Obrigada! Essa foi a primeira coisa boa que me aconteceu desde que eu me mudei para cá."
 
 # game/scripts/kali_events.rpy:12536
 translate pt_br KaliKnock1_6663f034:
 
     # c "Where are you from, by the way?"
-    c ""
+    c "Aliás, de onde você é?"
 
 # game/scripts/kali_events.rpy:12538
 translate pt_br KaliKnock1_aabcbd14:
 
     # k "The other side of this fucking planet... The Capitol, you've heard of it right? The biggest city in the world...?"
-    k ""
+    k "Do outro lado da porra do planeta... a Capitol, você já ouviu falar, não ouviu? A maior cidade do mundo...?"
 
 # game/scripts/kali_events.rpy:12539
 translate pt_br KaliKnock1_980f0afa:
 
     # c "Of course, before I moved here I actually lived not too far from The Capitol."
-    c ""
+    c "Mas é claro, antes de me mudar eu não vivia muito longe da Capitol."
 
 # game/scripts/kali_events.rpy:12541
 translate pt_br KaliKnock1_4f05d4b4:
 
     # k "Oh, really? That's cool! Kind of weird to come from a place where there are no elves, and suddenly you see them everywhere, right? I can't be the only one..."
-    k ""
+    k "Oh, sério? Isso é legal! Meio esquisito vir de um lugar onde não há elfos, e de repente você os vê por todos o lugares, certo? Eu não posso ser a única..."
 
 # game/scripts/kali_events.rpy:12542
 translate pt_br KaliKnock1_92e3cf30:
 
     # c "They're cute."
-    c ""
+    c "Eles são fofos."
 
 # game/scripts/kali_events.rpy:12544
 translate pt_br KaliKnock1_4472b702:
 
     # k "Uh, I don't know if I'd put it that way, but sure."
-    k ""
+    k "Uh, eu não sei se eu colocaria dessa forma mas, é, são sim."
 
 # game/scripts/kali_events.rpy:12546
 translate pt_br KaliKnock1_899568c8:
 
     # k "Anyway, it was nice to meet you [name]! I'm Kali by the way... eh, did I already mention that?"
-    k ""
+    k "De qualquer forma, foi bom te conhecer [name]! Aliás, meu nome é Kali... espera, eu já não falei isso?"
 
 # game/scripts/kali_events.rpy:12547
 translate pt_br KaliKnock1_394468db:
 
     # c "If you need anything else, you know where to find me."
-    c ""
+    c "Se precisar de alguma coisa, sabe onde me encontar."
 
 # game/scripts/kali_events.rpy:12548
 translate pt_br KaliKnock1_bd9aefd7:
 
     # k "Oh, really? Thank you!"
-    k ""
+    k "Oh, sério? Obrigada!"
 
 # game/scripts/kali_events.rpy:12568
 translate pt_br kalicafe_13710f0a:
 
     # "After placing your order, you sit down..."
-    ""
+    "Depois de fazer o pedido, você se senta..."
 
 # game/scripts/kali_events.rpy:12570
 translate pt_br kalicafe_c9f22915:
 
     # k "Nnnngh..."
-    k ""
+    k "Nnnngh..."
 
 # game/scripts/kali_events.rpy:12571
 translate pt_br kalicafe_bf4820cf:
 
     # c "What's wrong?"
-    c ""
+    c "Qual o problema?"
 
 # game/scripts/kali_events.rpy:12572
 translate pt_br kalicafe_845e4a1d:
 
     # k "I feel a little... overdressed..."
-    k ""
+    k "Eu me sinto meio... bem vestida demais..."
 
 # game/scripts/kali_events.rpy:12573
 translate pt_br kalicafe_7037c916:
 
     # c "You remembered I invited you to a cafe, right?"
-    c ""
+    c "Você se lembra que eu te convidei para um café, não lembra?"
 
 # game/scripts/kali_events.rpy:12574
 translate pt_br kalicafe_cc038c40:
 
     # k "Yeah..."
-    k ""
+    k "Sim..."
 
 # game/scripts/kali_events.rpy:12575
 translate pt_br kalicafe_9b12ea32:
 
     # k "I just... wanted this night to be memorable, I guess..."
-    k ""
+    k "Eu só... queria que essa noite fosse memorável, eu acho..."
 
 # game/scripts/kali_events.rpy:12576
 translate pt_br kalicafe_c50aea30:
 
     # c "Then don't worry about what everyone else thinks, you look beautiful to me."
-    c ""
+    c "Então não se preocupe sobre oque todo mundo pensa. Para mim, você tá linda."
 
 # game/scripts/kali_events.rpy:12578
 translate pt_br kalicafe_f993cc37:
 
     # k "Thank you..."
-    k ""
+    k "Obrigada..."
 
 # game/scripts/kali_events.rpy:12579
 translate pt_br kalicafe_c8e13e04:
 
     # c "That necklace looks very nice... and expensive. Are those diamonds?"
-    c ""
+    c "Esse colar parece bem chique... e caro. Isso daí são diamantes?"
 
 # game/scripts/kali_events.rpy:12580
 translate pt_br kalicafe_48a4b31d:
 
     # k "Oh, this...? Thanks... Yeah, it was something my father bought for my mother a long time ago."
-    k ""
+    k "Oh, isso...? Obrigada... sim, meu pai comprou para a minha mãe há uns bons tempos atrás."
 
 # game/scripts/kali_events.rpy:12581
 translate pt_br kalicafe_d35508b1:
 
     # c "What happened to her?"
-    c ""
+    c "Oque aconteceu com ela?"
 
 # game/scripts/kali_events.rpy:12582
 translate pt_br kalicafe_f9e2340d:
 
     # k "She's not alive anymore..."
-    k ""
+    k "Ela já faleceu...."
 
 # game/scripts/kali_events.rpy:12583
 translate pt_br kalicafe_1f2716d7:
 
     # c "I see... It fits you well, though."
-    c ""
+    c "Entendo... fica muito bem em você aliás."
 
 # game/scripts/kali_events.rpy:12585
 translate pt_br kalicafe_277d4808:
 
     # k "Huh, this place looks familiar... I think my Dad owns it."
-    k ""
+    k "Huh, esse lugar me parece familiar... eu acho que meu pai é dono da propriedade."
 
 # game/scripts/kali_events.rpy:12586
 translate pt_br kalicafe_4e24c2ca:
 
     # c "Really?"
-    c ""
+    c "Sério mesmo?"
 
 # game/scripts/kali_events.rpy:12588
 translate pt_br kalicafe_9af71ce5:
 
     # k "Yeah! He buys so many businesses and companies I couldn't even begin to list them all."
-    k ""
+    k "Sim! Ele compra tantos lugares e estabelecimentos, eu não conseguiria nem começar a listar todos."
 
 # game/scripts/kali_events.rpy:12589
 translate pt_br kalicafe_f9a65edb:
 
     # c "He sounds very rich."
-    c ""
+    c "Ele parece bastante rico."
 
 # game/scripts/kali_events.rpy:12590
 translate pt_br kalicafe_ef7689b3:
 
     # k "He is, he's one of the richest people in the world..."
-    k ""
+    k "Sim, ele é uma das pessoas mais ricas do mundo..."
 
 # game/scripts/kali_events.rpy:12594
 translate pt_br kalicafe_0feeed3b:
 
     # k "My father doesn't really have time for his children... he's too focused on his business, they take all his time..."
-    k ""
+    k "Meu pai não tem muito tempo para mim e minha irmã.... ele é muito focado nos negócios dele, toma todo o seu tempo..."
 
 # game/scripts/kali_events.rpy:12595
 translate pt_br kalicafe_eb919560:
 
     # c "That's rough..."
-    c ""
+    c "Parece difícil..."
 
 # game/scripts/kali_events.rpy:12596
 translate pt_br kalicafe_a51afd52:
 
     # k "Yeah, so while I'm here living in a fucking hotel, he's flying from house to house all over the world..."
-    k ""
+    k "Sim, então em quanto eu estou vivendo na porra de um hotel, ele está voando de casa em casa no mundo inteiro..."
 
 # game/scripts/kali_events.rpy:12597
 translate pt_br kalicafe_2bf1b914:
 
     # c "He doesn't even help you a little?"
-    c ""
+    c "Ele não te ajuda nem um pouco?"
 
 # game/scripts/kali_events.rpy:12598
 translate pt_br kalicafe_06046b7b:
 
     # k "He doesn't want to. He wants me to earn everything the way he did, through hard work and dedication."
-    k ""
+    k "Ele não quer. Ele quer que eu aprenda tudo do jeito que ele aprendeu. Através do trabalho duro e dedicação."
 
 # game/scripts/kali_events.rpy:12599
 translate pt_br kalicafe_fc0ae149:
 
     # c "Surely you could get a job here then."
-    c ""
+    c "Você pode pegar um trabalho aqui na cafeteria então."
 
 # game/scripts/kali_events.rpy:12601
 translate pt_br kalicafe_a8a4f27e:
 
     # k "Ergh, here...? I hate coffee, remember? But, I guess I could... he wouldn't give me any special treatment though."
-    k ""
+    k "Ergh, aqui...? Eu odeio café, lembra? Mas, eu acho que eu poderia... ele não me daria nenhum tratamento especial também."
 
 # game/scripts/kali_events.rpy:12603
 translate pt_br kalicafe_6c24a7fb:
 
     # k "Don't worry, I have enough money saved up to pay rent for the next couple of weeks. I'm sure I'll find a job soon..."
-    k ""
+    k "Mas não se preocupe, eu tenho dinheiro o bastante para pagar a estadia pelas próximas semanas. Eu com certeza vou encontrar um trabalho logo..."
 
 # game/scripts/kali_events.rpy:12604
 translate pt_br kalicafe_0b3898b0:
 
     # c "You could still work as a maid..."
-    c ""
+    c "Você ainda pode trabalhar como empregada..."
 
 # game/scripts/kali_events.rpy:12606
 translate pt_br kalicafe_19f25e6a:
 
     # k "Dress up in a slutty maid uniform? I bet you'd like that, wouldn't you?"
-    k ""
+    k "E vestir um uniforme de empregada safado? Aposto que você gostaria disso, não é?"
 
 # game/scripts/kali_events.rpy:12607
 translate pt_br kalicafe_4a20bd78:
 
     # k "Actually, don't answer that. It's not happening either way..."
-    k ""
+    k "Na verdade, não responda. Não vai acontecer, de qualquer forma..."
 
 # game/scripts/kali_events.rpy:12608
 translate pt_br kalicafe_2bb6b116:
 
     # c "You would look adorable, though."
-    c ""
+    c "Mesmo assim, ficaria muito bem em você."
 
 # game/scripts/kali_events.rpy:12610
 translate pt_br kalicafe_a2788b5a:
 
     # k "Whatever..."
-    k ""
+    k "Tanto faz..."
 
 # game/scripts/kali_events.rpy:12612
 translate pt_br kalicafe_4541455d:
 
     # k "So, how's the hotel going?"
-    k ""
+    k "Então, como está indo as coisas com o hotel?"
 
 # game/scripts/kali_events.rpy:12615
 translate pt_br kalicafe_dff822a9:
 
     # k "I guess we both have lame parents then... Well, in your case it's your grandfather I guess."
-    k ""
+    k "Eu acho que nós dois temos pais problemáticos então... bem, no seu caso o seu avô."
 
 # game/scripts/kali_events.rpy:12617
 translate pt_br kalicafe_d3212ceb:
 
     # k "That's the spirit."
-    k ""
+    k "Esse é o espiríto."
 
 # game/scripts/kali_events.rpy:12618
 translate pt_br kalicafe_50739020:
 
     # k "I met your elf, she's cute... I'm not very used to seeing them."
-    k ""
+    k "Eu conheci sua elfa, ela é fofa... eu não estou acostumada a ver eles."
 
 # game/scripts/kali_events.rpy:12619
 translate pt_br kalicafe_2724651d:
 
     # c "Lin is the first elf I've gotten to know, she does great work. I'm glad to have her."
-    c ""
+    c "Lin é a primeiro elfo que eu conheci, ela se esforça bastatnte. Estou orgulhoso de ter ela no hotel."
 
 # game/scripts/kali_events.rpy:12620
 translate pt_br kalicafe_dda4a51c:
 
     # k "Oh, nice... I guess since we're both from outside of Syl'anar, we have one thing in common at least."
-    k ""
+    k "Oh, boa... eu acho que como nós dois somos ambos fora de Syl'anar, nós temos uma coisa em comum pelo menos."
 
 # game/scripts/kali_events.rpy:12621
 translate pt_br kalicafe_85fb5bba:
 
     # k "It kind of sucks that there's no snow here, but I've never been so close to a rainforest. I kind of want to fly there some day, maybe see the pyramids... or even the old elvish capital."
-    k ""
+    k "É uma droga que não tem neve aqui, mas eu nunca estive tão perto de uma rainforest. Eu meio que quero voar para lá algum dia, talvez ver as pirâmides... ou até mesmo a antiga capital élfica."
 
 # game/scripts/kali_events.rpy:12622
 translate pt_br kalicafe_6ef2949d:
 
     # c "Maybe we can go together."
-    c ""
+    c "Talvez nós possamos ir juntos."
 
 # game/scripts/kali_events.rpy:12623
 translate pt_br kalicafe_9e066070:
 
     # k "Heh, you think? That would be... cool."
-    k ""
+    k "Heh, você acha? Isso seria... legal."
 
 # game/scripts/kali_events.rpy:12624
 translate pt_br kalicafe_7e689bf1:
 
     # k "I don't really... do much... so if you ever want to do something just... let me know, alright?"
-    k ""
+    k "Eu não sou muito ocupada... então... se você quiser fazer alguma coisa juntos, só... me chame, Ok?"
 
 # game/scripts/kali_events.rpy:12625
 translate pt_br kalicafe_993ba4d9:
 
     # c "Sounds good."
-    c ""
+    c "Parece uma boa idéia."
 
 # game/scripts/kali_events.rpy:12626
 translate pt_br kalicafe_2ebc91fe:
 
     # c "So, what else does your father do? Maybe we could enter into a business arrangement."
-    c ""
+    c "Então, oque mais seu pai faz? Talvez nós possamos entrar na carreira de negócios. "
 
 # game/scripts/kali_events.rpy:12628
 translate pt_br kalicafe_11b94d43:
 
     # k "Umm... well I don't want you to look at me different, so... I don't know how much I should say..."
-    k ""
+    k "Umm... bem, eu não quero que você me olhe de outra forma, então... eu não sei muito oque dizer..."
 
 # game/scripts/kali_events.rpy:12629
 translate pt_br kalicafe_bb00a52c:
 
     # c "What do you mean?"
-    c ""
+    c "Oque você quer dizer?"
 
 # game/scripts/kali_events.rpy:12630
 translate pt_br kalicafe_c56bfba2:
 
     # k "He's not a slave master or anything... I just want you to see me for me and not for my fathers money..."
-    k ""
+    k "Ele não um dono de escravos nem nada... eu só quero que você me veja pelo oque eu sou, e não pelo diheiro do meu pai..."
 
 # game/scripts/kali_events.rpy:12631
 translate pt_br kalicafe_24366554:
 
     # c "I understand."
-    c ""
+    c "Eu entendo."
 
 # game/scripts/kali_events.rpy:12632
 translate pt_br kalicafe_c4d7aee5:
 
     # k "He's in a lot of businesses though, and if yours is profitable, I'm sure you could get his attention..."
-    k ""
+    k "Mas ele gerencia vários negócios, e se ele pode sair com mais dinheiro no final tenho certeza que pode chamar a atenção dele..."
 
 # game/scripts/kali_events.rpy:12633
 translate pt_br kalicafe_dc2e2b92:
 
     # k "And before you ask, yeah, that's all it takes. He doesn't really care what you do, so long as it's legal and profitable."
-    k ""
+    k "E antes que você pergunte, sim, essa é a única exigência dele. Ele não se importa com oque você faz, contanto que seja legal e dê retorno."
 
 # game/scripts/kali_events.rpy:12634
 translate pt_br kalicafe_6f1a9ff1:
 
     # k "But he's not a greedy asshole... Well, he's not an asshole at least. He loves helping small businesses grow and flourish."
-    k ""
+    k "Mas ele não é um grande babaca... bem, pelo menos ele não é um grand babaca. Ele gosta de ajudar pequenas empresas à crescer e florescer."
 
 # game/scripts/kali_events.rpy:12635
 translate pt_br kalicafe_2512720f:
 
     # k "But, anyway, enough about my father. I kind of hate his guts right now..."
-    k ""
+    k "Mas, de qualquer forma, chega de falar do meu pai. Eu meio que odeio ele no momento..."
 
 # game/scripts/kali_events.rpy:12636
 translate pt_br kalicafe_e20d1582:
 
     # c "What do you enjoy doing in your free time?"
-    c ""
+    c "Oque você gosta de fazer no tempo livre?"
 
 # game/scripts/kali_events.rpy:12638
 translate pt_br kalicafe_587288d6:
 
     # k "Oh, I guess I'm on my computer most days... playing games, looking at- uh... videos and stuff... browsing the internet..."
-    k ""
+    k "Oh, Eu acho que mexer no computador... jogar videogames, assistir ví- uh... vídeo e essas coisas... navegar na internet..."
 
 # game/scripts/kali_events.rpy:12639
 translate pt_br kalicafe_717e9d7d:
 
     # k "Sometimes I read books when I'm really bored... or play chess... but that's when I'm {i}really{/i} bored..."
-    k ""
+    k "As vezes eu leio algum livro quando eu estou entendiada... ou jogo xadrez... mas isso é quando eu estou {i}realmente{/i} entendiada..."
 
 # game/scripts/kali_events.rpy:12640
 translate pt_br kalicafe_591aa1d9:
 
     # k "I also like to do squats first thing in the morning, it helps me wake up, and exercise is always good, right?"
-    k ""
+    k "Eu também gosto de fazer squats de manhã, me ajuda a acordar, e exercício é sempre bom, né?"
 
 # game/scripts/kali_events.rpy:12641
 translate pt_br kalicafe_50100f9d:
 
     # c "It has certainly been good for your ass."
-    c ""
+    c "Certamente foi bom para a sua bunda."
 
 # game/scripts/kali_events.rpy:12643
 translate pt_br kalicafe_02cb09c7:
 
     # k "Heh... that's right, you did see it..."
-    k ""
+    k "Heh... poisé, você percebeu..."
 
 # game/scripts/kali_events.rpy:12645
 translate pt_br kalicafe_f54b5a32:
 
     # k "W-Well I hope it's burned into your head, because that was the last time you're going to see it..."
-    k ""
+    k "B-Bem, eu espero que esteja gravado na sua mente, porquê que essa foi a última vez que você viu..."
 
 # game/scripts/kali_events.rpy:12646
 translate pt_br kalicafe_4629bc64:
 
     # c "Oh, I've already been friend zoned?"
-    c ""
+    c "Oh, já estou na friend zone?"
 
 # game/scripts/kali_events.rpy:12648
 translate pt_br kalicafe_bfc1be55:
 
     # k "W-What? Absolutely not!"
-    k ""
+    k "O-Oque? Claro que não!"
 
 # game/scripts/kali_events.rpy:12650
 translate pt_br kalicafe_5fd20f3a:
 
     # k "I mean, whatever! Shut up..."
-    k ""
+    k "Quer dizer, sei lá! Cala a boca..."
 
 # game/scripts/kali_events.rpy:12651
 translate pt_br kalicafe_f1cb2602:
 
     # k "I just hope you enjoyed it while it lasted... Hmph..."
-    k ""
+    k "Eu só espero que você tenha aproveitado em quanto durou... hmph..."
 
 # game/scripts/kali_events.rpy:12652
 translate pt_br kalicafe_9aa7a3a2:
 
     # c "I did."
-    c ""
+    c "Eu aproveitei."
 
 # game/scripts/kali_events.rpy:12653
 translate pt_br kalicafe_ec03a10f:
 
     # k "G-Good..."
-    k ""
+    k "B-Bom..."
 
 # game/scripts/kali_events.rpy:12655
 translate pt_br kalicafe_15d36fd1:
 
     # ba "Here is your lemonade, ma'am."
-    ba ""
+    ba "Aqui está sua limonada, senhora."
 
 # game/scripts/kali_events.rpy:12656
 translate pt_br kalicafe_81dea93e:
 
     # k "Oh, thank you."
-    k ""
+    k "Oh, obrigada."
 
 # game/scripts/kali_events.rpy:12658
 translate pt_br kalicafe_4b757eba:
 
     # "You and Kali talk a bit more about various things over the course of about 10 minutes..."
-    ""
+    "Você e Kali conversam mais um pouco sobre várias outras coisas por 10 minutos..."
 
 # game/scripts/kali_events.rpy:12660
 translate pt_br kalicafe_4b7ede66:
 
     # k "Well, I should get going. Thanks for taking me out. I mean, it's not like it was a date so..."
-    k ""
+    k "Bem, eu já devo ir. Obrigada por me levar para sair. Quero dizer, não é como se isso foi um econtro nem nada..."
 
 # game/scripts/kali_events.rpy:12662
 translate pt_br kalicafe_4fdd712c:
 
     # k "And don't tell anyone I came here. I don't want anyone thinking I like... coffee."
-    k ""
+    k "E não diga à ninguém que eu vim aqui. Não quero que ninguém saiba que eu gosto de... café..."
 
 # game/scripts/kali_events.rpy:12663
 translate pt_br kalicafe_bd805a76:
 
     # c "No problem."
-    c ""
+    c "Sem prolema."
 
 # game/scripts/kali_events.rpy:12676
 translate pt_br kalisorry1_ac86fd36:
 
     # k "Oh, hey..."
-    k ""
+    k "Oh, ei..."
 
 # game/scripts/kali_events.rpy:12677
 translate pt_br kalisorry1_41b7da5b:
 
     # k "Listen... I'm sorry about the other day. My father told me I would be staying in this shitty town for another year."
-    k ""
+    k "Escuta... Me desculpa pelo outro dia. Meu pai me contou que eu vou ficar nessa droga de cidade por mais um ano."
 
 # game/scripts/kali_events.rpy:12680
 translate pt_br kalisorry1_24be09b5:
 
     # k "God I fucking hate him!"
-    k ""
+    k "Deus, eu odeio ele para caralho!"
 
 # game/scripts/kali_events.rpy:12681
 translate pt_br kalisorry1_60046919:
 
     # k "What kind of father leaves his daughter in another country with no way of leaving!?"
-    k ""
+    k "Que tipo de pai deixa a filha em outro país sem nenhuma forma de viver!?"
 
 # game/scripts/kali_events.rpy:12684
 translate pt_br kalisorry1_8dbf64a8:
 
     # k "I don't even have a fucking job..."
-    k ""
+    k "Eu nem mesmo tenho um emprego...."
 
 # game/scripts/kali_events.rpy:12688
 translate pt_br kalisorry1_835e6417:
 
     # k "Oh... You don't need to do that. I should be able to find a job myself."
-    k ""
+    k "Oh... Você não precisa fazer isso. Eu tenho de ser capaz de achar um emprego eu mesma."
 
 # game/scripts/kali_events.rpy:12694
 translate pt_br kalisorry1_2bcd77db:
 
     # k "I would rather die than wear a maid outfit."
-    k ""
+    k "Eu prefiro morror do que usar uma roupa de empregada."
 
 # game/scripts/kali_events.rpy:12699
 translate pt_br kalisorry1_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:12702
 translate pt_br kalisorry1_29d0ae2a:
 
     # k "I should fucking kill you for saying that."
-    k ""
+    k "Eu devia te matar por dizer isso."
 
 # game/scripts/kali_events.rpy:12707
 translate pt_br kalisorry1_8c910cf9:
 
     # k "Anyway... my name's Kali. Don't be annoying and we'll be great friends."
-    k ""
+    k "De qualquer forma... meu nome é Kali. Não seja um babaca e nós seremos grandes amigos."
 
 # game/scripts/kali_events.rpy:12708
 translate pt_br kalisorry1_b2205f80:
 
     # c "I'm [name]."
-    c ""
+    c "Meu nome é [name]."
 
 # game/scripts/kali_events.rpy:12711
 translate pt_br kalisorry1_56f32615:
 
     # k "I'll be in my room if you need me. Good luck with the place."
-    k ""
+    k "Eu estarei no meu quarto se precisar de mim. Boa sorte com o hotel."
 
 # game/scripts/kali_events.rpy:12722
 translate pt_br kaliroom_971db94c:
 
     # c "Kali isn't in her room anymore."
-    c ""
+    c "Kali não está mais no seu quarto."
 
 # game/scripts/kali_events.rpy:12768
 translate pt_br kaliroom_f828beea:
 
     # k "Hey, it's getting pretty late... what's up?"
-    k ""
+    k "Ei, está ficando bem tarde... Oque foi?"
 
 # game/scripts/kali_events.rpy:12796
 translate pt_br kaliroom_f828beea_1:
 
     # k "Hey, it's getting pretty late... what's up?"
-    k ""
+    k "Ei, está ficando bem tarde... Oque foi?"
 
 # game/scripts/kali_events.rpy:12830
 translate pt_br kaliroomchoices_eeb548db:
 
     # c "How are you?"
-    c ""
+    c "Como você está?"
 
 # game/scripts/kali_events.rpy:12831
 translate pt_br kaliroomchoices_e16fb914:
 
     # k "I'm alright, I guess."
-    k ""
+    k "Bem, eu acho."
 
 # game/scripts/kali_events.rpy:12832
 translate pt_br kaliroomchoices_e6951c84:
 
     # k "The place kind of sucks, but at least it's affordable."
-    k ""
+    k "O lugar é uma droga, mas pelo menos é barato."
 
 # game/scripts/kali_events.rpy:12860
 translate pt_br kaliroomchoices_eeb548db_1:
 
     # c "How are you?"
-    c ""
+    c "Como você está?"
 
 # game/scripts/kali_events.rpy:12861
 translate pt_br kaliroomchoices_aab5ada1:
 
     # k "Not too bad."
-    k ""
+    k "Não tão ruim."
 
 # game/scripts/kali_events.rpy:12892
 translate pt_br kaliroomchoices_a5cd05d6:
 
     # k "Hey [name]!"
-    k ""
+    k "Ei [name]!"
 
 # game/scripts/kali_events.rpy:12896
 translate pt_br kalitalk_549aa430:
 
     # k "Tired... but I guess I could stay up longer if I had an energy drink..."
-    k ""
+    k "Cansada... Mas eu acho que eu conseguiria ficar acordada mais um pouco se eu tivesse um energético."
 
 # game/scripts/kali_events.rpy:12898
 translate pt_br kalitalk_01e07849:
 
     # k "I'm fine..."
-    k ""
+    k "Eu tô bem...."
 
 # game/scripts/kali_events.rpy:12901
 translate pt_br kalitalk_c546e89c:
 
     # k "I'm okay I guess."
-    k ""
+    k "Estou bem, eu acho."
 
 # game/scripts/kali_events.rpy:12904
 translate pt_br kalitalk_3a6c9d55:
 
     # k "I'm good, thanks! You?"
-    k ""
+    k "Estou bem, obrigada! E você?"
 
 # game/scripts/kali_events.rpy:12907
 translate pt_br kalitalk_1680144b:
 
     # k "I'm doing great [name]!"
-    k ""
+    k "Eu estou bem [name]!"
 
 # game/scripts/kali_events.rpy:12915
 translate pt_br kaliinteract_dfba945c:
 
     # k "Thanks..."
-    k ""
+    k "Obrigada..."
 
 # game/scripts/kali_events.rpy:12920
 translate pt_br kaliinteract_2dbeb312:
 
     # k "We could be doing more, you know..."
-    k ""
+    k "Nós poderíamos estar fazendo mais, você sabe..."
 
 # game/scripts/kali_events.rpy:12923
 translate pt_br kaliinteract_9056ca8d:
 
     # k "Thank you~"
-    k ""
+    k "Obrigada~"
 
 # game/scripts/kali_events.rpy:12926
 translate pt_br kaliinteract_0a5583a7:
 
     # k "What is this..."
-    k ""
+    k "Oque é isso..."
 
 # game/scripts/kali_events.rpy:12929
 translate pt_br kaliinteract_d1f4aa81:
 
     # k "Heheh, you're so weird..."
-    k ""
+    k "Heheh, você é tão estranho..."
 
 # game/scripts/kali_events.rpy:12932
 translate pt_br kaliinteract_dfba945c_1:
 
     # k "Thanks..."
-    k ""
+    k "Obrigada..."
 
 # game/scripts/kali_events.rpy:12936
 translate pt_br kaliinteract_e62dece0:
 
     # k "Awww..."
-    k ""
+    k "Awww..."
 
 # game/scripts/kali_events.rpy:12939
 translate pt_br kaliinteract_7d7268cf:
 
     # k "Heh, weirdo..."
-    k ""
+    k "Heh, esquisitão..."
 
 # game/scripts/kali_events.rpy:12942
 translate pt_br kaliinteract_f993cc37:
 
     # k "Thank you..."
-    k ""
+    k "Obrigada..."
 
 # game/scripts/kali_events.rpy:12945
 translate pt_br kaliinteract_010b5145:
 
     # k "Wh-What is this...? Weirdo..."
-    k ""
+    k "Oq-Oque é isso...? Seu esquisito..."
 
 # game/scripts/kali_events.rpy:12950
 translate pt_br kaliinteract_2ff1a4d3:
 
     # k "Mmp... mmmh..."
-    k ""
+    k "Mmp... mmmh..."
 
 # game/scripts/kali_events.rpy:12955
 translate pt_br kaliinteract_f6de48f5:
 
     # k "Mmmh~"
-    k ""
+    k "Mmmh~"
 
 # game/scripts/kali_events.rpy:12958
 translate pt_br kaliinteract_12f54508:
 
     # k "Mmmph..."
-    k ""
+    k "Mmmph..."
 
 # game/scripts/kali_events.rpy:12961
 translate pt_br kaliinteract_245431b2:
 
     # k "Llll..."
-    k ""
+    k "Llll..."
 
 # game/scripts/kali_events.rpy:12964
 translate pt_br kaliinteract_1d71d0e1:
 
     # k "Love you~"
-    k ""
+    k "Eu te amo~"
 
 # game/scripts/kali_events.rpy:12967
 translate pt_br kaliinteract_12f54508_1:
 
     # k "Mmmph..."
-    k ""
+    k "Mmmph..."
 
 # game/scripts/kali_events.rpy:12971
 translate pt_br kaliinteract_75f1ae1e:
 
     # k "Mmmp... mmmph..."
-    k ""
+    k "Mmmp... mmmph..."
 
 # game/scripts/kali_events.rpy:12974
 translate pt_br kaliinteract_3dafde7b:
 
     # k "Lllnn... you're so hot..."
-    k ""
+    k "Lllnn... Você é tão gostoso..."
 
 # game/scripts/kali_events.rpy:12977
 translate pt_br kaliinteract_951f7c2b:
 
     # k "Hnnn... mmmp..."
-    k ""
+    k "Hnnn... mmmp..."
 
 # game/scripts/kali_events.rpy:12980
 translate pt_br kaliinteract_78cebbcc:
 
     # k "Hmm~ I love you..."
-    k ""
+    k "Hmm~ Eu te amo..."
 
 # game/scripts/kali_events.rpy:12986
 translate pt_br kaliinteract_3c1b08f5:
 
     # k "Mmmh..."
-    k ""
+    k "Mmmh..."
 
 # game/scripts/kali_events.rpy:12991
 translate pt_br kaliinteract_6ae56ef1:
 
     # k "Is that your phone or are you just happy to see me?"
-    k ""
+    k "Isso foi o seu celular ou você só está feliz em me ver?"
 
 # game/scripts/kali_events.rpy:12994
 translate pt_br kaliinteract_26b62b33:
 
     # k "Mmm~"
-    k ""
+    k "Mmm~"
 
 # game/scripts/kali_events.rpy:12997
 translate pt_br kaliinteract_f11116fe:
 
     # k "Come closer!"
-    k ""
+    k "Chega mais perto!"
 
 # game/scripts/kali_events.rpy:13000
 translate pt_br kaliinteract_5f69aad7:
 
     # k "I need that, thanks..."
-    k ""
+    k "Eu precisava disso, obrigada..."
 
 # game/scripts/kali_events.rpy:13003
 translate pt_br kaliinteract_f2d6bb36:
 
     # k "Thanks, I needed that..."
-    k ""
+    k "Obrigada, eu precisava disso..."
 
 # game/scripts/kali_events.rpy:13007
 translate pt_br kaliinteract_63cfc23d:
 
     # k "Love you..."
-    k ""
+    k "Te amo..."
 
 # game/scripts/kali_events.rpy:13010
 translate pt_br kaliinteract_231c5226:
 
     # k "This is... nice."
-    k ""
+    k "Isso foi... bom."
 
 # game/scripts/kali_events.rpy:13013
 translate pt_br kaliinteract_beb4c158:
 
     # k "Mmmph... thank you..."
-    k ""
+    k "Mmmph... Obrigada..."
 
 # game/scripts/kali_events.rpy:13016
 translate pt_br kaliinteract_660dda31:
 
     # k "This is so nice..."
-    k ""
+    k "Isso foi muito bom..."
 
 # game/scripts/kali_events.rpy:13051
 translate pt_br kaliinteract_68f8d3e8:
 
     # "I need to raise her Affection..."
-    ""
+    "Eu preciso aumentar a afeição dela..."
 
 # game/scripts/kali_events.rpy:13079
 translate pt_br kaliinteract_bd15db5a:
 
     # k "Not happening."
-    k ""
+    k "Não, sem chance."
 
 # game/scripts/kali_events.rpy:13108
 translate pt_br kaliinteract_ff686071:
 
     # c "I want you to wear something else while you're hanging out in the hotel."
-    c ""
+    c "Eu quero que você use outra roupa em quanto estiver no hotel."
 
 # game/scripts/kali_events.rpy:13109
 translate pt_br kaliinteract_4b48641c:
 
     # k "Sure, I guess."
-    k ""
+    k "Ok, eu acho."
 
 # game/scripts/kali_events.rpy:13112
 translate pt_br kalioutfits_046134fd:
 
     # "She's already wearing that."
-    ""
+    "Ela já está usando essa roupa."
 
 # game/scripts/kali_events.rpy:13115
 translate pt_br kalioutfits_6917a82e:
 
     # k "Alright."
-    k ""
+    k "Tudo bem."
 
 # game/scripts/kali_events.rpy:13129
 translate pt_br kalioutfits_046134fd_1:
 
     # "She's already wearing that."
-    ""
+    "Ela já está usando essa roupa."
 
 # game/scripts/kali_events.rpy:13132
 translate pt_br kalioutfits_9888278b:
 
     # "I need to buy it first."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13135
 translate pt_br kalioutfits_3424a90e:
 
     # k "Hm, sure!"
-    k ""
+    k "Hm, claro!"
 
 # game/scripts/kali_events.rpy:13149
 translate pt_br kalioutfits_046134fd_2:
 
     # "She's already wearing that."
-    ""
+    "Ela já está usando essa roupa."
 
 # game/scripts/kali_events.rpy:13152
 translate pt_br kalioutfits_9888278b_1:
 
     # "I need to buy it first."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13155
 translate pt_br kalioutfits_b621322b:
 
     # k "Sure."
-    k ""
+    k "Claro."
 
 # game/scripts/kali_events.rpy:13169
 translate pt_br kalioutfits_046134fd_3:
 
     # "She's already wearing that."
-    ""
+    "Ela já está usando essa roupa."
 
 # game/scripts/kali_events.rpy:13172
 translate pt_br kalioutfits_9888278b_2:
 
     # "I need to buy it first."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13175
 translate pt_br kalioutfits_ea43300a:
 
     # k "Yes sir."
-    k ""
+    k "Sim senhor."
 
 # game/scripts/kali_events.rpy:13189
 translate pt_br kalioutfits_046134fd_4:
 
     # "She's already wearing that."
-    ""
+    "Ela já está usando essa roupa."
 
 # game/scripts/kali_events.rpy:13192
 translate pt_br kalioutfits_9888278b_3:
 
     # "I need to buy it first."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13195
 translate pt_br kalioutfits_5f2e4934:
 
     # k "Can do."
-    k ""
+    k "Tá certo."
 
 # game/scripts/kali_events.rpy:13209
 translate pt_br kalioutfits_046134fd_5:
 
     # "She's already wearing that."
-    ""
+    "Ela já está usando essa roupa."
 
 # game/scripts/kali_events.rpy:13212
 translate pt_br kalioutfits_9888278b_4:
 
     # "I need to buy it first."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13215
 translate pt_br kalioutfits_6917a82e_1:
 
     # k "Alright."
-    k ""
+    k "Beleza."
 
 # game/scripts/kali_events.rpy:13229
 translate pt_br kalioutfits_186eaac0:
 
     # "I need to increase her level."
-    ""
+    "Eu preciso aumentar o nivel dela."
 
 # game/scripts/kali_events.rpy:13232
 translate pt_br kalioutfits_046134fd_6:
 
     # "She's already wearing that."
-    ""
+    "Ela já está usando essa roupa."
 
 # game/scripts/kali_events.rpy:13235
 translate pt_br kalioutfits_6917a82e_2:
 
     # k "Alright."
-    k ""
+    k "Beleza."
 
 # game/scripts/kali_events.rpy:13249
 translate pt_br kalioutfits_046134fd_7:
 
     # "She's already wearing that."
-    ""
+    "Ela já está usando essa roupa."
 
 # game/scripts/kali_events.rpy:13252
 translate pt_br kalioutfits_9888278b_5:
 
     # "I need to buy it first."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13256
 translate pt_br kalioutfits_71fbaff9:
 
     # k "Oh, sure."
-    k ""
+    k "Oh, claro."
 
 # game/scripts/kali_events.rpy:13270
 translate pt_br kalioutfits_88aab539:
 
     # k "I'm am not your slut."
-    k ""
+    k "Eu não sou uma vagabunda."
 
 # game/scripts/kali_events.rpy:13275
 translate pt_br kalioutfits_046134fd_8:
 
     # "She's already wearing that."
-    ""
+    "Ela já está usando essa roupa."
 
 # game/scripts/kali_events.rpy:13278
 translate pt_br kalioutfits_9888278b_6:
 
     # "I need to buy it first."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13282
 translate pt_br kalioutfits_113e5b81:
 
     # k "O-Oh, okay..."
-    k ""
+    k "O-Oh, ok..."
 
 # game/scripts/kali_events.rpy:13320
 translate pt_br kalioutfits_b1e3ace8:
 
     # k "Never happening..."
-    k ""
+    k "Nem ferrando..."
 
 # game/scripts/kali_events.rpy:13321
 translate pt_br kalioutfits_65f7e9b7:
 
     # "Her submission and exhibitionism are too low..."
-    ""
+    "A subimissão e exibicionismo dela estão muito baixos..."
 
 # game/scripts/kali_events.rpy:13354
 translate pt_br kalioutfits_88e766bf:
 
     # k "Urgh, gross..."
-    k ""
+    k "Urgh, que horrível..."
 
 # game/scripts/kali_events.rpy:13383
 translate pt_br kalioutfits_f8afe4eb:
 
     # k "Oh, what do you have in mind...?"
-    k ""
+    k "Oh, no que você está pensando?"
 
 # game/scripts/kali_events.rpy:13389
 translate pt_br kalioutfits_84f5a16b:
 
     # k "Oh, back to Kali? Okay."
-    k ""
+    k "Oh, de volta para kali? Ok."
 
 # game/scripts/kali_events.rpy:13391
 translate pt_br kalioutfits_7c1d033a:
 
     # k "[kaliname]...? Well, if it makes you happy."
-    k ""
+    k "[kaliname]...? Bem, se isso te deixa feliz."
 
 # game/scripts/kali_events.rpy:13396
 translate pt_br kalioutfits_5e86d3d9:
 
     # k "At this time? I'd rather just get an energy drink from the kitchen..."
-    k ""
+    k "Agora? Eu prefiriria pegar só um energético na cozinha..."
 
 # game/scripts/kali_events.rpy:13424
 translate pt_br kalioutfits_e7496ded:
 
     # k "Not interested..."
-    k ""
+    k "Não, obrigada..."
 
 # game/scripts/kali_events.rpy:13427
 translate pt_br kalioutfits_5932df6c:
 
     # k "Yeah, sure. Sounds fun."
-    k ""
+    k "Sim, claro. Parece divertido."
 
 # game/scripts/kali_events.rpy:13461
 translate pt_br kalioutfits_bccde3c8:
 
     # k "What? Ew..."
-    k ""
+    k "Que? Ew..."
 
 # game/scripts/kali_events.rpy:13462
 translate pt_br kalioutfits_138ce778:
 
     # "I need to raise Kali's friendship..."
-    ""
+    "Eu preciso aumentar a amizada da Kali..."
 
 # game/scripts/kali_events.rpy:13491
 translate pt_br kalioutfits_eddbd324:
 
     # k "Oh... sure, what did you have in mind?"
-    k ""
+    k "Oh... claro, no que você está pensando?"
 
 # game/scripts/kali_events.rpy:13494
 translate pt_br kalioutfits_71fbaff9_1:
 
     # k "Oh, sure."
-    k ""
+    k "Oh, claro."
 
 # game/scripts/kali_events.rpy:13500
 translate pt_br kalifreemenu_ad8a7a05:
 
     # "I need to raise her relationship level."
-    ""
+    "Eu preciso aumentar meu relacionamento com ela."
 
 # game/scripts/kali_events.rpy:13506
 translate pt_br kalifreemenu_0438e42c:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13512
 translate pt_br kalifreemenu_0438e42c_1:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13518
 translate pt_br kalifreemenu_ad8a7a05_1:
 
     # "I need to raise her relationship level."
-    ""
+    "Eu preciso aumentar meu relacionamento com ela."
 
 # game/scripts/kali_events.rpy:13524
 translate pt_br kalifreemenu_0438e42c_2:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13530
 translate pt_br kalifreemenu_0438e42c_3:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13544
 translate pt_br kaliblowmenu_ad8a7a05:
 
     # "I need to raise her relationship level."
-    ""
+    "Eu preciso aumentar meu relacionamento com ela."
 
 # game/scripts/kali_events.rpy:13550
 translate pt_br kaliblowmenu_0438e42c:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13556
 translate pt_br kaliblowmenu_0438e42c_1:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13562
 translate pt_br kaliblowmenu_ad8a7a05_1:
 
     # "I need to raise her relationship level."
-    ""
+    "Eu preciso aumentar meu relacionamento com ela."
 
 # game/scripts/kali_events.rpy:13568
 translate pt_br kaliblowmenu_0438e42c_2:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13574
 translate pt_br kaliblowmenu_0438e42c_3:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13587
 translate pt_br kalimismenu_ad8a7a05:
 
     # "I need to raise her relationship level."
-    ""
+    "Eu preciso aumentar meu relacionamento com ela."
 
 # game/scripts/kali_events.rpy:13593
 translate pt_br kalimismenu_0438e42c:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13599
 translate pt_br kalimismenu_0438e42c_1:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13605
 translate pt_br kalimismenu_ad8a7a05_1:
 
     # "I need to raise her relationship level."
-    ""
+    "Eu preciso aumentar meu relacionamento com ela."
 
 # game/scripts/kali_events.rpy:13611
 translate pt_br kalimismenu_0438e42c_2:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13617
 translate pt_br kalimismenu_0438e42c_3:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13624
 translate pt_br kalimismenu_89d0de95:
 
     # k "Um... how do you want me dressed?"
-    k ""
+    k "Um... como você quer que eu me vista?"
 
 # game/scripts/kali_events.rpy:13630
 translate pt_br kalimismenu_53235d36:
 
     # k "Are you ready [name]?"
-    k ""
+    k "Você está pronto [name]?"
 
 # game/scripts/kali_events.rpy:13632
 translate pt_br kalimismenu_cd1a85e3:
 
     # k "Ahh... my boobs feel funny when your dick is between them..."
-    k ""
+    k "Ahh... meus seios ficam estranhos com seu pau entre eles..."
 
 # game/scripts/kali_events.rpy:13633
 translate pt_br kalimismenu_ecb40363:
 
     # k "Does it feel good [linoname]?"
-    k ""
+    k "Assim está bom [linoname]?"
 
 # game/scripts/kali_events.rpy:13634
 translate pt_br kalimismenu_f998e46e:
 
     # k "Heh, I know it does..."
-    k ""
+    k "Heh, eu sei que sim..."
 
 # game/scripts/kali_events.rpy:13635
 translate pt_br kalimismenu_eefb709b:
 
     # k "Are you going to cum soon? I want your cum on my boobs..."
-    k ""
+    k "Você vai gozar? Eu quero que seja nos meus seios..."
 
 # game/scripts/kali_events.rpy:13639
 translate pt_br kalimismenu_66deae9f:
 
     # k "Ahh! Mmmm..." with ssshake
-    k "" with ssshake
+    k "Ahh! Mmmm..." with ssshake
 
 # game/scripts/kali_events.rpy:13640
 translate pt_br kalimismenu_2bd4b217:
 
     # k "You came all over my tits [linoname]..."
-    k ""
+    k "Tem tanto entre os meus peitos [linoname]..."
 
 # game/scripts/kali_events.rpy:13651
 translate pt_br kalimismenu_53235d36_1:
 
     # k "Are you ready [name]?"
-    k ""
+    k "Você está pronto [name]?"
 
 # game/scripts/kali_events.rpy:13653
 translate pt_br kalimismenu_d83482e3:
 
     # k "Ahh... My boobs feel funny when your dick is between them..."
-    k ""
+    k "Ahh... meus seios ficam estranhos com seu pau entre eles..."
 
 # game/scripts/kali_events.rpy:13654
 translate pt_br kalimismenu_28e18ed7:
 
     # k "Does it feel good [name]?"
-    k ""
+    k "Assim está bom [name]?"
 
 # game/scripts/kali_events.rpy:13655
 translate pt_br kalimismenu_f998e46e_1:
 
     # k "Heh, I know it does..."
-    k ""
+    k "Heh, eu sei que sim..."
 
 # game/scripts/kali_events.rpy:13656
 translate pt_br kalimismenu_eefb709b_1:
 
     # k "Are you going to cum soon? I want your cum on my boobs..."
-    k ""
+    k "Você vai gozar? Eu quero que seja nos meus seios..."
 
 # game/scripts/kali_events.rpy:13660
 translate pt_br kalimismenu_66deae9f_1:
 
     # k "Ahh! Mmmm..." with ssshake
-    k "" with ssshake
+    k "Ahh! Mmmm..." with ssshake
 
 # game/scripts/kali_events.rpy:13661
 translate pt_br kalimismenu_65d9bb66:
 
     # k "You came all over my tits [name]..."
-    k ""
+    k "Tem tanto entre os meus peitos [name]..."
 
 # game/scripts/kali_events.rpy:13670
 translate pt_br kalimismenu_13813a24:
 
     # k "Sounds fun."
-    k ""
+    k "Parece divertido."
 
 # game/scripts/kali_events.rpy:13676
 translate pt_br kalithighmenu_ad8a7a05:
 
     # "I need to raise her relationship level."
-    ""
+    "Eu preciso aumentar meu relacionamento com ela."
 
 # game/scripts/kali_events.rpy:13682
 translate pt_br kalithighmenu_0438e42c:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13688
 translate pt_br kalithighmenu_0438e42c_1:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13694
 translate pt_br kalithighmenu_ad8a7a05_1:
 
     # "I need to raise her relationship level."
-    ""
+    "Eu preciso aumentar meu relacionamento com ela."
 
 # game/scripts/kali_events.rpy:13700
 translate pt_br kalithighmenu_0438e42c_2:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13706
 translate pt_br kalithighmenu_0438e42c_3:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13714
 translate pt_br kalithighmenu_b621322b:
 
     # k "Sure."
-    k ""
+    k "Claro."
 
 # game/scripts/kali_events.rpy:13720
 translate pt_br kalianalmenu_ad8a7a05:
 
     # "I need to raise her relationship level."
-    ""
+    "Eu preciso aumentar meu relacionamento com ela."
 
 # game/scripts/kali_events.rpy:13726
 translate pt_br kalianalmenu_0438e42c:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13732
 translate pt_br kalianalmenu_0438e42c_1:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13738
 translate pt_br kalianalmenu_ad8a7a05_1:
 
     # "I need to raise her relationship level."
-    ""
+    "Eu preciso aumentar meu relacionamento com ela."
 
 # game/scripts/kali_events.rpy:13744
 translate pt_br kalianalmenu_0438e42c_2:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13750
 translate pt_br kalianalmenu_0438e42c_3:
 
     # "I need to buy that outfit."
-    ""
+    "Eu preciso comprar essa roupa antes."
 
 # game/scripts/kali_events.rpy:13760
 translate pt_br kalianalmenu_c2494032:
 
     # c "Nevermind..."
-    c ""
+    c "Esquece..."
 
 # game/scripts/kali_events.rpy:13790
 translate pt_br kalianalmenu_3ae7e25f:
 
     # k "At this time? No thank you..."
-    k ""
+    k "Agora? Não obrigada..."
 
 # game/scripts/kali_events.rpy:13818
 translate pt_br kalianalmenu_d6647337:
 
     # k "Ummm... I'm a little busy..."
-    k ""
+    k "Ummm... eu estou ocupada..."
 
 # game/scripts/kali_events.rpy:13819
 translate pt_br kalianalmenu_138ce778:
 
     # "I need to raise Kali's friendship..."
-    ""
+    "Eu preciso aumentar a amizade da Kali..."
 
 # game/scripts/kali_events.rpy:13822
 translate pt_br kalianalmenu_cdbc42b9:
 
     # k "Yeah... that sounds great!"
-    k ""
+    k "Sim... parece bom!"
 
 # game/scripts/kali_events.rpy:13837
 translate pt_br kalianalmenu_10de7f48:
 
     # k "Let's wait until tomorrow..."
-    k ""
+    k "Vamos esperar até amanhã..."
 
 # game/scripts/kali_events.rpy:13866
 translate pt_br kalianalmenu_3e9a56fe:
 
     # k "What!? No!"
-    k ""
+    k "Oque!? Não!"
 
 # game/scripts/kali_events.rpy:13867
 translate pt_br kalianalmenu_2666eee6:
 
     # "Kali's friendship is too low..."
-    ""
+    "A amizade com a kali está baixa..."
 
 # game/scripts/kali_events.rpy:13895
 translate pt_br kalianalmenu_8e4f092f:
 
     # k "You want to take pictures of me...?"
-    k ""
+    k "Você quer tirar fotos minhas...?"
 
 # game/scripts/kali_events.rpy:13896
 translate pt_br kalianalmenu_56d0beb3:
 
     # c "That's right."
-    c ""
+    c "Isso mesmo."
 
 # game/scripts/kali_events.rpy:13897
 translate pt_br kalianalmenu_cba1e23d:
 
     # k "And what are you going to do with these pictures?"
-    k ""
+    k "E o que você vai fazer com essas fotos?"
 
 # game/scripts/kali_events.rpy:13898
 translate pt_br kalianalmenu_bc63c9d4:
 
     # c "Whatever I want."
-    c ""
+    c "Oque eu quiser."
 
 # game/scripts/kali_events.rpy:13899
 translate pt_br kalianalmenu_14e0e6a6:
 
     # k "Yeah... I'm going to pass..."
-    k ""
+    k "É... acho que não..."
 
 # game/scripts/kali_events.rpy:13900
 translate pt_br kalianalmenu_5c46bdcb:
 
     # "Kali's affection is too low..."
-    ""
+    "A afeição da Kali está baixa..."
 
 # game/scripts/kali_events.rpy:13928
 translate pt_br kalianalmenu_8e4f092f_1:
 
     # k "You want to take pictures of me...?"
-    k ""
+    k "Você quer tirar fotos minhas...?"
 
 # game/scripts/kali_events.rpy:13929
 translate pt_br kalianalmenu_56d0beb3_1:
 
     # c "That's right."
-    c ""
+    c "Isso mesmo."
 
 # game/scripts/kali_events.rpy:13930
 translate pt_br kalianalmenu_2e9bd230:
 
     # k "Oh..."
-    k ""
+    k "Oh..."
 
 # game/scripts/kali_events.rpy:13931
 translate pt_br kalianalmenu_9a89a226:
 
     # c "Follow me to my room."
-    c ""
+    c "Me siga."
 
 # game/scripts/kali_events.rpy:13932
 translate pt_br kalianalmenu_22c719b5:
 
     # k "Okay..."
-    k ""
+    k "Ok..."
 
 # game/scripts/kali_events.rpy:13938
 translate pt_br kalianalmenu_aa188f6f:
 
     # c "See you later."
-    c ""
+    c "Até mais tarde."
 
 # game/scripts/kali_events.rpy:13939
 translate pt_br kalianalmenu_cf3bb8c2:
 
     # k "Later."
-    k ""
+    k "Até."
 
 # game/scripts/kali_events.rpy:13947
 translate pt_br kali_freestyle_blowjob_e2a80771:
 
     # k "Mmmn...! How does that feel, [name]? Llmmn...! You like my blowjobs, don't you?"
-    k ""
+    k "Mmmn...! Como você se sente, [name]? Llmmn...! Você gosta dos meus boquetes, não é?"
 
 # game/scripts/kali_events.rpy:13948
 translate pt_br kali_freestyle_blowjob_c9d0f384:
 
     # k "Mmmh, heheh, don't cum too quickly, I like to suck you..."
-    k ""
+    k "Mmmh, heheh. Não goze muito rápido, eu gosto de te chupar..."
 
 # game/scripts/kali_events.rpy:13949
 translate pt_br kali_freestyle_blowjob_c61e5c75:
 
     # k "Llmngh, mmnl...! Do you like it when I use my tongue...? Mmmln..."
-    k ""
-
+    k "Llmngh, mmnl...! Você gosta de quando eu uso minha língua...? Mmmln..."
+    
 # game/scripts/kali_events.rpy:13952
 translate pt_br kali_freestyle_blowjob_d4bfa480:
 
     # k "Mmmh, fuck...! Your cock is so fucking juicy, I love it...! Mmmh!"
-    k ""
+    k "Mmmh, porra...! Seu pau é tão gostoso, eu amo...! Mmmh!"
 
 # game/scripts/kali_events.rpy:13953
 translate pt_br kali_freestyle_blowjob_7aedede6:
 
     # k "Mmn, mmmgh! Are you getting close? Mmmh...! Cum, give me a big load...! Mmmh...!"
-    k ""
+    k "Mmn, mmmgh! Você tá chegando perto? Mmmh...! Goze bastante pra mim...! Mmmh...!"
 
 # game/scripts/kali_events.rpy:13954
 translate pt_br kali_freestyle_blowjob_cf236de6:
 
     # k "Cum for me! Mmmn! Cum for me, cum for me...!"
-    k ""
+    k "Goza pra mim! Mmmn! Goza pra mim, goza pra mim...!"
 
 # game/scripts/kali_events.rpy:13959
 translate pt_br kali_freestyle_blowjob_ea073ffc:
 
     # c "Stand up, I'm going to fuck your thighs."
-    c ""
+    c "Fique de pé, eu vou foder as suas coxas."
 
 # game/scripts/kali_events.rpy:13960
 translate pt_br kali_freestyle_blowjob_6a427001:
 
     # k "Oh, mmmph...! Okay."
-    k ""
+    k "Oh, mmmph...! Ok."
 
 # game/scripts/kali_events.rpy:13963
 translate pt_br kali_freestyle_blowjob_14d0012c:
 
     # c "Lay down, I'm going to fuck you."
-    c ""
+    c "Se deita, eu quero te foder."
 
 # game/scripts/kali_events.rpy:13964
 translate pt_br kali_freestyle_blowjob_a2d92736:
 
     # k "Oh~ mmmph, sure~"
-    k ""
+    k "Oh~ mmmph, claro~"
 
 # game/scripts/kali_events.rpy:13967
 translate pt_br kali_freestyle_blowjob_a7f2f0c4:
 
     # c "Bend over, I'm going to fuck your ass."
-    c ""
+    c "Se vira, eu quero foder a sua bunda."
 
 # game/scripts/kali_events.rpy:13968
 translate pt_br kali_freestyle_blowjob_d6942871:
 
     # k "Mmmn, okay..."
-    k ""
+    k "Mmmn, ok..."
 
 # game/scripts/kali_events.rpy:13975
 translate pt_br kali_freestyle_blowjob_5553a0cb:
 
     # c "I'm cumming!"
-    c ""
+    c "Eu vou gozar!"
 
 # game/scripts/kali_events.rpy:13977
 translate pt_br kali_freestyle_blowjob_fff6fb9d:
 
     # k "Mmmh!" with ssshake
-    k "" with ssshake
+    k "Mmmh!" with ssshake
 
 # game/scripts/kali_events.rpy:13978
 translate pt_br kali_freestyle_blowjob_27330d1e:
 
     # k "Mmmmh, nnh...!" with ssshake
-    k "" with ssshake
+    k "Mmmmh, nnh...!" with ssshake
 
 # game/scripts/kali_events.rpy:13979
 translate pt_br kali_freestyle_blowjob_81cfa29e:
 
     # k "*gulp*...! Mmh~!" with ssshake
-    k "" with ssshake
+    k "*gulp*...! Mmh~!" with ssshake
 
 # game/scripts/kali_events.rpy:13981
 translate pt_br kali_freestyle_blowjob_5f6b4d90:
 
     # k "I hope you enjoyed... see you later."
-    k ""
+    k "Eu espero que tenha gostado... até mais tarde."
 
 # game/scripts/kali_events.rpy:13985
 translate pt_br kali_freestyle_blowjob_6dd67c63:
 
     # k "Aaaah~!" with ssshake
-    k "" with ssshake
+    k "Aaaah~!" with ssshake
 
 # game/scripts/kali_events.rpy:13986
 translate pt_br kali_freestyle_blowjob_166a7488:
 
     # k "Nnngh! Yes, cum for me! More~! Mmmh~!" with ssshake
-    k "" with ssshake
+    k "Nnngh! Isso, goza pra mim! Mais~! Mmmh~!" with ssshake
 
 # game/scripts/kali_events.rpy:13988
 translate pt_br kali_freestyle_blowjob_5f6b4d90_1:
 
     # k "I hope you enjoyed... see you later."
-    k ""
+    k "Eu espero que tenha gostado... até mais tarde."
 
 # game/scripts/kali_events.rpy:14006
 translate pt_br kali_freestyle_missionary_b1b3f09f:
 
     # k "Ahh! Fuck..."
-    k ""
+    k "Ahh! Porra..."
 
 # game/scripts/kali_events.rpy:14007
 translate pt_br kali_freestyle_missionary_93c04655:
 
     # k "Nnn... Ahh... Yesss..."
-    k ""
+    k "Nnn... Ahh... Simmm..."
 
 # game/scripts/kali_events.rpy:14010
 translate pt_br kali_freestyle_missionary_8ba88102:
 
     # k "Ahh! Hahh! Fuck me! Yes! Oh god, yes! Ah!"
-    k ""
+    k "Ahh! Hahh! Me fode! Isso! Oh deus, isso! Ah!"
 
 # game/scripts/kali_events.rpy:14011
 translate pt_br kali_freestyle_missionary_2cd7c6e2:
 
     # k "Fuck my pussy! Yes! Harder! Deeper! Ahhh!"
-    k ""
+    k "Fode minha buceta! Isso! Mais forte! Mais fundo! Ahhh!"
 
 # game/scripts/kali_events.rpy:14012
 translate pt_br kali_freestyle_missionary_28def1b4:
 
     # k "I'm gonna cum! I'm gonna cum! Fuck! FUCK!"
-    k ""
+    k "Eu vou gozar! Eu vou gozar! Porra! PORRA!"
 
 # game/scripts/kali_events.rpy:14014
 translate pt_br kali_freestyle_missionary_6e85a559:
 
     # k "FUUUUUCK!!!" with sshake
-    k "" with sshake
+    k "POOOOORRA!!!" with sshake
 
 # game/scripts/kali_events.rpy:14015
 translate pt_br kali_freestyle_missionary_acbf0d67:
 
     # k "MMMH, nnnnnmh~! Yes, yes, yes!!" with ssshake
-    k "" with ssshake
+    k "MMMH, nnnnnmh~! Isso, isso, isso!!" with ssshake
 
 # game/scripts/kali_events.rpy:14017
 translate pt_br kali_freestyle_missionary_3227d715:
 
     # k "Ahh... Hahhhh... Haha..."
-    k ""
+    k "Ahh... Hahhhh... Haha..."
 
 # game/scripts/kali_events.rpy:14018
 translate pt_br kali_freestyle_missionary_f1fdb91e:
 
     # k "Now it's your turn..."
-    k ""
+    k "Sua vez..."
 
 # game/scripts/kali_events.rpy:14021
 translate pt_br kali_freestyle_missionary_f23cc4c4:
 
     # k "Mmmm! Nnn! Hahh! Ahh!!!"
-    k ""
+    k "Mmmm! Nnn! Hahh! Ahh!!!"
 
 # game/scripts/kali_events.rpy:14022
 translate pt_br kali_freestyle_missionary_5f6ef09f:
 
     # k "Fuck yes! Yes! I want your cum! All over me! Ah!"
-    k ""
+    k "Porra isso! Isso! Eu quero a sua porra! Me cobrindo! Ah!"
 
 # game/scripts/kali_events.rpy:14023
 translate pt_br kali_freestyle_missionary_876ec4bb:
 
     # k "Ah, Ah, Ah, Ah! Cum! Ahh!!!"
-    k ""
+    k "Ah, Ah, Ah, Ah! Goza! Ahh!!!"
 
 # game/scripts/kali_events.rpy:14028
 translate pt_br kali_freestyle_missionary_ea073ffc:
 
     # c "Stand up, I'm going to fuck your thighs."
-    c ""
+    c "Fique de pé, eu vou foder as suas coxas."
 
 # game/scripts/kali_events.rpy:14029
 translate pt_br kali_freestyle_missionary_6a427001:
 
     # k "Oh, mmmph...! Okay."
-    k ""
+    k "Oh, mmmph...! Ok."
 
 # game/scripts/kali_events.rpy:14032
 translate pt_br kali_freestyle_missionary_f7d70909:
 
     # c "Get on your knees, suck my cock."
-    c ""
+    c "Fique de joelhos, eu quero que você chupe o meu pau."
 
 # game/scripts/kali_events.rpy:14033
 translate pt_br kali_freestyle_missionary_5dd97b0d:
 
     # k "Oh, okay."
-    k ""
+    k "Oh, ok."
 
 # game/scripts/kali_events.rpy:14036
 translate pt_br kali_freestyle_missionary_a7f2f0c4:
 
     # c "Bend over, I'm going to fuck your ass."
-    c ""
+    c "Se vira, eu quero foder a sua bunda."
 
 # game/scripts/kali_events.rpy:14037
 translate pt_br kali_freestyle_missionary_d6942871:
 
     # k "Mmmn, okay..."
-    k ""
+    k "Mmmn, ok..."
 
 # game/scripts/kali_events.rpy:14045
 translate pt_br kali_freestyle_missionary_06150057:
 
     # k "Ahhh!!!" with ssshake
-    k "" with ssshake
+    k "Ahhh!!!" with ssshake
 
 # game/scripts/kali_events.rpy:14046
 translate pt_br kali_freestyle_missionary_f45f439b:
 
     # k "Hnn! NNN!!!" with ssshake
-    k "" with ssshake
+    k "Hnn! NNN!!!" with ssshake
 
 # game/scripts/kali_events.rpy:14047
 translate pt_br kali_freestyle_missionary_cf3fc8d1:
 
     # k "So... Deep!" with ssshake
-    k "" with ssshake
+    k "Tão... fundo!" with ssshake
 
 # game/scripts/kali_events.rpy:14052
 translate pt_br kali_freestyle_missionary_85b9f941:
 
     # k "Ahh... fuck... you came so much inside me..."
-    k ""
+    k "Ahh... porra... tem tanto dentro de mim..."
 
 # game/scripts/kali_events.rpy:14057
 translate pt_br kali_freestyle_missionary_69588e9a:
 
     # k "Ahhh! You came all over me..." with ssshake
-    k "" with ssshake
+    k "Ahhh! Você me cobriu inteira..." with ssshake
 
 # game/scripts/kali_events.rpy:14058
 translate pt_br kali_freestyle_missionary_65759b9e:
 
     # k "Mmmm... I'm all dirty now..."
-    k ""
+    k "Mmmm... eu estou toda suja agora..."
 
 # game/scripts/kali_events.rpy:14080
 translate pt_br kali_freestyle_thighjob_3a28fd64:
 
     # k "Ahh... mmmh, how does that feel? Do you like my thighs?"
-    k ""
+    k "Ahh... mmmh, como se sente? Você gosta das minhas coxas?"
 
 # game/scripts/kali_events.rpy:14081
 translate pt_br kali_freestyle_thighjob_85fb29fc:
 
     # k "This is kind of hot... watching your cock rub my pussy like that."
-    k ""
+    k "Isso é meio excitante... ver o seu pau esfregando na minha buceta deste jeito."
 
 # game/scripts/kali_events.rpy:14082
 translate pt_br kali_freestyle_thighjob_aa3038ca:
 
     # k "Hahhh, go faster, it feels so good..."
-    k ""
+    k "Hahhh, mais rápido, é tão bom..."
 
 # game/scripts/kali_events.rpy:14085
 translate pt_br kali_freestyle_thighjob_d2d13823:
 
     # k "Mmm~ my pussy is drenching your cock, do you feel that?"
-    k ""
+    k "Mmm~ minha buceta tá encharcando o seu pau, consegue sentir?"
 
 # game/scripts/kali_events.rpy:14086
 translate pt_br kali_freestyle_thighjob_06dd01c9:
 
     # k "Nnnh, haaah...! Are you getting close? I want to watch you cum."
-    k ""
+    k "Nnnh, haaah...! Você tá quase? Eu quero ver você gozar."
 
 # game/scripts/kali_events.rpy:14087
 translate pt_br kali_freestyle_thighjob_81bfc66c:
 
     # k "Hahh, yes...! Cum for me, [name]... cum for me!"
-    k ""
+    k "Hahh, isso...! Goza pra mim, [name]... goza pra mim!"
 
 # game/scripts/kali_events.rpy:14090
 translate pt_br kali_freestyle_thighjob_f7d70909:
 
     # c "Get on your knees, suck my cock."
-    c ""
+    c "Fique de joelhos, eu quero que você chupe o meu pau."
 
 # game/scripts/kali_events.rpy:14091
 translate pt_br kali_freestyle_thighjob_5dd97b0d:
 
     # k "Oh, okay."
-    k ""
+    k "Oh, ok."
 
 # game/scripts/kali_events.rpy:14094
 translate pt_br kali_freestyle_thighjob_14d0012c:
 
     # c "Lay down, I'm going to fuck you."
-    c ""
+    c "Se deita, eu quero te foder."
 
 # game/scripts/kali_events.rpy:14095
 translate pt_br kali_freestyle_thighjob_a2d92736:
 
     # k "Oh~ mmmph, sure~"
-    k ""
+    k "Oh~ mmmph, claro~"
 
 # game/scripts/kali_events.rpy:14098
 translate pt_br kali_freestyle_thighjob_a7f2f0c4:
 
     # c "Bend over, I'm going to fuck your ass."
-    c ""
+    c "Se vira, eu quero foder a sua bunda."
 
 # game/scripts/kali_events.rpy:14099
 translate pt_br kali_freestyle_thighjob_d6942871:
 
     # k "Mmmn, okay..."
-    k ""
+    k "Mmmn, ok..."
 
 # game/scripts/kali_events.rpy:14107
 translate pt_br kali_freestyle_thighjob_56fd56d0:
 
     # k "Ah! Wow..." with ssshake
-    k "" with ssshake
+    k "Ah! Uou..." with ssshake
 
 # game/scripts/kali_events.rpy:14125
 translate pt_br kali_freestyle_anal_0467e2bc:
 
     # k "Come onnn~ put it in!"
-    k ""
+    k "Vai looogo~ coloca dentro!"
 
 # game/scripts/kali_events.rpy:14128
 translate pt_br kali_freestyle_anal_908233c2:
 
     # k "Nnngh~!" with ssshake
-    k "" with ssshake
+    k "Nnngh~!" with ssshake
 
 # game/scripts/kali_events.rpy:14131
 translate pt_br kali_freestyle_anal_d112e047:
 
     # k "Oh! Fuck..."
-    k ""
+    k "Oh! Porra..."
 
 # game/scripts/kali_events.rpy:14132
 translate pt_br kali_freestyle_anal_600c5445:
 
     # k "Ohggh, god... Hnn..."
-    k ""
+    k "Ohggh, deus... Hnn"
 
 # game/scripts/kali_events.rpy:14133
 translate pt_br kali_freestyle_anal_7d9d5174:
 
     # k "Yes, fuck! My ass feels so good!"
-    k ""
+    k "Isso, porra! Isso é tão bom!"
 
 # game/scripts/kali_events.rpy:14134
 translate pt_br kali_freestyle_anal_e129708d:
 
     # k "Hnngg! Oh my god, [name]! My ass!"
-    k ""
+    k "Hnngg! Oh meu deus, [name]! Minha bunda!"
 
 # game/scripts/kali_events.rpy:14137
 translate pt_br kali_freestyle_anal_b33cbc04:
 
     # k "Hmm! Hnng! Fuck! Aghh!"
-    k ""
+    k "Hmm! Hnng! Porra! Aghh!"
 
 # game/scripts/kali_events.rpy:14138
 translate pt_br kali_freestyle_anal_0304eda8:
 
     # k "God, your cock is sliding in and out of my ass! Ahh!"
-    k ""
+    k "Deus, seu pau está entrando e saindo da minha bunda! Ahh!"
 
 # game/scripts/kali_events.rpy:14139
 translate pt_br kali_freestyle_anal_87f41667:
 
     # k "Yes yes yes! Hnn! I feel like such an anal slut! Agh!"
-    k ""
+    k "Isso isso isso! Hnn! Eu me sinto como uma vagabunda do anal! Agh!"
 
 # game/scripts/kali_events.rpy:14140
 translate pt_br kali_freestyle_anal_9621136c:
 
     # k "AH! HNN! NN! HAH!"
-    k ""
+    k "AH! HNN! NN! HAH!"
 
 # game/scripts/kali_events.rpy:14141
 translate pt_br kali_freestyle_anal_644a3b6a:
 
     # k "[name]! [name]! Cum inside my ass! Please!"
-    k ""
+    k "[name]! [name]! Goza dentro da minha bunda! Por favor!"
 
 # game/scripts/kali_events.rpy:14144
 translate pt_br kali_freestyle_anal_ea073ffc:
 
     # c "Stand up, I'm going to fuck your thighs."
-    c ""
+    c "Fique de pé, eu vou foder as suas coxas."
 
 # game/scripts/kali_events.rpy:14145
 translate pt_br kali_freestyle_anal_6a427001:
 
     # k "Oh, mmmph...! Okay."
-    k ""
+    k "Oh, mmmph...! Ok."
 
 # game/scripts/kali_events.rpy:14148
 translate pt_br kali_freestyle_anal_f7d70909:
 
     # c "Get on your knees, suck my cock."
-    c ""
+    c "Fique de joelhos, eu quero que você chupe o meu pau."
 
 # game/scripts/kali_events.rpy:14149
 translate pt_br kali_freestyle_anal_5dd97b0d:
 
     # k "Oh, okay."
-    k ""
+    k "Oh, ok."
 
 # game/scripts/kali_events.rpy:14152
 translate pt_br kali_freestyle_anal_14d0012c:
 
     # c "Lay down, I'm going to fuck you."
-    c ""
+    c "Se deita, eu quero te foder."
 
 # game/scripts/kali_events.rpy:14153
 translate pt_br kali_freestyle_anal_a2d92736:
 
     # k "Oh~ mmmph, sure~"
-    k ""
+    k "Oh~ mmmph, claro~"
 
 # game/scripts/kali_events.rpy:14161
 translate pt_br kali_freestyle_anal_dad2a4ef:
 
     # k "Hnnn!" with ssshake
-    k "" with ssshake
+    k "Hnnn!" with ssshake
 
 # game/scripts/kali_events.rpy:14162
 translate pt_br kali_freestyle_anal_2c1711d6:
 
     # k "Yes! Fuck! Fill my ass up!" with ssshake
-    k "" with ssshake
+    k "Isso! Porra! Enche minha bunda!" with ssshake
 
 # game/scripts/kali_events.rpy:14163
 translate pt_br kali_freestyle_anal_0cfc804c:
 
     # k "Holy shit!!!" with ssshake
-    k "" with ssshake
+    k "Puta merda!!!" with ssshake
 
 # game/scripts/kali_events.rpy:14170
 translate pt_br kali_freestyle_anal_e7b6ced2:
 
     # k "Ahhh... Hahhh, Holy shit..."
-    k ""
+    k "Ahhh... Hahhh, puta merda..."
 
 # game/scripts/kali_events.rpy:14192
 translate pt_br kaliundress_79e0e9d2:
 
     # k "!!!"
-    k ""
+    k "!!!"
 
 # game/scripts/kali_events.rpy:14194
 translate pt_br kaliundress_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14195
 translate pt_br kaliundress_93aeead4:
 
     # k "Dude, what the fuck! Get out!"
-    k ""
+    k "Cara, vai se fuder! Cai fora!"
 
 # game/scripts/kali_events.rpy:14197
 translate pt_br kaliundress_32bfcd46:
 
     # "Kali spends some time getting dressed"
-    ""
+    "Kali passa um tempo se vestindo"
 
 # game/scripts/kali_events.rpy:14199
 translate pt_br kaliundress_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14202
 translate pt_br kaliundress_f57638e2:
 
     # k "...Did you see my..."
-    k ""
+    k "... Você viu minha..."
 
 # game/scripts/kali_events.rpy:14203
 translate pt_br kaliundress_b279afbb:
 
     # k "Urgh... of course you did..."
-    k ""
+    k "Urgh... é claro que viu..."
 
 # game/scripts/kali_events.rpy:14206
 translate pt_br kaliundress_1ee7027f:
 
     # k "Ever heard of knocking asshole!?"
-    k ""
+    k "Já ouviu falar em bater antes de entrar, idiota!?"
 
 # game/scripts/kali_events.rpy:14208
 translate pt_br kaliundress_9aa7a3a2:
 
     # c "I did."
-    c ""
+    c "Já sim."
 
 # game/scripts/kali_events.rpy:14212
 translate pt_br kaliundress_93334484:
 
     # k "What?"
-    k ""
+    k "Que?"
 
 # game/scripts/kali_events.rpy:14213
 translate pt_br kaliundress_761553af:
 
     # k "Oh, I must have had the music too loud!"
-    k ""
+    k "Oh, eu devo ter deixado a música muito alta!"
 
 # game/scripts/kali_events.rpy:14216
 translate pt_br kaliundress_84cb1d11:
 
     # k "Well... I mean... you can't just..."
-    k ""
+    k "Bem... quero dizer... você não pode só..."
 
 # game/scripts/kali_events.rpy:14217
 translate pt_br kaliundress_61320c9a:
 
     # k "Urghhh... I guess it was my fault."
-    k ""
+    k "Urghhh... é, eu acho que foi minha culpa."
 
 # game/scripts/kali_events.rpy:14220
 translate pt_br kaliundress_82091822_2:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14223
 translate pt_br kaliundress_1aa392a9:
 
     # k "Well..."
-    k ""
+    k "Bem..."
 
 # game/scripts/kali_events.rpy:14226
 translate pt_br kaliundress_d8ae5cca:
 
     # k "Did... Did you like them...?"
-    k ""
+    k "Você... você gosta deles...?"
 
 # game/scripts/kali_events.rpy:14228
 translate pt_br kaliundress_ff95e483:
 
     # c "They were amazing."
-    c ""
+    c "Eles são incríveis."
 
 # game/scripts/kali_events.rpy:14232
 translate pt_br kaliundress_82091822_3:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14235
 translate pt_br kaliundress_557e0685:
 
     # k "You liked them?"
-    k ""
+    k "Você gosta deles?"
 
 # game/scripts/kali_events.rpy:14238
 translate pt_br kaliundress_36e5b02e:
 
     # k "I mean... of course you did. They look good, why wouldn't you like them..."
-    k ""
+    k "Quero dizer... é claro que sim. Eles são bons, por que você não gostaria deles..."
 
 # game/scripts/kali_events.rpy:14241
 translate pt_br kaliundress_af1606d0:
 
     # k "...I guess... It's not really a big deal if you see my tits. They're just tits..."
-    k ""
+    k "... Eu acho... não é grande coisa você ver meus peitos. São só peitos..."
 
 # game/scripts/kali_events.rpy:14243
 translate pt_br kaliundress_e5b9fd1b:
 
     # c "They're great tits."
-    c ""
+    c "São bons peitos."
 
 # game/scripts/kali_events.rpy:14247
 translate pt_br kaliundress_82091822_4:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14250
 translate pt_br kaliundress_a858aade:
 
     # k "Shut up!"
-    k ""
+    k "Cala a boca!"
 
 # game/scripts/kali_events.rpy:14251
 translate pt_br kaliundress_b409a14e:
 
     # k "Stop making me feel good!"
-    k ""
+    k "Para de fazer eu me sentir bem!"
 
 # game/scripts/kali_events.rpy:14254
 translate pt_br kaliundress_2c8a54bd:
 
     # k "I mean... I.."
-    k ""
+    k "Quero dizer... eu..."
 
 # game/scripts/kali_events.rpy:14257
 translate pt_br kaliundress_a858aade_1:
 
     # k "Shut up!"
-    k ""
+    k "Cala a boca!"
 
 # game/scripts/kali_events.rpy:14260
 translate pt_br kaliundress_93b6b699:
 
     # "Kali goes into her room and slams the door"
-    ""
+    "Kali entra no quarto e bate a porta"
 
 # game/scripts/kali_events.rpy:14278
 translate pt_br kalimail_19d4dca1:
 
     # k "Oh hey, mind checking the mail? I'm expecting something. Should be here any minute now."
-    k ""
+    k "Oh e aí, se importa de checar o correio? Eu estou esperando uma coisa. Deve chegar a qualquer minuto."
 
 # game/scripts/kali_events.rpy:14279
 translate pt_br kalimail_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/scripts/kali_events.rpy:14283
 translate pt_br kalimail_3804f446:
 
     # k "Great!"
-    k ""
+    k "Ótimo!"
 
 # game/scripts/kali_events.rpy:14286
 translate pt_br kalimail_a200cdc1:
 
     # k "Uh... just don't look inside it."
-    k ""
+    k "Uh... só não abra."
 
 # game/scripts/kali_events.rpy:14287
 translate pt_br kalimail_73c2fcc2:
 
     # c "Why not?"
-    c ""
+    c "Por que não?"
 
 # game/scripts/kali_events.rpy:14290
 translate pt_br kalimail_6a7f9612:
 
     # k "Because I fucking said so! ...Now hurry!"
-    k ""
+    k "Porque eu falei para não abrir! ... Vai logo!"
 
 # game/scripts/kali_events.rpy:14300
 translate pt_br kalimail2_9768f495:
 
     # k "Is it here? Did you get it?"
-    k ""
+    k "Chegou? Tá com você?"
 
 # game/scripts/kali_events.rpy:14301
 translate pt_br kalimail2_b8cc8523:
 
     # c "Yeah, here it is."
-    c ""
+    c "Sim, aqui está."
 
 # game/scripts/kali_events.rpy:14305
 translate pt_br kalimail2_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14306
 translate pt_br kalimail2_75a9fe44:
 
     # k "You opened it didn't you?"
-    k ""
+    k "Você abriu, não abriu?"
 
 # game/scripts/kali_events.rpy:14307
 translate pt_br kalimail2_e83bfcf6:
 
     # c "...No."
-    c ""
+    c "... Não."
 
 # game/scripts/kali_events.rpy:14310
 translate pt_br kalimail2_a850555c:
 
     # k "Don't fucking lie to me! The seal is broken."
-    k ""
+    k "Não minta para mim! O selo tá quebrado."
 
 # game/scripts/kali_events.rpy:14313
 translate pt_br kalimail2_f4958571:
 
     # k "Look... don't be getting any weird ideas... It's for my neck alright?"
-    k ""
+    k "Olha... não pense em coisas erradas... é para o meu pescoço, ok?"
 
 # game/scripts/kali_events.rpy:14316
 translate pt_br kalimail2_4dbad1be:
 
     # k "Yeah... the stress of being left here by my dad and not having a job can really pile up... and..."
-    k ""
+    k "Isso... o stress de ser deixada pelo pai e sem ter um trabalho pode realmente ser estressante... e..."
 
 # game/scripts/kali_events.rpy:14319
 translate pt_br kalimail2_5eb10bf5:
 
     # k "Oh shut up pervert! Don't go looking through people's stuff! What I do in my free time is my business. Not yours."
-    k ""
+    k "Oh cala a boca pervertido! Não vá olhando nas coisas dos outros! Oque eu faço no meu tempo livre não te interessa."
 
 # game/scripts/kali_events.rpy:14322
 translate pt_br kalimail2_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14325
 translate pt_br kalimail2_b8c42ba5:
 
     # k "Get out of here already!"
-    k ""
+    k "Cai fora, já!"
 
 # game/scripts/kali_events.rpy:14337
 translate pt_br kalimail2_c9e17861:
 
     # k "Awesome! Thanks!"
-    k ""
+    k "Legal! Obrigada!"
 
 # game/scripts/kali_events.rpy:14338
 translate pt_br kalimail2_05d80dd7:
 
     # c "What's in it?"
-    c ""
+    c "E oque é isso?"
 
 # game/scripts/kali_events.rpy:14341
 translate pt_br kalimail2_d070a765:
 
     # k "Two bags of none of your business."
-    k ""
+    k "Dois sacos de não te interessa."
 
 # game/scripts/kali_events.rpy:14344
 translate pt_br kalimail2_82091822_2:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14345
 translate pt_br kalimail2_10e137e9:
 
     # k "...Okay, bye..."
-    k ""
+    k "... Ok, tchau..."
 
 # game/scripts/kali_events.rpy:14357
 translate pt_br kalismassager_7915450e:
 
     # c "Looks like it's here."
-    c ""
+    c "Parece que já chegou."
 
 # game/scripts/kali_events.rpy:14358
 translate pt_br kalismassager_fc7e3ae9:
 
     # "You open the door to see Kali's package."
-    ""
+    "Você abre a porta e vê o pacote da Kali."
 
 # game/scripts/kali_events.rpy:14361
 translate pt_br kalismassager_0a519210:
 
     # "You open the package and see..."
-    ""
+    "Você abre o pacote e vê..."
 
 # game/scripts/kali_events.rpy:14363
 translate pt_br kalismassager_7bb30a99:
 
     # "A massager!"
-    ""
+    "Um vibrador!"
 
 # game/scripts/kali_events.rpy:14364
 translate pt_br kalismassager_ee16634a:
 
     # c "So that's why she didn't want me to open it..."
-    c ""
+    c "Então é por isso que ela não queria que eu abrisse..."
 
 # game/scripts/kali_events.rpy:14410
 translate pt_br kaliworkslutty_beff5ce8:
 
     # k "Hey, I'm just getting ready for work, what's up?"
-    k ""
+    k "Ei, eu estou me aprontando para trabalhar, o que foi?"
 
 # game/scripts/kali_events.rpy:14411
 translate pt_br kaliworkslutty_39b9e416:
 
     # c "I just bought this for you... I think you should wear it to work."
-    c ""
+    c "Eu comprei isso para você... Eu acho que você pode usar no trabalho."
 
 # game/scripts/kali_events.rpy:14414
 translate pt_br kaliworkslutty_7812b31c:
 
     # k "...You don't really expect me to wear this do you? I'm not a slut..."
-    k ""
+    k "... Você realmente não espera que eu use isso, espera? Eu não sou uma puta..."
 
 # game/scripts/kali_events.rpy:14417
 translate pt_br kaliworkslutty_e758f0af:
 
     # c "Just try it on, maybe you'll like it. And you'll get tons of tips."
-    c ""
+    c "Só experimenta, talvez você goste. E você vai ganhar várias gorjetas."
 
 # game/scripts/kali_events.rpy:14420
 translate pt_br kaliworkslutty_6a2cb958:
 
     # k "Fine... one sec..."
-    k ""
+    k "Beleza... um segundo..."
 
 # game/scripts/kali_events.rpy:14423
 translate pt_br kaliworkslutty_0ae314d4:
 
     # k "What is this!? Am I a stripper now!?"
-    k ""
+    k "Que porra é essa!? Eu sou uma stripper agora!?"
 
 # game/scripts/kali_events.rpy:14427
 translate pt_br kaliworkslutty_40f031e3:
 
     # k "You expect me to wear this? You're crazy!"
-    k ""
+    k "Você espera que eu use isso? Você tá louco!"
 
 # game/scripts/kali_events.rpy:14428
 translate pt_br kaliworkslutty_5b4b3d52:
 
     # c "You would make a lot of tips..."
-    c ""
+    c "Você iria ganhar bastante gorjetas..."
 
 # game/scripts/kali_events.rpy:14430
 translate pt_br kaliworkslutty_19a169db:
 
     # k "Urgh, you're right... And I do need the money..."
-    k ""
+    k "Urgh, você está certo... e eu preciso do dinheiro..."
 
 # game/scripts/kali_events.rpy:14431
 translate pt_br kaliworkslutty_15cd8257:
 
     # k "Fine... I'll try it. But if I don't like it don't ever expect me to wear this again."
-    k ""
+    k "Ok... eu vou tentar. Mas se eu não gostar eu não vou usar isso de novo."
 
 # game/scripts/kali_events.rpy:14432
 translate pt_br kaliworkslutty_73733689:
 
     # c "Sounds fair. Oh, and I get half your tips."
-    c ""
+    c "Ok, justo o bastante. Oh, e eu ganho metade das gorjetas."
 
 # game/scripts/kali_events.rpy:14434
 translate pt_br kaliworkslutty_48479b76:
 
     # k "What!? Like hell."
-    k ""
+    k "Que!? Nem ferrando."
 
 # game/scripts/kali_events.rpy:14435
 translate pt_br kaliworkslutty_e498cbe1:
 
     # c "You'll easily make double or triple the tips wearing that, and I need to pay off that outfit."
-    c ""
+    c "Você vai facilmente fazer o dobro ou o triplo de gorjetas usando isso, e eu preciso pagar pela roupa."
 
 # game/scripts/kali_events.rpy:14437
 translate pt_br kaliworkslutty_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14438
 translate pt_br kaliworkslutty_f1871ac1:
 
     # k "...25 percent."
-    k ""
+    k "... 25 por cento."
 
 # game/scripts/kali_events.rpy:14439
 translate pt_br kaliworkslutty_51e1a649:
 
     # c "Deal."
-    c ""
+    c "Ok."
 
 # game/scripts/kali_events.rpy:14440
 translate pt_br kaliworkslutty_1e2d2177:
 
     # k "...See you tonight... I guess..."
-    k ""
+    k "... Te vejo à noite... eu acho..."
 
 # game/scripts/kali_events.rpy:14452
 translate pt_br talkkaliwork_7fee2887:
 
     # k "Oh hey [name], good news."
-    k ""
+    k "Oh ei [name], boas notícias."
 
 # game/scripts/kali_events.rpy:14455
 translate pt_br talkkaliwork_d227056a:
 
     # k "I got a job!"
-    k ""
+    k "Eu achei um trabalho!"
 
 # game/scripts/kali_events.rpy:14456
 translate pt_br talkkaliwork_87ac6169:
 
     # c "Really? That's great."
-    c ""
+    c "Sério? Isso é ótimo."
 
 # game/scripts/kali_events.rpy:14457
 translate pt_br talkkaliwork_77b0a0ce:
 
     # k "Yeah... I don't need to worry about being homeless anymore, heheh..."
-    k ""
+    k "Sim... eu não preciso mais me preocupar sobre ser sem-teto, heheh..."
 
 # game/scripts/kali_events.rpy:14458
 translate pt_br talkkaliwork_9ef0dc6c:
 
     # c "Where's your new job?"
-    c ""
+    c "Onde é que é o seu trabalho?"
 
 # game/scripts/kali_events.rpy:14461
 translate pt_br talkkaliwork_4afb9bd2:
 
     # k "Oh, it's uh... at a restaurant. It's really nice, very clean..."
-    k ""
+    k "Oh, é em um uh... em um restaurante. É muito bom, bem limpo..."
 
 # game/scripts/kali_events.rpy:14462
 translate pt_br talkkaliwork_9663f0b1:
 
     # c "You're a waitress?"
-    c ""
+    c "Você é uma garçonete?"
 
 # game/scripts/kali_events.rpy:14463
 translate pt_br talkkaliwork_e80f1822:
 
     # k "No..."
-    k ""
+    k "Não..."
 
 # game/scripts/kali_events.rpy:14464
 translate pt_br talkkaliwork_07fd8fa5:
 
     # k "I'm a delivery girl... I deliver pizzas..."
-    k ""
+    k "Eu sou entregadora... eu entrego pizzas..."
 
 # game/scripts/kali_events.rpy:14469
 translate pt_br talkkaliwork_7d2fa492:
 
     # k "No it's not! I don't want to deliver pizzas for the rest of my life!"
-    k ""
+    k "Não, não é! Eu não quero entregar pizzas pelo resto da minha vida!"
 
 # game/scripts/kali_events.rpy:14472
 translate pt_br talkkaliwork_94e4249b:
 
     # k "Urgh, you don't understand..."
-    k ""
+    k "Urgh, você não entende..."
 
 # game/scripts/kali_events.rpy:14477
 translate pt_br talkkaliwork_1df60d83:
 
     # k "Heh, yeah... that's a plus."
-    k ""
+    k "Heh, sim... isso é uma vantagem."
 
 # game/scripts/kali_events.rpy:14481
 translate pt_br talkkaliwork_ef2be30f:
 
     # k "Anyway... I'm headed there now actually. I'm supposed to meet my manager and co workers before I start."
-    k ""
+    k "De qualquer forma... eu estou indo para lá agora. Eu devo ir conhecer meu chefe e colegas de trabalho antes de começar."
 
 # game/scripts/kali_events.rpy:14482
 translate pt_br talkkaliwork_e1b6ef6a:
 
     # c "Can I come with you?"
-    c ""
+    c "Posso ir com você?"
 
 # game/scripts/kali_events.rpy:14485
 translate pt_br talkkaliwork_68d6bfa7:
 
     # k "Really? Ummmmm... sure, I guess... I'll drive."
-    k ""
+    k "Sério? Ummmmm... claro, eu acho... eu dirijo."
 
 # game/scripts/kali_events.rpy:14487
 translate pt_br talkkaliwork_54be8fa7:
 
     # "...{w}...{w}..."
-    ""
+    "...{w}...{w}..."
 
 # game/scripts/kali_events.rpy:14489
 translate pt_br talkkaliwork_e849409f:
 
     # q "*snore*..."
-    q ""
+    q "*roncando*..."
 
 # game/scripts/kali_events.rpy:14490
 translate pt_br talkkaliwork_a43a3575:
 
     # k "Umm, hello?"
-    k ""
+    k "Umm, olá?"
 
 # game/scripts/kali_events.rpy:14491
 translate pt_br talkkaliwork_6ba87469:
 
     # q "Nnnnngh... No... I can't swim in space...!"
-    q ""
+    q "Nnnnngh... não... eu não posso nadar no espaço...!"
 
 # game/scripts/kali_events.rpy:14493
 translate pt_br talkkaliwork_1f0618fd:
 
     # k "Hello!?"
-    k ""
+    k "Olá!?"
 
 # game/scripts/kali_events.rpy:14494
 translate pt_br talkkaliwork_66172fb2:
 
     # q "Nnngh!?" with ssshake
-    q "" with ssshake
+    q "Nnngh!?" with ssshake
 
 # game/scripts/kali_events.rpy:14496
 translate pt_br talkkaliwork_a2040b61:
 
     # nid "Hello... I'm Nidra... welcome to Papa Rons..."
-    nid ""
+    nid "Olá... eu sou a Nidra... bem vinda ao Papa Rons..."
 
 # game/scripts/kali_events.rpy:14497
 translate pt_br talkkaliwork_f4f0d293:
 
     # k "Yeah, I know... I work here now."
-    k ""
+    k "Sim, eu sei... eu trabalho aqui."
 
 # game/scripts/kali_events.rpy:14498
 translate pt_br talkkaliwork_33639f48:
 
     # nid "Oh, really...?"
-    nid ""
+    nid "Oh, sério...?"
 
 # game/scripts/kali_events.rpy:14499
 translate pt_br talkkaliwork_28b740cf:
 
     # nid "That's right... we were expecting someone..."
-    nid ""
+    nid "Ah sim... agente tava esperando alguém..."
 
 # game/scripts/kali_events.rpy:14501
 translate pt_br talkkaliwork_d1685089:
 
     # nid "You're Kali... right? I'm Nidra... I'll be your co worker..."
-    nid ""
+    nid "Você é a Kali... certo? Meu nome é Nidra... eu serei sua colega de trabalho..."
 
 # game/scripts/kali_events.rpy:14502
 translate pt_br talkkaliwork_7457cfe8:
 
     # k "Do you always sleep on the job...?"
-    k ""
+    k "Você sempre dorme no trabalho...?"
 
 # game/scripts/kali_events.rpy:14503
 translate pt_br talkkaliwork_fe2ab04a:
 
     # nid "I can't control it... I'm always sleepy..."
-    nid ""
+    nid "Eu não consigo controlar... eu estou sempre com sono..."
 
 # game/scripts/kali_events.rpy:14504
 translate pt_br talkkaliwork_726b5e1f:
 
     # k "Great..."
-    k ""
+    k "Ótimo..."
 
 # game/scripts/kali_events.rpy:14505
 translate pt_br talkkaliwork_3e952247:
 
     # nid "It's pretty slow around here... so... you don't need to worry about me..."
-    nid ""
+    nid "É bem parado por aqui... então... você não precisa se preocupar comigo..."
 
 # game/scripts/kali_events.rpy:14506
 translate pt_br talkkaliwork_0db754f9:
 
     # k "Don't you cook the pizzas though? How can you work like that..."
-    k ""
+    k "Não é você que cozinha as pizzas? Como você pode trabalhar assim..."
 
 # game/scripts/kali_events.rpy:14508
 translate pt_br talkkaliwork_f4861ac5:
 
     # nid "...It's just frozen shit anyway... the stove takes care of everything else..."
-    nid ""
+    nid "... É só pizza congelada... o fogão cuida de tudo..."
 
 # game/scripts/kali_events.rpy:14509
 translate pt_br talkkaliwork_9bbab684:
 
     # k "Nnngh... this place is going to burn down with me in it..."
-    k ""
+    k "Nnngh... esse lugar vai queimar comigo dentro..."
 
 # game/scripts/kali_events.rpy:14510
 translate pt_br talkkaliwork_9cab6d2f:
 
     # k "Where's the manager, can I speak to him?"
-    k ""
+    k "Onde está o gerente, posso falar com ele?"
 
 # game/scripts/kali_events.rpy:14511
 translate pt_br talkkaliwork_8e88f8b0:
 
     # nid "The manager is... uh... where is he..."
-    nid ""
+    nid "O gerente está... uh... onde ele está..."
 
 # game/scripts/kali_events.rpy:14512
 translate pt_br talkkaliwork_146bbd75:
 
     # nid "Oh, that's right... he told me to train you..."
-    nid ""
+    nid "Ah, sim... ele me disse para te instruir..."
 
 # game/scripts/kali_events.rpy:14513
 translate pt_br talkkaliwork_77901f74:
 
     # k "*sigh*... alright, what do I have to do..."
-    k ""
+    k "*suspiro*... beleza, oque eu tenho que fazer...?"
 
 # game/scripts/kali_events.rpy:14514
 translate pt_br talkkaliwork_e676315c:
 
     # nid "Do you... know how to drive a... car?"
-    nid ""
+    nid "Você... sabe como dirigir um... carro?"
 
 # game/scripts/kali_events.rpy:14515
 translate pt_br talkkaliwork_a302aea6:
 
     # k "Yes..."
-    k ""
+    k "Sim..."
 
 # game/scripts/kali_events.rpy:14516
 translate pt_br talkkaliwork_9db14ae5:
 
     # nid "I guess that's it... wow, that was an easy bonus..."
-    nid ""
+    nid "Eu acho que é isso então... wow, isso foi um bônus fácil..."
 
 # game/scripts/kali_events.rpy:14517
 translate pt_br talkkaliwork_9b3fbd08:
 
     # nid "He wants you to finish a delivery though... before you start..."
-    nid ""
+    nid "Ele quer que você faça uma entrega teste... antes de você começar oficialmente..."
 
 # game/scripts/kali_events.rpy:14518
 translate pt_br talkkaliwork_3e841376:
 
     # k "Okay, I can do that."
-    k ""
+    k "Ok, eu posso fazer isso."
 
 # game/scripts/kali_events.rpy:14519
 translate pt_br talkkaliwork_a085913f:
 
     # nid "The keys are in the back room..."
-    nid ""
+    nid "As chaves estão nos fundos..."
 
 # game/scripts/kali_events.rpy:14520
 translate pt_br talkkaliwork_8b8667e3:
 
     # nid "Don't steal the car... okay?"
-    nid ""
+    nid "Não roube o carro... ok?"
 
 # game/scripts/kali_events.rpy:14522
 translate pt_br talkkaliwork_a92193fc:
 
     # k "I guess I have to do some work... sorry for dragging you out here to make you wait."
-    k ""
+    k "Eu acho que eu vou começar.... desculpa por te arrastar até aqui e te fazer esperar."
 
 # game/scripts/kali_events.rpy:14523
 translate pt_br talkkaliwork_6c878e4c:
 
     # c "No problem at all. I'll join you on your first delivery, if that's allowed..."
-    c ""
+    c "Sem problema. Eu vou com você na sua primeira entrega, se for permitido..."
 
 # game/scripts/kali_events.rpy:14525
 translate pt_br talkkaliwork_3b59fec2:
 
     # nid "*snore*..."
-    nid ""
+    nid "*roncando*..."
 
 # game/scripts/kali_events.rpy:14526
 translate pt_br talkkaliwork_af6f8956:
 
     # k "I don't think she'll care, heh..."
-    k ""
+    k "Eu não acho que vá ligar, heh..."
 
 # game/scripts/kali_events.rpy:14528
 translate pt_br talkkaliwork_81235e28:
 
     # k "Okay, yeah... that would be cool. I wouldn't be as bored at least..."
-    k ""
+    k "Ok, sim... seria legal, eu não ficaria entediada pelo menos..."
 
 # game/scripts/kali_events.rpy:14530
 translate pt_br talkkaliwork_848a4072:
 
     # "You and Kali wait for the first delivery order to come. Nidra was right, this place is a bit slow..."
-    ""
+    "Você e a Kali esperam pelo primeiro pedido chegar. Nidra tinha razão, o lugar é meio parado..."
 
 # game/scripts/kali_events.rpy:14531
 translate pt_br talkkaliwork_dd4c5964:
 
     # "After waiting for what feels like 30 minutes, the phone finally rings. It's an order for two large pepperoni pizzas."
-    ""
+    "Depois de esperar por uns 30 minutos, o telefone finalmente toca. É um pedido de duas pizzas grandes de pepperoni."
 
 # game/scripts/kali_events.rpy:14532
 translate pt_br talkkaliwork_aff8a077:
 
     # "Once Nidra has baked the order, you and Kali drive to the address. She completes the delivery on time and you return to Papa Rons..."
-    ""
+    "Depois da Nidra esquentar o pedido, você e a Kali dirigem até o endereço. Ela completa a entrega no tempo e volta ao Papa Rons..."
 
 # game/scripts/kali_events.rpy:14534
 translate pt_br talkkaliwork_fb409ad4:
 
     # k "Okay, we did it."
-    k ""
+    k "Ok, nós terminamos."
 
 # game/scripts/kali_events.rpy:14535
 translate pt_br talkkaliwork_0aa2afc9:
 
     # nid "Egh... huh? Oh... nice..."
-    nid ""
+    nid "Egh... huh? Oh... boa..."
 
 # game/scripts/kali_events.rpy:14536
 translate pt_br talkkaliwork_082895c5:
 
     # k "So, that's it?"
-    k ""
+    k "Então, é isso?"
 
 # game/scripts/kali_events.rpy:14537
 translate pt_br talkkaliwork_683971af:
 
     # nid "Were there... any complications...?"
-    nid ""
+    nid "Houve... alguma complicação...?"
 
 # game/scripts/kali_events.rpy:14538
 translate pt_br talkkaliwork_0d4d630a:
 
     # k "Nope."
-    k ""
+    k "Não."
 
 # game/scripts/kali_events.rpy:14539
 translate pt_br talkkaliwork_c6f6cdb6:
 
     # nid "Grats... you got the job... you can start this afternoon."
-    nid ""
+    nid "Beleza... você tá contratada... pode começar esta tarde."
 
 # game/scripts/kali_events.rpy:14540
 translate pt_br talkkaliwork_1209a9d5:
 
     # k "Finally..."
-    k ""
+    k "Finalmente..."
 
 # game/scripts/kali_events.rpy:14541
 translate pt_br talkkaliwork_7688e72b:
 
     # k "Alright, let's get out of here [name]. Goodbye Nidra."
-    k ""
+    k "Beleza, vamos sair daqui [name]. Tchau Nidra."
 
 # game/scripts/kali_events.rpy:14542
 translate pt_br talkkaliwork_c8fa16a0:
 
     # k "Or... goodnight...? Whatever."
-    k ""
+    k "Ou... boa noite...? tanto faz."
 
 # game/scripts/kali_events.rpy:14543
 translate pt_br talkkaliwork_bda6cfef:
 
     # nid "Night..."
-    nid ""
+    nid "Noite..."
 
 # game/scripts/kali_events.rpy:14545
 translate pt_br talkkaliwork_54be8fa7_1:
 
     # "...{w}...{w}..."
-    ""
+    "...{w}...{w}..."
 
 # game/scripts/kali_events.rpy:14549
 translate pt_br talkkaliwork_a3b03158:
 
     # k "Hey... thanks for joining me, you didn't have to..."
-    k ""
+    k "Ei... obrigada por vir comigo, você não precisava..."
 
 # game/scripts/kali_events.rpy:14550
 translate pt_br talkkaliwork_289c2a35:
 
     # c "No problem, I had a good time with you."
-    c ""
+    c "Sem problema, eu me diverti com você."
 
 # game/scripts/kali_events.rpy:14551
 translate pt_br talkkaliwork_dfba945c:
 
     # k "Thanks..."
-    k ""
+    k "Obrigada..."
 
 # game/scripts/kali_events.rpy:14553
 translate pt_br talkkaliwork_19dd1f53:
 
     # k "Alright, well uh..."
-    k ""
+    k "Tá certo, bem uh..."
 
 # game/scripts/kali_events.rpy:14554
 translate pt_br talkkaliwork_7d1e0c50:
 
     # k "See you around."
-    k ""
+    k "Até mais."
 
 # game/scripts/kali_events.rpy:14569
 translate pt_br kalisexm_8512cd7d:
 
     # k "Missionary? Sounds like fun..."
-    k ""
+    k "Missionária? Parece divertido..."
 
 # game/scripts/kali_events.rpy:14571
 translate pt_br kalisexm_e28deb44:
 
     # "Kali undresses herself and lays down on the bed. Waiting."
-    ""
+    "Kali tira as roupas e deita na cama. Esperando."
 
 # game/scripts/kali_events.rpy:14574
 translate pt_br kalisexm_8a6a5ed4:
 
     # k "Well [name], are you going to fuck me or not?"
-    k ""
+    k "Bem [name], você vai vir me foder ou não?"
 
 # game/scripts/kali_events.rpy:14578
 translate pt_br kalisexm_bcfac4f6:
 
     # k "Ohhhh fuck! It's so fucking big."
-    k ""
+    k "Ohhhh porra! É grande pra caralho."
 
 # game/scripts/kali_events.rpy:14579
 translate pt_br kalisexm_a5552c7a:
 
     # k "Ahh... yessss. ohh, mmmmmmm..."
-    k ""
+    k "Ahh... issoooo. ohh, mmmmmmm..."
 
 # game/scripts/kali_events.rpy:14580
 translate pt_br kalisexm_032346f5:
 
     # k "Mmmmm. Shit you're good at this [name]."
-    k ""
+    k "Mmmmm. Merda você é bom nisso, [name]."
 
 # game/scripts/kali_events.rpy:14581
 translate pt_br kalisexm_d8b0314c:
 
     # k "Reallllly good... hahhh..."
-    k ""
+    k "Muuuuuito bom... hahhh..."
 
 # game/scripts/kali_events.rpy:14584
 translate pt_br kalisexm_f939b082:
 
     # k "Fuck! Yes! Go faster!"
-    k ""
+    k "Porra! Isso! Mais rápido!"
 
 # game/scripts/kali_events.rpy:14585
 translate pt_br kalisexm_ed79144f:
 
     # k "Ahh! Mmmmm... yes yes!"
-    k ""
+    k "Ahh! Mmmmm... isso isso!"
 
 # game/scripts/kali_events.rpy:14586
 translate pt_br kalisexm_f21dd2fa:
 
     # k "Yesss! YESS!"
-    k ""
+    k "IIIsso! IISSO!"
 
 # game/scripts/kali_events.rpy:14587
 translate pt_br kalisexm_9ae7b23b:
 
     # k "More! Faster!"
-    k ""
+    k "Mais! Rápido!"
 
 # game/scripts/kali_events.rpy:14590
 translate pt_br kalisexm_22769ccb:
 
     # k "Fuck yes! Keep going! Fuck my pussy!"
-    k ""
+    k "Isso porra! Continua! Fode a minha buceta!"
 
 # game/scripts/kali_events.rpy:14591
 translate pt_br kalisexm_60c704f6:
 
     # k "Don't fucking stop! Yesyesyesyes! FUCK! FUCK!"
-    k ""
+    k "Não pare caralho! Issoissoissoisso! PORRA! PORRA!"
 
 # game/scripts/kali_events.rpy:14594
 translate pt_br kalisexm_6a423224:
 
     # k "I'M FUCKING CUMMING! FUUUUUUUUUCK!!!"
-    k ""
+    k "EU TO GOZANDO! POOOOOOOOORRA!!!"
 
 # game/scripts/kali_events.rpy:14595
 translate pt_br kalisexm_ccf273a7:
 
     # k "OHHHHHHHHHH! FUCK YES! AHH!"
-    k ""
+    k "OHHHHHHHHHH! ISSO PORRA! AHH!"
 
 # game/scripts/kali_events.rpy:14598
 translate pt_br kalisexm_fb296a77:
 
     # k "Fuck! Shit! ohmygod... fuck ...Holy shit you made me cum [name]."
-    k ""
+    k "Porra! Merda! meudeus... porra... puta merda, você me fez gozar, [name]."
 
 # game/scripts/kali_events.rpy:14601
 translate pt_br kalisexm_2647110b:
 
     # k "Mmmm... Your cock made my pussy cum. Hahhh... mmmm..."
-    k ""
+    k "Mmmm... seu pau fez a minha buceta gozar. Hahhh... mmmm..."
 
 # game/scripts/kali_events.rpy:14602
 translate pt_br kalisexm_67ae32ca:
 
     # k "Ahhhh..."
-    k ""
+    k "Ahhhh..."
 
 # game/scripts/kali_events.rpy:14603
 translate pt_br kalisexm_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14604
 translate pt_br kalisexm_c52ea169:
 
     # k "Your turn."
-    k ""
+    k "Sua vez."
 
 # game/scripts/kali_events.rpy:14607
 translate pt_br kalisexm_9c579d66:
 
     # k "Ohhh fuck. Yes! Yes!"
-    k ""
+    k "Ohhh porra. Sim! Sim!"
 
 # game/scripts/kali_events.rpy:14608
 translate pt_br kalisexm_a1b1d0ff:
 
     # k "Pound me [name]! Fuck my tight pussy!"
-    k ""
+    k "Me usa, [name]! Fode a minha buceta apertada!"
 
 # game/scripts/kali_events.rpy:14609
 translate pt_br kalisexm_6a412b60:
 
     # k "Use my fucking pussy! Use me and fucking cum!"
-    k ""
+    k "Usa a porra da minha buceta! Me usa e goze!"
 
 # game/scripts/kali_events.rpy:14612
 translate pt_br kalisexm_12bc9ee6:
 
     # k "Cum for me! Cum! Yes!"
-    k ""
+    k "Goza pra mim! Goza! Isso!"
 
 # game/scripts/kali_events.rpy:14617
 translate pt_br kalisexm_287e1234:
 
     # k "Wait! Inside!? But I mi-"
-    k ""
+    k "Espera! Dentro!? Mas eu poss-"
 
 # game/scripts/kali_events.rpy:14618
 translate pt_br kalisexm_79e0e9d2:
 
     # k "!!!"
-    k ""
+    k "!!!"
 
 # game/scripts/kali_events.rpy:14621
 translate pt_br kalisexm_1a1ed794:
 
     # k "OHH!!! Fuck you're filling me up!"
-    k ""
+    k "OHH!!! Porra, você tá me enchendo!"
 
 # game/scripts/kali_events.rpy:14622
 translate pt_br kalisexm_ffe1b84f:
 
     # k "Ohhhh... mmmm... oh my god... you came inside..."
-    k ""
+    k "Ohhhh... mmmm... meu deus... você gozou dentro..."
 
 # game/scripts/kali_events.rpy:14625
 translate pt_br kalisexm_81aaee28:
 
     # k "mmm..."
-    k ""
+    k "mmm..."
 
 # game/scripts/kali_events.rpy:14626
 translate pt_br kalisexm_9f8d2045:
 
     # k "I might get pregnant..."
-    k ""
+    k "Eu posso acabar engravidando..."
 
 # game/scripts/kali_events.rpy:14627
 translate pt_br kalisexm_fec4985c:
 
     # k "Heh heh heh... mmm..."
-    k ""
+    k "Heh heh heh... mmm..."
 
 # game/scripts/kali_events.rpy:14629
 translate pt_br kalisexm_15975616:
 
     # k "Thanks [name], that was amazing..."
-    k ""
+    k "Obrigada [name], isso foi incrível..."
 
 # game/scripts/kali_events.rpy:14634
 translate pt_br kalisexm_ea78399e:
 
     # k "Yes! Fucking cum on me!"
-    k ""
+    k "Isso! Goza em mim porra!"
 
 # game/scripts/kali_events.rpy:14638
 translate pt_br kalisexm_59351dd0:
 
     # k "Do it! Cum! Please cum on me! Yes yes yes!"
-    k ""
+    k "Vai! Goza! por favor, goza em mim! Isso isso isso!"
 
 # game/scripts/kali_events.rpy:14641
 translate pt_br kalisexm_925046fc:
 
     # k "Ahh..."
-    k ""
+    k "Ahh..."
 
 # game/scripts/kali_events.rpy:14642
 translate pt_br kalisexm_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14643
 translate pt_br kalisexm_bc102e1a:
 
     # k "It's all over me..."
-    k ""
+    k "Eu tô toda coberta..."
 
 # game/scripts/kali_events.rpy:14644
 translate pt_br kalisexm_48cd5574:
 
     # k "Mmmmm..."
-    k ""
+    k "Mmmmm..."
 
 # game/scripts/kali_events.rpy:14646
 translate pt_br kalisexm_15975616_1:
 
     # k "Thanks [name], that was amazing..."
-    k ""
+    k "Obrigada [name], isso foi incrível..."
 
 # game/scripts/kali_events.rpy:14651
 translate pt_br kalisexm_97a56ee0:
 
     # k "I hope you had fun too heheh."
-    k ""
+    k "Eu espero que você tenha se divertido também, heheh."
 
 # game/scripts/kali_events.rpy:14652
 translate pt_br kalisexm_5e66397d:
 
     # k "Let me know when you want to have some more... 'fun'... I'll be waiting."
-    k ""
+    k "Me avise quando quiser... 'se divertir' de novo... estarei esperando."
 
 # game/scripts/kali_events.rpy:14658
 translate pt_br kalibeach_38aa64ab:
 
     # "You and Kali drive to the beach..."
-    ""
+    "Você leva Kali até a praia..."
 
 # game/scripts/kali_events.rpy:14660
 translate pt_br kalibeach_05f51636:
 
     # k "Thanks for coming with me, [name]."
-    k ""
+    k "Obrigada por vir comigo, [name]."
 
 # game/scripts/kali_events.rpy:14662
 translate pt_br kalibeach_778f1c08:
 
     # k "Pretty cool place, not many people at this time... and it's not too far from the hotel."
-    k ""
+    k "O lugar é bem legal, não está muito cheio essas horas... e não é muito longe do hotel."
 
 # game/scripts/kali_events.rpy:14664
 translate pt_br kalibeach_9e90b6f2:
 
     # k "Hey... can you put some sunscreen on me? I would do it myself, but... I can't reach my back..."
-    k ""
+    k "Ei... você pode passar protetor solar em mim? Eu faria isso eu mesma, mas... eu não consigo alcançar as minhas costas..."
 
 # game/scripts/kali_events.rpy:14665
 translate pt_br kalibeach_db073fff:
 
     # c "Yeah, no problem."
-    c ""
+    c "Sim, sem problema."
 
 # game/scripts/kali_events.rpy:14666
 translate pt_br kalibeach_3dabfd2d:
 
     # k "Cool..."
-    k ""
+    k "Legal..."
 
 # game/scripts/kali_events.rpy:14668
 translate pt_br kalibeach_31c7682f:
 
     # k "Don't get any ideas..."
-    k ""
+    k "E não pense em nenhuma gracinha..."
 
 # game/scripts/kali_events.rpy:14670
 translate pt_br kalibeach_925046fc:
 
     # k "Ahh..."
-    k ""
+    k "Ahh..."
 
 # game/scripts/kali_events.rpy:14672
 translate pt_br kalibeach_bc0e4658:
 
     # k "H-Hey... where are your eyes?"
-    k ""
+    k "E-Ei... tá olhando pra onde?"
 
 # game/scripts/kali_events.rpy:14674
 translate pt_br kalibeach_b96b494c:
 
     # c "Where do you want them to be?"
-    c ""
+    c "Para onde mais você quer que eu olhe?"
 
 # game/scripts/kali_events.rpy:14676
 translate pt_br kalibeach_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14678
 translate pt_br kalibeach_9b317648:
 
     # k "Nnnn..."
-    k ""
+    k "Nnnn..."
 
 # game/scripts/kali_events.rpy:14680
 translate pt_br kalibeach_45a63d8b:
 
     # k "Aah! H-Hey..."
-    k ""
+    k "Aah! E-Ei..."
 
 # game/scripts/kali_events.rpy:14682
 translate pt_br kalibeach_557ec6fe:
 
     # k "I thought I told you not to do anything weird..."
-    k ""
+    k "Eu pensei que eu havia dito para não fazer nenhuma gracinha..."
 
 # game/scripts/kali_events.rpy:14684
 translate pt_br kalibeach_fc54e19e:
 
     # k "Nnnnh..."
-    k ""
+    k "Nnnnh..."
 
 # game/scripts/kali_events.rpy:14686
 translate pt_br kalibeach_d218500b:
 
     # c "I'm just rubbing sunscreen on you..."
-    c ""
+    c "Eu estou só passando protetor solar em você..."
 
 # game/scripts/kali_events.rpy:14688
 translate pt_br kalibeach_2d209eab:
 
     # k "O-Okay, well... that's fine then..."
-    k ""
+    k "O-Ok, bem... tudo bem então..."
 
 # game/scripts/kali_events.rpy:14690
 translate pt_br kalibeach_7e64899c:
 
     # k "Ah..."
-    k ""
+    k "Ah..."
 
 # game/scripts/kali_events.rpy:14695
 translate pt_br kalibeach_6d4350bc:
 
     # k "Hey, what are you..."
-    k ""
+    k "Ei, oque você está..."
 
 # game/scripts/kali_events.rpy:14697
 translate pt_br kalibeach_f7974904:
 
     # k "AH! Hey!!" with ssshake
-    k "" with ssshake
+    k "AH! Ei!!" with ssshake
 
 # game/scripts/kali_events.rpy:14698
 translate pt_br kalibeach_7d7e6aaa:
 
     # k "Give it back, asshole!"
-    k ""
+    k "Me devolve, babaca!"
 
 # game/scripts/kali_events.rpy:14699
 translate pt_br kalibeach_72048b4b:
 
     # c "Heheh, you don't want tan lines, do you?"
-    c ""
+    c "Heheh, você não quer ficar com marcas de biquíni, quer?"
 
 # game/scripts/kali_events.rpy:14701
 translate pt_br kalibeach_b836e199:
 
     # k "Nnnngh... are there more people here? Fuck, fuck..."
-    k ""
+    k "Nnnngh... tem mais pessoas aqui? Porra, porra..."
 
 # game/scripts/kali_events.rpy:14702
 translate pt_br kalibeach_d726b2f9:
 
     # c "You're overthinking it..."
-    c ""
+    c "Você tá exagerando..."
 
 # game/scripts/kali_events.rpy:14704
 translate pt_br kalibeach_29cc84de:
 
     # k "Give it back! Now! There are people here!"
-    k ""
+    k "Me devolve! Agora! Tem pessoas aqui!"
 
 # game/scripts/kali_events.rpy:14705
 translate pt_br kalibeach_eec7ed34:
 
     # c "Alright..."
-    c ""
+    c "Tá certo..."
 
 # game/scripts/kali_events.rpy:14707
 translate pt_br kalibeach_df0d2017:
 
     # k "Hmph... don't do that in public... stupid..."
-    k ""
+    k "Hmph... não faça isso em público... idiota..."
 
 # game/scripts/kali_events.rpy:14709
 translate pt_br kalibeach_311fd05c:
 
     # k "I'll do the rest..."
-    k ""
+    k "Eu passo o resto..."
 
 # game/scripts/kali_events.rpy:14711
 translate pt_br kalibeach_63087b23:
 
     # c "Your skin is very soft."
-    c ""
+    c "Sua pele é bem macia."
 
 # game/scripts/kali_events.rpy:14713
 translate pt_br kalibeach_ba3a0808:
 
     # k "I-It's just the sun screen..."
-    k ""
+    k "É-é só o protetor solar..."
 
 # game/scripts/kali_events.rpy:14715
 translate pt_br kalibeach_5667294f:
 
     # k "You can stop now... I'll do the rest..."
-    k ""
+    k "Você pode parar agora... Eu passo o resto..."
 
 # game/scripts/kali_events.rpy:14718
 translate pt_br kalibeach_3ee014e4:
 
     # k "That was fun... thanks for the help."
-    k ""
+    k "Isso foi divertido... obrigada pela ajuda."
 
 # game/scripts/kali_events.rpy:14719
 translate pt_br kalibeach_c027eb52:
 
     # k "At least I won't be all red now..."
-    k ""
+    k "Ao menos eu não vou ficar toda vermelha agora..."
 
 # game/scripts/kali_events.rpy:14720
 translate pt_br kalibeach_a2971e90:
 
     # c "Happy to help."
-    c ""
+    c "Fico feliz em ajudar."
 
 # game/scripts/kali_events.rpy:14722
 translate pt_br kalibeach_4fbdc6dd:
 
     # k "The Capitol, where I'm from, isn't near any beaches..."
-    k ""
+    k "A Capitol, de onde eu vim, não tem muitas praias por perto..."
 
 # game/scripts/kali_events.rpy:14723
 translate pt_br kalibeach_9a92e081:
 
     # c "Is this your first time at one?"
-    c ""
+    c "Essa é a sua primeira vez em uma?"
 
 # game/scripts/kali_events.rpy:14724
 translate pt_br kalibeach_990a62d8:
 
     # k "No, of course not... but this is probably one of the nicest. So long as it doesn't get too crowded..."
-    k ""
+    k "Não, claro que não... mas essa é provavelmente uma das melhores. Desde que não fique muito lotado..."
 
 # game/scripts/kali_events.rpy:14725
 translate pt_br kalibeach_f254ba4e:
 
     # c "Not a fan of crowds, huh?"
-    c ""
+    c "Não é uma fã de multidões, huh?"
 
 # game/scripts/kali_events.rpy:14726
 translate pt_br kalibeach_af68632c:
 
     # k "Not at all, I'm so introverted..."
-    k ""
+    k "Na verdade não, eu sou muito introvertida..."
 
 # game/scripts/kali_events.rpy:14727
 translate pt_br kalibeach_de30088b:
 
     # k "You know, I would probably be a celebrity if I wasn't so introverted."
-    k ""
+    k "Sabe, eu provavelmente seria uma celebridade se não fosse tão introvertida."
 
 # game/scripts/kali_events.rpy:14728
 translate pt_br kalibeach_4e24c2ca:
 
     # c "Really?"
-    c ""
+    c "Sério?"
 
 # game/scripts/kali_events.rpy:14729
 translate pt_br kalibeach_54785ffe:
 
     # k "Yeah, my father's... well, he's extremely rich. He's always doing something, always bringing new advancements to the world in some way or another."
-    k ""
+    k "Sim, meu pai... bem, ele é extremamente rico. Ele sempre tem algum projeto, novos avanços para o mundo de alguma forma."
 
 # game/scripts/kali_events.rpy:14730
 translate pt_br kalibeach_26c13299:
 
     # c "How does he do that?"
-    c ""
+    c "Como ele faz isso?"
 
 # game/scripts/kali_events.rpy:14731
 translate pt_br kalibeach_a365ec54:
 
     # k "He buys businesses and invests heavily in them. Everything from coffee shops to the space industry, there's no limits honestly."
-    k ""
+    k "Ele compra empresas e investe pesado nelas. Tudo desde cafeterias à estações espaciais, não tem limites honestamente."
 
 # game/scripts/kali_events.rpy:14732
 translate pt_br kalibeach_0ed6fae6:
 
     # c "It sounds like he almost has a monopoly."
-    c ""
+    c "Parece que ele tem um monopólio."
 
 # game/scripts/kali_events.rpy:14733
 translate pt_br kalibeach_d36f5eb6:
 
     # k "He basically does..."
-    k ""
+    k "Basicamente ele tem sim..."
 
 # game/scripts/kali_events.rpy:14734
 translate pt_br kalibeach_c4077d7f:
 
     # k "I've always tried my best to stay away from the press, I'm not really interested in what he does anyway, so it's not like I would know anything."
-    k ""
+    k "Eu sempre tentei meu melhor para ficar fora da pressão, eu não estou realmente interessada no que ele faz de qualquer forma."
 
 # game/scripts/kali_events.rpy:14735
 translate pt_br kalibeach_bd5a7cc9:
 
     # k "But the world has pretty much forgotten about me."
-    k ""
+    k "Mas o mundo se esqueceu de mim."
 
 # game/scripts/kali_events.rpy:14736
 translate pt_br kalibeach_8fb37d3a:
 
     # c "Is that a good thing?"
-    c ""
+    c "Isso é uma coisa boa?"
 
 # game/scripts/kali_events.rpy:14738
 translate pt_br kalibeach_e4334b75:
 
     # k "Well... I couldn't handle fame. Could you imagine people coming up to us here? While we're trying to enjoy ourselves?"
-    k ""
+    k "Bem... eu não conseguiria lidar com a fama. Você poderia imaginar as pessoas vindo até nós aqui? Enquanto estamos tentando aproveitar o momento?"
 
 # game/scripts/kali_events.rpy:14739
 translate pt_br kalibeach_965b3ffb:
 
     # k "I'm glad I'm never harassed by the press like my father..."
-    k ""
+    k "Eu estou feliz que eu nunca me deixei levar pela pressão do meu pai..."
 
 # game/scripts/kali_events.rpy:14740
 translate pt_br kalibeach_8b830d3d:
 
     # k "But... I would like to do something with my life eventually..."
-    k ""
+    k "Mas... eu gostaria de ser algo a mais na minha vida eventualmente..."
 
 # game/scripts/kali_events.rpy:14742
 translate pt_br kalibeach_5775a58e:
 
     # k "And no, not a maid, sheesh..."
-    k ""
+    k "E não, não uma empregada, deus..."
 
 # game/scripts/kali_events.rpy:14743
 translate pt_br kalibeach_9a604e2d:
 
     # c "I didn't say anything."
-    c ""
+    c "Eu nem falei nada."
 
 # game/scripts/kali_events.rpy:14744
 translate pt_br kalibeach_7a2bb9e3:
 
     # k "You were thinking it though."
-    k ""
+    k "Mas pensou."
 
 # game/scripts/kali_events.rpy:14745
 translate pt_br kalibeach_2ba2993d:
 
     # k "But, whatever... I don't even care about doing it now anyway. I'm finally on my own, and I can afford it too, so I'm comfortable..."
-    k ""
+    k "Mas, tanto faz... Eu nem mesmo me importo de fazer isso agora. Eu finalmente estou por minha conta, e eu posso me sustentar. então, estou confotável..."
 
 # game/scripts/kali_events.rpy:14746
 translate pt_br kalibeach_a50a2857:
 
     # k "Maybe I'll... join a league tourney or something..."
-    k ""
+    k "Talvez eu... entre em um torneio ou algo assim..."
 
 # game/scripts/kali_events.rpy:14748
 translate pt_br kalibeach_5dc198e9:
 
     # k "Or... maybe you can take me to a fancy restaurant sometime. I have to use that dress again..."
-    k ""
+    k "Ou... talvez você possa me levar à um restaurante chique alguma hora. Eu preciso usar aquele vestido de novo..."
 
 # game/scripts/kali_events.rpy:14749
 translate pt_br kalibeach_5ba83a62:
 
     # c "What do you like to eat?"
-    c ""
+    c "O que você gosta de comer?"
 
 # game/scripts/kali_events.rpy:14751
 translate pt_br kalibeach_558559ed:
 
     # k "Umm... Pizza... uh, what else..."
-    k ""
+    k "Umm... Pizza... uh, oque mais..."
 
 # game/scripts/kali_events.rpy:14752
 translate pt_br kalibeach_3aa65172:
 
     # c "Pizza isn't that fancy."
-    c ""
+    c "Pizza não é tão chique assim."
 
 # game/scripts/kali_events.rpy:14753
 translate pt_br kalibeach_9966901b:
 
     # k "I know, I know... I just love it, give me a second..."
-    k ""
+    k "Eu sei, eu sei... eu só amo pizza, me dê um segundo..."
 
 # game/scripts/kali_events.rpy:14755
 translate pt_br kalibeach_1245007d:
 
     # k "I love oriental food. I order it when I'm too lazy to bake pizza."
-    k ""
+    k "Eu amo comida oriental. Eu peço quando estou com poreguiça de cozinhar uma pizza."
 
 # game/scripts/kali_events.rpy:14756
 translate pt_br kalibeach_f3b5ce28:
 
     # k "Expect a lot of deliveries, by the way..."
-    k ""
+    k "Espere várias encomendas."
 
 # game/scripts/kali_events.rpy:14757
 translate pt_br kalibeach_b7f4b180:
 
     # c "Noted."
-    c ""
+    c "Entendido."
 
 # game/scripts/kali_events.rpy:14758
 translate pt_br kalibeach_85ceb222:
 
     # k "Good."
-    k ""
+    k "Bom."
 
 # game/scripts/kali_events.rpy:14760
 translate pt_br kalibeach_94ca2354:
 
     # k "Alright, let's get out of here... I'm getting hungry."
-    k ""
+    k "Tá certo, vamos sair daqui... eu estou com fome."
 
 # game/scripts/kali_events.rpy:14761
 translate pt_br kalibeach_0b36f178:
 
     # k "It was fun... I had a good time..."
-    k ""
+    k "Foi legal... eu me diverti."
 
 # game/scripts/kali_events.rpy:14762
 translate pt_br kalibeach_d4226afb:
 
     # c "I did too."
-    c ""
+    c "Eu também."
 
 # game/scripts/kali_events.rpy:14764
 translate pt_br kalibeach_c9eb6c05:
 
     # "You drive Kali home..."
-    ""
+    "Você e Kali voltam ao hotel..."
 
 # game/scripts/kali_events.rpy:14777
 translate pt_br kalibroken_6b13a90f:
 
     # k "God damn it!"
-    k ""
+    k "Porcaria!"
 
 # game/scripts/kali_events.rpy:14778
 translate pt_br kalibroken_499819e9:
 
     # c "What happened?"
-    c ""
+    c "O que houve?"
 
 # game/scripts/kali_events.rpy:14781
 translate pt_br kalibroken_af852bff:
 
     # k "My hard drive broke..."
-    k ""
+    k "Meu disco rigído quebrou..."
 
 # game/scripts/kali_events.rpy:14784
 translate pt_br kalibroken_803bc722:
 
     # k "It was expensive too! And I can't afford to buy another one..."
-    k ""
+    k "Foi muito caro! E eu não posso pagar por outro..."
 
 # game/scripts/kali_events.rpy:14787
 translate pt_br kalibroken_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14790
 translate pt_br kalibroken_f43581d0:
 
     # k "Could... you order one for me?"
-    k ""
+    k "Você... pode comprar um pra mim?"
 
 # game/scripts/kali_events.rpy:14791
 translate pt_br kalibroken_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/scripts/kali_events.rpy:14794
 translate pt_br kalibroken_da234d9e:
 
     # k "Really? Thanks! A replacement should cost $20."
-    k ""
+    k "Sério? Obrigada! Um novo deve custar $20."
 
 # game/scripts/kali_events.rpy:14803
 translate pt_br kalihasspeakers_21b352b2:
 
     # k "Is it here yet?"
-    k ""
+    k "Já chegou o meu HD?"
 
 # game/scripts/kali_events.rpy:14806
 translate pt_br kalihasspeakers_3a29767d:
 
     # c "Yeah, it's right here."
-    c ""
+    c "Sim, eu tô com ele aqui."
 
 # game/scripts/kali_events.rpy:14809
 translate pt_br kalihasspeakers_f9a8cbf4:
 
     # k "Sweet!"
-    k ""
+    k "Legal!"
 
 # game/scripts/kali_events.rpy:14812
 translate pt_br kalihasspeakers_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14815
 translate pt_br kalihasspeakers_9d6dfa78:
 
     # k "...So can I have it?"
-    k ""
+    k "... Então, pode me dar?"
 
 # game/scripts/kali_events.rpy:14820
 translate pt_br kalihasspeakers_28e4c1ba:
 
     # k "A favor!?"
-    k ""
+    k "Um favor!?"
 
 # game/scripts/kali_events.rpy:14821
 translate pt_br kalihasspeakers_96d37064:
 
     # c "I had to spend a lot of money to get this for you."
-    c ""
+    c "Eu tive de gastar muito dinheiro para pegar isso pra você."
 
 # game/scripts/kali_events.rpy:14824
 translate pt_br kalihasspeakers_f4c0ac6a:
 
     # k "I..."
-    k ""
+    k "Eu..."
 
 # game/scripts/kali_events.rpy:14827
 translate pt_br kalihasspeakers_8bc30f61:
 
     # k "...Urgh, I guess you're right. What do you want?"
-    k ""
+    k "... Urgh, eu acho que você tem razão. O que você quer?"
 
 # game/scripts/kali_events.rpy:14828
 translate pt_br kalihasspeakers_f63412b2:
 
     # c "Take your top off."
-    c ""
+    c "Tire o seu moletom."
 
 # game/scripts/kali_events.rpy:14831
 translate pt_br kalihasspeakers_cc45556c:
 
     # k "What!?"
-    k ""
+    k "Oque!?"
 
 # game/scripts/kali_events.rpy:14832
 translate pt_br kalihasspeakers_e14f5b70:
 
     # c "Or I could just return it and get my money back..."
-    c ""
+    c "Ou eu posso retornar e pegar meu dinheiro de volta..."
 
 # game/scripts/kali_events.rpy:14835
 translate pt_br kalihasspeakers_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14836
 translate pt_br kalihasspeakers_33000106:
 
     # k "Fuck. You."
-    k ""
+    k "Vai se foder."
 
 # game/scripts/kali_events.rpy:14839
 translate pt_br kalihasspeakers_9cbd0123:
 
     # "Kali takes her shirt off and throws it to the side..."
-    ""
+    "Kali tira o moletom e joga para o lado..."
 
 # game/scripts/kali_events.rpy:14842
 translate pt_br kalihasspeakers_82091822_2:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/scripts/kali_events.rpy:14845
 translate pt_br kalihasspeakers_968ceaad:
 
     # c "A bra?"
-    c ""
+    c "Um sutiã?"
 
 # game/scripts/kali_events.rpy:14846
 translate pt_br kalihasspeakers_8b9c985f:
 
     # k "Yes! A bra! Are you happy now!?"
-    k ""
+    k "Sim! Um sutiã! Feliz agora!?"
 
 # game/scripts/kali_events.rpy:14847
 translate pt_br kalihasspeakers_014d0311:
 
     # c "Very."
-    c ""
+    c "Muito."
 
 # game/scripts/kali_events.rpy:14848
 translate pt_br kalihasspeakers_b0bba41c:
 
     # k "Whatever... thanks for the hard drive, I guess..."
-    k ""
+    k "Tanto faz... obrigada pelo HD, eu acho..."
 
 # game/scripts/kali_events.rpy:14852
 translate pt_br kalihasspeakers_6fff6447:
 
     # k "Sweet! Thanks so much [name]!"
-    k ""
+    k "Legal! Muito obrigada, [name]!"
 
 translate pt_br strings:
 
     # game/scripts/kali_events.rpy:95
     old "Kali..."
-    new ""
+    new "Kali..."
 
     # game/scripts/kali_events.rpy:95
     old "Hopefully they ordered extra."
-    new ""
+    new "Espero que eles tenham pedido um extra."
 
     # game/scripts/kali_events.rpy:95
     old "You can't rob people."
-    new ""
+    new "Você não pode roubar das pessoas."
 
     # game/scripts/kali_events.rpy:132
     old "Don't break the law."
-    new ""
+    new "Não quebre a lei."
 
     # game/scripts/kali_events.rpy:132
     old "You'll be fun, I can tell."
-    new ""
+    new "Parece que vai ser divertido andar com você."
 
     # game/scripts/kali_events.rpy:132
     old "Did you grow up in a droid factory?"
-    new ""
+    new "Você cresceu em uma fábrica de androids?"
 
     # game/scripts/kali_events.rpy:147
     old "The city."
-    new ""
+    new "Na cidade."
 
     # game/scripts/kali_events.rpy:147
     old "The suburbs."
-    new ""
+    new "Nos subúrbios."
 
     # game/scripts/kali_events.rpy:147
     old "A farm."
-    new ""
+    new "Em uma fazenda."
 
     # game/scripts/kali_events.rpy:147
     old "The slums."
-    new ""
+    new "Nas favelas."
 
     # game/scripts/kali_events.rpy:412
     old "Follow their lead..."
@@ -45364,15 +45364,15 @@ translate pt_br strings:
 
     # game/scripts/kali_events.rpy:1306
     old "I like more than just your tits."
-    new ""
+    new "Eu gosto de mais outras coisas além dos seus peitos."
 
     # game/scripts/kali_events.rpy:1306
     old "Last time turned me on too."
-    new ""
+    new "Da última vez me excitou também."
 
     # game/scripts/kali_events.rpy:1306
     old "Can I touch?"
-    new ""
+    new "Posso tocar?"
 
     # game/scripts/kali_events.rpy:1868
     old "Follow her to the hotel."
@@ -45568,11 +45568,11 @@ translate pt_br strings:
 
     # game/scripts/kali_events.rpy:7330
     old "Follow Kali"
-    new ""
+    new "Seguir a Kali"
 
     # game/scripts/kali_events.rpy:7330
     old "Refuse"
-    new ""
+    new "Recusar"
 
     # game/scripts/kali_events.rpy:7417
     old "Small Pizza ($5)"
@@ -45644,19 +45644,19 @@ translate pt_br strings:
 
     # game/scripts/kali_events.rpy:8777
     old "Massage Thighs"
-    new ""
+    new "Massagear Coxas"
 
     # game/scripts/kali_events.rpy:8777
     old "Massage Hips"
-    new ""
+    new "Massagear quadris"
 
     # game/scripts/kali_events.rpy:8777
     old "Massage Breasts"
-    new ""
+    new "Massagear Peitos"
 
     # game/scripts/kali_events.rpy:8777
     old "Massage Back"
-    new ""
+    new "Massagear Costas"
 
     # game/scripts/kali_events.rpy:8938
     old "{color=#8C8C8C}Bunny Suit{/color}"
@@ -45668,95 +45668,95 @@ translate pt_br strings:
 
     # game/scripts/kali_events.rpy:9756
     old "We fuck like rabbits"
-    new ""
+    new "Agente fode como coelhos"
 
     # game/scripts/kali_events.rpy:9756
     old "Mind your business"
-    new ""
+    new "Cuida dos seus negócios"
 
     # game/scripts/kali_events.rpy:9929
     old "Yeah, I guess."
-    new ""
+    new "Sim, eu acho."
 
     # game/scripts/kali_events.rpy:9929
     old "I'm alright, how about you?"
-    new ""
+    new "Eu estou bem, e você?"
 
     # game/scripts/kali_events.rpy:9943
     old "Not really"
-    new ""
+    new "Na verdade não"
 
     # game/scripts/kali_events.rpy:9943
     old "Actually, I do"
-    new ""
+    new "Sim, eu entendo"
 
     # game/scripts/kali_events.rpy:9959
     old "Some day"
-    new ""
+    new "Algum dia"
 
     # game/scripts/kali_events.rpy:9959
     old "I prefer to be free"
-    new ""
+    new "Eu prefiro ser livre"
 
     # game/scripts/kali_events.rpy:9959
     old "If it's you..."
-    new ""
+    new "Se for com você..."
 
     # game/scripts/kali_events.rpy:9974
     old "A girl"
-    new ""
+    new "Uma garota"
 
     # game/scripts/kali_events.rpy:9974
     old "A boy"
-    new ""
+    new "Um garoto"
 
     # game/scripts/kali_events.rpy:9974
     old "How about both?"
-    new ""
+    new "E que tal os dois?"
 
     # game/scripts/kali_events.rpy:9974
     old "I'd rather not have children."
-    new ""
+    new "Eu iria preferir não ter uma criança."
 
     # game/scripts/kali_events.rpy:10086
     old "I love you too"
-    new ""
+    new "Eu também te amo"
 
     # game/scripts/kali_events.rpy:10404
     old "She lives at my hotel."
-    new ""
+    new "Ela mora no meu hotel."
 
     # game/scripts/kali_events.rpy:10404
     old "At a strip club."
-    new ""
+    new "Em um clube de strip."
 
     # game/scripts/kali_events.rpy:10418
     old "She's a good friend."
-    new ""
+    new "Ela é uma boa amiga."
 
     # game/scripts/kali_events.rpy:10418
     old "She's my girlfriend."
-    new ""
+    new "Ela é a minha namorada."
 
     # game/scripts/kali_events.rpy:10447
     old "Very obviously..."
-    new ""
+    new "Pra mim é bem óbvio..."
 
     # game/scripts/kali_events.rpy:10447
     old "I didn't realize."
-    new ""
+    new "Eu nem notei."
 
     # game/scripts/kali_events.rpy:10535
     old "Fuck her. (Begin Lucy's story)"
-    new ""
+    new "Foder ela. (Começar a história da Lucy)"
 
     # game/scripts/kali_events.rpy:10535
     old "I {b}REALLY{/b} need to pee. (End Lucy's story)"
-    new ""
+    new "Eu {b}REALMENTE{/b} preciso ir no banheiro. (Terminar a história da Lucy)"
 
     # game/scripts/kali_events.rpy:10815
     old "That sounds like fun"
-    new ""
+    new "Parece ser divertido"
 
     # game/scripts/kali_events.rpy:11052
     old "Let's relax."
@@ -45828,89 +45828,89 @@ translate pt_br strings:
 
     # game/scripts/kali_events.rpy:12511
     old "Maybe I could help you find a job?"
-    new ""
+    new "Talvez eu possa te ajudar em achar um emprego?"
 
     # game/scripts/kali_events.rpy:12511
     old "You could work here. We need a cook."
-    new ""
+    new "Você poderia trabalhar aqui, nós estamos precisando de cozinheiras."
 
     # game/scripts/kali_events.rpy:12511
     old "I'll give you some money if you show me your tits."
-    new ""
+    new "Eu vou dar uns trocados se você me mostrar seus peitos."
 
     # game/scripts/kali_events.rpy:12613
     old "It's not what I was expecting."
-    new ""
+    new "Não é como eu esperava."
 
     # game/scripts/kali_events.rpy:12613
     old "I'm going to turn it into something amazing."
-    new ""
+    new "Eu irei transformar em algo incrível."
 
     # game/scripts/kali_events.rpy:13110
     old "{color=#8C8C8C}> Bunny Suit <{/color}"
-    new ""
+    new "{color=#8C8C8C}> Roupa de Coelho <{/color}"
 
     # game/scripts/kali_events.rpy:13110
     old "{color=#8C8C8C}> College Uniform <{/color}"
-    new ""
+    new "{color=#8C8C8C}> Uniforme de Colegial <{/color}"
 
     # game/scripts/kali_events.rpy:13110
     old "{color=#8C8C8C}College Uniform{/color}"
-    new ""
+    new "{color=#8C8C8C}Uniforme de Colegial{/color}"
 
     # game/scripts/kali_events.rpy:13110
     old "College Uniform"
-    new ""
+    new "Uniforme de Colegial"
 
     # game/scripts/kali_events.rpy:13110
     old "{color=#8C8C8C}> Casual Clothes <{/color}"
-    new ""
+    new "{color=#8C8C8C}> Roupa Casual <{/color}"
 
     # game/scripts/kali_events.rpy:13492
     old "Thighjob"
-    new ""
+    new "Sumata"
 
     # game/scripts/kali_events.rpy:13625
     old "Maid Outfit"
-    new ""
+    new "Uniforme de empregada"
 
     # game/scripts/kali_events.rpy:14359
     old "Open it"
-    new ""
+    new "Abrir"
 
     # game/scripts/kali_events.rpy:14359
     old "Bring it to Kali"
-    new ""
+    new "Levar para a Kali"
 
     # game/scripts/kali_events.rpy:14465
     old "That's amazing!"
-    new ""
+    new "Isso é incrível!"
 
     # game/scripts/kali_events.rpy:14465
     old "At least you get a discount on pizza."
-    new ""
+    new "Pelo menos você tem desconto nas pizzas."
 
     # game/scripts/kali_events.rpy:14613
     old "Inside"
-    new ""
+    new "Dentro"
 
     # game/scripts/kali_events.rpy:14613
     old "Outside"
-    new ""
+    new "Fora"
 
     # game/scripts/kali_events.rpy:14692
     old "Undo her bra"
-    new ""
+    new "Tirar o sutiã"
 
     # game/scripts/kali_events.rpy:14692
     old "Compliment her"
-    new ""
+    new "Elogia-lá"
 
     # game/scripts/kali_events.rpy:14816
     old "You owe me a favor first"
-    new ""
+    new "Antes, você me deve um favor"
 
     # game/scripts/kali_events.rpy:14816
     old "Here it is"
-    new ""
+    new "Aqui está"
 
